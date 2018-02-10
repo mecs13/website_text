@@ -1,0 +1,9 @@
+*** proposals:
+ - GAE
+ - Facematch
+ - Wall Street Rocks
+ - Rolls Royce
+ - BGB
+ - Unilever
+ - BGRS exec sum
+ - Dwellworks

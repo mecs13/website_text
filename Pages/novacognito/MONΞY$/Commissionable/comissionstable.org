@@ -1,0 +1,37 @@
+* Commissions Table:
+ bp
+
+Monetary investment:'
+
+R% Revenue from project
+
+N% to Nova
+H% to hardcost
+S% to Studio
+F% to Freelancers
+A% to advertising
+
+
+NP (Net Profit) in US Dollars
+NP / 2 = NB (Nova Bank)
+NP / 2 = TC ( total commissions)
+C / E = IC (individual commision)
+
+E = Earners. THe sum total of individuals who are qualified to earn commissions on a project  Qualified by participating in proposal build, recieivng assignments and carrying them out timely.
+
+
+
+Exampls:
+
+R = $200,000
+N = 20
+H = 25
+S = 70
+F = 10
+A = 0
+
+NP = 40,000 
+NB = 20,000
+E = 5
+TC = 20,000
+IC = 4,000

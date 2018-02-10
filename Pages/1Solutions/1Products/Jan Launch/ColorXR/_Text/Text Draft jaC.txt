@@ -1,0 +1,23 @@
+XR color 2P
+
+XR Color is the means through which artists and developers chose color in VR
+
+For more than 100 years we've known that color can be divided by hue, lightness, and saturation. With the understanding of these parameters we've created a Virtual Experience that presents the user with an object that is the most complete representation of the color spectrum.
+
+This program and its benefits can be divided into three categories:
+
+1) Choosing color: 
+Inside XR color, there are three dimensions upon which the user can move. Vertical movement, for instance, changes the lightness, the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. And altering depth through the center plane changes saturation. There are certain practices that recur when human beings design with color. For instance, we will often need to experience complimentary colors. In XR color, complimentaries are available at the reciprocal distance and angle from center. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will be within reach instantly and in response to the user’s visual focus. 
+
+Benefit: 
+-A tool for designers, artists, teachers, schools, architects. 
+
+
+2) Understanding color: 
+Color is embedded in every visual we perceive. Sadly, most people don't understand even the basics of why or how our eyes perceive color and the variations of each color that are in front of us. By presenting these things inside a 3D sphere, the average user will become more engaged and aware of color (Dale's cone of learning). When they step out of the VR world and back into the physical, they will experience an increased level of awareness of the most constant element of their visual perception - color.
+
+Benefit: More designers and developers will have a deeper understanding of color, creating richer and more color coordinated content for all users to experience. Eventually, this will lead to the ability to create a Virtual World that more closely resembles the color and texture of the natural world.
+
+3) Pleasure and wellness of being inside color (alleviating aspect of the mind being inside this color scheme (needs more research).
+
+-This means designers and developers will be up out of their chair, standing and moving around to select and experiment with color. The wellness and creative benefits of this energy exertion, etc.

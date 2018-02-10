@@ -1,0 +1,4 @@
+***** Dev intro
+A *game engine* is a software framework designed for the creation and development of interactive 3D media.   Games can be classified as having players, goals and rules.  We build XR in game engines.  
+
+Our developers use them to create Virtual reality and augmented reality games for consoles, mobile dvices and personal computers. 

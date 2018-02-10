@@ -1,0 +1,7 @@
+
+
+*** Interfaces
+**** XR_color:
+**** XR_torus:
+
+Inside XR color, there are three dimensions upon which the user can move. Vertical movement, for instance, changes the lightness - the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. And altering depth through the center plane changes saturation. In XR Color, complementary colors are available at the reciprocal distance and angle from center. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will be within reach instantly. A change in color can also respond to the user’s visual focus. 

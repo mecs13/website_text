@@ -1,0 +1,281 @@
+
+
+Moving music streaming into VR
+
+Pandora is example of monetizing moving music online
+
+A lot of companies tried to follow suit
+
+Music changed from CDs to streaming
+
+How will the change in music content delivery emerge in VR
+
+Being one of the first to release a product that puts music in its new best form
+
+Scott Eisenberg (joe direct report iHeart)
+-in charge of events
+-experience monetizing music in physical world
+-more interested in job security than innovation
+-kept same job for 10 years type of guy
+
+Scott will bring it to Andy
+- Andy chief revenue officer at Pandora
+- Linkedin
+
+Come up with a way in which music can be distributed in VR for monetary gain (test period probably needed with also the clear communication that they'll capture the market here).
+
+Moving ahead of Spotify, apple, etc.
+
+Pandora was first to market
+
+KK Music videos in VR
+
+JQ there is a market for music clips in VR
+
+JM It's about selling music in VR
+
+JQ: This is a Torus where you chose music easily. It activates a world that reacts to the music...vibration, color alteration. Torus proved easy way of selecting the artist in VR. It's also an opportunity to break into in-VR DJing. Maybe the music alters the landscape.
+
+JM: Interactive music exprience where you play the instrument in VR. Joe knows a music app where stems of music are available (can strip vocals, specific instrubments, etc). You could create your own experience.
+
+KK: Using infinite gallery for display of content
+
+JQ: The infinite gallery is linear and it's like a playlist or radio
+
+JQ: there is a radio online with a map of earth. YOu chose a place and go there in a time capsule anywhere from 19th-21st century. This in VR you could be connected to google earth and get a chance to listen and dance, etc while visiting the place in VR
+
+Steve: UI to go on top of a previous exprience. Play interface could be useful directly in steam VR or on menu botton. If you're in virtual desktop you could listen to music. 360 degree video in a park with the music overlay. You chose the music and you chose the environment. You could have a visualizer option where regular people could take popular music. VR/music hte way people blend music with imovie
+
+
+Exploratory: music discovery, interviews with artist. Music preference could indicate what VR experience you'll appreciate
+-going to moon to listen to music 
+
+JM 100-200K initial investment option and then introduce multi M option
+
+TB: Listen to music on the moon. They won't need a big VR presence at home for this. 
+
+TB: staring with basic moon listening allows us to biuld on their experience and their capabilities of the experience
+
+TB: Difficulty of monetizing this
+
+TB: plan is to start with a Music VR platform.
+
+TB: Fin strat comes through media coverage. Further down the line its' promotion, ads, pay-for
+
+SS: pay an extra dollar/month on top of you pandora subscription. Exclusivity rights for a particular publisher. For instance, new weeknd song in VR
+
+Breaking this into categories
+
+Mixing music: D-J style and building own playlists
+
+Listening to music: radio feature, linear playlists 
+
+Experiencial: blending a playlist with content you created and explore a different part of the world 
+
+Mood enhancer (the way music is used in movies).
+
+Wellness/Environment: Match landscape with style of music
+
+
+On the moon:
+- Future Development but start with this one beause it's a marketing play
+
+Distribution; 
+- PR coverage/press kit
+- Ads on VR websites (network buys on places where you know ppl have Vive)
+
+Fin Strat Research 
+- Finding previous companies that had VR coverage covered in press
+- For adding features: commercia-based, freemium, pay by the app
+- once we know the price of all of these we'll know how much they need to break even
+- Metric = how many ppl with headsets would use this app, highest performing/medium performing
+
+- push environment experiences to gear VR (free entry level to exp). Once that stabalizes, we charge for the experience on the Vive for $20. They get 6-months free of Pandora with purchase.
+-VR discos (silent disco-like)
+
+Steve part of focus group at 3317 in city. Push VR-disco sponsored by Pandora
+
+The wave: Different mediums of interactions...partnership opportunities...executives trying to promote their brand while pandora keeps up with them
+
+VR experiences with biking, hiking, climbing and pair with music.
+
+
+Music in VR on the moon.
+
+Music Discovery
+ -Fin benefit: more users and better deals from artists and labels (you're the access to the ppl so you have leverage by having attention of ppl
+ - traveling
+ - finding new artists
+ - artist interviews
+ Music Listening
+- environment adjustming
+- mood setter
+- visualizer
+Music Events
+- group dancing, exercizing (pop up in phone to let you know what's happening in your geo
+- Attending a live music event
+  a. going to event venue
+  b. at their home studio
+  c. sound checks 
+Creation/Mixing
+- blending with own 360 content that you capture
+- take stems of music (strip a track from 5 instruments and boil down to 1)
+- pre-done garage band playlist could be pushed to VR with equalizer settings auto adapted. can be done retroactively with old playlists and compilation of music
+- professional DJ mixing in VR: simulate acoustics of place where DJ is going to perform (must have noise canceling)
+
+Full Prop due Saturday
+
+Regroup Wed, 15 min thurs, finalize Saturday
+
+Networked and roomscaled or world is existing around you
+
+visual occurances are in accordance with the rhythym of the music
+
+Do we hear music the same way when our mind has the feeling to be underwater
+
+Financial on PR kits...3 year projections
+Financial on live events
+Check with Eric on sound
+
+On the moon there is space ships and meteors that you could interact with
+
+Early adopter chart
+VR the future
+Who is the audience and their demo
+What are most pop apps why are ppl downloading them
+Stats on Wave VR experience (wave 2.5 mil in funding and then in second round the got 4 mil)
+
+
+
+
+** Objective:  
+Innovate music distribution in XR
+
+** Timing: 
+2018 (before spotify/iHeart/iTunes)
+
+** Desicion Maker:   
+Scott Eisenberg (https://www.linkedin.com/in/scotteisenberg1/) --> Cheif Revenue Officer (https://www.linkedin.com/in/andylipset/)
+
+-- Scott is my former report (2-3 years we worked together at iHeart).   He is a former teacher and a very strong mentor.  He is very relaxed in his management style, much more so that any of the other corperate officers.  He was probably the most loved at iHeart.   However, when push came to shove, he would side with corperate, protect his role and fall in line.  He would chose job security before seizing opportunity.   He is fatherly. 
+
+- Andy, IDK
+
+** Key Performance Indicators
+
+- increase sales, scale revenue, broaden user base
+
+** Notes
+
+How do we bring music streaming into VR?
+
+Let's assume they have all the relationships needed, what can they quickly, low risk, do to begin getting involved?  Over the next 12-24 months, how to the totally take over the VR Music space?  IE - slow start, prove concept, begin going all in, go all in.  
+
+
+
+
+
+
+
+Subscription base
+
+Music Visuals online 
+
+
+- Listen to Pandora on the Moon --> "Out of this world"  --> jungle/ocean.   
+    + Easy entry
+    + Foundation
+
+- How do you monetize 
+    + promotional value?
+    + Ad on the mooon (space ships fly by with advert of model)  
+    + Fremium (exlcusive access) 
+
+Market Research
+  - - VR is clearly the future
+  - - Audience
+  - - Early adoptors
+  - - most popular apps get X downloads.  Medium performance apps.   
+  - - The amount of earned media potential 
+
+Production Timeline
+  - - 
+
+
+Distribution
+
+  - - Press / PR (free coverage)
+  - - ads on VR websites. 
+  - - Steam ads
+  - -  
+
+Financial Strategy
+
+
+
+
+
+Graphics
+
+  - -  person on moon listening, relaxing, and PandoraVR logo (3D Logo)
+
+
+Push to Gear VR -  and then get the paid experence, it includes 6 months of pandora premium.   People who just want to try it out, try it for cheap accessible and it is easy to produuce in demo form.  Then the real launch is when VIVEPORT comes out wiht the additional features and everyone who tried it will want to purchase the actual experience. 
+
+A lot of people are already on Pandora.   
+
+executives and producers using ghe app.   and pandora keeping up with it  
+
+
+
+Give it to Indie poeple and thats where the hype will build.   Experiences in public places.  Let people try it a variety of places. in action, in vr and then people will talk about it.  
+
+
+
+
+
+*** Mix music 
+
+
+*** Torus 
+**** chose and navigate music 
+**** Mixer (stems, + Live perdormance)
+
+*** Infinite Gallery - linear flow
+**** playlist,
+**** Museum (rock and roll hall of fame)
+**** Journey through history and time.   Whats popoular where.
+
+
+*** Exploratory (music discovery)
+- audio immersiion through google earth.
+
+*** Music Discovery
+
+-- travel the world/time
+-- Interview lounge with the artists
+-- up and coming artists
+
+***  Listening
+
+-- Mood music
+-- Live music (events, large and small) 
+
+*** Virtual desktop, play music in the background.   Faded behind.  It is behind you.   Audio navigate to 
+
+(choose the music and the location)   
+(music visualizer option)
+
+
+
+
+Features:
+- AI
+- Social sharing
+- 
+
+
+
+
+
+

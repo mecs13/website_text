@@ -1,0 +1,17 @@
+
+*** Photo_Shoot:
+
+Come to nova for a photo shoot
+
+[photos]
+
+=== book here
+
+any quesrions?
+[text box]
+
+Cost $400 per hour or 5x hours for $1,000
+
+Need equipment?  We can provide
+
+[text box  type here everything you need, separated by ";"s]

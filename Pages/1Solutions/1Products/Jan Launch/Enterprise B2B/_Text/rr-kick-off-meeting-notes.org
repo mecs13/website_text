@@ -1,0 +1,89 @@
+#+Title: RR kickoff meeting notes
+#+Author: Thomas Binetruy
+#+Date: September, 05 2017
+
+* Context
+
+** Client
+
+*** Rolls Royce
+Rolls Royce has been making cutting edge jet engines for the military and civil aviation industries for decades.
+
+*** Jack Eliker, RR engineer
+LinkedIn: https://www.linkedin.com/in/jackeliker
+Product design engineer
+De facto head of the virtual reality department
+
+
+** Goal and KPIs
+
+*** Increase in engine sales to airlines
+According to Jack, but he's not in mktg
+
+
+** Timing
+2018 (out of 2018 budget).
+
+
+** Budget
+Estimating 400k  (what we think Jack will pass on to mktg)
+
+
+
+* Solution
+
+Business representatives at airlines visit the RR factory. We suggest showing them a VR interactive application generating good vibes towards RR historical achievements.
+
+** Possible app content
+
+*** RR history and achievements
+About historical breakthroughs and cutting edge research RR does.
+goal: show buyer that RR has 100 years of cutting edge tech and are going to be the best for the next 20 years
+ideas: new/future engine tech, eco friendly initiaives
+
+*** Gamified educational content
+Tell the buyer that RR is developping a game for educational purposes in order to motivate high schoolers to study aero engr in college.
+Ideas: build your engine for various missions (high speed, endurance, etc0
+
+** Who is going to be the app user (the buyer profile) ?
+Probably an ex aero engineer now working the in the buying department at an airline. Meaning he's got a technical 
+background but has been out of the loop with regards to how this cutting edge aero tech.
+
+Therefore showing him simplified techical content on current RR research could resonate with him.
+
+** Hardware installation
+*** Ultrasound haptics
+User can feel the engine.
+
+*** Being back physical object from virtual world
+The user could use and object in the virtual world and bring it back home in the real world and talk about it with collegues, friends, and familly.
+
+** Data mining
+*** Eye and movement tracking
+Gather data on what the user interacted with to build a better experience over time.
+
+** Business journey
+Airline representative is invited to see RR factory. RR takes them around and shows them engines. 
+During the visit (possibly at the end), ask them if they want to try a VR experiences.
+The goal of this VR experience is so that the client bounds to what makes RR engineering the best.
+
+* Project timeline
+
+Subject to change
+
+** Month 0 
+Kick off project by show RR possible content to build.
+
+** Month 1
+Figure out the application content
+
+** Month 2
+Design spec
+
+** Months 3-10
+Create application
+Test
+Deploy
+
+** Months 10-12
+Improve application and redeploy.

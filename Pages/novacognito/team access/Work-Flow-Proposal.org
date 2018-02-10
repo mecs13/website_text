@@ -1,0 +1,166 @@
+
+* Work Flow:
+
+** Assignemnt!   
+This is a qualified client whos needs have been assesed.  We can begin to make a proposal.  KICKOFF!  
+
+- Create a github folder (SD)
+- Create Slack Channel (SD)
+- Create Strat ORG (SD)
+
+Announced over slack with the creation of a new client proposal channel.   In there will include Objective, timing, budget, key performance indicators and any additional expectations.  Must be within 24 hours of the announement. Members who attend the kickoff qualify to earn on the commission.  To earn, as in receive a portion of the commissions distriputed, one must qualify.
+
+** Team and Responsiblities
+*** Documents + Merges
++ Cheif marketing Offier Owns Proposal and Gant (GH)
++ Art Director  owns visuals (GH)
++ Tech Director owns code 
++ Cheif Financial Officer owns financial strat doc (GH) (merges)
++ SD Owns Strat (GH) (merges)
++ CXO owns demo (GH)
+*** Qualifications to be paid:
+-- Kickoff particiation and assignments
+-- commits promptly.  
+
+/responsibilities listed here, by participating you agree you understand and are committed to the SD's deadline/
+
+** Day 1 - Kick Off   
+(ALL) Pages to draft for proposal
+***** Intro  
+(Sales Director):  Short and sweet stating documents purpose
+
+***** Executive Summary 
+(Sales Director): A persuasive overview of the complete project
+***** Production Conecpt 
+(CXR): A simple explanation of product plan
+***** Tech Architecture concept 
+(Tech Director): A simple explanation of the tech architecture
+***** Market to Research (CMO): 
+      An overview of the market, favoring our plan
+      
+
+Questions to answer in Strat
+**** Sales Director
+***** Which pages will we include?
+Possible Pages - - - - - - Party Responsible
+
+Introduction - - - - - - - SD
+Executive Summary -  - - - SD
+Strategy - - - - - - - - - SD
+Phase 1 - - - - - - - - -  SD
+Phase 2 - - - - - - - - -  SD
+Phase 3- - - - - - - - - - SD
+User Story - - - - - - - - CXO
+Production - - - - - - - - CXO
+Tech Architecture - - - - -TD
+Modern Applications - - - -CMO
+Market Research- - - - - - CMO
+Indudstry Growth - - - - - CMO
+Financial Strat - - - - -  CFO
+Return on Investment - - - CEO
+Gant Chart - - - - - - - - CMO
+Graphic Designs - - - - -  CDO
+Execution - - - - - - - -  CMO
+Evolution of Dev - - - - - CXO
+Summary and Net Inv - - -  SD
+Deliverables - - - - - - - CMO
+
+***** What is the consumer experience?
+***** Who might we partner with?
+***** How much money do i need
+***** How do we pitch this?
+**** (Art Director) 
+***** What do we illustrate?
+***** How much money is needed for design/art?
+***** Who might i hire for the project?
+**** (CFO) 
+***** Basic Finacial strat idea (numbers needed)
+***** How do we break even?
+***** How much money do i need?
+**** CMO 
+***** Who are we marketing this to?
+***** ^^ why?
+***** How will they access this?
+***** How much money is needed?
+
+** Day 2 - Research and Reports due   
+**** Sales Director
+-- Report client communication
+-- Adapt prop pages  
+-- Adapt outline pitch in strat
+-- Proof read
+**** Tech Director
+-- Research summary on tech needed [~300 words] 
+-- Tech deliverables listed 
+**** Cheif Financial Officer
+-- What risks exist?  
+-- Financial Strategy drafted
+**** Art Director
+-- sketch, or modification idea for proposal graphics/renders
+-- in design file with client info and estimated layout. 
+**** Cheif XR
+-- written user story 
+-- Explains the production pipeline
+**** Cheif Marketing Officer
+-- Research summary on market conditions (be optimistic)
+-- Media deliverables listed 
+
+** Day 3 - Finishing Touches
+**** Sales Director:
+-- Proof Prop for client objective and parameters
+-- Confirm budget
+**** Cheif Marketing Officer
+-- Proof read 
+-- submit gant
+**** Cheif Financial Officer
+-- Financial Strategy submitted
+**** Tech Director
+-- tech architecture finalized 
+**** Cheif XR Officer
+-- Production page(s) content finalized 
+**** Art Director
+-- deliver visuals 
+
+** Day 4 - Proof Read
+- proof read (all)
+- legal aded (CEO)
+- Financial strategy (CFO)
+
+** Day 5 - Finalize
+**** Cheif Marketing
+-- proof read 
+**** Sales Director
+- proof read  
+- Pitch
+**** Cheif Design
+print (if necesarry)
+**** Tech Director
+-- uplaod to website
+
+** Deliverables:
+- Proposal
+- Legal Agreement
+- Financial Strat
+- Mini proposal
+- Short prop + signature
+- Render
+- Demo (500k+ and requested)
+
+
+
+
+
+- *Proposal Building Participation*
+  - *Proposal Building Participation*
+ + Represent Client and their vision
+ + Define: objective, timeline, decision making process, budget and parameters
+ + Approve strategy and communicate vision to team
+ + Clarify requirements, define acceptable material 
+ + Help create program and budget
+ + Prioritize backlog 
+ + Create and release planning schedule
+ + Sell
+ + Client communication
+ + Present to client
+ + Reflect and share summary 
+ 

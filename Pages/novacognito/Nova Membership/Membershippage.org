@@ -1,0 +1,13 @@
+*** Nova_Membership:
+
+Access to Exclusives
+
+  - LabLive Video Outtakes
+  - XR Financial and Marketing Strategies 
+
+
+-- pay
+-- log info into database
+-- send email receipt and password for access
+ 
+

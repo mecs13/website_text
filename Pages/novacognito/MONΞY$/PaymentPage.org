@@ -1,0 +1,22 @@
+** :Payment:
+
+*** Paypal
+http://www.paypal.me/NovaXR/~Nova_Pay
+
+*** Ethereum
+0x3C5ca86C6f0AB006120D1819279550EFD72B81B6
+
+*** Credit Card
+/The below are text box submissions, please/ 
+
+Billing Information
+First name
+Last name Adresse
+City
+Country
+State / Province ZIP / Postal Code E-mail
+Credit Card Information
+Type of Card
+Card Number Name on the Card ZIP / Postal Code
+
+*** Bank Information
