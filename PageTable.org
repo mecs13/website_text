@@ -4,127 +4,130 @@
 3 menu 3 or blogstyle highest titles
 4 blogstyle highest or second title 
 
-| title | page title            | How to access | Design | Text | SEO Titles | Short URL Link        | keywords (primary) | additional files | in-bound links | meta tags | tech debted |   |   |   |
-|     0 | Home                  | Home          | Yes    | Yes  | Yes [[]]   |                       |                    |                  |                |           |             |   |   |   |
-|     1 | Solutions             | H-S           | Yes    |      | [[]]       | /solutions            |                    |                  |                |           |             |   |   |   |
-|     2 | Products              | H-S-P         | Yes    |      | [[]]       | /products             |                    |                  |                |           |             |   |   |   |
-|     3 | Architecture          | H-S-P         | Yes    | Yes  | [[]]       | /architecture         |                    |                  |                |           |             |   |   |   |
-|     3 | Music Exp             | H-S-P         | No     | Yes  | [[]]       | /music                |                    |                  |                |           |             |   |   |   |
-|     3 | Torus                 | H-S-P         | Yes    | Yes  | [[]]       | /torus                |                    |                  |                |           |             |   |   |   |
-|     3 | XR Color              | H-S-P         | yes    | yes  | [[]]       | /color                |                    |                  |                |           |             |   |   |   |
-|     3 | Infinite Gal          | h-S-p         | yes    | yes  | [[]]       | /infinite             |                    |                  |                |           |             |   |   |   |
-|     3 | Bloomaway             | h-s-p         | yes    | yes  | [[]]       | /bloomaway            |                    |                  |                |           |             |   |   |   |
-|     3 | NYE                   | h-s-p         | yes    | yes  | [[]]       | /nye                  |                    |                  |                |           |             |   |   |   |
-|     3 | AnonCo                |               |        |      | [[]]       | /anonco               |                    |                  |                |           |             |   |   |   |
-|     3 | coaches               |               |        |      | [[]]       | /coaches              |                    |                  |                |           |             |   |   |   |
-|     3 | enterprise b2b        |               |        |      | [[]]       | /b2b                  |                    |                  |                |           |             |   |   |   |
-|     3 | festival              |               |        |      | [[]]       | /festival             |                    |                  |                |           |             |   |   |   |
-|     3 | Fifa                  |               |        |      | [[]]       | /Fifa                 |                    |                  |                |           |             |   |   |   |
-|     3 | Foodman               |               |        |      | [[]]       | /Food                 |                    |                  |                |           |             |   |   |   |
-|     3 | in vr                 |               |        |      | [[]]       | /In-VR                |                    |                  |                |           |             |   |   |   |
-|     3 | health care           |               |        |      | [[]]       | /health               |                    |                  |                |           |             |   |   |   |
-|     3 | token sale            |               |        |      | [[]]       | /token                |                    |                  |                |           |             |   |   |   |
-|     3 | encylopedia           |               |        |      | [[]]       | /encyclopedia         |                    |                  |                |           |             |   |   |   |
-|     3 | sports                |               |        |      | [[]]       | /sports               |                    |                  |                |           |             |   |   |   |
-|     3 | liveforever           |               |        |      | [[]]       | /liveforever          |                    |                  |                |           |             |   |   |   |
-|     3 | XR-first websites     |               |        |      | [[]]       | /xrfirst              |                    |                  |                |           |             |   |   |   |
-|     1 | Services              | h-s-s         |        |      | [[]]       | /services             |                    |                  |                |           |             |   |   |   |
-|     2 | Consultation          | h-s-s-c       |        |      | [[]]       | /consultation         |                    |                  |                |           |             |   |   |   |
-|     3 | Consult Serv          | h-s-s-c-cs    |        | yes  | [[]]       | /consultativeservices |                    |                  |                |           |             |   |   |   |
-|     3 | Industry Sol          | h-s-s-c-is    |        | yes  | [[]]       | /industrysolutions    |                    |                  |                |           |             |   |   |   |
-|     3 | Increase Prof         | h-s-s-c-ip    |        | yes  | [[]]       | /increaseproof        |                    |                  |                |           |             |   |   |   |
-|     3 | Source Dev            | h-s-s-c-sd    |        | yes  | [[]]       | /sourcedevelopment    |                    |                  |                |           |             |   |   |   |
-|     3 | VR Instal             | h-s-s-c-VRI   |        | yes  | [[]]       | /vrinstallation       |                    |                  |                |           |             |   |   |   |
-|     3 | Training              | h-s-s-c-t     |        | yes  | [[]]       | /training             |                    |                  |                |           |             |   |   |   |
-|     3 | Learning              | h-s-s-c-l     |        | yes  | [[]]       | /learning             |                    |                  |                |           |             |   |   |   |
-|     2 | production            | h-s-s-p       |        |      | [[]]       | /production           |                    |                  |                |           |             |   |   |   |
-|     3 | Design                | h-s-s-p-d     |        | yes  | [[]]       | /design               |                    |                  |                |           |             |   |   |   |
-|     4 | sketching             |               |        |      | [[]]       | /sketch               |                    |                  |                |           |             |   |   |   |
-|     4 | scripting             |               |        |      | [[]]       | /script               |                    |                  |                |           |             |   |   |   |
-|     4 | storyboarding         |               |        |      | [[]]       | /storybopard          |                    |                  |                |           |             |   |   |   |
-|     3 | Develop               | h-s-s-p-d     |        | yes  | [[]]       | /develop              |                    |                  |                |           |             |   |   |   |
-|     4 | game engine           |               |        |      | [[]]       | /gameengine           |                    |                  |                |           |             |   |   |   |
-|     4 | 3d audio              |               |        |      | [[]]       | /3da                  |                    |                  |                |           |             |   |   |   |
-|     4 | 3d modeling           |               |        |      | [[]]       | /3dm                  |                    |                  |                |           |             |   |   |   |
-|     4 | 360 video             |               |        |      | [[]]       | /360                  |                    |                  |                |           |             |   |   |   |
-|     4 | ai                    |               |        |      | [[]]       | /ai                   |                    |                  |                |           |             |   |   |   |
-|     4 | animation             |               |        |      | [[]]       | /animation            |                    |                  |                |           |             |   |   |   |
-|     4 | biometrics            |               |        |      | [[]]       | /biometrics           |                    |                  |                |           |             |   |   |   |
-|     4 | blockchain            |               |        |      | [[]]       | /blockchain           |                    |                  |                |           |             |   |   |   |
-|     4 | cloud computing       |               |        |      | [[]]       | /cloud                |                    |                  |                |           |             |   |   |   |
-|     4 | cryptocurrency        |               |        |      | [[]]       | /crypto               |                    |                  |                |           |             |   |   |   |
-|     4 | emotion recognition   |               |        |      | [[]]       | /emotionrec           |                    |                  |                |           |             |   |   |   |
-|     4 | finite state machines |               |        |      | [[]]       | /fsm                  |                    |                  |                |           |             |   |   |   |
-|     4 | iot                   |               |        |      | [[]]       | /iot                  |                    |                  |                |           |             |   |   |   |
-|     4 | motion capture        |               |        |      | [[]]       | /mocap                |                    |                  |                |           |             |   |   |   |
-|     4 | networking            |               |        |      | [[]]       | /networking           |                    |                  |                |           |             |   |   |   |
-|     4 | photogrammetry        |               |        |      | [[]]       | /photogram            |                    |                  |                |           |             |   |   |   |
-|     4 | physics engine        |               |        | 3    | [[]]       | /physicsengine        |                    |                  |                |           |             |   |   |   |
-|     4 | positional tracking   |               |        |      | [[]]       | /postra               |                    |                  |                |           |             |   |   |   |
-|     4 | python, C++. C#       |               |        |      | [[]]       | /code                 |                    |                  |                |           |             |   |   |   |
-|     4 | volumtric display     |               |        |      | [[]]       | /volumetric           |                    |                  |                |           |             |   |   |   |
-|     3 | Test                  | h-s-s-p-t     |        | yes  | [[]]       | /test                 |                    |                  |                |           |             |   |   |   |
-|     4 | beta                  |               |        | 3    | [[]]       | /beta                 |                    |                  |                |           |             |   |   |   |
-|     4 | professional          |               |        |      | [[]]       | /professional         |                    |                  |                |           |             |   |   |   |
-|     4 | alpha                 |               |        |      | [[]]       | /alpha                |                    |                  |                |           |             |   |   |   |
-|     3 | publishing            | h-s-s-p       |        | yes  | [[]]       | /publishing           |                    |                  |                |           |             |   |   |   |
-|     4 | distribution          | h-s-s-p-d     |        | yes  | [[]]       | /distribution         |                    |                  |                |           |             |   |   |   |
-|     4 | promotion             |               |        |      | [[]]       | /promotion            |                    |                  |                |           |             |   |   |   |
-|     4 | Activation            | h-s-s-p-a     |        | yes  | [[]]       | /activation           |                    |                  |                |           |             |   |   |   |
-|     4 | data review           | h-s-s-p-dr    |        | yes  | [[]]       | /datareview           |                    |                  |                |           |             |   |   |   |
-|     2 | Publication           | h-s-s-p       |        | yes  | [[]]       | /publications         |                    |                  |                |           |             |   |   |   |
-|     3 | Financial strats      |               |        |      | [[]]       | /findtrat             |                    |                  |                |           |             |   |   |   |
-|     4 | world build           |               |        |      | [[]]       | /world build          |                    |                  |                |           |             |   |   |   |
-|     4 | city dev              |               |        |      | [[]]       | citydev               |                    |                  |                |           |             |   |   |   |
-|     4 | professional services |               |        |      | [[]]       | /professionalserv     |                    |                  |                |           |             |   |   |   |
-|     4 | world brokering       |               |        |      | [[]]       | /worldbroker          |                    |                  |                |           |             |   |   |   |
-|     4 | ad-traffic analysis   |               |        |      | [[]]       | /ad-traffic           |                    |                  |                |           |             |   |   |   |
-|     4 | live event            |               |        |      | [[]]       | /live-event           |                    |                  |                |           |             |   |   |   |
-|     4 | music stream          |               |        |      | [[]]       | /music-stream         |                    |                  |                |           |             |   |   |   |
-|     4 | content display       |               |        |      | [[]]       | /content-display      |                    |                  |                |           |             |   |   |   |
-|     4 | training              |               |        |      | [[]]       | /training             |                    |                  |                |           |             |   |   |   |
-|     3 | market research       |               |        |      | [[]]       | /market-research      |                    |                  |                |           |             |   |   |   |
-|     4 | world build           |               |        |      | [[]]       | /world build          |                    |                  |                |           |             |   |   |   |
-|     4 | city dev              |               |        |      | [[]]       | citydev               |                    |                  |                |           |             |   |   |   |
-|     4 | professional services |               |        |      | [[]]       | /professionalserv     |                    |                  |                |           |             |   |   |   |
-|     4 | world brokering       |               |        |      | [[]]       | /worldbroker          |                    |                  |                |           |             |   |   |   |
-|     4 | ad-traffic analysis   |               |        |      | [[]]       | /ad-traffic           |                    |                  |                |           |             |   |   |   |
-|     4 | live event            |               |        |      | [[]]       | /live-event           |                    |                  |                |           |             |   |   |   |
-|     4 | music stream          |               |        |      | [[]]       | /music-stream         |                    |                  |                |           |             |   |   |   |
-|     4 | content display       |               |        |      | [[]]       | /content-display      |                    |                  |                |           |             |   |   |   |
-|     4 | training              |               |        |      | [[]]       | /training             |                    |                  |                |           |             |   |   |   |
-|     3 | market research       |               |        |      | [[]]       | /market-resear        |                    |                  |                |           |             |   |   |   |
-|     3 | interfaces            |               |        |      | [[]]       | /interfaces           |                    |                  |                |           |             |   |   |   |
-|     4 | color                 |               |        |      | [[]]       | /icolor               |                    |                  |                |           |             |   |   |   |
-|     4 | torus                 |               |        |      | [[]]       | /itorus               |                    |                  |                |           |             |   |   |   |
-|     4 | infinite              |               |        |      | [[]]       | /iiinfinite           |                    |                  |                |           |             |   |   |   |
-|     4 | bloomaway             |               |        |      | [[]]       | /ibloomaway           |                    |                  |                |           |             |   |   |   |
-|     1 | Partnershiop          | h-p           |        |      | [[]]       | /partnerships         |                    |                  |                |           |             |   |   |   |
-|     2 | Portal                | h-p-p         |        |      | [[]]       | /portal               |                    |                  |                |           |             |   |   |   |
-|     3 | buildxr               |               |        |      | [[]]       | /buildxr              |                    |                  |                |           |             |   |   |   |
-|     3 | Studios               | h-p-s         |        |      | [[]]       | /studios              |                    |                  |                |           |             |   |   |   |
-|     2 | Productions           | h-p-p         |        |      | [[]]       | /productions          |                    |                  |                |           |             |   |   |   |
-|     3 | Past Prod             | h-p-p-p       |        | yes  | [[]]       | /pproductions         |                    |                  |                |           |             |   |   |   |
-|     3 | Current prod          | h-p-p-cp      |        |      | [[]]       | /cproductions         |                    |                  |                |           |             |   |   |   |
-|     3 | Future prod           | h-p-p-fp      |        |      | [[]]       | /productions          |                    |                  |                |           |             |   |   |   |
-|     1 | Nova XR               | h-nxr         |        |      | [[]]       | /novaxr               |                    |                  |                |           |             |   |   |   |
-|     2 | Who We Are            | h-nxr-au      |        |      | [[]]       | /whoweare             |                    |                  |                |           |             |   |   |   |
-|     3 | Philosophy            |               |        |      | [[]]       | /philosophy           |                    |                  |                |           |             |   |   |   |
-|     3 | Community             | h-nxr-c       |        |      | [[]]       | /community            |                    |                  |                |           |             |   |   |   |
-|     3 | Philanthropy          |               |        |      | [[]]       | /philanthropy         |                    |                  |                |           |             |   |   |   |
-|     3 | careers               |               |        |      | [[]]       | /careers              |                    |                  |                |           |             |   |   |   |
-|     2 | Find Us               | h-nxr-fu      |        |      | [[]]       | /findus               |                    |                  |                |           |             |   |   |   |
-|     0 | NOVACOGNITIO          |               |        |      | [[]]       | /novacognito          |                    |                  |                |           |             |   |   |   |
-|     1 | BLog                  |               |        |      | [[]]       | /blog                 |                    |                  |                |           |             |   |   |   |
-|     1 | Rent room             |               |        |      | [[]]       | /rentroom             |                    |                  |                |           |             |   |   |   |
-|     1 | Rent space            |               |        |      | [[]]       | /rentspace            |                    |                  |                |           |             |   |   |   |
-|     1 | Photoshoot            |               |        |      | [[]]       | /photoshoot           |                    |                  |                |           |             |   |   |   |
-|     1 | Creative Specs        |               |        |      | [[]]       | /creativespecs        |                    |                  |                |           |             |   |   |   |
-|     1 | Learning              |               |        |      | [[]]       | /learning             |                    |                  |                |           |             |   |   |   |
-|     1 | Money                 |               |        |      | [[]]       | /money                |                    |                  |                |           |             |   |   |   |
-|     1 | Nova Membership       |               |        |      | [[]]       | /novamembership       |                    |                  |                |           |             |   |   |   |
-|     1 | Team Access           |               |        |      | [[]]       | /teamaccess           |                    |                  |                |           |             |   |   |   |
-|       |                       |               |        |      |            |                       |                    |                  |                |           |             |   |   |   |
+| title | page title            | How to access | Design | Text | SEO Titles | Short URL Link     | keywords | + files | in-bound links | meta tags | tech debted | pp? |   |   |
+|     0 | Home                  | Home          | Yes    | Yes  | Yes [[]]   |                    |          |         |                |           |             |     |   |   |
+|     3 | Torus                 | S-P           | Yes    | Yes  | [[]]       | /torus             |          |         |                |           |             |     |   |   |
+|     3 | XR Color              | S-P           | yes    | yes  | [[]]       | /color             |          |         |                |           |             |     |   |   |
+|     3 | Infinite Gal          | S-p           | yes    | yes  | [[]]       | /infinite          |          |         |                |           |             |     |   |   |
+|     3 | Bloomaway             | s-p           | yes    | yes  | [[]]       | /bloomaway         |          |         |                |           |             |     |   |   |
+|     3 | NYE                   | s-p           | yes    | yes  | [[]]       | /nye               |          |         |                |           |             |     |   |   |
+|     3 | AnonCo                | s-p           |        |      | [[]]       | /anonco            |          |         |                |           |             |     |   |   |
+|     3 | coaches               | s-p           |        |      | [[]]       | /coaches           |          |         |                |           |             |     |   |   |
+|     3 | enterprise b2b        | s-p           |        |      | [[]]       | /b2b               |          |         |                |           |             |     |   |   |
+|     3 | festival              | s-p           |        |      | [[]]       | /festival          |          |         |                |           |             |     |   |   |
+|     3 | Fifa                  | s-p           |        |      | [[]]       | /Fifa              |          |         |                |           |             |     |   |   |
+|     3 | Foodman               | s-p           |        |      | [[]]       | /Food              |          |         |                |           |             |     |   |   |
+|     3 | in vr                 | s-p           |        |      | [[]]       | /In-VR             |          |         |                |           |             |     |   |   |
+|     3 | health care           | s-p           |        |      | [[]]       | /health            |          |         |                |           |             |     |   |   |
+|     3 | token sale            | s-p           |        |      | [[]]       | /token             |          |         |                |           |             |     |   |   |
+|     3 | encylopedia           | s-p           |        |      | [[]]       | /encyclopedia      |          |         |                |           |             |     |   |   |
+|     3 | sports                | s-p           |        |      | [[]]       | /sports            |          |         |                |           |             |     |   |   |
+|     3 | liveforever           | s-p           |        |      | [[]]       | /liveforever       |          |         |                |           |             |     |   |   |
+|     3 | XR-4first websites    | s-p           |        |      | [[]]       | /xrfirst           |          |         |                |           |             |     |   |   |
+|     1 | Se4rvices             | s-s           |        |      | [[]]       | /services          |          |         |                |           |             |     |   |   |
+|     2 | C4onsultation         | s-s-c         |        |      | [[]]       | /consultation      |          |         |                |           |             |     |   |   |
+|     3 | C4onsult Serv         | s-s-c-cs      |        | yes  | [[]]       | /cs                |          |         |                |           |             |     |   |   |
+|     3 | 4Source Dev           | s-s-c-sd      |        | yes  | [[]]       | /sourcedevelopment |          |         |                |           |             |     |   |   |
+|     3 | 4VR Instal            | s-s-c-VRI     |        | yes  | [[]]       | /vrinstallation    |          |         |                |           |             |     |   |   |
+|     3 | Training              | s-s-c-t       |        | yes  | [[]]       | /training          |          |         |                |           |             |     |   |   |
+|     3 | Learning              | s-s-c-l       |        | yes  | [[]]       | /learning          |          |         |                |           |             |     |   |   |
+|     2 | production            | s-s-p         |        |      | [[]]       | /production        |          |         |                |           |             |     |   |   |
+|     3 | Design                | s-s-p-d       |        | yes  | [[]]       | /design            |          |         |                |           |             |     |   |   |
+|     4 | sketching             |               |        |      | [[]]       | /sketch            |          |         |                |           |             |     |   |   |
+|     4 | scripting             |               |        |      | [[]]       | /script            |          |         |                |           |             |     |   |   |
+|     4 | storyboarding         |               |        |      | [[]]       | /storybopard       |          |         |                |           |             |     |   |   |
+|     3 | develop               | s-s-p-dev     |        | yes  | [[]]       | /develop           |          |         |                |           |             |     |   |   |
+|     4 | game engine           | s-s-p-dev     |        |      | [[]]       | /gameengine        |          |         |                |           |             |     |   |   |
+|     4 | 3d audio              | s-s-p-dev     |        |      | [[]]       | /3da               |          |         |                |           |             |     |   |   |
+|     4 | 3d modeling           | s-s-p-dev     |        |      | [[]]       | /3dm               |          |         |                |           |             |     |   |   |
+|     4 | 360 video             |               |        |      | [[]]       | /360               |          |         |                |           |             |     |   |   |
+|     4 | ai                    | s-s-p-dev     |        |      | [[]]       | /ai                |          |         |                |           |             |     |   |   |
+|     4 | animation             |               |        |      | [[]]       | /animation         |          |         |                |           |             |     |   |   |
+|     4 | biometrics            |               |        |      | [[]]       | /biometrics        |          |         |                |           |             |     |   |   |
+|     4 | blockchain            |               |        |      | [[]]       | /blockchain        |          |         |                |           |             |     |   |   |
+|     4 | cloud computing       |               |        |      | [[]]       | /cloud             |          |         |                |           |             |     |   |   |
+|     4 | cryptocurrency        |               |        |      | [[]]       | /crypto            |          |         |                |           |             |     |   |   |
+|     4 | emotion recognition   |               |        |      | [[]]       | /emotionrec        |          |         |                |           |             |     |   |   |
+|     4 | finite state machines |               |        |      | [[]]       | /fsm               |          |         |                |           |             |     |   |   |
+|     4 | iot                   |               |        |      | [[]]       | /iot               |          |         |                |           |             |     |   |   |
+|     4 | motion capture        |               |        |      | [[]]       | /mocap             |          |         |                |           |             |     |   |   |
+|     4 | networking            |               |        |      | [[]]       | /networking        |          |         |                |           |             |     |   |   |
+|     4 | photogrammetry        |               |        |      | [[]]       | /photogram         |          |         |                |           |             |     |   |   |
+|     4 | physics engine        |               |        | 3    | [[]]       | /physicsengine     |          |         |                |           |             |     |   |   |
+|     4 | positional tracking   |               |        |      | [[]]       | /postra            |          |         |                |           |             |     |   |   |
+|     4 | python, C++. C#       |               |        |      | [[]]       | /code              |          |         |                |           |             |     |   |   |
+|     4 | volumtric display     |               |        |      | [[]]       | /volumetric        |          |         |                |           |             |     |   |   |
+|     3 | Test                  | h-s-s-p-t     |        | yes  | [[]]       | /test              |          |         |                |           |             |     |   |   |
+|     4 | beta                  |               |        | 3    | [[]]       | /beta              |          |         |                |           |             |     |   |   |
+|     4 | professional          |               |        |      | [[]]       | /professional      |          |         |                |           |             |     |   |   |
+|     4 | alpha                 |               |        |      | [[]]       | /alpha             |          |         |                |           |             |     |   |   |
+|     3 | publishing            | h-s-s-p       |        | yes  | [[]]       | /publishing        |          |         |                |           |             |     |   |   |
+|     4 | distribution          | h-s-s-p-d     |        | yes  | [[]]       | /distribution      |          |         |                |           |             |     |   |   |
+|     4 | promotion             |               |        |      | [[]]       | /promotion         |          |         |                |           |             |     |   |   |
+|     4 | Activation            | h-s-s-p-a     |        | yes  | [[]]       | /activation        |          |         |                |           |             |     |   |   |
+|     4 | data review           | h-s-s-p-dr    |        | yes  | [[]]       | /datareview        |          |         |                |           |             |     |   |   |
+|     2 | Publication           | h-s-s-p       |        | yes  | [[]]       | /publications      |          |         |                |           |             |     |   |   |
+|     3 | Financial strats      |               |        |      | [[]]       | /findtrat          |          |         |                |           |             |     |   |   |
+|     4 | world build           |               |        |      | [[]]       | /world build       |          |         |                |           |             |     |   |   |
+|     4 | city dev              |               |        |      | [[]]       | citydev            |          |         |                |           |             |     |   |   |
+|     4 | professional services |               |        |      | [[]]       | /professionalserv  |          |         |                |           |             |     |   |   |
+|     4 | world brokering       |               |        |      | [[]]       | /worldbroker       |          |         |                |           |             |     |   |   |
+|     4 | ad-traffic analysis   |               |        |      | [[]]       | /ad-traffic        |          |         |                |           |             |     |   |   |
+|     4 | live event            |               |        |      | [[]]       | /live-event        |          |         |                |           |             |     |   |   |
+|     4 | music stream          |               |        |      | [[]]       | /music-stream      |          |         |                |           |             |     |   |   |
+|     4 | content display       |               |        |      | [[]]       | /content-display   |          |         |                |           |             |     |   |   |
+|     4 | training              |               |        |      | [[]]       | /training          |          |         |                |           |             |     |   |   |
+|     3 | market research       |               |        |      | [[]]       | /market-research   |          |         |                |           |             |     |   |   |
+|     4 | world build           |               |        |      | [[]]       | /world build       |          |         |                |           |             |     |   |   |
+|     4 | city dev              |               |        |      | [[]]       | citydev            |          |         |                |           |             |     |   |   |
+|     4 | professional services |               |        |      | [[]]       | /professionalserv  |          |         |                |           |             |     |   |   |
+|     4 | world brokering       |               |        |      | [[]]       | /worldbroker       |          |         |                |           |             |     |   |   |
+|     4 | ad-traffic analysis   |               |        |      | [[]]       | /ad-traffic        |          |         |                |           |             |     |   |   |
+|     4 | live event            |               |        |      | [[]]       | /live-event        |          |         |                |           |             |     |   |   |
+|     4 | music stream          |               |        |      | [[]]       | /music-stream      |          |         |                |           |             |     |   |   |
+|     4 | content display       |               |        |      | [[]]       | /content-display   |          |         |                |           |             |     |   |   |
+|     4 | training              |               |        |      | [[]]       | /training          |          |         |                |           |             |     |   |   |
+|     3 | market research       |               |        |      | [[]]       | /ms                |          |         |                |           |             |     |   |   |
+|     3 | interfaces            |               |        |      | [[]]       | /interfaces        |          |         |                |           |             |     |   |   |
+|     4 | color                 |               |        |      | [[]]       | /icolor            |          |         |                |           |             |     |   |   |
+|     4 | torus                 |               |        |      | [[]]       | /itorus            |          |         |                |           | s           |     |   |   |
+|     4 | infinite              |               |        |      | [[]]       | /iiinfinite        |          |         |                |           |             |     |   |   |
+|     4 | bloomaway             |               |        |      | [[]]       | /ibloomaway        |          |         |                |           |             |     |   |   |
+|     1 | Partnershiop          | h-p           |        |      | [[]]       | /partnerships      |          |         |                |           |             |     |   |   |
+|     2 | Portal                | h-p-p         |        |      | [[]]       | /portal            |          |         |                |           |             |     |   |   |
+|     3 | buildxr               |               |        |      | [[]]       | /buildxr           |          |         |                |           |             |     |   |   |
+|     3 | Studios               | h-p-s         |        |      | [[]]       | /studios           |          |         |                |           |             |     |   |   |
+|     2 | Productions           | h-p-p         |        |      | [[]]       | /productions       |          |         |                |           |             |     |   |   |
+|     3 | Past Prod             | h-p-p-p       |        | yes  | [[]]       | /pproductions      |          |         |                |           |             |     |   |   |
+|     3 | Current prod          | h-p-p-cp      |        |      | [[]]       | /cproductions      |          |         |                |           |             |     |   |   |
+|     3 | Future prod           | h-p-p-fp      |        |      | [[]]       | /productions       |          |         |                |           |             |     |   |   |
+|     4 | NYE                   |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | mardi gras            |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | 4th july              |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | holi                  |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | san fermin            |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | oktober fest          |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | songkran              |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+|     4 | full moon             |               |        |      |            |                    |          |         |                |           |             |     |   |   |
+
+|     1 | Nova XR               | h-nxr         |        |      | [[]]       | /novaxr               |          |         |                |           |             |   |   |   |
+|     2 | Who We Are            | h-nxr-au      |        |      | [[]]       | /whoweare             |          |         |                |           |             |   |   |   |
+|     3 | Philosophy            |               |        |      | [[]]       | /philosophy           |          |         |                |           |             |   |   |   |
+|     3 | Community             | h-nxr-c       |        |      | [[]]       | /community            |          |         |                |           |             |   |   |   |
+|     3 | Philanthropy          |               |        |      | [[]]       | /philanthropy         |          |         |                |           |             |   |   |   |
+|     3 | careers               |               |        |      | [[]]       | /careers              |          |         |                |           |             |   |   |   |
+|     2 | Find Us               | h-nxr-fu      |        |      | [[]]       | /findus               |          |         |                |           |             |   |   |   |
+|     0 | NOVACOGNITIO          |               |        |      | [[]]       | /novacognito          |          |         |                |           |             |   |   |   |
+|     1 | BLog                  |               |        |      | [[]]       | /blog                 |          |         |                |           |             |   |   |   |
+|     1 | Rent room             |               |        |      | [[]]       | /rentroom             |          |         |                |           |             |   |   |   |
+|     1 | Rent space            |               |        |      | [[]]       | /rentspace            |          |         |                |           |             |   |   |   |
+|     1 | Photoshoot            |               |        |      | [[]]       | /photoshoot           |          |         |                |           |             |   |   |   |
+|     1 | Creative Specs        |               |        |      | [[]]       | /creativespecs        |          |         |                |           |             |   |   |   |
+|     1 | Learning              |               |        |      | [[]]       | /learning             |          |         |                |           |             |   |   |   |
+|     1 | Money                 |               |        |      | [[]]       | /money                |          |         |                |           |             |   |   |   |
+|     1 | Nova Membership       |               |        |      | [[]]       | /novamembership       |          |         |                |           |             |   |   |   |
+|     1 | Team Access           |               |        |      | [[]]       | /teamaccess           |          |         |                |           |             |   |   |   |
+|       |                       |               |        |      |            |                       |          |         |                |           |             |   |   |   |
 
 
 
