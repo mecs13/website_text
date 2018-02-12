@@ -1,7 +1,0 @@
-* AR Marketing Beverages:
-
-I always felt the barrier that stood in the way of my bottle of beer telling me its temperature, OUE (ounces until empty) or all the information I might find on the brand’s website simply a tap-of-the-label away was that the bottle was not wired.  There are no electronic components in my bottle of beer, no nodes, no copper, no semiconductors or metalloids of any type, nada.  And until there is computational abilities and an IP address connected directly to by brew, I will not have these instant insights.   But the way around this is robotics and computer vision sensing Ultra Sound, Light Detection and Ranging (LiDAR), cameras and so on to process through equations that (for the most part) resolve the problem that seems like chicken-egg.  As the map evolves, the agent continues to locate itself and further map the area.   
-
-
-
-Soon, I’ll know which of my friends (via my social media) are also drinking this beer in this moment and send them a “cheers” simply by the raise of my glass in front of my eyewear, with the voice command “cheer, Phil Caputo!”  And the message will appear as a notification in the top right of his vision.   But, before I go off strategizing Amhuser’s next marketing foray into manipulating the minds of the Americans, understand that “inside out tracking” in Augmented Reality is leap-frogging the inherent challenges of adding room trackers by making the process self-contained within the eyewear

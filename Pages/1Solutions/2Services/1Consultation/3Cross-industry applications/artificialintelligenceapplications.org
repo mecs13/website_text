@@ -2,25 +2,36 @@ Artificial intelligence in VR
 
 ***** Artificial intelligence
 ******* AI Assistance
-For example, to command our AI assistant, "Take me to Buenos Airesd"  The machine simply needs to know to teleport to that 360 video content.   DzBring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+Take me to Buenos Aires"  The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
 
 We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
 
-*Contextual awareness* allows the machine to compare the query to known information, such as location, recent searches, and recent conversation with contacts.  Using sensors on their phones, watches or whatever other device they connect to our experience we can post to social and read available they give us permission to
+*Contextual awareness* allows the machine to compare the query to known information, such as location, recent searches, and recent conversation with contacts.  Using sensors on their phones, watches or whatever other device they connect to our experience, we can post to social.  Once 
 
-The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices are loaded with a ton of sensors. They make us humans the cheap sensors machines need today. We gather the knowledge and data that the system needs to do its work
+The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices know /a lot/ about us.  
 
 ******* Index Data
-artificial intelligent algorthms to better index user data.
+artificial intelligent algorthms to better index user data.   If information is better categorized it will be better read.  Better read and understood data will be better processed by humans to more fully udnerstand broad swaths of the VR information displayed to them.
+
 ******* Characters:     
-Imagine a virtual character with behaviors that were Dzsmartdz as in it learned from past mistakes.   You already know this from referral automation on the web especially within services you tow which subscribe.
+Imagine a virtual character with behaviors that were "smart", as in it learned from past mistakes.   You already know this from referral automation on the web especially within services you tow which subscribe.  Example: /Netflix reccomends.../
 
- In virtual reality, these DzAI Charactersdz will improve their suggestions and improvisation with generative design.  These will be non-player characters (NPCs) but simulating human behavior and thought the best it can.   As Turing tested, If you cannot distinguish the difference between another player and a NPC, what’s the difference?    
+ In virtual reality, these "AI Characters" will improve their suggestions and improvisation with generative design.  These will be non-player characters (NPCs) but simulating human behavior.   As Turing tested, If you cannot distinguish the difference between another player and a NPC, what’s the difference?    
 
-The most obvious example is a personalized host like Siri, Alexis, or Cortana.    In virtual reality, they will represent beyond their voice, with a physical body.   You can of course customize your virtual companion not just by appearance but by personality, attitude, relationship and onward.   With vast personalization settings available for the user to adjust we give control to the user instead of guessing what they want.  we can adjust the algorithms to our own preference, and then they learn on their own.    
-******* Generative Design  
-******* Personalizations
-Unity is a cross-platformgame engine developed Unity Technologis a  consoles mobile devicean websites First announced only for  OS X, at Apple's  Worldwide Developers Conference  in 2005, it has since been extended to target 21 platforms. Nintendo provides free licenses of Unity 5 to all licensed Nintendo Developers along with their software development kit s (SDKs) for the  Wii U and Nintendo 3DS Family
+Household examples like Siri, Alexis, or Cortana remind us AI has a long way to go, and we shouldn't hold our breath.   In virtual realitythese assistants will be present in physical form.   You can of course customize your virtual companion not just by appearance but by personality, attitude, relationship and onward.   With vast personalization settings available for the user to adjust we give control to the user instead of guessing what they want.  we can adjust the algorithms to our own preference, and then they learn on their own.    
 
 ******* Self Learning 
 AIs will teach itself to interact with avatars by practicing on the hundreds of avatars.   Everyone’s funded participation goes to the build of a single AI who’s job is to interact with real people
+
+
+******* Generative Design  
+ 
+/coming soon/
+
+******* Personalizations
+
+/coming soon/
+
+
+Unity is a cross-platform game engine developed by Unity Technologis a  consoles mobile devicean websites First announced only for  OS X, at Apple's  Worldwide Developers Conference  in 2005, it has since been extended to target 21 platforms. Nintendo provides free licenses of Unity 5 to all licensed Nintendo Developers along with their software development kit s (SDKs) for the  Wii U and Nintendo 3DS Family
+
