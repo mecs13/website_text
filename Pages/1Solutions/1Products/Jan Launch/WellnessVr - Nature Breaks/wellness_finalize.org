@@ -1,0 +1,21 @@
+* Objective: 
+make an MVP mindfulness VR app that provides therapeutic wellness for a hospital to gather data and testimonials
+
+* Strategy:
+- Create XR mindfulness VR MVP in which the user is immersed in greenery and natural environments
+- distribute on-site and in app store
+- read biometric feedback
+- produce 2d testimonials
+- recommend evolution of MVP
+
+* Tech Architecture
+#+CAPTION: A visual of the development tools a game engine makes available
+
+#+NAME:   Wellness Tech Architecture
+
+[[/Users/joemecca/Documents/website-text-/Pages/1Solutions/1Products/Jan Launch/WellnessVr - Nature Breaks]].Theme player rules component 3D.pdf
+
+* Market Research 
+
+According to the "Scientific American" Journal, Just three to five minutes spent looking at views dominated by trees, flowers or water can begin to reduce anger, anxiety and pain and to induce relaxation. Throughout human history, trees and water have signaled an oasis, and flowering plants have been a sign of possible food. Open views deter surprises by predators, and shaded alcoves offer a safe retreat. In 1995 Cooper Marcus and landscape architect Marni Barnes received a grant from the nonprofit Center for Health Design to analyze the physical layout and daily use of several hospital gardens in northern California. In 32 hours of observations, which included taking detailed notes and interviewing users (who collectively made 2,140 visits), the researchers noticed several patterns that have been borne out in subsequent studies of other sites. According to Marcus, the more greenery versus hard surfaces, the better. He said, “We found that a ratio of at least 7:3 seems to work best."
+

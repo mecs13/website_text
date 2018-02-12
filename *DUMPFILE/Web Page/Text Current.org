@@ -1,0 +1,26 @@
+For more than 100 years we've known that color can be divided by hue, lightness, and saturation. With the understanding of these parameters we've created a Virtual Experience that presents the user with an object that is the most complete representation of the color spectrum.
+This program and its benefits can be divided into three categories:
+
+** Choosing color: 
+
+*** Inside XR color, there are three dimensions upon which the user can move. Vertical movement, for instance, changes the lightness - the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. And altering depth through the center point changes saturation. In XR Color, complementary colors are available at the reciprocal distance and angle from center. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will be within reach instantly. A change in color can also respond to the user’s visual focus. 
+
+*** Benefit: 
+
+-A tool for designers, artists, teachers, schools, architects. 
+
+** Understanding Color: 
+
+***Color is embedded in every visual we perceive. Because most people have not had the opportunity to understand the basics of why or how our eyes perceive color and the variations within each of the primary colors. By presenting these things inside a 3D solid, the average user will become more engaged and aware of color. When they step out of the VR world and back into the physical world, they will experience an increased level of awareness of the most constant element of their visual perception - color.
+
+*** Benefit: More designers and developers will have a deeper understanding of color, creating richer and more color-coordinated content for all users to experience. Eventually, this will lead to a Virtual World that more closely resembles the color and texture of the physical world. This virtual application will also enhance the user's understanding of color when they return to their daily lives in the physical world. 
+
+** Pleasure of Color
+
+*** For close to a millenium, chromotherapy has been practiced in various forms at various points throughout the world. In some cases colors are portrayed in the form of light onto certain parts of the body to increase blood flow and cleanse the anatomical system. Other methods of chromotherapy are best received when the human eye perceives certain colors in the form of light portrayal. 
+
+*** Benefits: 
+
+**** As we step into XR color, we open an entirely new component to chromotherapy, as the user is now surrounded by various colors from different hues, saturations and lightness. This opens the door for a new version of exploring chromotherapy in a way that hasn't previously been available. 
+
+**** The 3D element of XR color means designers and developers will be up out of their chair, standing and moving around to select and experiment with color. The wellness and creative benefits of this energy exertion will positively influence the health of people whose careers are based in computer-generated design and development. 
