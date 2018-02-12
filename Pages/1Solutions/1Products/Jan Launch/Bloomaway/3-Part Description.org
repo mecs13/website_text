@@ -1,8 +1,0 @@
-Seamless
-Bloomaway is a unique and intuitive VR interface allowing users to navigate between and among virtual locations. 
-
-	Virtual 
-When people step into VR, they want to touch what they see. Bloomaway reduces the need for remote controls and allows the user's hand movement to transport them through time and space. 
-
-		Transport 
-By allowing the user's body movement and sight line to dictate when and where their selected destination appears, we've eliminated the dizziness that had previously influenced the VR user.
