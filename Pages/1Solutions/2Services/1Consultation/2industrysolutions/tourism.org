@@ -22,7 +22,17 @@ He loves to be out in the garden feeding the birds and squirrels. Hortacultural 
 
 In a recent survey of 100 directors and architects of assisted-living residences, 82 percent agreed that “the design of outdoor space should be one of the most important considerations in the design.” American Society of Landscape Architects
 
-Ulrich and his team reviewed the medical records of people recovering from gallbladder surgery at a suburban Pennsylvania hospital. All other things being equal, patients with bedside windows looking out on leafy trees healed, on average, a day faster, needed significantly less pain medication and had fewer postsurgical complications than patients who instead saw a brick wall. published in 1984 in the journal Science by environmental psychologist Roger Ulrich, now at Texas A&M University
+Ulrich and his team reviewed the medical records of people recovering from gallbladder Head:     master pages refreshed
+Merge:    origin/master initial commit
+
+Unmerged into origin/master (5)
+072b610 master pages refreshed
+a6786ba moved some files to dump folder
+5519f59 updated website text and filing system
+1911276 website text updated BIG
+1901964 origin/joey updating website text and tables
+
+surgery at a suburban Pennsylvania hospital. All other things being equal, patients with bedside windows looking out on leafy trees healed, on average, a day faster, needed significantly less pain medication and had fewer postsurgical complications than patients who instead saw a brick wall. published in 1984 in the journal Science by environmental psychologist Roger Ulrich, now at Texas A&M University
 
 Just  three to five minutes spent looking at views dominated by trees, flowers or water can begin to reduce anger, anxiety and pain and to induce relaxation
 
