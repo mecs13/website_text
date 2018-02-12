@@ -234,11 +234,6 @@ Once the visuals have been established, we'll integrate them through an industry
 
 ***** Game Engine
 
-
-A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
-
-Game engines equip us to custom design virtual environments, program rules and netowrk experiences to be shared on personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
-
 Source Engine and indie-darling Unity3D are examples of great tools built by people 
 
 tools to make games bigger and better
@@ -259,10 +254,15 @@ tools to make games bigger and better
 - unreal engine
 
 
+A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
 
-The core functions are typically rendering 3D graphics, a physics engine orcollision detection and collision response systems, networking, streaming, memory management, threading, localization support, and scene graph.  Your engine may also include video support for cinematics, 3D audio for sonic immersion, biometric software to read physicological reactions, or artificial intelligent algorthms to better index user data.
+Game engines equip us to custom design virtual environments, program rules and netowrk experiences to be shared on personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
 
 We economize the process of game development by reusing/adaptig the same game engine to create different games.  This also makes it easier to port games to multiple platforms.
+
+
+
+The core functions are typically rendering 3D graphics, a physics engine orcollision detection and collision response systems, networking, streaming, memory management, threading, localization support, and scene graph.  Your engine may also include video support for cinematics, 3D audio for sonic immersion, biometric software to read physicological reactions, or artificial intelligent algorthms to better index user data.
 ****** Unreal Engine 
 A game engine developed by Epic Games, first showcased in the 1998, stelath first person shooter, MMORPGs, RPGs, 
 - Code written in C++
@@ -285,7 +285,7 @@ In 3D computer graphics, 3D modeling (or three-dimensional modeling) is the proc
 - define "rigging"  What in VR is rigged?  WHy is it rigged?
 
 ***** Finite State Machines:
-      finite state machines are mafe of ecplicite states,.    they each have their own comands and logic per frame, as well as upon entering or leaving a state.  States have rules tha indicate when they can transition and how.  For example "observing", "exploring" and "engaging" states of an AI bot in a VR experience.   In the engaging state the bot might be reacting more direectly to your movements and voice cues, while in "exploring" it is concerned with the surroundings and where it's string of attention goes.  If the bot has AI, and learns over time, it will develeop its own prefrences based on however it is programed to.  For exmple..
+finite state machines are mafe of ecplicite states,.    they each have their own comands and logic per frame, as well as upon entering or leaving a state.  States have rules tha indicate when they can transition and how.  For example "observing", "exploring" and "engaging" states of an AI bot in a VR experience.   In the engaging state the bot might be reacting more direectly to your movements and voice cues, while in "exploring" it is concerned with the surroundings and where it's string of attention goes.  If the bot has AI, and learns over time, it will develeop its own prefrences based on however it is programed to.  For exmple..
 
 A finite-state machine (FSM) or finite-state automaton (FSA, plural: automata), finite automaton, or simply a state machine, is a mathematical model of computation. It is an abstract machine that can be in exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to some external inputs; the change from one state to another is called a transition. A FSM is defined by a list of its states, its initial state, and the conditions for each transition.
 
