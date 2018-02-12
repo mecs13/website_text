@@ -1,0 +1,13 @@
+ite. go to admin panel and make requests.   git commit from your web browser.
+tells server, hey commit for him
+tgen make it a platform as a service
+
+basic org mode is free and if you want to add on gitting
+or latek or whatever ese you start paying.
+
+classic platform as a service pricing.
+
+
+free org mode has a nova gateway pop up
+
+forever demo
