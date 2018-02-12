@@ -18,32 +18,8 @@ page text
 
 * Homepage
 
-*** KK Home Page txt written :KK:
-*** JB Home Page design :JB:
-*** TB Home Page deployed :TB:
 
-
-* Bottom Bar
-** Legal
-
-*** KK Legal Page txt written :KK:
-*** JB Legal Page designed                                               :JB:
-*** TB Legal Page deployed                                               :TB:
-
-*** JM contacts txt written                                              :KK:
-*** JB contacts designed                                                 :JB:
-*** TB contacts Page deployed                                            :TB:
-
-*** JM Login txt written                              :JM:
-*** JB  designed                                                 :JB:
-*** TB contacts Page deployed                                            :TB:
-
-
-
-
-
-
-
+* Legal
 **** Terms and conditions of use
 We maintain this site as a resource and communication portal. Terms of Service apply to anyone browsing the website. Accessing the site is acceptance without limitation or qualifiEducatecation of the following Terms and Conditions. If you do NOT accept the Terms and Conditions, please discontinue your use of this site.
 
@@ -797,7 +773,7 @@ Let's get these all done and out of the way this week...  Mission twos should be
  
 
 KEY FOR MARKUP
-
+ 
 * menu Title Ones
 ** menu Titles twos
 *** menu t3 menu pages

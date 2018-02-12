@@ -1,0 +1,372 @@
+
+* Kickoff 
+
+** Client:  Brown Hotels
+*** Contact:
+*** Website: 
+
+*Objective:* Increase sales of rooms to businesses, IE block bookings and corperate bookings.
+
+*Budget:*  $200-250k
+
+*Timing:* 
+
+*Contact:* Dr. James Kelly/Clarissa - Clarissa --- https://www.instagram.com/evitalz/  
+
+*Key performance indicators:*  Public recognition
+
+*Desicion Making Process:*  Dr. James confers with Clarisa
+
+*Notes:* Family man, long time client.  Spend 30k. quarter most years.   Measured success with referall system.  Worth showing him Cayman too, he will find it very interesting. 
+
+*Website* http://www.kellylaser.com/en/
+
+
+** DONE Create a Cloud folder (SD)                                       :JM:
+   CLOSED: [2018-01-04 Thu 03:16]
+** DONE Create Slack Channel (SD)
+   CLOSED: [2018-01-04 Thu 03:16]
+** DONE Create Strat ORG + GC (SD)
+   CLOSED: [2018-01-04 Thu 03:18]
+
+
+
+First set of ideas:
+
+ - VR Consultation
+ - explained the process, chose two perspectives, see it ourside the body.  and then the 360 experience of being the payment.
+ - have them posted to facebook and youtube and then market.  
+ - testimonials
+ - live element is going to make it newsworthy
+ - lasik vision game - (novelty)  take laser ut of contol, pointing at a model. how long the laser touches the eye generates a score and tells them how they did.  Jacques designs the room and we buy the models online. 10k
+
+How does this game make him money?
+--- gives them more confidence  --> people are scared of the surgery.   (kk).
+--- market it, how many reactions we get 
+--- chinese wisperers going on?
+
+
+--- play at home and undersand if you need lasik vision or not. (evaluate the vision) 
+--- localize it. 
+
+--- in the office.   
+--- give him the options and price them out.  
+--- heavier hardware required.
+ 
+-- $10k distribution platform
+
+--- grab a focus? 
+--- IPD is the only thing we have control over.   hardware side is consumer grade, and with new hardware we can begin to test.  not significant. 
+
+
+
+
+*** Day 1 - Kick Off   
+
+**** Questions to answer?
+
+All content contributions must be in Dropbox org mode AND github
+
+
+***** (SD) Which pages will we include?
+
+Possible Pages - - - - - - Party Responsible
+
+*Introduction - - - - - - - SD
+
+
+*Executive Summary -  - - - SD
+
+
+*Strategy - - - - - - - - - SD
+
+*Phase 1 - - - - - - - - -  SD
+
+
+*Phase 2 - - - - - - - - -  SD
+
+
+
+*Phase 3- - - - - - - - - - SD
+
+
+
+*User Story - - - - - - - - CXO
+
+
+
+*Production - - - - - - - - CXO
+
+
+
+*Tech Architecture - - - - -TD
+
+
+
+*Modern Applications - - - -CMO
+
+
+
+*Market Research- - - - - - CMO
+
+
+
+*Indudstry Growth - - - - - CMO
+
+
+
+*Financial Strat - - - - -  CFO
+
+
+
+*Return on Investment - - - CEO
+
+
+*Gant Chart - - - - - - - - CMO
+
+
+
+*Graphic Designs - - - - -  CDO
+
+
+
+Execution - - - - - - - -  CMO
+
+
+
+*Evolution of Dev - - - - - CXO
+
+
+
+*Summary and Net Inv - - -  SD
+
+
+Deliverables - - - - - - - CMO
+
+***** (AD) What do we illustrate?
+***** (ALL) Who would we subcontract? 
+
+Possible Services  - - - - - - Party Responsible
+
+Production - - - - - - - - - - CXO
+Programming - - - - - - - - -  TD
+Recruitment - - - - - - - - -  HRD
+Media Buying - - - - - - - - - SD
+Publishing - - - - - - - - - - CMO
+Modeling/Design- - - - - - - - AD
+
+
+**** (ALL) Pages to Complete (note taker to GC)
+***** Intro  
+(Sales Director):  Short and sweet stating documents purpose
+
+
+
+***** Executive Summary 
+(Sales Director): A persuasive overview of the complete project
+
+
+
+
+***** Production conecpt 
+(CXR): A simple explanation of product plan
+
+
+
+
+***** Tech Architecture concept 
+(Tech Director): A simple explanation of the tech architecture
+
+
+
+
+***** Targeted audience: 
+(Sales Director) An overview of the market to be researched and the audience we are looking to reach)
+
+
+
+
+
+
+
+**** Ownerships
+***** CMO Owns text doc (git hub)
+***** AD owns visuals
+***** TD owns code 
+***** SD Owns Strat
+***** CXO owns demo
+
+**** (ALL) Budget requests
+
+- $3k hardware (cleaning supplies, and refreshing)
+- one room one task, one experience 10k, add task/functionality $5-10k
+- 10k publishing per platform
+
+
+the product grows with him.
+test the user experience in offe and then does get licensed for released then other lasik centers 
+
+more uncomfortable with glasses.  all the more makes people want get rid of the glasses. it is a pain in the neck.  
+
+all the gamers are going to want to get rid of their glasses.  These people got money and you can by "the VR vision doctor in New York)
+
+optmologist into a device that is based on vision.  
+
+
+**** (ALL) Confirm participation/undersanding
+
+*** Day 2 - Research and Report.   
+
+Within 24 hours of The Kick off cllose, please have completed the following:
+
+**** Sales Director
+-- Report client communication (slack)
+-- Adapted Strategy  [gitCOMMIT]
+-- Outline pitch (strat org)
+-- Adapted: Intro, executive summary, strategy, summary  [gitCOMMIT]
+-- Parameters of the financial Strategy (Slack)
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+
+**** Tech Director
+-- Research summary on tech needed [300 words] [gitCOMMIT]
+-- Tech deliverables listed  [gitCOMMIT]
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+
+**** Cheif Financial Officer
+-- What risks exist? (Slack)
+-- Financial Strategy thoughts (slack)
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+
+**** Art Director
+-- sketch, or modification idea for proposal graphics/renders. (slack)
+-- in design file with client info and estimated layout.  (DropBoxlink over Slack)
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+
+**** Cheif XR
+-- written user story  [gitCOMMIT]
+-- Explains the production pipeline  [gitCOMMIT]
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+
+**** Cheif Marketing Officer
+-- Research summary on market conditions (be optimistic) [in prop/org/market] [200 words]
+-- Who is the audience? (slack)
+-- Media deliverables listed  [gitCOMMIT]
+-- explicitly expresses any major challanges we dont have solution for yet (slack)
+-- Reviews everyone's work and makes necesarry adjustments as needed
+
+*** Day 3 - Finishing Touches
+
+**** Sales Director:
+-- Proof Prop [gitCOMMIT]
+-- Finalize budget (Slack)
+-- outline short/long/1-sheet
+
+**** Cheif Executive Officer
+-- Legal Added [gitCOMMIT]
+
+**** Cheif Marketing Officer
+-- Proof read [gitCOMMIT]
+
+**** Cheif Financial Officer
+-- Financial Strategy added [gitCOMMIT]
+
+**** Tech Director
+-- tech architecture finalized [gitCOMMIT]
+
+**** Cheif XR Officer
+-- Production page(s) content finalized [gitCOMMIT]
+
+**** Art Director
+-- deliver visuals  [gitCOMMIT]
+
+*** Day 4 - Proof Read
+
+**** Everyone proof reads [gitCOMMIT]
+**** Cheif Officer 
+-- financial strategy finalized [gitCOMMIT]
+-- Legal finlized
+
+*** Day 5 - Finalize
+
+**** Cheif Marketing
+-- proof read [gitCOMMIT]
+**** Sales Director
+- proof read  [gitCOMMIT]
+- Pitch
+**** Cheif Design
+print (if necesarry)
+
+*** Deliverables:
+- single page
+- short proposal
+- Short Proposal + legal
+- Comprehensive Proposal
+- Comprehensive Legal
+- Comprehensive Prop + comprehensive Legal 
+- Render
+
+(500k+) -if requested.
+-  Demo (CXO)
+-  2 renders (CDO)
+-  spec video (CXO)
+
+* Proposal
+** Intro
+
+This document is to propose a VR marketing Solution to optometrist, Dr. James Kelly, for his laser vision practices in New York.  This program has been developed by Nova Media LLC, lead by Joe Mecca, and presented to Dr. James Kelly and Clarisa Evitz.  All subject matter enclosed is confidential and to only be shared people necesarry to bringing this partnership to market.   Nova Media is an innovation lab and virtual reality studio, located in Red Hook Brooklyn.  We provide XR (Extended Reality) solutions to businesses by providing access to advanced technologies, sourcing development and advising on related markets.  For more about us, please visit https://novamedia.nyc 
+
+
+
+** Executive Summary
+
+
+
+
+This program will put Kelly Vision at the forefront of innovative media.  Virtual Reality and other forms of "extended Reality", such as Augmented Reality, Projectionion Maps, /et cetera/ all effect our eyes and brains like no other stimulious prior.  By developing simple XR content, and dabbling in the industry, Dr. Kelly will build a reputation for being the optomotrist who knows the most about this complex medium that is becoming all the craze, and increase both his number of surgeries and the amount he can charge per procedure.   
+
+This program will come in three phases, in which we bring the XR content in house, 2D XR content to peoplea around the world, and then XR content that truly changes the industry for good.  The return on investment will be:_______
+
+*** Objective:    
+Increase surgeries by reaching a broader audience and delivering media via innovating technologies.
+
+
+*** Phase 1: $30k - Late 2017
+1) Develop a customized VR game for Kelly to have at office
+2) Install at office
+3) Use for consultation - better understand paient needs/expectations
+4) provde to be a leader in the industry
+
+*** Phase 2:  $30k - early 2018
+1) Take our learnings from deploying VR and make highly demandedc content
+2) "Seeing Extended Reality, with Dr. James Kelly" - What actually happens light photons enter your eyes via a VR headet -> 5x :30 videos 
+3) push durectly to VR interested persons, and brand you world wide (targetted marketing, FB, steam store, VR related content)
+
+*** Phase 3: $30-50k late 2018
+1) Program the content to help qualify patients
+2) Further reuputation for most innovative tech in the industry
+3) use in commercial creative
+4) localize previous content (to target spanish market)
+5) Strategize a scalable VR solution to vision correction, and license the IP
+
+
+
+** Production
+** Tech Architecture
+** Financial Strategy
+
+-- How many people will use it? 1 conult per day?   How much more comfort do people feel after using the VR?  Is there a VR that proves people feel comfort?  How about the cone of learning?  If we know they understand 10% info reading an 40% with visual graphics and 70%
+
+** Summary and Net Invest
+
+
+This program will put Kelly Vision at the forefront of innovative media and yeild a _______________ Retun on Investment .  XR is going to _____(market information and growth)____________   By developing simple XR content, and dabbling in the industry, Dr. Kelly will build a reputation for being the optomotrist who knows the most about this complex medium that is becoming all the craze, and increase both his number of surgeries and the amount he can charge per procedure.   
+
+
+* Pitch
+
+
+
+
+
+
+  

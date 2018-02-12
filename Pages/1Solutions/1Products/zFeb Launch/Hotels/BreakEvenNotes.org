@@ -1,0 +1,9 @@
+Break Even Analysis
+
+Notes excluded from Kelly proposal 
+
+So far, we have excluded the following facts:
+- People that underwent surgery are likely to talk about it to other people thus bringing more clients in
+- People that experience the VR are likely to talk to more than 2 peolpe about it;
+- Waiting rooms being by definition pretty boring, 40 patients a week trying the LASIK VR experience actually seems little. Especially if your personnel incites patients to give it a try (e.g. secretary telling patients about the VR LASIK demo);
+- There could be also non-patients in the room (familly or friends of patients for example) trying the VR experience and talking about it to peers thus bring more prospects in.

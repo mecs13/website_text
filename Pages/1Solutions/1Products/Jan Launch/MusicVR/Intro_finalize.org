@@ -1,0 +1,17 @@
+music:
+What-Allow the fan be at a live performance
+What-Afford them the opportunity to learn how to play music
+What- allow bands to relocate in VR 
+Why-To satiate people's desire to become more closely connected to their
+
+Bringing music into Virtual Reality is one of the most exciting frontiers in this budding world. Fans who are passionate about particular artists and bands may not get the opportunity to see them perform on their world tour - tickets are too expensive, shows aren't close enough to home, or the venue is sold out. In VR the fan will be able to virtually attend a show at Madison Square, in the Gorge out west, at futbol stadiums in South America, or on the beaches of Australia. With 3D audio and the ability to experience a filled stadium, VR melts the barrier between home and the venue.
+
+Then there is the practical, skill-building element of virtual reality in which the user can step inside and learn to play the instrument she's been longing to since childhood. She'll even have the opportunity to unite with some of her favorite artists as they hold virtual training sessions from their home studio. When the session is over, the user may stick around to watch their favorite artist shift into a jam session with the band.
+
+A rich visual and auditory experience is already available with the current iteration of VR technology - we're currently working to incorporate remaining human senses and create ultimate immersion. 
+
+Design Concepts; 
+
+-Pandora prop
+-Artist playing guitar
+-Sold out stadium with in front of a person with VR headset on
