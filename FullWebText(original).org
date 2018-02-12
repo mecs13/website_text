@@ -19,7 +19,7 @@ page text
 * Homepage
 
 
-* Legal
+** Legal
 **** Terms and conditions of use
 We maintain this site as a resource and communication portal. Terms of Service apply to anyone browsing the website. Accessing the site is acceptance without limitation or qualifiEducatecation of the following Terms and Conditions. If you do NOT accept the Terms and Conditions, please discontinue your use of this site.
 
@@ -144,12 +144,7 @@ Begining with the telegram and then the telephone, we shorted commuication over 
 - Sourcing Development
 - Negotiating 
 **** Package Programs
-
-
 **** Industry Solutions
-
-Education, Public Health, Travel, Entertainment, Space Exploration, Real Estate, Architecture, Design, and many more industries are finding solutions to their gravest challenges with the application of immersive media by extending reality (XR).   The adoption of 3D computing will become as ubiquitous as mobile devices are today. However, uncovering solutions and making use of the technology is up to us.  Share your challenge and we can find a solution together.  
-
 ****** Auto Motive
 ****** Sports
 ****** Enterprise
@@ -170,7 +165,7 @@ Education, Public Health, Travel, Entertainment, Space Exploration, Real Esta
 Virtual Chat Rooms let us seemingly stnd in the same room as another, thought millions of miles away.   Through thin flexible fibers with a glass core light signals (fiber optics) send data and information at a rate of 50Mps.  Our movements and voices are read and replicated for recipeients to experience in sumulation software, that we are now calling "virtual reality".
 
 **** Needs Analysis
-
+     
 We provide access to advance technologies and advise on related markets.  As needed we can source development, manage project execution and publish experiences.  How can we help you?
 
 [text box: What is your initial XR idea?]
