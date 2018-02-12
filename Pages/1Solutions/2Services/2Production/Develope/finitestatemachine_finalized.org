@@ -1,0 +1,5 @@
+finite state machines are made of explicite states.    Imagine a simple video game character can be be in five different finite states, standing, walking, running, attacking, defending.   Each has its own commands and logic framework, when entering, enduring, or departing the state. States have rules tha indicate when they can transition and how.  For example the character must go from "standing" to "walking" before it can enter "running".
+
+A "running" character will be less aware of their surroundings, while the "standing" character will be programmed to be more obervant for another character's attack.   Maybe the character can only enter "defending" for a short period of time, requiring it to enter "attacking" mode, or be injured.   
+
+A finite-state machine (FSM) or finite-state automaton is a mathematical computation model. An FSM is an abstract machine capable of exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to external or internal inputs.  This change from state to another is a "transition".    
