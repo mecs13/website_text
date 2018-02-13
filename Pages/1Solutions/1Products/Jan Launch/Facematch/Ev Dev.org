@@ -1,6 +1,0 @@
-*Year 1
- For the remained of this year we can review IT infrastrcture and ad buying data to get ahead on developing your specification. We will design both the preliminary stages of the facial recognition software and the ad strategy to populate our face matching database. The real work begins next year.
-Year 2
-During the first 16 weeks of 2018 we will develop Cayman's Face Matching software. This inlcudes a full specification, production and implementation. A May launch will conclude the work budgeted in this document. Future work will take place outside the scope of this proposal. You software will improve with data.
-Year 3
-Using results obtained in 2018, you'll now be able to grow your application and enlarge your Face Matching database to gather more pertinent analytics. This could include integrating biometric software across other media content, increasing user base, and, allowing you to better-target the right audience and increase heads in beds.

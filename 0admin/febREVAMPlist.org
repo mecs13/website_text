@@ -1,0 +1,122 @@
+* website text improvements
+
+** Homepage
+- Render on homepage
+- fav con needed
+
+** Menu
+- Menu title ones go to to introduction page/text
+- Contacts text updated 
+   + KK - all social links/handles
+   + JB - icons for click
+   + JM - AnnaIrene email address
+   + form to email
+   + auto open mail app (iphone, android, windows, os, linux, respectively)
+- no "s" on Legals
+- Legal needs graphic
+- Legal "opt-out" needs to link
+- Make legal next less clynical
+- Contact needs grpahic
+- Login needs graphic
+
+** Products
+- New product intro text
+- architecture picto
+
+*** Bloomaway
+- sentence 1:  "Bloomaway is (Literal noun, verb, metaphysical)"
+- how do i know to click the bottom picto for more info? (flip arrow around)
+- middle of page is white and ugly, whats the solutions?
+- title and tag line are repeated upon opening "content" section
+- title twos (execsum, user story, production, tech arch, ROI)
+
+*** Architecture
+- needs graphic
+- needs picto
+- title twos (execsum, user story, production, tech arch, ROI)
+
+*** NYE 
+- title just "New Year's Eve Live"
+- tagline: "in VR from around the world"
+- title twos (execsum, user story, production, tech arch, ROI)
+
+*** Infinite 
+- needs tag
+- smaller titles in content
+- needs graphic
+
+***  Torus
+- needs graphic
+- tag line needed
+
+*** Color
+- smaller "content" titles neededc
+
+
+** Services
+- Titles twos larger tex 
+- move social tab
+- review all text
+- pictos needed for 
+   + source dev
+   + training
+   + Installations
+     
+   + Industry Solutions
+- graphics needed
+   + ar v vr ven diagram
+   + 360 v game enginey 
+   + distributed netowrk
+
+
+*** Consultation
+- intro text
+- review all text
+
+  
+*** Production
+- review all text
+- tech architectures 
+   + block chain
+   + live streaming
+   + 3d audio
+   + photogrammetry
+   + networked gaming
+
+
+*** Distribution
+- distribution intro text
+- write publishing, promotion and activation
+
+*** Publication
+- financial strat intro
+- market research intro
+
+** Partnerships
+
+- build XR designs
+- client dashboard design
+- 
+
+
+** generally
+- how do we make it all load faster?
+- whats cloudflare
+
+** novacognitio
+- block style?
+- Exclusive Solutions Page
+    + block style all our non-product products (NPPs)
+- Resources (PDF access to documents and research, with summaries about)... This section is a resource center for clients, so when they ask where they can be educated 1) we take them to our Solutions/Services/Production pages because we describe first hand and have original content there.  Second, we send them to a more coprehensive, NOVA LIBRARY OF INFORMATION, of sorts, which is here, the "resource center" where we had PDFs of White Papers, Big 4 Trend reports, academic journals, and so on.  We always comment on the read.  We never post something we didn't read, therefore commenting should be very very easy.  Building and maintianing this library will be of the minimum expecations. 
+
+
+** Up Next
+- add calendar for scheduling via gcal
+- add forms
+- fluid dynamics
+- click to DL PDF from page
+- links in bottom of abstract panel
+- 404 page
+
+
+

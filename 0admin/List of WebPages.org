@@ -1,0 +1,182 @@
+* Web Pages to Write
+
+** READY
+*** Home
+- Home page
+- Legal
+- Contact
+- login
+*** products
+- Face match
+- Bloomaway 
+- About Us
+- Apprentices
+
+
+*** Publications
+- XR color
+
+*** Services
+- VR Event intro
+- NYE
+- Industry Solitions
+
+
+*** NovaCognito
+- Rent Space
+- invoices
+- credit card payment 
+
+
+** Almost Ready Due 22nd
+
+
+*** Products
+- Infinite 
+- Torus Publication
+- Solutions Intro
+- Products Intro
+- Sofrware/ Experiences Intro
+- Consultancy Product Page
+- B2B Produc Page
+
+** Ready Jan 27
+
+
+
+
+** Ready by Feb 1
+
+-Music VR
+-Fifa
+-Coaches
+-Festival
+-Foodman
+-Sports
+-Live forever
+-AnnOn Blockchain
+-Token Sale
+
+
+** Ready Feb 7
+
+** Ready Feb 15
+
+** All PAGES
+-Solutions
+-Products
+-Software/Experiences
+-Infinite Gallery
+-B2B VR
+-Music VR
+-Fifa
+-Coaches
+-Festival
+-Foodman
+-Sports
+-Facematch
+-Live forever
+-AnnOn Blockchain
+-Token Sale
+-Virtual Events
+-In VR
+-NYE
+-Interfaces
+-XR Color 
+-XR Torus
+-Services
+-Build XR
+-Production Build XR
+-Distribution Build XR
+-Audience build XR
+-Biometrics Build XR
+-Consultative Services
+  -Training Strat
+  -Strategies
+  -Sourcing Dev
+  -VR instal
+  -Dept building
+  -Resource Center
+  -Education
+  -Quick downloads
+  -Industry solutions
+  -Tactical Applications
+-Healthcare
+-Real Estate
+-Sports
+-Retail
+-Architecture
+-Scenario Planning
+-Music
+-Auto
+-Enterprise
+-Education
+-instructors/Coaches
+-Design
+-Space Exploration
+-Entertainment
+-World peace (donations button)
+-Fundraising
+-marketing
+-Colaboaration
+-listening/empathy
+-Social good
+-news/reporting
+-Needs analysis (text box page)
+-production
+-design
+-develop
+-game engines
+-AI
+-Emotion capture 
+-motion capture
+-bio software
+-photogrammetry
+-MR
+-testing
+-publishing
+-distribution
+-Promotion
+-Audiences
+-Data review
+-Activation
+-publications
+  -business/Financial Strats
+  -market research
+  -lab live
+-Partnerhsips
+  -Studios 
+  -Agencies
+  -Artists/freelancers
+-Portal
+  -Campaign
+  -Media
+  -Admin
+  -Analytics
+  -Logs
+-Productions Intro
+  -past productions
+   -australia
+   -italia
+   -Taiwan
+   -hard rock
+   -live nation
+  -Upcoming productions
+   -NYE 
+Who We Are
+  -Design 
+  -production
+  -Business
+  -About US
+  -philanthropy
+  -Location and contact 
+-Nova Cognito: pages under cover (nova access page)
+  -creative specs (4 pages)
+  -AR apps
+  -Add analysis 
+  -creative design
+Learning 
+Invoices 
+Rent Space
+Content 
+Shout outs

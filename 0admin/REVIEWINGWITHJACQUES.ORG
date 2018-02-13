@@ -1,0 +1,950 @@
+* menu Title Ones
+** menu Titles twos
+*** menu t3 menu pages
+:non-menupages: 
+**** pages title 1s
+***** page title 2s
+****** page title 3s
+******* page title 4s
+******** page title 5s
+page text
+# side panel open/close
+# side panel has fixed Bottom Text as follows:
+
+: Social | Build XR | Philanthropy | Calendar :
+: ^^ links :
+=== button --> :page:
+
+
+* Homepage
+
+*** KK Home Page txt written :KK:
+*** JB Home Page design :JB:
+*** TB Home Page deployed :TB:
+
+
+* Bottom Bar
+** Legal
+
+*** KK Legal Page txt written :KK:
+*** JB Legal Page designed                                               :JB:
+*** TB Legal Page deployed                                               :TB:
+
+*** JM contacts txt written                                              :KK:
+*** JB contacts designed                                                 :JB:
+*** TB contacts Page deployed                                            :TB:
+
+*** JM Login txt written                              :JM:
+*** JB  designed                                                 :JB:
+*** TB contacts Page deployed                                            :TB:
+
+
+
+
+
+
+
+**** Terms and conditions of use
+We maintain this site as a resource and communication portal. Terms of Service apply to anyone browsing the website. Accessing the site is acceptance without limitation or qualifiEducatecation of the following Terms and Conditions. If you do NOT accept the Terms and Conditions, please discontinue your use of this site.
+
+**** Privacy Policy
+We use basic Google Analytics to improve our services. Opt-out of Google Analytics.
+https://tools.google.com/dl-page/gaoptout/
+
+** Contact
+=== Build XR
+We are open most days, all hours, by appointment.   481 Van Brunt, Brooklyn, New York, 11231
+: map :
+[text box Message Submit]
+: Email :
+: Telegram :
+: Instagram :
+: Facebook :
+: Twitter :
+: GoogleVoice :
+: slack :
+: steemit :
+: Sketchfab :
+
+** Login
+
+* Solutions
+** Products
+**** Software (& Experiences)
+:Infinite_Gallery:
+:Bloomaway:
+***** Description
+Location and Information Navigation
+
+Exploring the infinite places and things virtual reality finally allows us to traverse is a game-changing resource for many businesses. But users knowledge of, and comfort with, the technology can vary greatly, which can cause vastly different user experiences. The real value of new technology tends to remain untapped because learning curves for new technology usually remain steep until a considerate and practical user interface is developed. Virtual reality is no different, and Bloomaway is that considerate and practical interface.
+
+Bloomaway is a truly innovative and intuitive VR interface that allows users to easily navigate locations and information. Bloomaway's interface is driven by three key elements, Attention, Intention, and Context. Attention is where a user is looking, intention is typically what a user attempts to touch, and context is being aware of when and where the other two elements are happening. With these seemingly simple elements, we can build a universe of diverse interaction.
+
+***** Navigate Information
+Bloomaway significantly reduces the learning curve by removing any need for controllers and buttons. Our design exploits the first instinct everyone has when entering VR, the desire to touch what we see. It may not be there in the real world, but that doesn't mean it can't have real results. This, combined with knowing where a user is looking within the context of the world they see, allows us to craft a fluid user experience.
+
+***** Navigate Locations
+Since we know where a user is looking, we also know where they're not. Again, this seemingly simple concept allows for many practical applications. Since VR seems so real, anything that abruptly appears or disappears can become overwhelming. Bloomaway sidesteps this issue by only having new elements load or change outside of the users perspective. This allows Bloomaway to take a user from New York to Paris without them even knowing they moved. Like a dream, we can seamlessly link one space to another.
+
+/Bloomaway is the must-have tool for any business looking to leverage the value of VR./
+
+***** Production
+***** Technology 
+***** Monetization
+***** Features 
+***** Benefits
+***** Evolution of Development
+
+
+
+:B2B_VR:
+:MusicVR:
+:Fifa:
+:Coaches:
+:Foodman:
+:Sports:
+:Journey25m:
+
+:Facematch:
+   +overview
+   +destination
+   +interactive page
+   +production
+   +submission
+   +sponsorship
+:Liveforever:
+:AnnonBlockchain:
+:Token_Sale:
+
+**** Virtual Events
+ :in-VR:
+ :NYE: 
+***** Description
+In stereoscopic 3D virtual reality we will bring you to 10 iconic cities around the world. All you need is the internet.
+
+Imagine teleporting from one city to another at a glance!
+
+This New Year’s Eve you can travel the world without leaving your living room.
+
+The streams will be centralized into a computer graphic game engine where you can access all 36 consecutive hours of New Year’s Eve festivities.
+
+***** Distribution
+The WebVR: The future is clear, VR will be accessed through our web browsers. Anyone with YouTube or Facebook can access our New Year’s Eve content, but those with high fidelity headsets and WebVR will navigate the world as the truest pioneers.
+
+All those who access WebVR and visit all 10 cities, will be entered to win a trip to the city of their choice (+1).
+
+***** locations
+We decided on these 10 locations based on our advanced and data-driven scouting report. The content will live live across twelve time zones.
+
+If we had to bring the production to market tomorrow, the destinations would be: Bikini Taipei, Dubai, Istanbul, Kiev, Paris, New York, Buenos Aires, San Francisco and Juno.
+
+
+**** Interfaces
+ :XR_color:
+ :XR_torus:
+
+**** Bloomaway
+
+** Services
+*** Why XR
+**** Connect:
+
+XR allows us to connect, share and engage more viscerally than ever before.  Humans have been systematically communicating since persian curries and greek rail systems in the 6th century BC(E).   For several hundred years, there was little advncement in horse speed or volume, but upon the discovery and understanding of electricty, we had an avanlanch of advancements in communication.   
+
+Begining with the telegram and then the telephone, we shorted commuication over long distance to an explosive extent.  What took months could be done in minutes.   As we further adapted communication tools, we improved the quality, and volume, forging industries like radio and tv to communicate on a mass sale.  these mediums we capitalized and ontent became controlled by governments and money.  
+
+ As hardware advanced, we learned to communicate directly on private netowrks of universiies (arpanet), businesses (another example) and then linking everyone into one web with single protocal and a simple set of rules, with the world wide web, in 1990.   This gave communication a far futher reaching infrastructure for all media.   Today, we've a new form of content, as digital information has evolved from audio, to moving images, and now into replciated environments, with CXR.
+
+**** Understand
+**** Expand
+**** Explore
+
+:build_XR: 
+*** Conultation
+**** introduction
+- Educating
+- Training 
+- Business Strategies
+- Sourcing Development
+- Negotiating 
+**** Package Programs
+**** Industry Solutions
+
+Education, Public Health, Travel, Entertainment, Space Exploration, Real Estate, Architecture, Design, and many more industries are finding solutions to their gravest challenges with the application of immersive media by extending reality (XR).   The adoption of 3D computing will become as ubiquitous as mobile devices are today. However, uncovering solutions and making use of the technology is up to us.  Share your challenge and we can find a solution together. 
+
+****** Architecture and Engineering Construction
+******* Cross Platform virtual reality enviironments
+        designed in virtaul reaity engines, traditional used for video game making, to produce interactive 3d environemtns to put you inside of your deisgns.
+******* Scenario Planning
+Your own 3d models transformed into VR environments for you to engage and interact with, manipulate and asses the constribtability impacts or costs.
+******* Timely and cost effective
+accomplish more, quicker, by better comprehensiving you work by 
+
+****** Auto Motive
+****** Sports
+****** Enterprise
+****** Entertainment
+
+**** Tactical Applications
+****** Fund Raising
+****** Marketing
+******* Branding 
+******** Sponsor Event
+******** Product Placement
+******* Call to Action
+******* Stunting / PR
+******** Live Event
+******** Gamification
+
+****** Colaboration
+Virtual Chat Rooms let us seemingly stnd in the same room as another, thought millions of miles away.   Through thin flexible fibers with a glass core light signals (fiber optics) send data and information at a rate of 50Mps.  Our movements and voices are read and replicated for recipeients to experience in sumulation software, that we are now calling "virtual reality".
+
+**** Needs Analysis
+
+We provide access to advance technologies and advise on related markets.  As needed we can source development, manage project execution and publish experiences.  How can we help you?
+
+[text box: What is your initial XR idea?]
+[text box: Why? ^^ ] 
+
+Scope can drive budget or budget can drive scope.  
+
+Please provide a complete user story that walks us through user's experience, from placing the headset on, to taking it off and sharing the with his friends.
+
+[text box]
+
+or
+
+An investment range, and bullet point key elements, goals or parameters.
+
+[text box]
+
+[make an appointment] <-- calendar integration
+
+**** Technical Support
+Want us to outfit your location and install customized VR rig
+**** Strategy Development
+
+XR can be a tool to reduce internal costs, or increase sales.   You understand your industry.  We understand XR.  Together, we can devise and execute a plan to disrupt modern methods, accelerate business and earn a measurable return on the time, money and resources we invest.
+
+[text box: What industry?]
+[text box: what is the goal]
+[text box: who is the audience]
+[text box: what does the audience care about?]
+[text box: what does your superior care about?]
+[text box: what is the timing and budget?]
+
+=== book an appointment
+**** Resource Center
+
+Nova is dedicated to souring emerging technologies from around the world.  Our aim is to make these information technologies available and applicable for you to achieve your goals. The frontier's we're investing the most of our resources to are the integration of machine learning technologies, neurobiological interfaces and real-time telecommunications of body movements and emotional expressions alike.  
+
+
+https://orgmode.org/orgguide.pdf
+
+
+
+****** Education
+We provide access to a range of resources from learning  materials of top Universities to the latest word on the streets of  the underground.   In 2019 we will launch our VR Education Portal.  Here will dwell a wealth of interactive information to be consumed in real-time and in room-scale (3D space).  You'll have access to learn from professors, experiment with tinkerers, and match wits with the anonymous avatars of the subculture innovators who push the limits of information technologies.  
+​
+****** Quick Downloads (Featured downloads)
+- Nova XR Overview Deck
+- Mixed Reality Virtual Camera
+- Featured Downlaods
+
+****** Publications [PAGE LINK]
+****** Academic Research 
+****** Tech Tools and Sofware
+
+*** Production
+**** Design  
+***** Sketching
+***** Storyboarding
+***** Scripting
+     
+We script great scripts to make great games.  Kyle's scripts our scripts quick.  It's like scripting a play but with the bounlessness of modern computi
+**** Develop
+***** Dev intro
+A *game engine* is a software framework designed for the creation and development of interactive 3D media.   Games can be classified as having players, goals and rules.  We build XR in game engines.  
+
+Our developers use them to create Virtual reality and augmented reality games for consoles, mobile dvices and personal computers. 
+***** Game Engine
+
+The core functions are typically rendering 3D graphics, a physics engine orcollision detection and collision response systems, networking, streaming, memory management, threading, localization support, and scene graph.  Your engine may also include video support for cinematics, 3D audio for sonic immersion, biometric software to read physicological reactions, or artificial intelligent algorthms to better index user data.
+
+We economize the process of game development by reusing/adaptig the same game engine to create different games.  This also makes it easier to port games to multiple platforms.
+****** Unreal Engine 
+A game engine developed by Epic Games, first showcased in the 1998, stelath first person shooter, MMORPGs, RPGs, 
+- Code written in C++
+- Features a high degree of portability 
+- A tool used by many game developers today.
+
+@Jacques VR graphic w/ semantics
+****** Unity Engine
+***** 3D Modeling
+Objects and environemtns we create in 3D modeling software, maya, blender, rhino.   
+
+@JACQUES please say something HERE. ^^^^^
+
+In 3D computer graphics, 3D modeling (or three-dimensional modeling) is the process of developing a mathematical representation of any three-dimensional surface of an object (either inanimate or living) via specialized software. The product is called a 3D model. It can be displayed as a two-dimensional image through a process called 3D rendering or used in a computer simulation of physical phenomena. The model can also be physically created using 3D printing devices.
+ 
+***** Animation
+- You are inside the animation
+- think: walking through 100 acre woods with winnie the pooh
+- animationed avatars to engage
+- define "rigging"  What in VR is rigged?  WHy is it rigged?
+
+***** Finite State Machines:
+      finite state machines are mafe of ecplicite states,.    they each have their own comands and logic per frame, as well as upon entering or leaving a state.  States have rules tha indicate when they can transition and how.  For example "observing", "exploring" and "engaging" states of an AI bot in a VR experience.   In the engaging state the bot might be reacting more direectly to your movements and voice cues, while in "exploring" it is concerned with the surroundings and where it's string of attention goes.  If the bot has AI, and learns over time, it will develeop its own prefrences based on however it is programed to.  For exmple..
+
+A finite-state machine (FSM) or finite-state automaton (FSA, plural: automata), finite automaton, or simply a state machine, is a mathematical model of computation. It is an abstract machine that can be in exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to some external inputs; the change from one state to another is called a transition. A FSM is defined by a list of its states, its initial state, and the conditions for each transition.
+
+***** Artificial intelligence
+****** AI Assistance
+For example, to command our AI assistant, "Take me to Buenos Airesd"  The machine simply needs to know to teleport to that 360 video content.   DzBring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+
+We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
+
+*Contextual awareness* allows the machine to compare the query to known information, such as location, recent searches, and recent conversation with contacts.  Using sensors on their phones, watches or whatever other device they connect to our experience we can post to social and read available they give us permission to
+
+The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices are loaded with a ton of sensors. They make us humans the cheap sensors machines need today. We gather the knowledge and data that the system needs to do its work
+
+****** Index Data
+artificial intelligent algorthms to better index user data.
+****** Characters:     
+Imagine a virtual character with behaviors that were Dzsmartdz as in it learned from past mistakes.   You already know this from referral automation on the web especially within services you tow which subscribe.
+
+ In virtual reality, these DzAI Charactersdz will improve their suggestions and improvisation with generative design.  These will be non-player characters (NPCs) but simulating human behavior and thought the best it can.   As Turing tested, If you cannot distinguish the difference between another player and a NPC, what’s the difference?    
+
+The most obvious example is a personalized host like Siri, Alexis, or Cortana.    In virtual reality, they will represent beyond their voice, with a physical body.   You can of course customize your virtual companion not just by appearance but by personality, attitude, relationship and onward.   With vast personalization settings available for the user to adjust we give control to the user instead of guessing what they want.  we can adjust the algorithms to our own preference, and then they learn on their own.    
+****** Generative Design  
+****** Personalizations
+Unity is a cross-platformgame engine developed Unity Technologis a  consoles mobile devicean websites First announced only for  OS X, at Apple's  Worldwide Developers Conference  in 2005, it has since been extended to target 21 platforms. Nintendo provides free licenses of Unity 5 to all licensed Nintendo Developers along with their software development kit s (SDKs) for the  Wii U and Nintendo 3DS Family
+
+****** Self Learning 
+AIs will teach itself to interact with avatars by practicing on the hundreds of avatars.   Everyone’s funded participation goes to the build of a single AI who’s job is to interact with real people.
+Artificial intelligence (AI) is intelligence exhibited by machines. In computer science, the field of AI research defines itself as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of success at some goal. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving" (known as Machine Learning).[As machines become increasingly capable, mental facilities once thought to require intelligence are removed from the definition. For instance, optical character recognition is no longer perceived as an example of "artificial intelligence", having become a routine technology.Capabilities currently classified as AI include successfully understanding human speech, competing at a high level in strategic game systems (such as Chess and Go, self-driving cars, intelligent routing in content delivery networks, and interpreting complex data.
+
+***** Phsycis Engine
+***** Sourcing Development 
+We often hire third-party developers dependent on tasks, timing and budgets.   Are most trusted developers have a considerable amount of input on the expereiences design and content. 
+
+The business arrangement between the developer is governed by a contract, which specifies a list of milestones intended to be delivered over a period of time. By updating its milestones, the we verify work is progressing quickly enough to meet deadlines.  We work closely to direct the developers if the experience is falling short of expectations, because Nova guarentees its work.   
+
+
+***** Physics Engine*
+A physics engine is computer software that provides an approximate simulation of certain physical systems, such as rigid body dynamics (including collision detection), soft body dynamics, and fluid dynamics, of use in the domains of computer graphics, video games and film.
+
+***** Motion Capture*
+(Mo-cap for short) is the process of recording the movement of objects or people. It is used in military, entertainment, sports, medical applications, and for validation of computer vision[2] and robotics. In filmmaking and video game development, it refers to recording actions of human actors, and using that information to animate digital character models in 2D or 3D computer animation.
+
+***** Cloud Computing*
+Cloud computing is a type of Internet-based computing that provides shared computer processing resources and data to computers and other devices on demand. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources (e.g., computer networks, servers, storage, applications and services), which can be rapidly provisioned and released with minimal management effort. Cloud computing and storage solutions provide users and enterprises with various capabilities to store and process their data in either privately owned, or third-party data centersBthat may be located far from the user–ranging in distance from across a city to across the world. Cloud computing relies on sharing of resources to achieve coherence and economy of scale, similar to a utility (like the electricity grid) over an electricity network.
+
+***** Blockchain*
+
+A distributed database that maintains a continuously growing list of ordered records called blocks. Each block contains a timestamp and a link to a previous block. By design, blockchains are inherently resistant to modification of the data — once recorded, the data in a block cannot be altered retroactively. Through the use of a peer-to-peer network and a distributed timestamping server, a blockchain database is managed autonomously. Blockchains are "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically
+
+***** Cryptocurrency*
+
+A digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency. Cryptocurrencies are a subset of alternative currencies, or specifically of digital currencies.
+
+         How ^ makes XR
+ 
+- in VR currencies:  purchase virtual items, special access, new experiences, and general nbartering with other networked avatars
+
+- think: of it as a more secure, anonymous venmo in VR Read more at Nova-payment systems publiation coming March 30
+- animationed avatars to engage
+- define "rigging"  What in VR is rigged?  WHy is it rigged?
+***** Internet of Things*
+The inter-networking of physical devices, vehicles (also referred to as "connected devices" and "smart devices"), buildings, and other items—embedded with electronics, software, sensors, actuators, and network connectivity that enable these objects to collect and exchange data In 2013 the Global Standards Initiative on Internet of Things (IoT-GSI) defined the IoT as "the infrastructure of the information society." The IoT allows objects to be sensed or controlled remotely across existing network infrastructure, creating opportunities for more direct integration of the physical world into computer-based systems, and resulting in improved efficiency, accuracy and economic benefit in addition to reduced human intervention.
+
+***** 360 degrere video*
+Also known as spherical videos, are video recordings where a view in every direction is recorded at the same time, shot using an omnidirectional camera or a collection of cameras. During playback the viewer has control of the viewing direction like a panorama.
+
+
+***** Facial Recognition Systems*
+A face recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a face database.
+
+***** Biometric Software*
+Biometrics refers to metrics related to human characteristics. Biometrics authentication (or realistic authentication) is used in computer science as a form of identification and access control.   It is also used to identify individuals in groups that are under surveillance.
+
+***** Volumetric Display*
+A volumetric display device is a graphic display device that forms a visual representation of an object in three physical dimensions, as opposed to the planar image of traditional screens that simulate depth through a number of different visual effects. One definition offered by pioneers in the field is that volumetric displays create 3D imagery via the emission, scattering, or relaying of illumination from well-defined regions in (x,y,z) space. Though there is no consensus among researchers in the field, it may be reasonable to admit holographic and highly multiview displays to the volumetric display family if they do a reasonable job of projecting a three-dimensional light field within a volume.
+
+
+
+***** *Python, C++, C#*
++ Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. An interpreted language, Python has a design philosophy which emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly braces or keywords), and a syntax which allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java.
+​
+C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+​
+C# is a multi paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma.   C# is one of the programming languages designed for the Common Language Infrastructure.
+
+
+
+***** Emotio Recognition*
+
+Emotion recognition is the process of identifying human emotion, most typically from facial expressions. This is both something that humans do automatically but computational methodologies have also been developed.​
+
+
+
+
+
+**** Deploy
+
+*** *VR/AR platforms*
+
+We develop for all platforms, including HTC Vive, Oculus Rift, Samsung Gear, Microsoft HoloLens, Google Daydream, TheWebVR, Sony Playstation and per special request
+
+***** Distribute
+
+Our recommendation is to approach distribution similar to the approach of any other content you might create.  The key is still simply putting the correct message in front of the correct audience with effective frequency.  10 million people in the US use VR.   As early adopters, they will influence 50%+ of the market.   
+****** Publishing
+****** Promotiom
+******* Paid
+- buying social
+- Native adverts
+******* Own
+- social media handles
+- SEO
+******* Earned
+- PR
+- news articles written
+- partnerships
+  + Studios
+  + Publishers
+  + Influencers
+****** Activation
+- pop up shop
+- perminant installation
+
+***** Audiences
+****** Early adoptors
+They influene 50% of the market.  [to format graph]
+****** Students and Early Influencers 
+18-34, II $100k+, frequent traveler, experience-seeker, anxious to learn, highly impressionable, great networker, Fields of engineering, computer science, art + design, etc
+****** Early Adopters + Innovators       
+18-34, II $100k+, frequent traveler, influential, good networker,  Works freelance, at start-ups to or on project development teams, older Millennials coming into money and support only themselves. 
+****** Youth + Young Families 
+8-17, 34-49 HHI 200k+, frequent traveler, disposable income, educated, open mind With children in the house and careers in technology.  
+***** Gamers
+***** Data Review
+- biometrics
+- Analytics
+- Distribution
+** Publications
+:Financial_Strategies:
+:Marketing_Research:
+:User_interface:
+:Lab_Live:
+:News:
+
+* Partnerships
+** Build XR
+*** Build XR Feilds
+*** Build XR Interactive Production Pipeline
+:Partnership_studios:
+
+** Portal --> Login
+:login: 
+*** Campaign
+:admin:
+:Media:
+:Analytics:
+:Logs:
+
+** Productions
+
+:Virtual_Experiences:
+:Augmented_Reality_apps:
+:Facial_Recognition_Software:
+:Mixed_Reality:
+:Projection_Mapping:
+:Robotics:
+:360
+:Live-streaming:
+:volumetics:
+:"Holography":
+
+*** Aus
+-situation
+-solution
+-execution
+-results
+*** Ital
+-situation
+-solution
+-execution
+-results
+*** Taiwa
+**** Situation
+
+Taiwan is of the lesser known Asia destinations but has an amazing culture to share. We needed to stand apart from the rest of Asia. Knowing we will not brand bigger than China or Japan in the short-term, we complimented them.
+**** Strategy: 
+(1) Bring a credible message about culture, food, beauty and other features of the destination. 
+(2) Transfer the earned trust and credibility of a known personality to highlight “Why Taiwan”. 
+(3) Share from a first person perspective. 
+(4) Develop PR exposure through creative engagement
+
+**** Execution
+ Travel expert, Pauline Frommer, brought the travel show to Taiwan. We created an array of content to share across multiple distribution channels. Integrate with entertainment darlings and showcase the culture through event partnerships in Bryant Park.
+
+**** Results
+- 7% increase in US visits year over year. 
+- Renewed production program at a 45% increase in investment. 
+- 12% over-delivery of media commercials. 
+- 10 million media impressions through “earned media”. 
+- Evergreen content to re-purpose indefinitely.
+
+*** HR
+**** situation
+Hard Rock Riviera Maya had a PR objective to earn big media.   They had access to top music talent and a badass resort in Mexico.   
+
+**** solution
+
+Elvis Rocks Mexico -  Riviera Maya
+
+Throw a massive party
+400 attendees 
+Match Top music Talent
+Strategically promoted
+Earn coverage
+
+**** execution
+Live From Mexico we broadcasted a weekend of dysfunctional family fun to 63 million.   Live music performances from Nick Jonas and Brett Michaels, all the beach, spa and partying anyone person could handle... 
+
+**** results
+- 201,008,806 Gross Impressions
+- 280,000 contest entries
+- $2.59 million media/PR value (15cpm)
+- 86 million social media impressions
+- 400 attendees
+- $97,000 avg HHI
+73% Earned Media
+
+**** Want to know more?  
+****** Expand story here, or 
+It was the dead cold of winter.  Those endlessly numb days.   It was still dark but half the city was on their way to work.   At 7:29AM while inching through traffic, Elvis Duran in his jolly voice announced to the country his plans for vacation.   His words reverbed live to 75 cities and  was giving away vacations to5 million people.  This May he and his family would be flying to the Hard Rock Riviera Maya Resort in Mexico.
+​
+Hyped as the vacation of the year, 400x people purchased packages to join the parties.
+​
+We recruited Nick Jonas and Brett Michaels to join.
+​
+Over the weekend hundreds lived life to the fullest via Hard Rock's all inclusive, while millions enjoyed vicariously.   The program earned more than 85 million impressions on social media, alone.  
+
+Media outlets across the country picked up the fun, earning more than 200 million impressions and more than $2.5 million in media value.
+​
+The vacation has now become a tradition.
+
+****** Submit request
+subit a request and we will reply within 48 hours.
+
+[text box: name]
+[text box: email]
+[text box: What would you like to know more about?]
+=== request
+
+
+
+Contacta Dana Barasi
+
+
+*** NYE
+
+*** InVR
+
+*** Cayman
+
+Nova animation of client logos
+
+* About nova
+** Who we are
+
+**** Design
+***** World
+Nova XR provides world, interface and story design. Gravity has sculpted all of our physical world - from its beauty to its mystery.
+
+In XR, we build the world around us and construction is only limited by the confines of our imagination. Nova XR designs succinct and intuitive worlds. You live your own story.
+
+***** Interface
+We simplify complex technologies into intuitive designs.
+
+Navigation and interaction within XR Media is enriching, empowering, and seemingly void of all technical interfacing, making it the smoothest and most lifelike experience.
+
+With media becoming multidimensional, interfaces are evolving. We program into the world around us everything from graphics to functionalities to high-tech learning strategies. XR is opening new doors.
+
+***** Story
+
+Nova XR provides world, interface and story design. Gravity has sculpted all of our physical world - from its beauty to its mystery.
+
+In XR, we build the world around us and construction is only limited by the confines of our imagination. Nova XR designs succinct and intuitive worlds. You live your own story.
+
+**** Technology
+
+***** Virtual Reality
+We use technology as an artist uses paint. XR media promises to enhance our lives through shared experiences developed by real people.
+
+As the internet democratized information, XR will democratize experience. We are embarking on a new frontier of connectivity.
+
+Nova XR sources new applications of scientific knowledge from around the world - compiling it for your use.
+
+***** Augmented Reality
+
+Augmented Reality (AR) is a powerful tool to simplify complex ideas and democratize education.
+
+AR superimposes digital graphics atop our physical environment. It is ideal for collaborative work or training, because it enables easy visual sharing.
+
+Through computer vision we can model the world around you and turn everyday scenarios into interactive experiences.
+
+AR forces you to reconsider how media and content serve the user. Your work, your creations, and your activities can all be digitized into your surroundings.
+
+Nova XR will assist you in adapting the world to your workflow.
+
+****** AR in Retail
+
+******* What you do:
+Digitally showcase you products in-store
+******* What it will do for you
+Assist you to sell more
+ - quicker push people through the sales funnel
+ - better data on customer
+ - broaden audience's engagement, better branding incressed likelihood of purchase
+ - reputation (branding) --> XR is an inevitable technology.
+ - library of 3D assets and programming
+ - network infrastructure
+ - publishing record
+******* How it works:
+- identify a place in yor store you'd like to display content
+- place marker :link-marker:
+- Hold up smartphone with Nova(bizname)App open
+- Visual of product, dianamic and connected
+
+******* Next Steps:
+ - Complete XR Creative Spec
+
+=== submit
+****** AR App Retail - SALES
+*Distribute quicker, faster.
+
+All digital tools available in one app
+Go Paperless: Eliminate the need for printed materials
+
+
+
+
+
+
+
+
+ - Submit deposit
+
+
+
+
+:philanthropy:
+
+Join our mission to spread good fortune.
+
+**** Local
+- programming, art and business plasses for project kids
+- design classes 
+**** global
+***** Connect the isolated
+
+Provide internet access to remote villages in Albania, eabling them to connect with the world.   Further, we provide free online classes and mentor them in developing their computer skills.  These skills allow them to be be paid at 6-factor of the current rate to work at a bazzar, airport, or restuarant.  They will provide for their entire family through remote computer work.  
+
+=== Provide Internet access 
+***** Develop young talents
+
+===  voice acting classes to children in Colombia
+
+=== "paypal donation
+: link : 
+
+
+*** apprentices:
+
+Interested in Joining Nova as an Apprentice?
+
+Part and full time positions available:
+
+**** Apprenticeship Positions:
+- Game Engine Developers
+- Coders & Hackers
+- Graphic Designer, Videographer, Audio Engineer, Animator
+- Office Assistant
+- Operations Manager
+
+**** Characteristics
+- Organized
+- Prompt
+- Accountable 
+- Thorough
+- Innovative 
+- Determined
+- Driven
+- Self-starter 
+
+**** Skills
+- Video creation
+- Animation
+- Ad audio engineering
+- Photogrammetry
+- Networking
+- Sketch
+- Sales
+- Digital marketing
+- Python
+- Java
+- React
+- Photoshop
+- SQL
+- JS
+- C++
+- Unity
+- Unreal engine
+- WebGL, WebXR / WebVR
+- Blockchain, Ethereum
+- Machine learning
+- Neuro research
+
+[textbox: tell us about you]
+[textbox: link to content]
+=== calendar visit
+
+** location
+** contact
+
+
+
+*** *Learning*
+
+***** How
+We retain information best when we are actively involved, as we learn with our entire body. Similar to “muscle memory” XR content enables embodied cognition for people to see, hear and touch in simulated situations that better training and catalyze comprehensive understanding.
+
+***** What
+Anything you might learn from a video, you’ll soon more quickly learn I XR. Think about training videos, tutorials and learning modules. Pretty bland, huh? Well, XR will take you from behind that desk and place in you in the field to learn. Research sites, production plants, class rooms, space shuttles, and imaginably any place that would be a helpful environment to learn in, can be replicated and programmed for customized learning.
+
+***** Who
+As with most technologies, the military and science centers have been for decades developing these tools to better place people in simulated situations. Now, major brands and education institutions are further bringing XR into the hands of their employees and empowering entire teams of every-day folks to learn more, faster. May it be to practice a dangerous feat, to collaborate on research, or to familiarize new employees, XR is being adopted across the board. For more on industry applications, please visit our solutions Page.
+
+***** * Situated Learning* 
+
+Situated learning is a theory on how individuals acquire professional skills, extending research on apprenticeship into how legitimate peripheral participation leads to membership in a community of practice. Situated learning "takes as its focus the relationship between learning and the social situation in which it occurs".
+The perspective can be contrasted with alternative views of learning: "Rather than defining [learning] as the acquisition of propositional knowledge, Lave and Wenger situated learning in certain forms of social co-participation. Rather than asking what kinds of cognitive processes and conceptual structures are involved, they ask what kinds of social engagements provide the proper context for learning to take place".
+
+***** * Emboied Cognition *
+
+The theory that many features of cognition, whether human or otherwise, are shaped by aspects of the entire body of the organism.  The features of cognition include high level mental constructs (such as concepts and categories) and performance on carious cognitive tasks (such as reasoning or judgement).   The aspects of the body include the moto system, the perceptual system, bodily interactions with the environment (situatedness) and the assumptions about the world that are built into the structure of the organism. 
+ 
+
+
+* Novacognito (obscr)
+
+*** Money
+**** Invoices:
+**** Credit Card Payment 
+**** Other money info
+
+*** proposals:
+ - GAE
+ - Facematch
+ - Wall Street Rocks
+ - Rolls Royce
+ - BGB
+ - Unilever
+ - BGRS exec sum
+ - Dwellworks
+
+*** teamaccess
+*** Rent_Space:
+Want temperary work space?   NovaXR Studios has a space share program for developers, artists and enthusiasts. 
+
+Sunny, spacious VR Stuio on the waterfront.   
+
+$60 per week (negotiable)
+7-10pm access
+
+[text box]
+=== calendar visit
+
+300x300 area, high ceilings, fireplace, access to kitchen and VR studio.   
+$2,600 per month (negotiable)
+
+[text box]
+=== calendar visit
+
+
+
+*** Content
+***** Text
+****** Books
+****** Short-reads
+***** Videos
+***** Audio
+***** Channels
+***** Graphic Novels
+***** Channels
+**** Places
+**** People
+     
+*** :Credits
+    
+Shout out to our friends at:
+
+Redu, Ronaldo the T shirt shop, Real Estate Mogal Maryam, Potential Synergy, NYU Media Lab, MASAS Music, and whoever else we want here..
+ 
+Also, special thanks to the programs and softwares we use such as :
+
+Emacs community, wikipedia, and other mentions of free software that make this world more connected.
+
+
+*** Nova_Membership:
+
+Access to Exclusives
+
+  - LabLive Video Outtakes
+  - XR Financial and Marketing Strategies 
+
+
+-- pay
+-- log info into database
+-- send email receipt and password for access
+ 
+
+
+
+
+*** Photo_Shoot:
+
+*** Creatiive spec:
+
+# Creative Form process: 
+-- see and complete
+-- autogenerate basic idea.
+-- reccomend connecting with real person
+-- nova receives callendar request
+age
+
+
+**** Sales
+
+What is the objective of this partnership?  -- WHy?
+
+What is the budget?
+
+What is the timing?
+
+WHo is making the desicion to this partnership?
+
+How will you measure results?
+
+  
+**** Marketing
+Who are the users?  Describe them like your neighbor.
+
+Do you have a script?
+
+
+How will your users benefit?
+
+Who will they share it with?
+
+
+**** Tech
+
+Where will the user experiene this?  -- Why?
+
+When will the user experience it?
+
+How do you know this was 
+
+distribution partners?
+
+Are we integrating anything into your current IT systems? - which?
+
+
+**** Design
+
+
+Why do you want to create VR? -- WHy?
+
+What aer the sensations they will feel?
+
+What is the climax of the experience?
+
+What assets can you contribute?
+
+Where will they experience the VR?
+
+How does your company benefit from making this VR?
+
+Brand charter?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* GUTHUB MESSAGE:
+
+***README***
+
+** MISSIONS IN ORDER
+
+Let's get these all done and out of the way this week...  Mission twos should be done by Wednesday.
+
+** Mission 1:
+*** KK add text
+*** JB List graphics to all pages
+*** TB prep coding plan of action Jan 15 - Jan 25
+
+** Mission 2
+*** JB Draft 1 of all pages submited
+*** KK once over entire document
+*** KK Add all the product pages, and other proposal content
+*** JM Add 10,000 words
+*** TB Submit coding schedule for Jan 25- Feb 3
+
+** Mission 3
+*** JB Draft 2 of all pages
+*** KK once over the enter document
+*** JM once over entire document 
+ 
+
+KEY FOR MARKUP
+
+* menu Title Ones
+** menu Titles twos
+*** menu t3 menu pages
+*** :non-menupages: 
+**** pages title 1s
+***** page title 2s
+****** page title 3s
+******* page title 4s
+******** page title 5s
+page text
+# side panel open/close
+: Links :
+http://www.astro.uva.nl/~dominik 
+file:papers/last.pdf
+=== button --> :page:
+
+WEBSITE TEXT BEGINS HERE
