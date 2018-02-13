@@ -1,0 +1,23 @@
+
+* Infinite Gallery WEbtext
+
+Showcase in the Infinte Gallery!
+
+The Infinite Gallery allows you to display your content in virtual space, pulling from an infinite data source. In Information is displayed on the walls as it would be in an art gallery. Your customers can step inside this content and enter an additional portal within VR. We're able to integrate your existing content (photos, videos, products, etc.) or create something from scratch. 
+ 
+
+** Move forward
+Send your paintings into the Gear VR Headset and provide your
+clients with a virtual ride into the future of art.
+
+** With an original program
+We developed the infinite Gallery inside Unity, the most reliable VR devellopement software in the industry.
+
+** Where viewers Explore in VR
+We'll allow the viewer to step inside the painting and for as long as wished, they'll explore a world created by the artist's mind.
+
+** And sell them directly there
+We set up your preferred currency exchange program inside VR and begin selling directly from home.
+
+
+ Much like in the late 90's and early 2000's when Paypal and other online currency exchange programs created a means through which the user could buy products right from home, your guests will now be able to purchase paintings from directly inside VR.  Read more at /Novapay/
