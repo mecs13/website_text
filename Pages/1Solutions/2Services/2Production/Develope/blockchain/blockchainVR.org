@@ -1,6 +1,24 @@
-***** *Blockchain*
+#Blockchain
     
-A distributed database that maintains a continuously growing list of ordered records called blocks. Each block contains a timestamp and a link to a previous block. By design, blockchains are inherently resistant to modification of the data — once recorded, the data in a block cannot be altered retroactively. Through the use of a peer-to-peer network and a distributed timestamping server, a blockchain database is managed autonomously. Blockchains are "an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically
+Simply, a "block"-"chain" is a distributed database (or ledger) that maintains a continuously growing list of ordered records.  This continously growing ordered list is called a "block".  Itis connecting linearly to the other blocks, and making it a "chain" of blocks.
+
+Most improtant to understand about a "Blockchain" is that one is imutable, automated, secured by cryptography, and distirbuted
+
+
+## imutable
+Blocks are designed to be inherently resistant to modification of the data — once recorded the data in a block cannot be altered retroactively. 
+
+## automated
+Through peer-to-peer networks and a distributed timestamping server, a blockchain database is managed autonomously.
+
+## distributed
+Records are spread evenly throughout all participants
+
+@jacques graphic on "distrbuted/decentralized/centralized"
+
+
+Blockchains enable virtual reality to 
+
 
 VR on the Blockchain  
 

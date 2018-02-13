@@ -1,0 +1,13 @@
+ 
+*** Bloomaway
+
+When you first step into VR you may not know what to do or where to go. This can feel similar to the way time and space and gravity are often altered inside a dream. Bloomaway is an interface that empowers users of all experience levels to move through Virtual Reality intuitively. It only works by relying on the user's attention (where they focus their eyes), intention (what they reach out to touch with their hands), and intuition (trusting that the scenes and sounds as presented within Bloomaway are clear enough for even the most inexperienced user to understand where they are and how to travel somewhere else).
+
+**** Benefits:
+Bloomaway reduces the learning curve in VR by eliminating the need for controllers, relying instead on natural touch and hand movement. Our design responds to the first instinct most people have when entering VR, the desire to touch what they see. Bloomaway is a fluid experience.
+
+**** Navigate Locations
+Since we know where a user is looking, we also know where they are not. This simple concept allows for many practical uses for the technology. Since VR experiences are so lucid, anything that abruptly appears or disappears can cause dizziness. Bloomaway solves this issue by only loading or changing elements of visual perception when they are completely out of the user's sightline. In one version of Bloomaway, the user sees a virtual map, selects their desired destination by reaching out and touching it, and is then prompted by an audio command to turn their head 180 degrees. Once they turn around they find themselves in an entirely new environment Through this feature, Bloomaway can take a user from New York to Paris at the touch of a map without the feeling of movement. Like a dream, Bloomaway seamlessly links one space to another.
+
+**** In Business
+One of the most immediate business applications for this program is within the relocation industry. When a company decides to relocate an employee to another city, it's a costly adjustment that requires as many as three visits to the new city for the employee and their family. Factors like living arrangements, transportation options, schooling for their children, and general awareness of the city's geography are all part of this acclimation process. Displaying key parts of the city to the employee in Virtual Reality reduces the number of visits (and thus transportation and accomodation costs) and greatly reduces the financial burden to the company facilitating the relocation. 

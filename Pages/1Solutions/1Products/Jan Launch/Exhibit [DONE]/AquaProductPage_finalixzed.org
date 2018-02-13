@@ -1,0 +1,42 @@
+* Objective 
+Create curiosity and excitement through VR that inspires more guests to visit the Aquarium
+
+* Strategy:  
+Build a family-sized Virtual experience in which some of the most appealing fish swim to within arm's length of your guest.
+
+* User Story
+A family of 5 walks into the Aquarium and sees a 3D image on the wall showing people swimming side-by-side with the sea life that lives in the building. The elementary-age kids loved prentending to scuba dive over the summer, and they're bouncing around at the thought of this surprise virtual experience. The parents know it'll be an education in spatial awareness and biology and create an emotional connection between their children and the other species on earth. Putting their name on the list that says the next opening for the VR experience is at 1:30PM, they say, "Perfect, we'll leave the cafeteria at 12:30PM to give ourselves plenty of time." All five of them are able to enter the Virtual expeirence together and whhile remaining in a YxZ piece of carpet they're able to experience the exhileration of swimming beside a hump back whale.
+
+* Investment
+Create Visual underwater exp: 15k - basic fluid dynamics and underwater scene
+models: 10-25k
+Interactivity: 20-30k
+3D Sound: $10 - 30k
+Haptics: $10 - 30k
+Fluid dynamics: $10-20k
+
+* Financial Analysis (continued research from Thomas)
+-Future Fin strat: licensing and distribution
+- 18 Month display 
+
+** Research:
+-Companies that build real world interactions 
+-Whether real world interactions are covered in the Press, 
+-how their ROI is measured /what's its value
+
+
+** marketing of the exp to attrack ppl 
+Value of offering this exp in negotiations (partner connection)
+Presenting chris with leverage to go into negotiations (gets into mags with Hotel)
+Distribution channels (overview and 10K/VR app hosting)
+promotional tool
+
+* Development Timeline: 
+Production pipeline
+Tech architecture 
+
+* Internal cost: 
+Cost Haptics
+Cost 3D audio
+Design, development, testing
+instalation and hardware and maintenance 
