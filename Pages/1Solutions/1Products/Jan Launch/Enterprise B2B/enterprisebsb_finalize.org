@@ -1,3 +1,10 @@
+Abstract:
+
+XR allows people to visit places they otherwise could not go.  Like the inside of a combusting engine.  Businesses are capitalizing on the opportunity to develop XR because it educates buyers through active learning.   
+
+Here is an example of how big industry B2B might work.   In begins with understanding what materials are already one hand.  In this scenario with Rolls-Royce, they already have 3D models of their engine parts designed, and they want to repurpose them to drive marketing.
+
+
 * B2B Enterprise Marketing
 
 ** Introduction
