@@ -1,0 +1,40 @@
+
+* Objective:
+Design and build a virtual pre-move experience for assignees:
+- Provide a convenient and fun alternative to intercontinental travel
+- Inform, educate and inspire assignees and their families
+- Save on the burdens of visas, vaccines, transportation, et cetera
+- Earn a measurable return on investment
+
+* Solution
+Develop a global mobility service VR platform, built on three years of research and development in navigating virtual destination:
+
+Create a fully immersive, «gamified» experience where users can virtually dive into their potential new home. They will engage in a «day in the life» through an a-la-carte offering ofplaces, people and amenities.i
+
+* Strategy
+- Understand the pre-move orientation well enough to recreate it virtually
+- Produce a software pilot «VR» of host city
+- Install VR hardware at key locations for assignees (Bloomaway)
+- Measure employee satisfaction
+- Conduct financial analysis
+- Strategize expansion
+* Return on Investment
+
+Direct savings : On flights, meals, hotels, vaccines, visas, et cetera
+
+Client services : Assignees will be more prepared, less stressed, and impressed
+by the futuristic technologies leveraged by BGRS for their
+benefit.
+
+Data libraries : XR allows for very personal data collection which we can utilize
+to optimize client services. Increasingly popular within XR is
+using biometrical data and measures.
+
+Content: Own and repurpose VR media (photogrammetry, 3D
+models, UX/UI) (upgradable). As well as 4K video and 360°
+stereoscopic content.
+
+Intellectual property: Produce the technology (code and algorithms) to easily
+navigate a virtual visit to a destination. Building on three years
+of current work well develop a global mobility
+services VR platform.
