@@ -20,37 +20,37 @@
 - g chrome
 - mac book pro
 
-*3
+* 3
 - click "products" 
 - landed on products homepage
 - image for "architecture" and 'infinite" are the same
 
-#4
+* 4
 - click "bloomawa" on products page
 - see Bloomaway abstract 
 - first sentence needs rewritten 
 
-#5
+* 5
 - Click "who we are" 
 - see intro on right column  
 - cannot scroll through with arrows
 
-#6 
+* 6 
 - click "who we are"
 - click "philosopby" 
 - click title 1 "who we are" but do not return to "who we are homepage" 
 
-#7
+* 7
 - click Lab Live
 - Arrive lab live home
 - menu pictures for all lab live posts are the same (NYE baloons)
 
-#8
+* 8
 - click "products" (when I was on the "partnership" page)
 - got to the products page but polar lights were background and products were not displayed
 - Shouldd have arrived at Products home page with products displayed in blog style beneath 
 
-AWESOME JOB
+* AWESOME JOB
 clicking among login, contacts, and legals creates smooth results and a generally awesome feel 
 
 
