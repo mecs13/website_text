@@ -6,10 +6,7 @@ Far from a computer scientist this
 - get hooked on Git
 - inutitive style
 
-
-
 - distributed repository
-
 
 ** The first three chapters are key
 
@@ -53,7 +50,7 @@ System goals were
 - simple design
 - strong support for non-leanr dev (thousands of parallel banches) 
 - fully distributed
-- can handle large projects
+  tl- can handle large projects
 
 GIT DONE BE BORN - and is still Grreaat.  it's incredibly fast, efficient with large scale prjects, and incredible branching ssytem for non-linear dev
 
@@ -63,7 +60,42 @@ GIT DONE BE BORN - and is still Grreaat.  it's incredibly fast, efficient with l
 Its different that other versioning systems, so like in mathematic, FORGET WHAT YOU KNOW
 
 
-Git thinks about data differnt
+Git thinks about data differnt.  It stores modified files and links to the non-modified files from before.  It takes a stream of snapshots
+ 
+
+its a mini filing system copied from previous generation.   
+
+**** nearly every operation is local
+- the entire history of the project is local.  this enables you to work offline, or off VPN.  just commit, and when you connect  to the netowk again it will auto upload.   
+**** git integrity
+- everything is check summed before stored, then reffered by checksum. (impossible to make a change without directory knowing about it.  
+
+you cant lose information.
+
+SHA-1 hash, a 40-character string of hexadecimal characters (0-9 and a-f) and calculated based on the contents.  Calculated based on the contents of the file.     
+
+
+
+
+
+* Three States
+
+** Committed
+
+Data is saved and stored in local database
+
+
+
+** Modified 
+
+Changed a file but not commited
+
+
+** Staged
+
+prepared for the next xommit
+
+
 
 
 
@@ -80,3 +112,4 @@ Git thinks about data differnt
 - branching model (the killer feature)
 
 
+ 
