@@ -1,0 +1,57 @@
+* Create Bug report
+
+1) what you did to replicate the bug (steps taken for bug to occur)
+2) what happened (the bug)
+3) what you expected to happen (what it would be like debugged)
+4) your browser name
+5) hardware you’re using
+
+* 1
+- command, (-)
+- left and right text boxes shrunk but also became devided and distance between them grew
+- Expected entire text to shrinkk but remain proportionate 
+- g chrome
+- mac book pro 11 in
+
+* 2
+- click linkedin tab
+- landed on "could not be completed page" (page hosted by linkedin)
+- arrive at Nova's linkedin homepage
+- g chrome
+- mac book pro
+
+*3
+- click "products" 
+- landed on products homepage
+- image for "architecture" and 'infinite" are the same
+
+#4
+- click "bloomawa" on products page
+- see Bloomaway abstract 
+- first sentence needs rewritten 
+
+#5
+- Click "who we are" 
+- see intro on right column  
+- cannot scroll through with arrows
+
+#6 
+- click "who we are"
+- click "philosopby" 
+- click title 1 "who we are" but do not return to "who we are homepage" 
+
+#7
+- click Lab Live
+- Arrive lab live home
+- menu pictures for all lab live posts are the same (NYE baloons)
+
+#8
+- click "products" (when I was on the "partnership" page)
+- got to the products page but polar lights were background and products were not displayed
+- Shouldd have arrived at Products home page with products displayed in blog style beneath 
+
+AWESOME JOB
+clicking among login, contacts, and legals creates smooth results and a generally awesome feel 
+
+
+
