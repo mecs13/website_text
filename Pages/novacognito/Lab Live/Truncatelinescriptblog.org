@@ -485,6 +485,8 @@ Joes-MacBook-Pro-8044:tomrules joemecca$ -ls
 -bash: -ls: command not found
 Joes-MacBook-Pro-8044:tomrules joemecca$ /
 
+** JM leanr how to set up your own enviroement variable :JM: :TB: 
+   SCHEDULED: <2018-02-28 Wed>
 
 
 
@@ -499,4 +501,23 @@ Joes-MacBook-Pro-8044:tomrules joemecca$ /
 
 
 
+
+
+   ;; List of additional packages that will be installed without being
+   ;; wrapped in a layer. If you need some configuration for these
+   ;; packages, then consider creating a layer. You can also put the
+   ;; configuration in `dotspacemacs/user-config'.
+   dotspacemacs-additional-packages '(f)
+   ;; A list of packages that cannot be updated.
+   dotspacemacs-frozen-packages '()
+   ;; A list of packages that will not be installed and loaded.
+   dotspacemacs-excluded-packages '()
+   ;; Defines the behaviour of Spacemacs when installing packages.
+   ;; Possible values are `used-only', `used-but-keep-unused' and `all'.
+   ;; `used-only' installs only explicitly used packages and uninstall any
+   ;; unused packages as well as their unused dependencies.
+   ;; `used-but-keep-unused' installs only the used packages but won't uninstall
+   ;; them if they become unused. `all' installs *all* packages supported by
+   ;; Spacemacs and never uninstall them. (default is `used-only')
+   dotspacemacs-install-packages 'used-only))
 
