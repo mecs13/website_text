@@ -1,8 +1,0 @@
-** Game Engine
-
-
-A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
-
-Game engines equip us to custom design virtual environments, program rules and netowrk experiences to be shared on personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
-
-We economize the process of game development by reusing/adaptig the same game engine to create different games.  This also makes it easier to port games to multiple platforms.

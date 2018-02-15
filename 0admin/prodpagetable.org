@@ -1,0 +1,50 @@
+| Client Prop         | Text | 1P Legal | 2P Prop | Animate | Creative | Fin Strat | Full Prop | Gallery | Research | Demo | Web |    |
+| GAE                 | Yes  | No       | Yes     | No      | No       | No        | No        | No      | No       | No   | NO  |    |
+| Cayman              | Yes  | Yes      | Yes     | No      | No       | Yes       | Yes       | Yes     | Yes      | No   | Yes |    |
+| Rolls Royce         | Yes  | No       | Yes     | No      | No       | No        | No        | Yes     | Yes      | No   | No  |    |
+| Kelly               | Yes  | Yes      | Yes     | No      | No       | Yes       | Yes       | Yes     | Yes      | No   | No  |    |
+| Brown Hotels        | Yes  | No       | No      | No      | No       | No        | No        | No      | Yes      | No   | No  |    |
+| Houston             | Yes  | No       | No      | No      | No       | No        | No        | No      | Yes      | No   | No  |    |
+| BGB                 | Yes  | No       | Yes     | No      | No       | No        | No        | No      | No       | No   | No  |    |
+| Aqua                | Yes  | No       | Yes     | Yes     | No       | No        | No        | Yes     | No       | No   | No  |    |
+| Turkey AR           | Yes  | No       | Yes     | No      | No       | No        | No        | Yes     | No       | No   | No  |    |
+| FoodMan             | Yes  | No       | No      | No      | No       | No        | No        | No      | No       | No   | No  |    |
+| Wellness            | Yes  | No       | Yes     | No      | No       | No        | No        | Yes     | No       | No   | No  |    |
+| Pandora             | Yes  | No       | No      | No      | No       | No        | Yes       | Yes     | Yes      | No   | Yes |    |
+| Dwellworks          | Yes  | No       | Yes     | No      | No       | No        | No        | No      | No       | No   | Yes |    |
+| Wall Street         | Yes  | No       | Yes     | No      | No       | Yes       | No        | No      | No       | No   | No  |    |
+| British Isles       | Yes  | No       | No      | No      | No       | No        | No        | No      | No       | No   | No  |    |
+| BGRS                | No   | Yes      | Yes     | No      | No       | Yes       | Yes       | No      | Yes      | Yes  | No  |    |
+| Unilever            | Yes  | No       | No      | No      | No       | Yes       | Yes       | No      | yes      | No   | No  |    |
+| Frommers (to check) | yes  | no       | no      | yes     | no       | no        | yes       | no      | no       | yes  | no  | no |
+|                     |      |          |         |         |          |           |           |         |          |      |     |    |
+
+
+| Website           | Text | 1P Legal | 2P Prop | Animate | Creative | Fin Strat | Full Prop | Gallery | Research | Demo | Web |
+| Arcnitecture      | Yes  | No       | No      | No      | No       | No        | No        | Yes     | No       | No   | No  |
+| Bloomaway         | Yes  | Yes      | Yes     | No      | No       | No        | yes       | Yes     | Yes      | Yes  | Yes |
+| XR Color          | Yes  | No       | Yes     | No      | No       | No        | No        | Yes     | Yes      | No   | Yes |
+| Consultancy       | Yes  | Yes      | Yes     | No      | No       | Yes       | Yes       | No      | Yes      | No   | Yes |
+| Enterprise        | Yes  | No       | Yes     | No      | No       | No        | No        | Yes     | Yes      | No   | No  |
+| Exhibit           | Yes  | No       | Yes     | Yes     | No       | No        | No        | Yes     | No       | No   | Yes |
+| Facematch         | Yes  | No       | Yes     | No      | Yes      | Yes       | Yes       | Yes     | Yes      | No   | Yes |
+| Festival          | Yes  | No       | No      | No      | No       | No        | No        | No      | No       | No   | Yes |
+| Infinite          | Yes  | Yes      | Yes     | yes     | No       | No        | No        | yes     | Yes      | Yes  | Yes |
+| Music Vr          | Yes  | No       | No      | No      | No       | Yes       | Yes       | Yes     | No       | No   | Yes |
+| NYE               | Yes  | No       | Yes     | No      | No       | Yes       | Yes       | Yes     | Yes      | No   | Yes |
+| Professional Serv | No   | No       | no      | no      | no       | no        | no        | no      | no       | no   | no  |
+| Torus             | Yes  | no       | text    | no      | no       | no        | yes       | yes     | yes      | yes  | yes |
+| Wellness          | Yes  | no       | yes     | no      | no       | no        | no        | yes     | no       | no   | yes |
+|                   |      |          |         |         |          |           |           |         |          |      |     |
+
+
+Kickoffs
+
+Friday: Pandora
+tuesday Infinite Gal
+Thursday: Encyclopedia
+Feb 20: Houston Dev Council 
+<<<<<<< HEAD
+=======
+i
+>>>>>>> joey

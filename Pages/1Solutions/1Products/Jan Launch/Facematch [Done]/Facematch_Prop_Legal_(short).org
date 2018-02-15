@@ -1,144 +1,80 @@
-* * *  FaceMatch Software * * *
 
-* Executive Summary
-** Objective
-Implement a software that will explicitily determine when an ad-viewer visits Cayman.
+Explicitly know when an ad-viewer visits your location
 
-** Strategy
-1 Custom design Cayman's face-matching software
-2 Integrate software into current IT Infrastructure
-3 Verify ad viewers who visit Cayman
-4 Anlayze data
-5 Improve creative and distribution choices
-6 Hold media partners accountable for delivering tourism
- System Architecture
-1 Facebook login 2 Photos
-3 Face API
-4 Encryption
-5 Database
-6 Immigration photo 7 Face-match
-8 Review Results
+The age-old challenge: how do you really know if your ad worked? Generally, you don’t. You have insights, clues, and stats but are missing a key metric: "viewer-visit verification."
 
-** Return on Investment
-40% improvement in ad strategy effectiveness
-
-* Deliverables
-
-• Software Production
-• Face Match Software 
-• IT Systems Integration 
-• Stylized interface
-
-** Software production
-*Phase 1* Design [6 weeks] $48,000  Technological architecture and preliminary design. You'll be able to see a non-functioning example of the software
-
-*Phase 2*, Create [16 weeks] $186,000 Develop, test, and deploy
-
-*Phase 3*, Refine [4 weeks] $93,000 Quality Assurance, user test, and deploy
-
-*Net Investment:* $327,000
-
-**  Why Implement Customized Software
-To take control of measuring ad effectivees. Face Match software will tell you which ads are effective and which are not, by means of your own biometrical analyics.
-
-- Improve buying strategies
-- Develop better creative
-- Hold media partners accountable for delivery
-- Implementing facial recognition is like implamenting browser cookies in the early 2000s.
-- Example of Face Match Analytics
-
-* System Architecture
-
-==
-==
-
-** Timeline : Projected Cost : Deliverables :
-4 weeks (3 sprints)
-$93,000 ($31,000/sprint)
-Deploy Re-designed Web Application
-
-Phase 2 : Implementation
-Timeline : Projected Cost : Deliverables :
-16 weeks (6 sprints)
-$186,000 ($31,000/sprint)
-Production User Interface Design, Developed Web Application
-
-Phase 3 : Refine, Quality Assurance, and User testing
+By analyzing Facebook user login info and profile photos, we'll create, encrypt, and database a library of photos, cross reference it against the photos taken of visitors when they arrive at customs, and produce a number that represents your ad's success rate. 
 
 
-* Financial Strategy
-Face Match is customized ad-visitor verification tool that benchmarks ad success. The below chart is an example of a low-risk strategy designed to increase financial efficiency.
-Example Face Match Data
+** Features 
+Refer to visual on  page 17 of same ID file as directed to above 
 
-Commercial B is the not effective, you may modify the content or adjust distribution strategy What if we test a new commercial?
-Move half of the budget of Com B (worst performer) to Com D (new performer)
-Com D works the best. We move remaining budget from Com B to Com D.
+** Benefits
+We will Implement a software that will verify  ad-viewers who visit Cayman through face recognition technology.   This metric will allow Cayman to increase advertising by  an estimated 40% effectiveness, dollar per dollar.      
 
-   /Total Ad Viewer Visits Over Semester Using Face Match Software/
-
-*** Conclusion
-In the above scenario, we get over 40% increase in ad effectiveness after 6 iterations, because we were able quantify each ad's impact and restrategizes creative/distribution desicions.
-
-* Traffic Cycle
-The user will experience an interactive ad based on their interests. They will be prompted to share their phone's photo gallery and post their interactive experience to friends. This will replenish our traffic funnel.
-This graphic is the traffic cycle in perfect equilibrium
-
-** [Graphic traffic cycle]
-
-
-*  Face Matching
-
-According to the Center on Privacy & Technology at the Georgetown Law Report, more than 125 million Americans' faces are on file and databased with law enforcement.
-Facial recognition analyzes structure characteristics of a person’s face, based on approximately 80 nodal points. In controlled conditions, verification is more than 95% accurate. Some of the nodal measures are:
-• Distance between the eyes
-• Width of the nose
-• Depth of the eye sockets
-• The shape of the cheekbones • The length of the jaw line
-Audience photos function like browser cookies in the way they identify, store, and utilize meta data.
-
-** {graphic woman fae]
-
-* Tech Architecture
-OpenBR: An opensource biometrics framework supporting the development of open algorithms and reproducible evaluations.
-Facial Recognition
- 
-• Pre-processing Images using Facial Detection and Alignment
-• Generating Facial Embeddings in a program like Tensorflow (Google’s
-flagship open-source software library for  machine learning. It is a system for building and training polyvalent neural networks to detect and decipher patterns and correlations).
-• Training an image classifier (neural net or support vector machine based depending on the available data)
-Prerequisites to implement facial recognition technology:
-     
-• Advanced understanding of Linear Algebra
-• Advanced understanding of Convolutional Neural Networks • Advanced understanding Tensorflow or frameworks alike
-Based on our six months of consultancy and development, we will deliver a ~50 pages specification defining:
-         
-• The integration with the existing system • The integration with Facebook facial data • The database structure
-• The application UI
-• The application documentation
-
-
-* How technically 
-
-[graphic of openbr]
-
-
-* Evolution of Development
-
-** 2017
-For the remained of this year we can review IT infrastrcture and ad buying data to get ahead on developing your specification. We will design both the preliminary stages of the facial recognition software and the ad strategy to populate our face matching database. The real work begins next year.
-
-** 2018
-During the first 16 weeks of 2018 we will develop Cayman's Face Matching software. This inlcudes a full specification, production and implementation. A May launch will conclude the work budgeted in this document. Future work will take place outside the scope of this proposal. You software will improve with data.
-
-** 2019
-Using results obtained in 2018, you'll now be able to grow your application and enlarge your Face Matching database to gather more pertinent analytics. This could include integrating biometric software across other media content, increasing user base, and, allowing you to better-target the right audience and increase heads in beds.
-
-* Summary
-
-We will Implement a software that will verify ad-viewers who visit Cayman through face recognition technolgey. This metric will allow Cayman to increase advertising by an estimated 40% effectiveness, dollar per dollar.
 This turn-key solution will hold media partners accountable to quantifiably increase visits.
 
-Timing: 6-months
-Deliverable: Face Match Biometric Software
-Software Provides: Investment: Ad-viewer-visitor verification
-Resturn on Investment: 40% or more (if Cayman's admen adapt media appropriately)
+** Production
+
+1	Custom design Cayman's face-matching software
+2	Integrate software into current IT Infrastructure
+3	Verify ad viewers who visit Cayman
+4	Analayze data
+5	Improve creative and distribution choices
+6	Hold media partners accountable for delivering tourism
+
+*** Software Production	
+
+Phase 1, Design 	[6 weeks] 	$48,000
+Technological architecture and preliminary design. You'll be able to see a non-functioning example of the software 
+
+Phase 2, Create 	[16 weeks] 	$186,000
+Develop, test, and deploy
+
+Phase 3, Refine 	 [4 weeks]	$93,000 							     	     
+Quality Assurance, user test, and deploy
+
+** Technology 
+Refer to "system architecture" in Dropbox 
+Location: Team activity Refer to "system architecture" in Dropbox 
+Location: Team activity --> client props --> Cayman Facematch --> Software Folder Sept 17 --> In Design File
+
+We will Implement a software that will verify  ad-viewers who visit Cayman through face recognition technology.   This metric will allow Cayman to increase advertising by  an estimated 40% effectiveness, dollar per dollar.      
+
+This turn-key solution will hold media partners accountable to quantifiably increase visits.
+ t and decipher patterns and correlations). 
+-Training an image classifier (neural net or support vector machine based depending on the available data)
+
+
+*** Prerequisites to implement facial recognition technology: 
+
+-Advanced understanding of Linear Algebra
+-Advanced understanding of Convolutional Neural Networks
+-Advanced understanding Tensorflow or frameworks alike
+
+** Deliverables
+Based on our six months of consultancy and development, we will deliver
+ a ~50 pages specification defining:
+
+-The integration with the existing system
+-The integration with Facebook facial data
+-The database structure 
+-The application UI 
+-The application documentation
+
+** Evolution of Development
+
+*** Year 1
+
+For the remained of this year we can review IT infrastructure  and ad buying data to get ahead on developing your specification.  We will design both the preliminary stages of the facial recognition software and the ad strategy to populate our  face matching database. The real work begins next year.
+
+			
+*** Year 2
+
+During the first 16 weeks of 2018 we will develop Cayman's Face Matching software.  This includes a full specification, production and implementation.   A  May launch will conclude the work budgeted in this document. Future work will take place outside the scope of this proposal. You software will improve with data.
+
+
+				
+*** Year 3
+
+Using results obtained in 2018, you'll now be able to grow your application and enlarge your Face Matching database to gather more pertinent analytics. This could include integrating biometric software across other media content, increasing user base, and, allowing you to better-target the right audience and increase heads in beds.

@@ -1,0 +1,115 @@
+For anyone who collaborates on work "GIT".
+
+Far from a computer scientist this
+
+- easy to use, very adoptable
+- get hooked on Git
+- inutitive style
+
+- distributed repository
+
+** The first three chapters are key
+
+** Chapter 1
+
+*** version control systems
+
+- records changes of files
+- allows yiur to revert files back to previous state (entire project too)
+- compare changes over time
+- see who las tmodified omething that is causing  problem (GIT BLAME!)
+
+**** Local version control system
+copying files into another directory, even time-stamped, is somewhat clever, but prone to error, and unfun to debug. which directory did i last write in?  Did I copy over those files? fuckk....
+
+- popular VCS tool is RCS ( a command when you install dev tools).  it can recreate what any file looks like, at any time, by adding up all the patches.
+
+**** Centralized version control systems - collaborating with other developers
+- CVCS, sch as Subversion, Perforce, CVS, have a single server 
+***** advatanges over VCS, such as 
+    +  everyone knows (to a certain extent) what everyone else on the project is doing
+    +  admins have fine-grained control voer who can do what
+    +  centralized work for admin
+***** disadvatanges
+    + single point of failure (if servergoes down , no one can work at all or saved versioned changed) 
+    + hard disk corrupts, we be fucked, because only local snap shots will exist
+
+*** History of GIT
+
+"creative destruction and fiery controversy."
+
+
+Linux Kernal , open source software project, , which began using proprietary DVCS called bitkeeper in 2002.
+# bitkeeper
+# linuix
+
+relationship broke down, bitkeeper wanted money, and Linus Torvalds, creator of Linux, decided to dev their own tool, pulling from what they learned from BK.
+
+System goals were 
+-speed
+- simple design
+- strong support for non-leanr dev (thousands of parallel banches) 
+- fully distributed
+  tl- can handle large projects
+
+GIT DONE BE BORN - and is still Grreaat.  it's incredibly fast, efficient with large scale prjects, and incredible branching ssytem for non-linear dev
+
+
+*** Git basics
+
+Its different that other versioning systems, so like in mathematic, FORGET WHAT YOU KNOW
+
+
+Git thinks about data differnt.  It stores modified files and links to the non-modified files from before.  It takes a stream of snapshots
+ 
+
+its a mini filing system copied from previous generation.   
+
+**** nearly every operation is local
+- the entire history of the project is local.  this enables you to work offline, or off VPN.  just commit, and when you connect  to the netowk again it will auto upload.   
+**** git integrity
+- everything is check summed before stored, then reffered by checksum. (impossible to make a change without directory knowing about it.  
+
+you cant lose information.
+
+SHA-1 hash, a 40-character string of hexadecimal characters (0-9 and a-f) and calculated based on the contents.  Calculated based on the contents of the file.     
+
+
+
+
+
+* Three States
+
+** Committed
+
+Data is saved and stored in local database
+
+
+
+** Modified 
+
+Changed a file but not commited
+
+
+** Staged
+
+prepared for the next xommit
+
+
+
+
+
+
+
+
+** Chapter 2
+- clone a repository
+- project histry
+- modify files
+- contribute changes
+
+** Chapter 3
+- branching model (the killer feature)
+
+
+ 
