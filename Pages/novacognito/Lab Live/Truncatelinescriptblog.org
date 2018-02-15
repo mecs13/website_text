@@ -1,0 +1,502 @@
+First, I need to know about dot space macs.
+
+what i want to do with the logic is take the spacemacs config file to talk to the emacs file
+
+it is big and organize -- each section does somehing specific.  i am loooking for the se tion that is about personal configuration..
+
+^^ (I do not want to write my script in there).. instead what  want to do is write  afile with the script in it and call it from the dot space macs file
+
+
+we are hacking the dot space macs... so we need toversion it.  this is very important, because if you bug it, you wil HAVE to debug it to use it again, or just go back to the old version.
+
+There are two types of patchs
+** unix
+*** root (where all the files are stored) is called /  
+
+*** in windows it is called C:\ (for the most part)
+
+- D drive on windows, you do not have a folder that contains both....   on Linux (unix) the entire root is /
+
+.. is the parent folder
+. represents the folder
+you do not change thr structure of your code because you are using relative paths, because it is the easiest.  the parent folder of the project, the path thatencaptulates of the ___ of your project.  (path is case sensative) 
+
+space p p outs you into the right folder, the direct parent of all the files in the project.  space pp brings you to the root
+
+space pp brings you to the root
+space pp brings you to the root
+space pp brings you to the root
+space pp brings you to the root
+space pp brings you to the root
+
+When we are linking files together it is improtant to work with relative paths and slash notation (instrad of using the finder) 
+
+ls .. means tell me the contents of the parent folder.  
+
+if i want to move an entire folder's content to some other doler (lets say the marent folder ) then i would do mv . ..
+
+
+forward slash tells the comp it is an absolutr path
+
+cd ./
+
+i am gonna ccreate a folder called :test"
+
+**  Simple Terminal talk
+
+-pwd       where i am
+-ls        list
+ls -l      see permissions (read, write, execute)
+
+
+Create three files   touch program to create files A, B and C we will make
+
+/capitals are a bad idea/.   Especially if you've reconfigured your caps lock to be ctrl.   
+
+
+folders that start with a . are hidden
+
+extensions are irrelevant?
+
+differnce between UNIX and LINUX ?
+
+
+
+ls -l tells the terminal it is an option (this is specific to ls),,,  in git it might be something different.  i can edit permissions here, so that some people can read here .  a 0 permissions is cannot read, cannot read, cannot execute.  7 is yes to all.  ls -l tells the terminal to give more information about the folder i am currently in
+-l option will show me the folders
+-a will show the hidden folders
+-la or -al or -l -a or -a -l will show me both the folders and the hidden folders
+
+* terminal talk feb 14
+
+Last login: Wed Feb 14 18:14:31 on console
+Joes-MacBook-Pro-8044:~ joemecca$ $ xcode-select -p
+-bash: $: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ gcc
+clang: error: no input files
+Joes-MacBook-Pro-8044:~ joemecca$ $ gcc
+-bash: $: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ whoami
+joemecca
+Joes-MacBook-Pro-8044:~ joemecca$ xcode-select --install
+xcode-select: error: command line tools are already installed, use "Software Update" to install updates
+Joes-MacBook-Pro-8044:~ joemecca$ Software update
+-bash: Software: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ xcode-select -p
+/Library/Developer/CommandLineTools
+Joes-MacBook-Pro-8044:~ joemecca$ xcode-select --install
+xcode-select: error: command line tools are already installed, use "Software Update" to install updates
+Joes-MacBook-Pro-8044:~ joemecca$ git help <verb>
+-bash: syntax error near unexpected token `newline'
+Joes-MacBook-Pro-8044:~ joemecca$ git help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+Joes-MacBook-Pro-8044:~ joemecca$               TroxqpImvRuCsAS1xBiDXYX53c0=
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ msn git
+-bash: msn: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ man git
+Joes-MacBook-Pro-8044:~ joemecca$ q
+-bash: q: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ . ..
+-bash: .: ..: is a directory
+Joes-MacBook-Pro-8044:~ joemecca$ mv*. ..
+-bash: mv*.: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ ls
+,bash_profile				Public
+Applications				Software
+Desktop					`:w 
+Documents				cryptochaos
+Downloads				gittest
+Dropbox					mecs13@gmail.com Creative Cloud Files
+Library					nano.save
+Literature				patentnotesjan27.org
+Movies					prog1.c
+Music					prog1.c.save
+Pictures				prog1.c.save.1
+Joes-MacBook-Pro-8044:~ joemecca$ /movies
+-bash: /movies: No such file or directory
+Joes-MacBook-Pro-8044:~ joemecca$ cd /movies
+-bash: cd: /movies: No such file or directory
+Joes-MacBook-Pro-8044:~ joemecca$ cd ..
+Joes-MacBook-Pro-8044:Users joemecca$ cd /doc
+-bash: cd: /doc: No such file or directory
+Joes-MacBook-Pro-8044:Users joemecca$ ls
+Guest		Shared		joemecca	thomasxr
+Joes-MacBook-Pro-8044:Users joemecca$ cd/ joemecca/movie
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:Users joemecca$ cd/ joemecca/mecs13\@gmail.com\ Creative\ Cloud\ Files/
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:Users joemecca$ 
+Joes-MacBook-Pro-8044:Users joemecca$ 
+Joes-MacBook-Pro-8044:Users joemecca$ 
+Joes-MacBook-Pro-8044:Users joemecca$ 
+Joes-MacBook-Pro-8044:Users joemecca$ ls
+Guest		Shared		joemecca	thomasxr
+Joes-MacBook-Pro-8044:Users joemecca$ cd/ joemecca
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:Users joemecca$ ls
+Guest		Shared		joemecca	thomasxr
+Joes-MacBook-Pro-8044:Users joemecca$ cd 
+Joes-MacBook-Pro-8044:~ joemecca$ pwd
+/Users/joemecca
+Joes-MacBook-Pro-8044:~ joemecca$ s
+-bash: s: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ ls
+,bash_profile				Public
+Applications				Software
+Desktop					`:w 
+Documents				cryptochaos
+Downloads				gittest
+Dropbox					mecs13@gmail.com Creative Cloud Files
+Library					nano.save
+Literature				patentnotesjan27.org
+Movies					prog1.c
+Music					prog1.c.save
+Pictures				prog1.c.save.1
+Joes-MacBook-Pro-8044:~ joemecca$ cd/ 
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:~ joemecca$ cd/
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:~ joemecca$ cd/ cd
+-bash: cd/: No such file or directory
+Joes-MacBook-Pro-8044:~ joemecca$ cd
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ 
+Joes-MacBook-Pro-8044:~ joemecca$ mkdir tmp
+Joes-MacBook-Pro-8044:~ joemecca$ ls
+,bash_profile				Software
+Applications				`:w 
+Desktop					cryptochaos
+Documents				gittest
+Downloads				mecs13@gmail.com Creative Cloud Files
+Dropbox					nano.save
+Library					patentnotesjan27.org
+Literature				prog1.c
+Movies					prog1.c.save
+Music					prog1.c.save.1
+Pictures				tmp
+Public
+Joes-MacBook-Pro-8044:~ joemecca$ cd
+Joes-MacBook-Pro-8044:~ joemecca$ cd 
+Joes-MacBook-Pro-8044:~ joemecca$ cd ./
+Joes-MacBook-Pro-8044:~ joemecca$ cd ./
+Joes-MacBook-Pro-8044:~ joemecca$ ped
+-bash: ped: command not found
+Joes-MacBook-Pro-8044:~ joemecca$ pwd
+/Users/joemecca
+Joes-MacBook-Pro-8044:~ joemecca$ cd ./tmp
+Joes-MacBook-Pro-8044:tmp joemecca$ pwd
+/Users/joemecca/tmp
+Joes-MacBook-Pro-8044:tmp joemecca$ mk
+mkbom        mkdir        mkfifo       mklocale     mkpassdb     
+mkdep        mkextunpack  mkfile       mknod        mktemp       
+Joes-MacBook-Pro-8044:tmp joemecca$ mk
+mkbom        mkdir        mkfifo       mklocale     mkpassdb     
+mkdep        mkextunpack  mkfile       mknod        mktemp       
+Joes-MacBook-Pro-8044:tmp joemecca$ mkdir tomrules
+Joes-MacBook-Pro-8044:tmp joemecca$ ls
+tomrules
+Joes-MacBook-Pro-8044:tmp joemecca$ cd ./tomrules/
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ..
+tomrules
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls .. ..
+..:
+tomrules
+
+..:
+tomrules
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ../..
+,bash_profile				Software
+Applications				`:w 
+Desktop					cryptochaos
+Documents				gittest
+Downloads				mecs13@gmail.com Creative Cloud Files
+Dropbox					nano.save
+Library					patentnotesjan27.org
+Literature				prog1.c
+Movies					prog1.c.save
+Music					prog1.c.save.1
+Pictures				tmp
+Public
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ../../..
+Guest		Shared		joemecca	thomasxr
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ../../../..
+Applications			etc
+Library				home
+Network				installer.failurerequests
+OpenBazaar.app			keybase
+System				keybase alias
+User Information		net
+Users				private
+Volumes				sbin
+bin				tmp
+cores				usr
+dev				var
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ../../../../..
+Applications			etc
+Library				home
+Network				installer.failurerequests
+OpenBazaar.app			keybase
+System				keybase alias
+User Information		net
+Users				private
+Volumes				sbin
+bin				tmp
+cores				usr
+dev				var
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ../../../../../../../..
+Applications			etc
+Library				home
+Network				installer.failurerequests
+OpenBazaar.app			keybase
+System				keybase alias
+User Information		net
+Users				private
+Volumes				sbin
+bin				tmp
+cores				usr
+dev				var
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls
+Joes-MacBook-Pro-8044:tomrules joemecca$ pwd
+/Users/joemecca/tmp/tomrules
+Joes-MacBook-Pro-8044:tomrules joemecca$ 
+Joes-MacBook-Pro-8044:tomrules joemecca$ touch a
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls
+a
+Joes-MacBook-Pro-8044:tomrules joemecca$ touch b
+Joes-MacBook-Pro-8044:tomrules joemecca$ touch c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls
+a	b	c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -l
+total 0
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -a
+.	..	a	b	c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls ~
+,bash_profile				Software
+Applications				`:w 
+Desktop					cryptochaos
+Documents				gittest
+Downloads				mecs13@gmail.com Creative Cloud Files
+Dropbox					nano.save
+Library					patentnotesjan27.org
+Literature				prog1.c
+Movies					prog1.c.save
+Music					prog1.c.save.1
+Pictures				tmp
+Public
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -a -l
+total 0
+drwxr-xr-x  5 joemecca  staff  160 Feb 14 21:32 .
+drwxr-xr-x  3 joemecca  staff   96 Feb 14 21:27 ..
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -al
+total 0
+drwxr-xr-x  5 joemecca  staff  160 Feb 14 21:32 .
+drwxr-xr-x  3 joemecca  staff   96 Feb 14 21:27 ..
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -la
+total 0
+drwxr-xr-x  5 joemecca  staff  160 Feb 14 21:32 .
+drwxr-xr-x  3 joemecca  staff   96 Feb 14 21:27 ..
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -la ~
+total 424
+-rw-r--r--     1 joemecca  staff    143 Jan 22  2017 ,bash_profile
+drwxr-xr-x+   54 joemecca  staff   1728 Feb 14 21:21 .
+lrwxr-xr-x     1 joemecca  staff     40 Dec 30 17:59 .#2018_ActionPlanDec28.org -> joemecca@Joes-MacBook-Pro-8044.local.780
+drwxr-xr-x     7 root      admin    224 Jan 27 15:17 ..
+-r--------     1 joemecca  staff      7 Dec 29  2016 .CFUserTextEncoding
+-rw-r--r--@    1 joemecca  staff  45060 Feb 14 19:33 .DS_Store
+drwx------   208 joemecca  staff   6656 Feb 14 18:35 .Trash
+drwxr-x--x     3 joemecca  staff     96 Oct 11 22:44 .adobe
+drwxr-x---     5 joemecca  staff    160 Dec  3  2016 .android
+-rw-------     1 joemecca  staff  18641 Feb 13 23:30 .bash_history
+-rw-r--r--     1 joemecca  staff    145 Jan 22  2017 .bash_profile
+drwx------    67 joemecca  staff   2144 Feb 14 19:43 .bash_sessions
+drwxr-xr-x     4 joemecca  staff    128 Feb  4  2017 .cache
+drwxr-xr-x     4 joemecca  staff    128 Feb  4  2017 .config
+drwx------     3 joemecca  staff     96 Feb 17  2015 .cups
+drwx------    15 joemecca  staff    480 Feb  9 15:51 .dropbox
+drwxr-xr-x    23 joemecca  staff    736 Sep 23 02:42 .emacs.d
+-rw-r--r--     1 joemecca  staff    126 Jan 23 21:33 .gitconfig
+drwx------    12 joemecca  staff    384 Feb 14 18:15 .gnupg
+drwxr-xr-x     4 joemecca  staff    128 Feb  4  2017 .local
+drwxr-xr-x     3 joemecca  staff     96 Jun 23  2015 .mplayer
+drwxrwxrwx     3 joemecca  staff     96 Mar 17  2015 .nchsoftware
+-rw-------     1 joemecca  staff    192 Jan 22  2017 .netrc
+drwxr-xr-x     3 joemecca  staff     96 Jan 27 19:42 .oracle_jre_usage
+-rw-------     1 joemecca  staff   1024 Aug 19 23:01 .rnd
+-rw-r--r--     1 joemecca  staff  61313 Feb 13 17:31 .spacemacs
+-rw-r--r--     1 joemecca  staff  19002 Nov 12 00:29 .spacemacs.backup.newest
+drwx------     5 joemecca  staff    160 Feb  2 12:41 .ssh
+drwxr-xr-x     4 joemecca  staff    128 Feb  4  2017 .swt
+drwxr-xr-x     4 joemecca  staff    128 Oct 17 09:46 .thumbnails
+-rw-------     1 joemecca  staff  17741 Feb 11 19:36 .viminfo
+drwxr-xr-x     4 joemecca  staff    128 Feb  4  2017 .vscode
+drwx------     5 joemecca  staff    160 Feb 18  2017 Applications
+drwx------+   33 joemecca  staff   1056 Feb 14 18:29 Desktop
+drwx------+   19 joemecca  staff    608 Feb 10 13:50 Documents
+drwx------+ 1074 joemecca  staff  34368 Feb 14 12:19 Downloads
+drwx------@   14 joemecca  staff    448 Feb 14 18:29 Dropbox
+drwx------@   76 joemecca  staff   2432 Dec  4 16:36 Library
+drwxr-xr-x    10 joemecca  staff    320 Feb  4  2017 Literature
+drwx------+    4 joemecca  staff    128 Dec 20 22:39 Movies
+drwx------+    8 joemecca  staff    256 Jan  5 15:17 Music
+drwx------+    4 joemecca  staff    128 Jan  3 17:51 Pictures
+drwxr-xr-x+    6 joemecca  staff    192 Jun 23  2015 Public
+drwxr-xr-x     8 joemecca  staff    256 Jul 20  2016 Software
+-rw-r--r--     1 joemecca  staff    153 Oct  9 14:48 `:w 
+drwxr-xr-x    10 joemecca  staff    320 Jan  3 16:18 cryptochaos
+drwxr-xr-x     4 joemecca  staff    128 Oct 30 00:20 gittest
+drwxrwxr-x@    3 joemecca  staff     96 Sep 13 12:42 mecs13@gmail.com Creative Cloud Files
+-rw-------     1 joemecca  staff     40 Jun 17  2017 nano.save
+-rw-r--r--     1 joemecca  staff     37 Jan 27 20:07 patentnotesjan27.org
+-rw-r--r--     1 joemecca  staff      0 Jun 17  2017 prog1.c
+-rw-------     1 joemecca  staff      6 Jun 17  2017 prog1.c.save
+-rw-------     1 joemecca  staff      6 Jun 17  2017 prog1.c.save.1
+drwxr-xr-x     3 joemecca  staff     96 Feb 14 21:27 tmp
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -a ~
+,bash_profile				.ssh
+.					.swt
+.#2018_ActionPlanDec28.org		.thumbnails
+..					.viminfo
+.CFUserTextEncoding			.vscode
+.DS_Store				Applications
+.Trash					Desktop
+.adobe					Documents
+.android				Downloads
+.bash_history				Dropbox
+.bash_profile				Library
+.bash_sessions				Literature
+.cache					Movies
+.config					Music
+.cups					Pictures
+.dropbox				Public
+.emacs.d				Software
+.gitconfig				`:w 
+.gnupg					cryptochaos
+.local					gittest
+.mplayer				mecs13@gmail.com Creative Cloud Files
+.nchsoftware				nano.save
+.netrc					patentnotesjan27.org
+.oracle_jre_usage			prog1.c
+.rnd					prog1.c.save
+.spacemacs				prog1.c.save.1
+.spacemacs.backup.newest		tmp
+Joes-MacBook-Pro-8044:tomrules joemecca$ 
+Joes-MacBook-Pro-8044:tomrules joemecca$ 
+Joes-MacBook-Pro-8044:tomrules joemecca$ 
+Joes-MacBook-Pro-8044:tomrules joemecca$ -l
+-bash: -l: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ -la
+-bash: -la: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ 
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -a
+.	..	a	b	c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -l
+total 0
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff  0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ clear
+
+Joes-MacBook-Pro-8044:tomrules joemecca$ try to figure out where you are.   the program is "try" the computer thinks, then you are giving hm arguments.   each word is a different arguement.  in hcoouter e will grab all arguments .  try program will analyize this and  and give it out to you.  .    
+-bash: try: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ is this terminal where i want to be?   what files are new?  
+-bash: is: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls
+a	b	c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -a
+.	..	a	b	c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ ls -la
+total 0
+drwxr-xr-x  5 joemecca  staff  160 Feb 14 21:32 .
+drwxr-xr-x  3 joemecca  staff   96 Feb 14 21:27 ..
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 a
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:30 b
+-rw-r--r--  1 joemecca  staff    0 Feb 14 21:32 c.org
+Joes-MacBook-Pro-8044:tomrules joemecca$ pwd
+/Users/joemecca/tmp/tomrules
+Joes-MacBook-Pro-8044:tomrules joemecca$ move all content into parent
+-bash: move: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ mv . ..
+mv: rename . to ../.: Invalid argument
+Joes-MacBook-Pro-8044:tomrules joemecca$ ^ im elling him only to move a the dot, this file.  i can write a try program that will compile a single document called notes. with a path, say to home directory.   the reason he cannot is because he s not trying to move the folders a b and c.    he is contritadicted there.   ....   to move its content .  its a paradox.   you want everything ...   mv * ..
+-bash: :s^ im elling him only to move a the dot, this file.  i can write a try program that will compile a single document called notes. with a path, say to home directory.   the reason he cannot is because he s not trying to move the folders a b and c.    he is contritadicted there.   ....   to move its content .  its a paradox.   you want everything ...   mv * ..: substitution failed
+Joes-MacBook-Pro-8044:tomrules joemecca$ mv * ..
+Joes-MacBook-Pro-8044:tomrules joemecca$ -ls
+-bash: -ls: command not found
+Joes-MacBook-Pro-8044:tomrules joemecca$ /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
