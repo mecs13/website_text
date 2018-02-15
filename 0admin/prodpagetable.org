@@ -44,3 +44,7 @@ Friday: Pandora
 tuesday Infinite Gal
 Thursday: Encyclopedia
 Feb 20: Houston Dev Council 
+<<<<<<< HEAD
+=======
+i
+>>>>>>> joey

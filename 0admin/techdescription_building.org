@@ -1,0 +1,144 @@
+** Photogrammetry:
+
+-- create 3d detailed vr spaces an d environemnts
+-- create models
+-- 3d scan expert (software
+-- Hardware - DSLR camera + lighting rings
+-- converying real space in VR - realism
+-- and integrating real locations into vitual worlds
+
+
+** SS downlaod phtogrammtery app and use 123D capture
+
+** Blockchain in VR
+—  CEEK is a vr blacken, uses smart contracts to have live vr concerts and other events.  works with ether
+— mana coin and decentraland
+— gaze coin. uses a custom engine to track a views eye movements and how much they are paying attention to certain information.
+— ad chain
+— make a vr creation, general stability of the platform is assured through blockchain.  
+— creative rights and credits
+—  vibe hub.- compineing crypto/blockchain/vr, buy and sell celebrity sessions, meet and greet with favorite artist or professional to learn a new skill — allowance of micro transactions with vive currency will usher in a new paradigm of social interactions and transactions .  more immersive than a live chat or phone call.   features, unique social experiences.  ERC20 token.   fair rewards for publishers, no payment cuts.  secure transactions
+— star citizen, funding on the blockchain
+
+
+
+** VR Cryptocurrencies
+— make payments with crypto- more secure. micro transactions
+— lower tax rates
+— less moderation in the purchasing
+— more open market, no one telling you what you can and can’t sell.   
+— increases cost of graphics cards
+
+
+** Cloud computing
+
+— Allows for remote storage
+— networked gaming
+— stream the VR game from someone else computer to yours
+— games are putting them all in the cloud, will run more smoothly
+— try an app before you download it
+— 
+
+
+The Web XR:
+— open and free platform
+— allows for more lightweight experiences
+— web XR framework, and can build anything in it
+— in unity you need to build from nothing.
+—
+
+
+** Finite state machines
+— characters to engage 
+— used for implementing AI.
+— limitations of engagement - 
+— transition period
+— not in unreal for engine 4. (because it has stuff it can emulated, but someone else made a plug-in) it is not needed r useful until you use it or need it
+
+** AI
+—  virtual assistant
+— store front navigation, there are 5 store fronts and they don’t all telly ou what you want to know.  you see all the same apps on al of them.   they are 
+— personalized information, know what you’ve seen and haven’t seen nd what you would be most interest in and receptive to buying.  
+— generative design.  based on your prefrences    
+
+** Haptics
+— omni-tredmil  - have movement without the sensors.  you are not limited in space.  small foot space.   
+      —— safe action
+      ——  more physical movement and interaction
+      — — more immersive game play
+      — — 
+
+— subpack 
+   — — real time feedback, more immersion, 
+   — — elicits deeps emotions
+   — — stronger brand connection
+   — — experience things you could not feel in real life
+   — — raises the interest and intrigue
+        —— >   more play time more sales, increased sharing, better usability, retain a market for the product, better monetizati
+— controller feedback
+    — better relate to it.  better learn, better understand.  —   more you know, the better decisions you can make, the more you care,— passive subtle learning.   speak to them subconsciously.   gamification.   all he needs to win is pepsi (soda drinker pro)
+
+
+** optical tracking 
+— tracks the person in the room and 
+—  more immersion.
+— less accidents, safety
+— enables spatial cognition
+— enables mixed reality
+— assists with proper movement
+— can gage your interest level 
+— computer vision integrates the surrounding area.   opens up to new methods.   
+if you are teleporting you cannot do anything that is balanced bath, and by tracking he movement
+—  
+
+
+Eye-tracking
+  — gage interest
+  — match attention with intention
+  — measure awareness, interest, focus, potentially intent
+  — measure effectiveness 
+
+
+AI Engine
+
+
+give them the versatility to chose a pasificis or a more aggressive route we can gage a lot about a person, their intereste, their demographic, 
+Bio-metric feedback
+
+
+
+
+** PRODUCT:
+
+** motion tracking 
+— capture a real persona and put them as a NPC
+— enables real human movement for a npc.  
+— make a more realistic environment , more immersive, (not someones interpretations- -  looking at something you recognitive not just a bunch of polygons
+
+Projection mapping - 
+** the inverse of virtual reality
+
+— a strong connection to physical world objects like a building.  people work in it, see it everyday , grandfather helped build it
+— it is the art canvas
+— inverse a game engine vr/ar experience as a promotion
+— interactive tool, lets people engage
+— education tool.   
+
+
+
+** Token sale of Vibe hub
+
+
+
+
+
+PRODUCTS:
+
+Why would someone want an anonymous company 
+— t protect their crypto
+— avoid paying unwanted third parties
+— benefits of anonymity,  security and safety from malicious players
+
+AR Branding 
+ — points for 
+— receive information (sponsored by brand content) and it will provide you with convenience and education and —> 
