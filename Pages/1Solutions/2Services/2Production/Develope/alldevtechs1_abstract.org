@@ -1,6 +1,5 @@
 * Game Engine
 
-
 *** What is the technology
 
 A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  Game engines enable us to provide you with all the features of the internet from social sharing to payment.  
@@ -28,24 +27,17 @@ By developing a project with this frame work, producers save time and money.
 
 Game Engines enable comprehensive developmenwith all the features of the internet from collaboration to payment, in 3D.
 
-
 *** Program examples:
- 
 **** Virtual World Build
-
 text descrion (Technical, metaphysical, benefit)
-
 **** Infinte Walker
-
 **** XR Color
-
 **** XR Music
 
 ***** KK 1 sentence description 
 - for all four programs
 - 10 work max
 - text descrion (Technical, metaphysical, benefit)
-
 
 
 * Artificial Intelligence
@@ -115,7 +107,6 @@ Intelligent characters make for better game play.  The user's experience is fami
 We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
 
 
-
 * Biometric Software
 
 Biometrics refers to metrics related to human biological characteristics, including physiology nd neurology. In virtual reality biometrics are used to measure interest, entertainment and intent.   
@@ -126,6 +117,10 @@ This enables us to remove the many errors and barriors that stand between user a
 
 The seven primary emotions monitored in traditional commercial software is happiness, sadness, anger, contempt, fear, disgust, and suprise.
 
+
+***** KK lab Live on biometric applications
+- hwo do we use these physiological cues to improve expereinces
+- quantifiably, why does this information matter?
 
 * Blockchain 
 
@@ -143,6 +138,10 @@ Features, such as "smart contracts" allow us to host concerts in VR with secure 
 Blockchain tech allows the users to exclusively own and control them content and platform the build.  
 
 
+***** KK lab live blockchain and vr- very high level (elemenatary words and concepts) 
+- highly technical
+- describe the tech archeteure in paragraph form on a VR on the block chain
+
 * Iot
 
 The Internet of things (IoT) is the network of digitally conntected devices,such as home appliances and vehicles, that are conntected to the internet.  These devices are equipped with sensors and operating software, enabling remote access and managment.  For example, adjusting your beach house thermastat from upstate, or  recieving a text message notifying you the plants need watering (because your botany sensors noticed drought.  
@@ -154,6 +153,9 @@ Simulations of physical tasks allow for us to practice, minimize risks and scale
 -- see example here; https://en.wikipedia.org/wiki/Internet_of_things#/media/File:Internet_of_Things.jpg
 
 
+***** KK lab live on simulations connected to physical world shit
+- focus on how simulations save time and money
+
 * Haptics
 
 the communication of devices thhrough touch and feel, as a reaction to an action.  This is the science of applying tactule sensations to controllers to interact with computer applications.   
@@ -163,6 +165,11 @@ Add a visceral dimension to virtual expeirences and 3D environments, most freque
 
 Virtual experiences that train seurgeons and athletes rely on haptic technology to train muscles to maneuver with better presicion.  Our hands determine hardness, shape, tempertaure, texture weight and more.  There is a lot to be undetstood through touch and haptics development is a major contributor to immersion.  
 
+
+***** KK Lab Live on how haptics engage senses  
+- and how those senses influence perception, desicion making, retention (learning)
+- write as if it is all currently happening, not as if it soon will
+- shout out companies doing awesome stuff
 
 * Photogrammetry:	
 
@@ -181,21 +188,44 @@ Re-creating real environments in virtual reality enables us to simulate travel a
 
 *** What the technology is
 *** How it is integrated in VR
-*** Why they care (it maks them money)
-* VR Cryptocurrencies
 
-*** What the technology is
-*** How it is integrated in VR
-*** Why they care (it maks them money)
 
-	⁃	— make payments with crypto- more secure. micro transactions
-	⁃	— lower tax rates
-	⁃	— less moderation in the purchasing
-	⁃	— more open market, no one telling you what you can and can’t sell.   
-	⁃	— increases cost of graphics cards
-	⁃	
-	⁃	
+
+
+
+
+
+
+***** KK Lab Live - how phtogram is being used in XR
+- objective: communicate photogram's best applications in XR
+- 1-4 examples of industry uses, max
+- intro half technical half metaphysical
+- body 75% technical, 25% creative charm
+- conclusion metaphysical
+--  ^^ test this approach o
+
+
+
+related blog
+
+
+
+
+* Cryptocurrencies
+
+Cryptocurrency is a a digital asset, secured by cryptography and designed to serve as monetary currency.   "cryptos" are renown for fast, secure, peer-to-peer transactions, developed on "blockchain" technologey.  
+
+As a digital medium of exchange cryptourrencies are a convenient solution to buy or sell digital property. Cryptocurrencies empower virtual worlds with stable economic measures.
+
+Virtual worlds might be bigger than your realize.  Nearly twenty years ago SeconfLife, a popular 2D virtual world, had a population greater than Australia's.   
+
+In 2001 economist Edward Castronova estimated virtual world EverQuest's gross national product (GNP) at $135 million.  Per capita, richer than India, Bulgaria or China.  Today virtual gods amrket is estimated well over $15 billion. More than 430,000 players logged more than two hours per day at that time. 
+
+The benefits of using crypto-currencies beyond secure and fast transacting without a third party is the anonyminity of holdings and fertile ground-work for more open markets.  It doesn't require
+
+
 * Cloud computing
+
 
 
 *** What the technology is
@@ -224,7 +254,6 @@ Re-creating real environments in virtual reality enables us to simulate travel a
 	⁃	—
 	⁃	
 	⁃	
-
 
 * Finite state machines
 
@@ -264,7 +293,6 @@ Re-creating real environments in virtual reality enables us to simulate travel a
 	⁃	    — better relate to it.  better learn, better understand.  —   more you know, the better decisions you can make, the more you care,— passive subtle learning.   speak to them subconsciously.   gamification.   all he needs to win is pepsi (soda drinker pro)
 	⁃	
 	⁃	
-
 
 * optical tracking 
 
@@ -344,7 +372,6 @@ Re-creating real environments in virtual reality enables us to simulate travel a
 	⁃	— receive information (sponsored by brand content) and it will provide you with convenience and education and —> 
 
 
-
 * Gaming industry:
 
 - mobile 
@@ -399,3 +426,13 @@ In the likes of the gaming indsutry, we are indy
 
 
 ** 
+
+
+
+
+** KK research sources
+- Find 10 research documents PDFs from credible sources
+- save them in a single folder.
+- they will be linekd to on our "resource center"
+
+ 
