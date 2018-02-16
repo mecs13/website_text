@@ -125,9 +125,11 @@
 - links in bottom of abstract panel
 - 404 page
 
+**** KK engaging content in 3d space increases comprehension research.      :WS:
+     SCHEDULED: <2018-02-23 Fri>
+**** 
 
-
-**** JB Observing 3D data in a VR headset.
+**** JB Observing 3D data in a VR headset.                           :WS:
      SCHEDULED: <2018-02-21 Wed>
 - imagine a life size pie chart
 - you can grab the data
@@ -151,3 +153,30 @@ All the graphs and charts as 3D modeled rendered.
 
 
  gs
+
+
+
+
+Blockchains eliminate some need for middlemen, such as trusted thirdparty arbitrators and sales agents.  
+
+
+Blockchains are developed to create permenant VR content, where as in a meta-verse the develped space will be forever existant and owned by the 
+
+
+
+
+
+
+
+
+## Imutable
+Blocks are designed to be inherently resistant to modification of the data — once recorded the data in a block cannot be altered retroactively. 
+
+## Distributed
+Records are spread evenly throughout all participants.  In virtual reality, collaborative
+
+## Smart contract 
+An agreement fascilitated by a computer protocol, enforcing the delivery of agreed terms without a third party (human).  Transactions are secure, trackable and irreversible.
+
+## automated
+Through peer-to-peer networks and a distributed timestamping server, a blockchain database is managed autonomously.

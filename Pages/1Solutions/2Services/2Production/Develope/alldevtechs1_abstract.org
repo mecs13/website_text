@@ -16,7 +16,7 @@ By developing a project with this frame work, producers save time and money.
 
 - This frame work is *Programmable* you can re-program your you content easily and often.  Year over year you will save 40% of development costs compared to producing video content.  
 
-- media will be *interactive*.  Visitors will engage their environment, chage the world around them, and be a part of the story.  This engagement drastically increases impact
+- media will be *interactive*.  Visitors will engage their environment, chage the world around them, and be a part of the story.  Thiiss engagement drastically increases impact
 
 ![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine)
 
@@ -62,15 +62,11 @@ Artificial Agents enhances VR through
 
 
 *** Personaliztion
-
 **** What it is
-
-
 **** how is used in vr
 **** why thats good (makes them money)
 
 *** Generative design
-
 **** What it is
 **** how is used in vr
 **** why thats good (makes them money)
@@ -91,80 +87,32 @@ We synch with the player's cell phone and they post their experience to social m
 
 **** BS AI with VR an Social? :SS:
 
-
-
-
-
 *** Data indxing
 
-**** What it is
+Artificial intelligent algorthms to better index user data.   If information is better categorized it will be better read and understood.  We'll comprehend larger and large sums of data, especially very intimate information VR can fascilitate, such as body movements and emotional states.  
 
-The process of deploying machiens designed to track, collate, distill and visualize, data relating to VR players.   Processing this data and indexing it for you together wholistically understand the user's experience. The AI creates visuals of comple data in 3D, so you can move around and scale the data in real-size.
+A semi-technical explanaition of the process is to track, collate, distill and visualize.
 
-**** JB 3d data geaphic
-     SCHEDULED: <2018-02-21 Wed>
-
-For more, we reccomend the Stanford 100 Year Study on AI https://ai100.stanford.edu/
-
-AN open, non-profit projected aimed to “facilitate an informed conversation about AI that is grounded in data... comprehensive resource of data and analysis" for the community at large so everyone from academics, businesses, government, media, and all to better understand the complex field of Artificial Intelligence.
-
+By visualizng the data of VR players through   indexing you wholistically understand the user's experience. The AI creates visuals of comple data in 3D, so you can move around and scale the data in real-size.  This engagement significantl increases comprehension.  
 
 *** Character engines
-
 
 In Virtual Reality (XR) develops "character engines" into the experience.  These engine the characters behavior and desicion making.   By programming learning algorythms your characters can remember information about you, your game play, and whatever else we teach it to... within reason.  They can be your virtual friends.
 
 Intelligent characters make for better game play.  The user's experience is familiar and personalized.   When you allow visitors to customize their environment, feel ownership.  Intelligent characters increase experience affinity and replay-value.
 
 
-*** Programs of Interest
+**** Programs of Interest
 
 - Live forever audio capture
 - Professional Services
--
 
-Financial strategy (password protect)
-
+** Natural Language Processing
 
 *** What the technology is
-
-
 *** How it is integrated in VR
-*** Why they care (it maks them money)
-
-
-
-Anything Siri or Alexa can do now they will do better in VR, because VR gather 
-
-
- to Paris for the evening of the 17th from New York"  "Call me a   The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
-
-
-
 
 We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
-
-## Index Data
-artificial intelligent algorthms to better index user data.   If information is better categorized it will be better read.  Better read and understood data will be better processed by humans to more fully udnerstand broad swaths of the VR information displayed to them.
-
-## Characters:     
-Imagine a virtual character with behaviors that were "smart", as in it learned from past mistakes.   You already know this from referral automation on the web especially within services you tow which subscribe.  Example: /Netflix reccomends.../
-
- In virtual reality, these "AI Characters" will improve their suggestions and improvisation with generative design.  These will be non-player characters (NPCs) but simulating human behavior.   As Turing tested, If you cannot distinguish the difference between another player and a NPC, what’s the difference?    
-
-Household examples like Siri, Alexis, or Cortana remind us AI has a long way to go, and we shouldn't hold our breath.   In virtual realitythese assistants will be present in physical form.   You can of course customize your virtual companion not just by appearance but by personality, attitude, relationship and onward.   With vast personalization settings available for the user to adjust we give control to the user instead of guessing what they want.  we can adjust the algorithms to our own preference, and then they learn on their own.    
-
-## Self Learning 
-AIs will teach itself to interact with avatars by practicing on the hundreds of avatars.   Everyone’s funded participation goes to the build of a single AI who’s job is to interact with real people
-
-
-## Generative Design  
- 
-/coming soon/
-
-## Personalizations
-
-/coming soon/
 
 
 
@@ -174,20 +122,28 @@ Biometrics refers to metrics related to human biological characteristics, inclu
 
 By monitoring physiological cues such as skin galvenization, eye dialation, heart and breathing rate, computers infer and escrapolate further details about the player and their experience.
 
-This enables us to remove the many errors and barriors that stand the user and creator regarding how and why content is effective.   My connecting our development tools to biometrical sensors and indexing activity we determine which scenes, scenarios and situations are of most interest. 
+This enables us to remove the many errors and barriors that stand between user and feedback.By using bio-measurements we improve the storyline and pin point player's interest, displeasure, fatigue, excitement and much more.  
 
-The process is based on seven primary emotions: happiness, sadness, anger, contempt, fear, disgust, and suprise. 
-
-# Blockchain
-
-## How is Blockchain relavent to VR?
-- secure transactions
-- general stability of the platform
-- allowance of microtransactions
-- Fair rewards for publishers, no payment cuts
+The seven primary emotions monitored in traditional commercial software is happiness, sadness, anger, contempt, fear, disgust, and suprise.
 
 
-A "block"-"chain" is a distributed database (or ledger) that maintains a continuously growing list of ordered records.  This continously growing ordered list is called a "block".  It is connecting linearly to the other blocks, and making it a "chain" of blocks.  Features, such as "smart contracts" allow us to host concerts in VR with secure micro-transactions and affirmed security.
+
+
+
+* Blockchain 
+
+A "block"-"chain" is a distributed database (or ledger) that maintains a continuously growing list of ordered records.
+
+- Secure, private transactions
+- Microtransactions
+- Public, imutable record keeping
+- Democratized administrative control 
+- General platform stability
+
+
+ Features, such as "smart contracts" allow us to host concerts in VR with secure micro-transactions and affirmed security.  An inumeral amount of people can attend concerts and experiences live with musicians and artists.
+
+
 
 ## Imutable
 Blocks are designed to be inherently resistant to modification of the data — once recorded the data in a block cannot be altered retroactively. 
