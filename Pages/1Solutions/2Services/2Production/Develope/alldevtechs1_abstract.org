@@ -41,23 +41,106 @@ text descrion (Technical, metaphysical, benefit)
 
 **** XR Music
 
-** KK 1 sentence description 
+***** KK 1 sentence description 
 - for all four programs
 - 10 work max
 - text descrion (Technical, metaphysical, benefit)
 
 
 
-* Artificial intelligence
+* Artificial Intelligence
 
-## AI Assistance
-Take me to Buenos Aires"  The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+Artificial Intelligence is intelligence demonstrated by a machine.   The branch of computer sciences that studies AI research studies and developes machines to perceive the environment and make adjustments to influence the likelihood of success at achieving goals.  Machines are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
 
-We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
+
+Artificial Agents enhances VR through 
+- Personalization 
+- Generative design
+- Contextual awerness
+- Data indexing
+- character engines
+
+
+
+
+*** Personaliztion
+
+**** What it is
+**** how is used in vr
+**** why thats good (makes them money)
+
+
+
+*** Generative design
+
+**** What it is
+**** how is used in vr
+**** why thats good (makes them money)
+
+
+
+*** Contextual awerness
+
+**** What it is
+**** how is used in vr
+**** why thats good (makes them money)
+
 
 *Contextual awareness* allows the machine to compare the query to known information, such as location, recent searches, and recent conversation with contacts.  Using sensors on their phones, watches or whatever other device they connect to our experience, we can post to social.  Once 
 
 The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices know /a lot/ about us.  
+c
+
+
+
+
+
+*** Data indxing
+
+**** What it is
+**** how is used in vr
+**** why thats good (makes them money)
+
+
+*** Character engines
+
+
+In Virtual Reality (XR) develops "character engines" into the experience.  These engine the characters behavior and desicion making.   By programming learning algorythms your characters can remember information about you, your game play, and whatever else we teach it to... within reason.  They can be your virtual friends.
+
+Intelligent characters make for better game play.  The user's experience is familiar and personalized.   When you allow visitors to customize their environment, feel ownership.  Intelligent characters increase experience affinity and replay-value.
+
+
+*** Programs of Interest
+
+- Live forever audio capture
+- Professional Services
+- 
+
+
+Financial strategy (password protect)
+
+  
+
+
+
+
+*** What the technology is
+
+
+
+
+
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
+
+
+Anything Siri or Alexa can do now they will do better in VR, because VR gather 
+
+
+ to Paris for the evening of the 17th from New York"  "Call me a   The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+
+We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
 
 ## Index Data
 artificial intelligent algorthms to better index user data.   If information is better categorized it will be better read.  Better read and understood data will be better processed by humans to more fully udnerstand broad swaths of the VR information displayed to them.
@@ -80,6 +163,8 @@ AIs will teach itself to interact with avatars by practicing on the hundreds of 
 ## Personalizations
 
 /coming soon/
+
+
 
 * Biometric Software
 
@@ -118,10 +203,20 @@ Through peer-to-peer networks and a distributed timestamping server, a blockchai
 A VR on blockchain can form the ultimate democracy with an independent economy and freedom from the regulation of any governing body outside of itself.   We can build new life, economy and power-structure with the combination of these techonlogies.  In fact, we already have.
 
 
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
 * Iot
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
 * Haptics
 
 
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
 * Photogrammetry:
 	⁃	
 	⁃	-- create 3d detailed vr spaces an d environemnts
@@ -146,7 +241,17 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	
 	⁃	
 	⁃	
+
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
 * VR Cryptocurrencies
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
 	⁃	— make payments with crypto- more secure. micro transactions
 	⁃	— lower tax rates
 	⁃	— less moderation in the purchasing
@@ -155,6 +260,11 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	
 	⁃	
 * Cloud computing
+
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
 	⁃	
 	⁃	— Allows for remote storage
 	⁃	— networked gaming
@@ -166,6 +276,11 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	
 
 * The Web XR:
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
 	⁃	— open and free platform
 	⁃	— allows for more lightweight experiences
 	⁃	— web XR framework, and can build anything in it
@@ -173,7 +288,15 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	—
 	⁃	
 	⁃	
+
+
 * Finite state machines
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
+
 	⁃	— characters to engage 
 	⁃	— used for implementing AI.
 	⁃	— limitations of engagement - 
@@ -181,6 +304,7 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	— not in unreal for engine 4. (because it has stuff it can emulated, but someone else made a plug-in) it is not needed r useful until you use it or need it
 	⁃	
 * AI
+
 	⁃	—  virtual assistant
 	⁃	— store front navigation, there are 5 store fronts and they don’t all telly ou what you want to know.  you see all the same apps on al of them.   they are 
 	⁃	— personalized information, know what you’ve seen and haven’t seen nd what you would be most interest in and receptive to buying.  
@@ -204,7 +328,15 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	    — better relate to it.  better learn, better understand.  —   more you know, the better decisions you can make, the more you care,— passive subtle learning.   speak to them subconsciously.   gamification.   all he needs to win is pepsi (soda drinker pro)
 	⁃	
 	⁃	
+
+
 * optical tracking 
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
+
 	⁃	— tracks the person in the room and 
 	⁃	—  more immersion.
 	⁃	— less accidents, safety
@@ -236,6 +368,13 @@ A VR on blockchain can form the ultimate democracy with an independent economy a
 	⁃	** PRODUCT:
 	⁃	
 * motion tracking 
+
+
+
+*** What the technology is
+*** How it is integrated in VR
+*** Why they care (it maks them money)
+
 	⁃	— capture a real persona and put them as a NPC
 	⁃	— enables real human movement for a npc.  
 	⁃	— make a more realistic environment , more immersive, (not someones interpretations- -  looking at something you recognitive not just a bunch of polygons
