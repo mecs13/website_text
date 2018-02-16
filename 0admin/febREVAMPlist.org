@@ -127,3 +127,15 @@
 
 
 
+*** 3D Model designs.
+
+All the graphs and charts as 3D modeled rendered.
+- Dales cones of learning
+- haed set sales
+- brain on VR
+- accelerated rate of adoption chart
+- Tech architectures
+   + 3d audio
+   + game engine
+   + Live Stream
+   + 
