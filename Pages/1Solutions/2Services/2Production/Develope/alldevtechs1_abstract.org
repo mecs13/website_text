@@ -86,13 +86,36 @@ Artificial Agents enhances VR through
 **** why thats good (makes them money)
 
 
-*Contextual awareness* allows the machine to compare the query to known information, such as location, recent searches, and recent conversation with contacts.  Using sensors on their phones, watches or whatever other device they connect to our experience, we can post to social.  Once 
+*Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location.   If you press the blue dot (ask where you are) it compares this request to its knowledge of the map.  The computer has a small degree of contextual awerness.   
+
+In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play.  AI characters train for learning.   See here:  
+
+
+
+We synch with the player's cell phone and they post their experience to social media.
+
+
+
+Using sensors on their phones, watches or whatever other device they connect to our experience, we can post to social.  Once 
 
 The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices know /a lot/ about us.  
-c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
 
 
 *** Data indxing
