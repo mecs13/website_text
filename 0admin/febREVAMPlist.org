@@ -127,6 +127,15 @@
 
 
 
+**** JB Observing 3D data in a VR headset.
+     SCHEDULED: <2018-02-21 Wed>
+- imagine a life size pie chart
+- you can grab the data
+- you can scale and move the data
+graphic observing 3D data in space
+
+
+
 *** 3D Model designs.
 
 All the graphs and charts as 3D modeled rendered.
@@ -139,3 +148,6 @@ All the graphs and charts as 3D modeled rendered.
    + game engine
    + Live Stream
    + 
+
+
+ gs

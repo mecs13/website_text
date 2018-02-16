@@ -61,15 +61,13 @@ Artificial Agents enhances VR through
 - character engines
 
 
-
-
 *** Personaliztion
 
 **** What it is
+
+
 **** how is used in vr
 **** why thats good (makes them money)
-
-
 
 *** Generative design
 
@@ -77,52 +75,38 @@ Artificial Agents enhances VR through
 **** how is used in vr
 **** why thats good (makes them money)
 
-
-
 *** Contextual awerness
-
-**** What it is
-**** how is used in vr
-**** why thats good (makes them money)
-
 
 *Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location.   If you press the blue dot (ask where you are) it compares this request to its knowledge of the map.  The computer has a small degree of contextual awerness.   
 
-In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play.  AI characters train for learning.   See here:  
+In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play.  AI characters train through trial and error.  They record the context of the successes and failures and adjust to optimize likelihood for success.   
+
+***** BS   how can we use this information in VR? :SS:
+---- You can use this information for 3D shopping. remote focus groups for shopping.
 
 
 
 We synch with the player's cell phone and they post their experience to social media.
 
 
-
-Using sensors on their phones, watches or whatever other device they connect to our experience, we can post to social.  Once 
-
-The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California. Our phones, watches and other mobile devices know /a lot/ about us.  
+**** BS AI with VR an Social? :SS:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-i
 
 
 *** Data indxing
 
 **** What it is
-**** how is used in vr
-**** why thats good (makes them money)
+
+The process of deploying machiens designed to track, collate, distill and visualize, data relating to VR players.   Processing this data and indexing it for you together wholistically understand the user's experience. The AI creates visuals of comple data in 3D, so you can move around and scale the data in real-size.
+
+**** JB 3d data geaphic
+     SCHEDULED: <2018-02-21 Wed>
+
+For more, we reccomend the Stanford 100 Year Study on AI https://ai100.stanford.edu/
+
+AN open, non-profit projected aimed to “facilitate an informed conversation about AI that is grounded in data... comprehensive resource of data and analysis" for the community at large so everyone from academics, businesses, government, media, and all to better understand the complex field of Artificial Intelligence.
 
 
 *** Character engines
@@ -137,20 +121,12 @@ Intelligent characters make for better game play.  The user's experience is fami
 
 - Live forever audio capture
 - Professional Services
-- 
-
+-
 
 Financial strategy (password protect)
 
-  
-
-
-
 
 *** What the technology is
-
-
-
 
 
 *** How it is integrated in VR
@@ -162,6 +138,9 @@ Anything Siri or Alexa can do now they will do better in VR, because VR gather
 
 
  to Paris for the evening of the 17th from New York"  "Call me a   The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+
+
+
 
 We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
 
