@@ -127,9 +127,6 @@ This enables us to remove the many errors and barriors that stand between user a
 The seven primary emotions monitored in traditional commercial software is happiness, sadness, anger, contempt, fear, disgust, and suprise.
 
 
-
-
-
 * Blockchain 
 
 A "block"-"chain" is a distributed database (or ledger) that maintains a continuously growing list of ordered records.
@@ -141,29 +138,11 @@ A "block"-"chain" is a distributed database (or ledger) that maintains a contin
 - General platform stability
 
 
- Features, such as "smart contracts" allow us to host concerts in VR with secure micro-transactions and affirmed security.  An inumeral amount of people can attend concerts and experiences live with musicians and artists.
+Features, such as "smart contracts" allow us to host concerts in VR with secure micro-transactions.  An inumeral amount of people can attend concerts and experiences live with musicians and artists.  On a blockchain, you can charge them based on network contribution.  
 
+Blockchain tech allows the users to exclusively own and control them content and platform the build.  
 
-
-## Imutable
-Blocks are designed to be inherently resistant to modification of the data — once recorded the data in a block cannot be altered retroactively. 
-
-## Distributed
-Records are spread evenly throughout all participants.  In virtual reality, collaborative
-
-## Smart contract 
-An agreement fascilitated by a computer protocol, enforcing the delivery of agreed terms without a third party (human).  Transactions are secure, trackable and irreversible.
-
-
-## automated
-Through peer-to-peer networks and a distributed timestamping server, a blockchain database is managed autonomously.
-
-A VR on blockchain can form the ultimate democracy with an independent economy and freedom from the regulation of any governing body outside of itself.   We can build new life, economy and power-structure with the combination of these techonlogies.  In fact, we already have.
-
-
-*** What the technology is
-*** How it is integrated in VR
-*** Why they care (it maks them money)
+i
 * Iot
 
 *** What the technology is

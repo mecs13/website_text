@@ -45,3 +45,28 @@ Anything Siri or Alexa can do now they will do better in VR, because VR gather
  to Paris for the evening of the 17th from New York"  "Call me a   The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
 
 
+
+
+
+
+
+## Imutable
+Blocks are designed to be inherently resistant to modification of the data — once recorded the data in a block cannot be altered retroactively. 
+
+## Distributed
+Records are spread evenly throughout all participants.  In virtual reality, collaborative
+
+## Smart contract 
+An agreement fascilitated by a computer protocol, enforcing the delivery of agreed terms without a third party (human).  Transactions are secure, trackable and irreversible.
+
+
+## automated
+Through peer-to-peer networks and a distributed timestamping server, a blockchain database is managed autonomously.
+
+A VR on blockchain can form the ultimate democracy with an independent economy and freedom from the regulation of any governing body outside of itself.   We can build new life, economy and power-structure with the combination of these techonlogies.  In fact, we already have.
+
+
+*** What the technology is
+
+
+
