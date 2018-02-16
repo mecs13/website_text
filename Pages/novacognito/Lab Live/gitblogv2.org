@@ -1,4 +1,4 @@
- frFor anyone who collaborates: on work "GIT".
+ f bnrFor anyone who collaborates: on work "GIT".
 
 This is the first of set of cliff notes on my learnings of power-house versioning tool /git/.
 

@@ -1,14 +1,49 @@
-# Game Engine
+* Game Engine
+
+
+
 
 A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
 
 Game engines equip us to custom design virtual environments, program rules and netowrk experiences to be shared on personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
 
-We economize the process of game development by reusing/adaptig the same game engine to create different games.  This also makes it easier to port games to multiple platforms.
+We economize the process of virtual reality (XR) development by adapting game engine builds to create new VR expereinces. 
 
-iArtificial intelligence in VR
 
-# Artificial intelligence
+By developing your project in a game engine you save yourself time and money.   
+
+- This frame work is *Programmable* you can re-program your you content easily and often.  
+- The media will be *interactive*.  Visitors will engage their environment, chage the world around them, and be a part of the story.
+
+- The experience is *netowrked* meaning it is connected to other real people. You and your friends will travel the customized worlds you design /together/.
+
+- The visitor will have a *visceral* expereince, because game engines can create life-like simulations.
+
+ /Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine
+
+
+
+
+
+By developing your project in with a game engine we will quickly design the virtual environment and scene 
+
+
+This also makes it easier to port games to multiple platforms.
+
+
+*** What is the Technology
+
+
+*** How it is integrated into XR
+
+*** Why that makes you money
+
+
+
+Artificial intelligence in VR
+
+* Artificial intelligence
+
 ## AI Assistance
 Take me to Buenos Aires"  The machine simply needs to know to teleport to that 360 video content.   "Bring me to wherever Kelly is"  or "Tell my wife I am going to be thirty minutes late"  The system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
 
@@ -40,7 +75,7 @@ AIs will teach itself to interact with avatars by practicing on the hundreds of 
 
 /coming soon/
 
-# Biometric Software
+* Biometric Software
 
 Biometrics refers to metrics related to human biological characteristics, including physiology nd neurology. In virtual reality biometrics are used to measure interest, entertainment and intent.   
 
@@ -77,3 +112,209 @@ Through peer-to-peer networks and a distributed timestamping server, a blockchai
 A VR on blockchain can form the ultimate democracy with an independent economy and freedom from the regulation of any governing body outside of itself.   We can build new life, economy and power-structure with the combination of these techonlogies.  In fact, we already have.
 
 
+* Iot
+* Haptics
+
+
+* Photogrammetry:
+	⁃	
+	⁃	-- create 3d detailed vr spaces an d environemnts
+	⁃	-- create models
+	⁃	-- 3d scan expert (software
+	⁃	-- Hardware - DSLR camera + lighting rings
+	⁃	-- converying real space in VR - realism
+	⁃	-- and integrating real locations into vitual worlds
+	⁃	
+	⁃	
+	⁃	** SS downlaod phtogrammtery app and use 123D capture
+	⁃	
+	⁃	** Blockchain in VR
+	⁃	—  CEEK is a vr blacken, uses smart contracts to have live vr concerts and other events.  works with ether
+	⁃	— mana coin and decentraland
+	⁃	— gaze coin. uses a custom engine to track a views eye movements and how much they are paying attention to certain information.
+	⁃	— ad chain
+	⁃	— make a vr creation, general stability of the platform is assured through blockchain.  
+	⁃	— creative rights and credits
+	⁃	—  vibe hub.- compineing crypto/blockchain/vr, buy and sell celebrity sessions, meet and greet with favorite artist or professional to learn a new skill — allowance of micro transactions with vive currency will usher in a new paradigm of social interactions and transactions .  more immersive than a live chat or phone call.   features, unique social experiences.  ERC20 token.   fair rewards for publishers, no payment cuts.  secure transactions
+	⁃	— star citizen, funding on the blockchain
+	⁃	
+	⁃	
+	⁃	
+* VR Cryptocurrencies
+	⁃	— make payments with crypto- more secure. micro transactions
+	⁃	— lower tax rates
+	⁃	— less moderation in the purchasing
+	⁃	— more open market, no one telling you what you can and can’t sell.   
+	⁃	— increases cost of graphics cards
+	⁃	
+	⁃	
+* Cloud computing
+	⁃	
+	⁃	— Allows for remote storage
+	⁃	— networked gaming
+	⁃	— stream the VR game from someone else computer to yours
+	⁃	— games are putting them all in the cloud, will run more smoothly
+	⁃	— try an app before you download it
+	⁃	— 
+	⁃	
+	⁃	
+
+* The Web XR:
+	⁃	— open and free platform
+	⁃	— allows for more lightweight experiences
+	⁃	— web XR framework, and can build anything in it
+	⁃	— in unity you need to build from nothing.
+	⁃	—
+	⁃	
+	⁃	
+* Finite state machines
+	⁃	— characters to engage 
+	⁃	— used for implementing AI.
+	⁃	— limitations of engagement - 
+	⁃	— transition period
+	⁃	— not in unreal for engine 4. (because it has stuff it can emulated, but someone else made a plug-in) it is not needed r useful until you use it or need it
+	⁃	
+* AI
+	⁃	—  virtual assistant
+	⁃	— store front navigation, there are 5 store fronts and they don’t all telly ou what you want to know.  you see all the same apps on al of them.   they are 
+	⁃	— personalized information, know what you’ve seen and haven’t seen nd what you would be most interest in and receptive to buying.  
+	⁃	— generative design.  based on your prefrences    
+	⁃	
+* Haptics
+	⁃	— omni-tredmil  - have movement without the sensors.  you are not limited in space.  small foot space.   
+	⁃	      —— safe action
+	⁃	      ——  more physical movement and interaction
+	⁃	      — — more immersive game play
+	⁃	      — — 
+	⁃	
+	⁃	— subpack 
+	⁃	   — — real time feedback, more immersion, 
+	⁃	   — — elicits deeps emotions
+	⁃	   — — stronger brand connection
+	⁃	   — — experience things you could not feel in real life
+	⁃	   — — raises the interest and intrigue
+	⁃	        —— >   more play time more sales, increased sharing, better usability, retain a market for the product, better monetizati
+	⁃	— controller feedback
+	⁃	    — better relate to it.  better learn, better understand.  —   more you know, the better decisions you can make, the more you care,— passive subtle learning.   speak to them subconsciously.   gamification.   all he needs to win is pepsi (soda drinker pro)
+	⁃	
+	⁃	
+* optical tracking 
+	⁃	— tracks the person in the room and 
+	⁃	—  more immersion.
+	⁃	— less accidents, safety
+	⁃	— enables spatial cognition
+	⁃	— enables mixed reality
+	⁃	— assists with proper movement
+	⁃	— can gage your interest level 
+	⁃	— computer vision integrates the surrounding area.   opens up to new methods.   
+	⁃	if you are teleporting you cannot do anything that is balanced bath, and by tracking he movement
+	⁃	—  
+	⁃	
+	⁃	
+	⁃	Eye-tracking
+	⁃	  — gage interest
+	⁃	  — match attention with intention
+	⁃	  — measure awareness, interest, focus, potentially intent
+	⁃	  — measure effectiveness 
+	⁃	
+	⁃	
+	⁃	AI Engine
+	⁃	
+	⁃	
+	⁃	give them the versatility to chose a pasificis or a more aggressive route we can gage a lot about a person, their intereste, their demographic, 
+	⁃	Bio-metric feedback
+	⁃	
+	⁃	
+	⁃	
+	⁃	
+	⁃	** PRODUCT:
+	⁃	
+* motion tracking 
+	⁃	— capture a real persona and put them as a NPC
+	⁃	— enables real human movement for a npc.  
+	⁃	— make a more realistic environment , more immersive, (not someones interpretations- -  looking at something you recognitive not just a bunch of polygons
+	⁃	
+	⁃	Projection mapping - 
+	⁃	** the inverse of virtual reality
+	⁃	
+	⁃	— a strong connection to physical world objects like a building.  people work in it, see it everyday , grandfather helped build it
+	⁃	— it is the art canvas
+	⁃	— inverse a game engine vr/ar experience as a promotion
+	⁃	— interactive tool, lets people engage
+	⁃	— education tool.   
+	⁃	
+	⁃	
+	⁃	
+ -  - - Token sale of Vibe hub
+	⁃	
+	⁃	
+	⁃	
+	⁃	
+	⁃	
+	⁃	PRODUCTS:
+	⁃	
+	⁃	Why would someone want an anonymous company 
+	⁃	— t protect their crypto
+	⁃	— avoid paying unwanted third parties
+	⁃	— benefits of anonymity,  security and safety from malicious players
+	⁃	
+	⁃	AR Branding 
+	⁃	 — points for 
+	⁃	— receive information (sponsored by brand content) and it will provide you with convenience and education and —> 
+
+
+
+* Gaming industry:
+
+- mobile 
+
+platform membershare and size?
+
+Which can we push VR games to.
+
+Profile of the gamers.
+
+Testimony on the future of XR by gamers
+
+use gamers gate
+
+Videogame junkies is a big game reviewer.
+
+List of game industry influences.
+
+In the likes of the gaming indsutry, we are indy
+
+
+- made for competition
+-- team based, co-=operation, communication and planning
+-- strategy
+-- social
+-- unchartered experiences
+-- communication
+-- ranking/tiers 
+-- playability
+  + mechanics that work (unique mechanics) 
+  + differnet 
+-- balance
+  + 
+
+** spin off culture of the games
+*** Community
+
+*** Fan Art
+
+*** Lore / Theories
+
+*** Music
+
+
+** Replay value
+ - the dungeons are randomly generated. 
+ - different endings
+ - differnet gae play
+ - variety of characters
+ - variety of characters 
+ - 
+
+
+** 

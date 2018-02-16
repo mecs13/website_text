@@ -1,6 +1,6 @@
-First, I need to know about dot space macs.
+I am learning how to script.  I'm 30 years old.  It's never too late to become a computer scientist, right?   
 
-what i want to do with the logic is take the spacemacs config file to talk to the emacs file
+First, I need to know about dot space macs.  What Iwant to do with the logic is take the spacemacs config file to talk to the emacs file
 
 it is big and organize -- each section does somehing specific.  i am loooking for the se tion that is about personal configuration..
 
