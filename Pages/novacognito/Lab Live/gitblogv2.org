@@ -1,11 +1,10 @@
- f bnrFor anyone who collaborates: on work "GIT".
+For anyone who collaborates: on work "GIT".
 
 This is the first of set of cliff notes on my learnings of power-house versioning tool /git/.
 
 Rocket scientist and a dear friend of mine, Motas, is my teacher.   The first required reading is Git Pro, the second addition. I'm not that smart of a guy, so my success is a testiment to the prospect of anyone's.
 
 Git is a good tool because it is easy to use, adoptable, and intuitive.  Simply, git is a distributed repository.   
-
 
 Git is a versioning control system (VCS), as in it records changes of files, allows you to revert to a previous state, compares changes over time and identifies modifiers.   
 
@@ -59,3 +58,4 @@ Understand these last three and you've all you need to know to get started.
 Tune in next time...
 
 -Zef
+sl 
