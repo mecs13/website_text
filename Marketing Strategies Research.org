@@ -1,0 +1,98 @@
+Approach 
+
+Goals:
+
+- Build brand.
+- Generate leads.
+- Convert leads into sales.
+- Increase customer loyalty.
+
+* What are the 5-10 most important KPIs for us right now: 
+
+- Visits to website
+- Visits to website leading to interaction with Nova 
+- Visitors to studio 
+- Distribution of business cards
+- Contacts added in New York
+
+Comprehensive performance measurement 
+
+Companies need a proper set of KPIs now
+
+A set of KPIs must be developed for (Financial and Operational): 
+
+financial perspective, customer, internal business process and organizational learning and growth. 
+
+…
+
+Key performance indicators are everywhere around us. You’re always seeing them. Here’s some clarity on how to measure KPIs. 
+
+* KPIs measure how well a company is achieving its business objectives. Here are some of foundational indicators for businesses: 
+
+- Customer acquisition costs
+- Customer retention rate
+- Lifetime Value
+- Ration of CAC to LTV is the golden metric
+- How long it takes to recover CAC
+- This has a direct impact on cash flow - how long before you get ur money back 
+- Understanding revenue and monthly expenses equal burn rate
+- Conversion rate: ability for company to sell its products and it’s customers desire for the product. 
+...
+
+Broadly, it’s important to measure and understand the way marketing influences sales. How are new marketing decisions influencing the number of sales? Marketing attracts qualified leads and sales converts them into revenue. 
+
+Instead of measuring how many more products your target audience bought, the incremental sales KPI measures how many more products your target audience bought as a result of the difference in your marketing spend. Of course this sounds like a more indepth way of understanding the flow between your marketing and sales, so how do we measure “Incremental Sales?”
+
+This first requires knowing how many sales you expect to make without an adjustment to your marketing activity. So, if you’re just getting started and don’t yet have sales it makes it even easier...you start with 0. 
+
+Measuring the success of your incremental sales simply takes place by subtracting your 
+
+* Here are some common KPIs used in Marketing: 
+- SEO progress
+- social Media Growth 
+-  Online reviews
+-  Time spent on website 
+-  Subscriptions to delivered content 
+-  Conversion rates
+-  Repeat purchases
+
+* For Nova 
+** Primary KPI: Website Visitors
+** Supporting Metrics for website visits: 
+- Inbound links
+-  Referral visits
+-  Media mentions
+-  Owned reach (subscribers, social followers, contact database)
+-  New visitors
+-  Returning visitors
+ 
+* Generate Leads.
+** Primary KPI: Total Leads
+** Supporting Metrics:
+-  Gated downloads
+- Lead source (advertising, direct, email, calls, social, offline)
+- Cost per lead (CPL)
+- Lead quality score
+- Lead-to-prospect ratio
+- Prospects, or sales-qualified leads
+ 
+* Convert Leads Into Sales.
+** Primary KPI: Customers
+** Supporting Metrics:
+- Conversion rate (visitor to customer; lead to customer; prospect to customer)
+- Cost of customer acquisition (COCA)
+- New customers
+- Revenue won
+- Revenue source wins
+ 
+* Increase Customer Loyalty.
+** Primary KPI: Recurring Revenue
+** Supporting Metrics
+- Active customers
+- Churn rate
+- Customer lifetime value (CLV)
+- Customer referrals and reviews
+- Net promoter score (NPS)
+- Engagement (social, web, email, etc.)
+- Retention rate
+- Revenue (lost, won, per customer, per division, per product)
