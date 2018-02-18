@@ -5,3 +5,4 @@ A "running" character will be less aware of their surroundings, while the "stand
 A finite-state machine (FSM) or finite-state automaton is a mathematical computation model. An FSM is an abstract machine capable of exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to external or internal inputs.  This change from state to another is a "transition".    
 
 
+ 
