@@ -7,6 +7,8 @@ Immerse digital artists inside a 3D color object and allow them active selection
 
 ** Description
 
+For more than 100 years we’ve known that color can be divided by hue, lightness, and saturation. With the understanding of these parameters we’ve created a Virtual Experience to present the user with the most complete representation of the color spectrum.
+
 This program can be divided into three categories:
 
 **** Choosing color 
