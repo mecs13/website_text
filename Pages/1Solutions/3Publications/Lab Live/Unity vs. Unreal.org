@@ -1,0 +1,21 @@
+Unity is a cross-platform game engine used to develop a large portion of Virtual Reality experiences. It was first announced
+only for OS X at Apple's Worldwide Developer's Conference in 2005 and has now been extended into 27 target platforms. 
+
+It's runtime is written in C++ and its API in C#. 
+
+There had been two other languages supported in Unity (Boo and Java script), but with the release of Unity 2017.1 in late 2017, 
+C# is now the most effective language for building in Unity. 
+ 
+The program hosts both 2D and 3D development and is equiped with drag and drop functionality. 
+
+It's widely considered across the Virtual Reality industry as the most powerful and reliable developmental game engine. 
+...
+
+Unity has a main level designing tool called terrain...this allows creation of vegitation, folliage, objects placed upon terrain. 
+
+Unreal has a level designing tool called landscape which does the same. Unreal engine has great support for grass on mesh. 
+You'll be able to place grass and trees on your landscape but you can use the folliage system for your 3D meshes too. 
+
+Unreal on the other hand has a base content of grass, trees, etc. 
+
+Unity has billboard grass for greater performance. In Unreal you're limited to 3D models for grasses. In Unreal you have a 
