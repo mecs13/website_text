@@ -1,4 +1,20 @@
 * Architecture:
 
-Before architects bring their work into the physical world, they blueprint on a 2D screen. Virtual Reality is the intermediate step between a two dimensional plan and the act of building these innovative structures in our towns and cities. In VR, architects draw, measure, and construct buildings in an immersive space to introduce a more refined product to the physical world.
+** Tagline 
+Sketch, Measure, and blueprint in VR
+
+** Abstract
+Design and build complex infrastructure in Virtual space before designing it in the physical world
+
+** Description
+
+Before architects bring their work to life, they blueprint on a 2D screen. Virtual Reality is the intermediate step between a two dimensional plan and the act of building these innovative structures in our towns and cities. In VR, architects draw, measure, and construct buildings in an immersive space to introduce a more refined product to our cities and towns.
+
+In Virtual space, architects gain a firmer understanding of how the geometrical dynamics of their structure will influence aspects like traffic flow and pedestrian movement. They also gain full imagery of the ways in which elements like rainfall and natural lighting will interact with infrastructure.
+
+Today, more architects are gaining access to computer aided design (CAD) and computer aided manufacturing (CAM). These programs have introduced a new language of forms and shapes that's too complex for the human brain to project and visualize on its own. Virtual Reality is the technological platform enabling the mind to comprehend these elaborate visual concepts.
+
+Designing in Virtual Reality solidifies many of the assumptions architects must rely on before their next project breaks ground
+
+Architecture is spatial discipline that's found a natural home home inside the Virtual World.
  
