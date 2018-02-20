@@ -6,6 +6,8 @@ Sketch, Measure, and blueprint in VR
 ** Abstract
 Design and build complex infrastructure in Virtual space before designing it in the physical world
 
+** Description
+
 Before architects bring their work to life, they blueprint on a 2D screen. Virtual Reality is the intermediate step between a two dimensional plan and the act of building these innovative structures in our towns and cities. In VR, architects draw, measure, and construct buildings in an immersive space to introduce a more refined product to our cities and towns.
 
 In Virtual space, architects gain a firmer understanding of how the geometrical dynamics of their structure will influence aspects like traffic flow and pedestrian movement. They also gain full imagery of the ways in which elements like rainfall and natural lighting will interact with infrastructure.
