@@ -39,7 +39,6 @@ text descrion (Technical, metaphysical, benefit)
 - 10 work max
 - text descrion (Technical, metaphysical, benefit)
 
-
 * Artificial Intelligence
 
 Artificial Intelligence is intelligence demonstrated by a machine.   The branch of computer sciences that studies AI research studies and developes machines to perceive the environment and make adjustments to influence the likelihood of success at achieving goals.  Machines are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
@@ -62,6 +61,10 @@ Artificial Agents enhances VR through
 **** What it is
 **** how is used in vr
 **** why thats good (makes them money)
+
+*** Storefront navigation
+
+At the front of a store, or in a virtual world, you will ask an AI "butler" or "host" for information about the local area.  These bots will grow more and more expert in communicating with patrons and visitors.  Think about friendly chatbots on a website, but personified as a character.
 
 *** Contextual awerness
 
@@ -105,7 +108,6 @@ Intelligent characters make for better game play.  The user's experience is fami
 *** How it is integrated in VR
 
 We will talk with the concierge — not with commands, menus and quirky key combinations —but using our own human language.   This is Natural Language Processing, a foremost technique for human-to-machine discussions.   
-
 
 * Biometric Software
 
@@ -210,7 +212,6 @@ related blog
 
 
 
-
 * Cryptocurrencies
 
 Cryptocurrency is a a digital asset, secured by cryptography and designed to serve as monetary currency.   "cryptos" are renown for fast, secure, peer-to-peer transactions, developed on "blockchain" technologey.  
@@ -223,9 +224,18 @@ In 2001 economist Edward Castronova estimated virtual world EverQuest's gross na
 
 The benefits of using crypto-currencies beyond secure and fast transacting without a third party is the anonyminity of holdings and fertile ground-work for more open markets.  It doesn't require
 
-
 * Cloud computing
 
+Cloud computing is the remote storage, access and control of computers.   A "cloud" is really just a server, and storing in the cloud merely means you are storing your data on someone elses' hard drive.  For example, iCloud is storing you data on Apple's hardware, instead of your own (locally).
+
+
+
+
+
+
+
+** JB cloud computing graphic
+- idea starter https://xenlife.com.au/wp-content/uploads/What-is-cloud-computing.png
 
 
 *** What the technology is
@@ -257,32 +267,21 @@ The benefits of using crypto-currencies beyond secure and fast transacting witho
 
 * Finite state machines
 
-*** What the technology is
-*** How it is integrated in VR
-*** Why they care (it maks them money)
+finite state machines are made of explicite states.    Imagine a simple video game character can be be in five different finite states, standing, walking, running, attacking, defending.   Each has its own commands and logic framework, when entering, enduring, or departing the state. States have rules tha indicate when they can transition and how.  For example the character must go from "standing" to "walking" before it can enter "running".
 
+A "running" character will be less aware of their surroundings, while the "standing" character will be programmed to be more obervant for another character's attack.   Maybe the character can only enter "defending" for a short period of time, requiring it to enter "attacking" mode, or be injured.   
 
-	⁃	— characters to engage 
-	⁃	— used for implementing AI.
-	⁃	— limitations of engagement - 
-	⁃	— transition period
-	⁃	— not in unreal for engine 4. (because it has stuff it can emulated, but someone else made a plug-in) it is not needed r useful until you use it or need it
-	⁃	
+ Finite State Machines (FSM)s provide broader game-play and character engagement.  FSMs give game-play more depth of character, game-play possibilities, and longer time-in-play rates.  The more engaged a player is the more they will explore, chat, shop, play.   
+9i
 * AI
 
-	⁃	—  virtual assistant
-	⁃	— store front navigation, there are 5 store fronts and they don’t all telly ou what you want to know.  you see all the same apps on al of them.   they are 
-	⁃	— personalized information, know what you’ve seen and haven’t seen nd what you would be most interest in and receptive to buying.  
-	⁃	— generative design.  based on your prefrences    
-	⁃	
 * Haptics
-	⁃	— omni-tredmil  - have movement without the sensors.  you are not limited in space.  small foot space.   
-	⁃	      —— safe action
-	⁃	      ——  more physical movement and interaction
-	⁃	      — — more immersive game play
-	⁃	      — — 
-	⁃	
-	⁃	— subpack 
+
+
+Tredmils give you movement without optical tracking sensors.  Your space is not limited, enabling broad spatial place in narrow spaces.  This inscreases safety and physical activity.   Tredmils enhance immersion.   
+
+The subpack is a haptic vest which replicates bodily feelings one would experience in VR.   If you're playing Call of Duty and get shot your vest punches your point blank.  
+subpack 
 	⁃	   — — real time feedback, more immersion, 
 	⁃	   — — elicits deeps emotions
 	⁃	   — — stronger brand connection
@@ -346,7 +345,7 @@ The benefits of using crypto-currencies beyond secure and fast transacting witho
 	⁃	Projection mapping - 
 	⁃	** the inverse of virtual reality
 	⁃	
-	⁃	— a strong connection to physical world objects like a building.  people work in it, see it everyday , grandfather helped build it
+	⁃	—a strong connection to physical world objects like a building.  people work in it, see it everyday , grandfather helped build it
 	⁃	— it is the art canvas
 	⁃	— inverse a game engine vr/ar experience as a promotion
 	⁃	— interactive tool, lets people engage
@@ -434,5 +433,7 @@ In the likes of the gaming indsutry, we are indy
 - Find 10 research documents PDFs from credible sources
 - save them in a single folder.
 - they will be linekd to on our "resource center"
+- idea starters for keywords include : Virtual currencies, virtual eonomy, vr growth, economic impact of virtual worlds, 
+
 
  
