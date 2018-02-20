@@ -26,7 +26,6 @@
 |     3 | Foodman                | p             | -                                    |       | [Yes | /Food              |          |         |                |           |             | n   |   |   |   |
 |     3 | in vr                  | p             | -                                    |       | [[Yes]]  | /In-VR             |          |         |                |           |             | n   |   |   |   |
 |     3 | professional services  | p             | DONE Eye                             | no    | [Yes | /health            |          |         |                |           |             | n   |   |   |   |
-|     3 | token sale             | p             | -                                    | yes   | [[Yes]]  | /token             |          |         |                |           |             | y   |   |   |   |
 |     3 | encylopedia            | p             | -                                    | no    | [Yes | /encyclopedia      |          |         |                |           |             | n   |   |   |   |
 |     3 | sports                 | p             | -                                    | no    | [[Yes]]  | /sports            |          |         |                |           |             | n   |   |   |   |
 |     3 | liveforever            | p             | -                                    | no    | [Ye] | /liveforever       |          |         |                |           |             | n   |   |   |   |
