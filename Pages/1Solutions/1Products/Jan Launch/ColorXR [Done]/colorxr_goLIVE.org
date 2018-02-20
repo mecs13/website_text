@@ -1,10 +1,17 @@
+* XR Color
+** Tagline 
+Virtual Color Palet
 
+** Abstract
+Immerse digital artists inside a 3D color object and allow them active selection of any color on the spectrum
+
+** Description
 
 This program can be divided into three categories:
 
 **** Choosing color 
 
-Inside XR Color there are three dimensions in which the user can move. Vertical movement, for instance, changes the lightness - the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. Altering depth through the center point changes saturation. Complementary colors are available at the reciprocal distance and angle from centerpoint. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will instantly be within reach. A change in color can also take place based on the user's visual focus. 
+Inside XR Color there are three dimensions in which the user can move. Vertical movement changes the lightness - the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. Altering depth through the center point changes saturation. Complementary colors are available at the reciprocal distance and angle from centerpoint. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will instantly be within reach. A change in color may also take place based on the user's visual focus. 
 
 ***** Benefits: 
 
@@ -20,7 +27,7 @@ More designers and developers will gain a deeper understanding of color, creatin
 
 **** Pleasure & Wellness of Color
 
-For close to a millenium, chromotherapy has been practiced in various forms at various points throughout the world. In some cases colors are portrayed onto certain parts of the body to increase blood flow and cleanse the anatomical system. Other methods of chromotherapy are best received when the human eye perceives certain colors as a form of treatment. 
+For close to a millenium, chromotherapy has been practiced in various forms at various points throughout the world. In some cases colors are portrayed onto certain parts of the body to increase blood flow and cleanse the anatomical system. Other methods of chromotherapy are best received when the human eye perceives certain colors as a form of visual treatment. 
 
 ***** Benefits: 
 
