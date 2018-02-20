@@ -62,6 +62,10 @@ Artificial Agents enhances VR through
 **** how is used in vr
 **** why thats good (makes them money)
 
+*** Storefront navigation
+
+At the front of a store, or in a virtual world, you will ask an AI "butler" or "host" for information about the local area.  These bots will grow more and more expert in communicating with patrons and visitors.  Think about friendly chatbots on a website, but personified as a character.
+
 *** Contextual awerness
 
 *Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location.   If you press the blue dot (ask where you are) it compares this request to its knowledge of the map.  The computer has a small degree of contextual awerness.   
@@ -268,22 +272,16 @@ finite state machines are made of explicite states.    Imagine a simple video ga
 A "running" character will be less aware of their surroundings, while the "standing" character will be programmed to be more obervant for another character's attack.   Maybe the character can only enter "defending" for a short period of time, requiring it to enter "attacking" mode, or be injured.   
 
  Finite State Machines (FSM)s provide broader game-play and character engagement.  FSMs give game-play more depth of character, game-play possibilities, and longer time-in-play rates.  The more engaged a player is the more they will explore, chat, shop, play.   
-
+9i
 * AI
 
-	⁃	—  virtual assistant
-	⁃	— store front navigation, there are 5 store fronts and they don’t all telly ou what you want to know.  you see all the same apps on al of them.   they are 
-	⁃	— personalized information, know what you’ve seen and haven’t seen nd what you would be most interest in and receptive to buying.  
-	⁃	— generative design.  based on your prefrences    
-	⁃	
 * Haptics
-	⁃	— omni-tredmil  - have movement without the sensors.  you are not limited in space.  small foot space.   
-	⁃	      —— safe action
-	⁃	      ——  more physical movement and interaction
-	⁃	      — — more immersive game play
-	⁃	      — — 
-	⁃	
-	⁃	— subpack 
+
+
+Tredmils give you movement without optical tracking sensors.  Your space is not limited, enabling broad spatial place in narrow spaces.  This inscreases safety and physical activity.   Tredmils enhance immersion.   
+
+The subpack is a haptic vest which replicates bodily feelings one would experience in VR.   If you're playing Call of Duty and get shot your vest punches your point blank.  
+subpack 
 	⁃	   — — real time feedback, more immersion, 
 	⁃	   — — elicits deeps emotions
 	⁃	   — — stronger brand connection
