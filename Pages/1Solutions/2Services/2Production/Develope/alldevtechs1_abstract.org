@@ -487,13 +487,49 @@ In the likes of the gaming indsutry, we are indy
  - variety of characters 
  - 
 
+* Spatial OS
 
-** 
+-yarm
+/Who is using it? Automaton for their upcoming game Maverick's: Proving Grounds, Abyssals being developped by some Improbable developers, MetaWorld by HelloVR, Avalon by Lil Sumn Games, Worlds Adrift by Bossa Studios, Geekzonia by Eventual and Soluis, Shattered Lives by toxicbrain, Vanishing Stars by NINPO, Seed by Klang Games, Lazarus by Spilt Milk Studios, Forsaken Legends by Holy Fire Games, Rebel Horizons by Entrada Interactive, 
+-https://improbable.io/games/blog/unity-and-spatialos-and-spiders
+-(I can't find it at the moment but there was one for Maverick's: Proving Grounds)
+How much can it store? It should be able to store as much as you need it to
+What's is it built on (how is the program built)? It's an SDK to be used in clients
+Can you access it from anywhere? Cloud, should be able to acces from anywhere
+What's the speed? Should be faster than if you had to runt he game on your own system
+-"This means that the simulation is not limited to what a single flocking worker can do. Indeed, our local deployment used only 200 birds, but when we spawn a flock of thousands of birds in the cloud, SpatialOS automatically runs 3 instances of the flocking worker to handle the workload." <- From a description about "workers" in games made in SpatialOS, example of how "workload" is handled
+What languages does it support? Unity can be used as the client on which to build the game and to simulate the physics, Unreal Engine, C++, Java, Go, C#, Objective-C, NodeJS
+-"There can be thousands of players and spiders in the world, but SpatialOS sends each client updates only for the entities that the player can see, and only the components relevant to the visualisation. For example, the client gets the position and rotation of the spiders, but not their AI state, since that is used by the AI code that runs in a logic worker in the simulation layer." <- From a description of the code for the game Abyssals being made in SpatialOS
+-"There are many advantages to creating workers in this way. C++ is a stable and well-integrated language. Thousands of off-the-shelf SDKs could be easily integrated, to help achieve anything from pathfinding to protein folding. Using the C++ API as a starting point, it is possible to create a reusable framework for new workers in any programming language that has a C++ API or C++ bindings." <- From a description about "workers" in games made in SpatialOS
+-https://github.com/improbable-public/abyssals/tree/master/workers/unity/Assets/Gamelogic/Src
+How are products exported? https://docs.improbable.io/reference/12.1/shared/deploy/deploy-cloud
+What hardware is required to run it and games made on it? https://docs.improbable.io/reference/12.1/shared/get-started/requirements
+Does it have an app? No mobile app, just the SDK/development platform
+
+Relevant/Important Links:
+https://improbable.io/games/blog/were-building-a-starter-vr-project-for-spatialos
+https://docs.improbable.io/reference/12.1/index
+https://improbable.io/games/blog/the-future-of-the-game-engine
+https://improbable.io/games/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis
+
+-Develop games in Unity or Unreal Engine with SpatialOS SDK: https://improbable.io/get-spatialos
+-Web App Development
+
+"Couple the power of SpatialOS with a dedicated team of designers and artists, and suddenly youíve got the groundwork for a massive, multi-client, production-ready online game that supports thousands of simultaneous players, in a matter of weeks."?
+  
+* Robotoics
+
+* Holograms
+
+* Projection Mapping
+
+* Volumetrics Display
 
 
 
 
-** KK research sources
+
+## KK research sources
 - Find 10 research documents PDFs from credible sources
 - save them in a single folder.
 - they will be linekd to on our "resource center"
