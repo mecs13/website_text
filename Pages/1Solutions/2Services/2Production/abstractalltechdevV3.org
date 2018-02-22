@@ -1,91 +1,27 @@
+ * Game Engine
 
+*** What is the technology
 
+A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  Game engines enable us to provide you with all the features of the internet from social sharing to payment.  
+*** How the tech is used for VR
 
-* Design
+Game engines equip developers to custom design virtual environments, program rules and netowrk experiences to be shared on personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
 
-Designing:
+Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces. 
 
+*** Why this matters (makes you money)
 
-** Blender:
+By developing a project with this frame work, producers save time and money.   
 
-Blender is a free, open source 3D modeling tool, very complete to create animations, video, render engine. The most complete and best modelling tool on the market.  deals with all types of animation, arhitecture, cartooning, progam over it. Minor modes.
+- This frame work is *Programmable* you can re-program your you content easily and often.  Year over year you will save 40% of development costs compared to producing video content.  
 
-*** How do we use it in VR? 
+- media will be *interactive*.  Visitors will engage their environment, chage the world around them, and be a part of the story.  Thiiss engagement drastically increases impact
 
-To model VR objects.   to create textures.  deisgn conpeties and world design.  create the look and the feel the sensations, envirnoment you're in.   all the aestthetics.    
-
-create complex 3d models then import them to a game engine.   You can easily and better inderface.
-
-See it before you buy it.
-
-Hold it before you buy it.
-
-Use it before you buy it.
-
-
-Touch feel and play with designs that would be in a VR headset but on 2D screen.  
-
-
-
-
-*** 
-
-
- tool to model 3d, open source, free
-
-
-computer aided design
-
-
-how all the piece come totogether.
-****** educational piece
-
-- use VR
-- It lets you understand how you create the material, how you edit the process, how you cut, and 
-
-media will be *interactive*.  Visitors will engage their environment, chage the world around them, and be a part of the story.  Thiiss engagement drastically increases impact
+![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine)
 
 - The experience is *netowrked* meaning it is connected to other real people. You and your friends will travel the customized worlds you design /together/.
 
-
-Benefit
-Uniwuw advantage/ 
-- could not knw this feeling without beining in VR
-
-
-seeing theh shadw and the floor 
-
-10-15 diferent renders for this roject.
-do reallly big douments for arhcietuers 
-
-
--  Bust stop
-
-
-* Development
-
-** Game Engine
-A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  Game engines enable all the features of the internet from social sharing to payment.  
-
-Game engines equip developers to custom design virtual environments, program players, goals and rules as applications shared and experienced throgh personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
-
-Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces.   By developing with foresight producers save time and money.   
-
-The VR we develope is *Programmable* enabling media to be *interactive*, commonly known as a "computer simulation".   Learning through interactive and simulated media improves mental constructs an cognitive tasks. (You learn better, namely by being able to better conceptualize, recall details, and apply judgement/reasoning.    
-
-![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Productio gs n/Develope/1Game Engine)
-  
-
-
-
-
-
-
-
-
 - The visitor will have a *visceral* expereince, because game engines can create life-like simulations.
-i
-
 
 ![Your Brain on VR] /Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine
 
