@@ -27,11 +27,24 @@ Seek.
 *** Budget   
 Budget can drive scope or scope cand drive budget.  It is far better have a small experience working smoothly than a big experience causing headaches.  You should budget for $50-$100 per hour of labor, high to low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here:  :F
 
+
+Brown Hotels Financial Strategy
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+
+Pepsi Festival Financial Strategy
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+Pandora Music Financial Strategy
+
+
+Brown Hotels Financial Strategy
+
+
+Brown Hotels Financial Strategy
+
 
 
 *** Scalability
