@@ -1,16 +1,134 @@
 g
 
 
-* Design
-
-Designing:
+* Design   
 
 
-** Blender:
+Design is the intermediary between inforation and understanding.   gs
 
-Blender is a free, open source 3D modeling tool, very complete to create animations, video, render engine. The most complete and best modelling tool on the market.  deals with all types of animation, arhitecture, cartooning, progam over it. Minor modes.
+
+** Process 
+
+The pre-production (design) process is the blueprint for development.  Clearly defining goals, expectations and metrics will shepard us to success.  Parameters improve the quality of our research and accuracy of our prototypes.  Organization is the father of creativity. 
+
+*** Parameters
+The design phase is about conceptualizing the production.  We start with a simple and clear objective, then considering timing, budget and key performance indicators.  These parameters keep the vision clear, resources optimized and the team on task.  
+
+*** Research
+Get inspired.  Look at other works and adapt them to suit your parameters and prefrences.   Knowing where to look is key.   From here we map a complete strategy, including all platforms, tooling and partnerships necesarry to achieve our goal.    Then, we draft materials, systems and labor.
+
+*** Prototype
+The earliest iterations will be tested, evaluated and refined by matter experts, technicians and artists.   Upon finalizing a design outline we set a production schedule, budget and deliverables.
+
+** Concept
+
+Our physical-analogue world is sculpted by gravity.   This force of attracting matters shape everything we see.  In XR, what and how we design is not  not limited by the laws of physics.  In XR we are only restricted by our imaginations.  
+
+There are three fundamental elements of XR design: /story/, /world/ and /interface/.
+
+Design simplifies complex technologies. into natural interace
+
+
+
+
+
+** Strategy	
+
+*** Budget   
+
+Immersive technologies can become complex and time-consuming to develop, test and deply.   It is far better have a small experience working smoothly than a big experience causing headaches.   
+
+Budget can drive scope or scope can drive budget.  Defining the budget enables us to provide you with a comprehensive strategy and realistic options.  
+
+
+*** Scalability
+	2)	According to the budget and the ambition of the project, it is really advissed to create Experiences that can be scaled overtime. 
+	3)	First because the market will devellop, and because you need user feedback to expend the project in the right way.
+3) Communicate the athmosphere. 
+Pictures, 3D renders and art work can be a good way to express roughly the athmosphere, the concept or the global feeling. Then the digital design will follow a road map.. Remember VR is a multi sense experience the goal is to communicate the most immersive moment , so the media is all you senses. 
+4) Framework to use
+Mozilla A-Frame (Web VR) Google Cardboard, Samsung Gear, Oculus Rift Daydream VR (Mid range VR google) Mobile (Daydream ready only) Unity VR, Unreal SDK (High end VR google) Unity Asset Store Oculus Rift. HTC Vive, FOVE, Holelens (AR), etc.
+
+5) Comfort 
+VR can be a strange experience for your brain because your brain sees that you’re moving but in reality you’re not. It is really important in the user story to deal with the movement of the world arond the user and the reverse, the user inside the world and make sure it is smooth.
+
+6) Interface
+It is really important to consider layer depth and trensparency in VR.
+The field of view is 360 degrees from the user perspective but another parameter is the depth, information can appear at different depth and transparency could make multiple visible at the same time. 
+
+7) Control
+following the focus of your eyes, using the voice, or hardware controllers. 
+Basicly you have to forget the way you control, it has to be natural so that you focus on the result of the control and not how to execute it. 
+Action has to be really fast, and the less step as possible. 
+For example you can drag and drop with your eye but you can't close your eyes to indicate a click otherwise you loose the immersion. 
+
+8) 3D audio
+
+Audio, musique, environement sounds are really important for the user, anywhere you are, anything you experience, you hear noize even without knowing it. The reverse, a absolute silence is actually strange,
+Music and voice coming from different perspectives can guide the user, you go clother to the sound or you run from the sound. 
+Like music in movie, it will increase the power of sensations,
+
+9) Movement 
+
+Movement is a complexe question in VR, the user is not able to walk for hours, but the world is hours walk big.  Are you building something that people is in control? Or are you moving the character in VR? The approach you’ll take in the movement will influence your VR experience. 
+
+
+
+
+
+
+
+--- process
+
+--- tools
+
+- metaphysically
+
+- to what benefit
+
+
+
+The pre-production work is the project's deisgn   Here we establish parameters and set guidelines, namely an Objective.  With an objective, timing, target audience, and key-performance-indicators, we can conceptualize the project.   Budget can drive scope, or scope can drive budget.  Once parameters are set, we develop a strategy and simulate the process to estimate key measures for success.   Based on the results, we tweak and prepare to 
+
+
+
+
+ is a clear objective, along wtih para
+
+We shall research and conceptualize the program, testing ideas by and simulating strategy to measure the rate at which it will achieve strategy to achieve
+
+
+
+*** World
+
+*** Interface'
+
+**s* Story
+
+
+iConcept development
+
+- game designers
+- subject matter experts
+- instructional deigner
+
+
+*** Blender:
+
+Blender is a free, open source 3D modeling software tool - a complete squite supporting the full 3D creation pipeline from rigging to animation, simulation, rendering, compositing, motion tracking, video editing and game creation. Blender is a versitile and powerful tool for design.   
+
 
 *** How do we use it in VR? 
+
+We use Blender in XR to model objects and environments. ontrol of textures, lighting, size, color, shape and so on influencea players' sensation and mood.
+
+Design is key to forget you are consumig media and having a sense of presence.  
+
+
+optmizes VR's potential.   
+
+
+Desig concepts 
 
 To model VR objects.   to create textures.  deisgn conpeties and world design.  create the look and the feel the sensations, envirnoment you're in.   all the aestthetics.    
 
@@ -24,12 +142,6 @@ Use it before you buy it.
 
 
 Touch feel and play with designs that would be in a VR headset but on 2D screen.  
-
-
-
-
-*** 
-
 
  tool to model 3d, open source, free
 
@@ -63,14 +175,9 @@ do reallly big douments for arhcietuers
 
 * Development
 
-** Game Engine
-A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  Game engines enable all the features of the internet from social sharing to payment.  
+** Introduction
 
-Game engines equip developers to custom design virtual environments, program players, goals and rules as applications shared and experienced throgh personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
-
-Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces.   By developing with foresight producers save time and money.   
-
-The VR we develope is *Programmable* enabling media to be *interactive*, commonly known as a "computer simulation".   Learning through interactive and simulated media improves mental constructs an cognitive tasks. (You learn better, namely by being able to better conceptualize, recall details, and apply judgement/reasoning.    
+ VR we develope is *Programmable* enabling media to be *interactive*, commonly known as a "computer simulation".   Learning through interactive and simulated media improves mental constructs an cognitive tasks. (You learn better, namely by being able to better conceptualize, recall details, and apply judgement/reasoning.    
 
 ![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Productio gs n/Develope/1Game Engine)
   n
@@ -81,6 +188,16 @@ i
 
 ![Your Brain on VR] /Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine
 
+
+
+** Game Engine
+A *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  Game engines enable all the features of the internet from social sharing to payment.  
+
+Game engines equip developers to custom design virtual environments, program players, goals and rules as applications shared and experienced throgh personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
+
+Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces.   By developing with foresight producers save time and money.   
+
+The
 Game Engines enable comprehensive developmenwith all the features of the internet from collaboration to payment, in 3D.
 
 *** Program examples:
@@ -558,3 +675,5 @@ https://improbable.io/games/blog/grpc-web-moving-past-restjson-towards-type-safe
 * Robotoics
 * Holograms
 * Projection Mapping
+* Physics Engine
+** 
