@@ -19,69 +19,51 @@ Seek.
                Apply. 
                  Refine.
                   Innovate.
- 
 
-Find othesr' work for inspiration.   Good research is inspired  The world is plush with artistic genius.  Good research is observing that genius, being inspired and applying learningsy to surmising how to improve.   
+*** Prototypes
 
-
-
-
-
-
- indpLook at other works and adapt them to suit your parameters and prefrences.   Knowing where to look is key.   From here we map a complete strategy, including all platforms, tooling and partnerships necesarry to achieve our goal.    Then, we draft materials, systems and labor.
-
-*** Prototype
-The earliest iterations will be tested, evaluated and refined by matter experts, technicians and artists.   Upon finalizing a design outline we set a production schedule, budget and deliverables.
-
-** Concept
-
-Our physical-analogue world is sculpted by gravity.   This force of attracting matters shape everything we see.  In XR, what and how we design is not  not limited by the laws of physics.  In XR we are only restricted by our imaginations.  
-
-There are three fundamental elements of XR design: /story/, /world/ and /interface/.
-
-Design simplifies complex technologies. into natural interace
-
-
-
-
-
-** Strategy	
+** Strategy
 
 *** Budget   
+Budget can drive scope or scope cand drive budget.  It is far better have a small experience working smoothly than a big experience causing headaches.  You should budget for $50-$100 per hour of labor, high to low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here:  :F
 
-Immersive technologies can become complex and time-consuming to develop, test and deply.   It is far better have a small experience working smoothly than a big experience causing headaches.   
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-Budget can drive scope or scope can drive budget.  Defining the budget enables us to provide you with a comprehensive strategy and realistic options.  
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 *** Scalability
-	2)	According to the budget and the ambition of the project, it is really advissed to create Experiences that can be scaled overtime. 
-	3)	First because the market will devellop, and because you need user feedback to expend the project in the right way.
-3) Communicate the athmosphere. 
-Pictures, 3D renders and art work can be a good way to express roughly the athmosphere, the concept or the global feeling. Then the digital design will follow a road map.. Remember VR is a multi sense experience the goal is to communicate the most immersive moment , so the media is all you senses. 
-4) Framework to use
-Mozilla A-Frame (Web VR) Google Cardboard, Samsung Gear, Oculus Rift Daydream VR (Mid range VR google) Mobile (Daydream ready only) Unity VR, Unreal SDK (High end VR google) Unity Asset Store Oculus Rift. HTC Vive, FOVE, Holelens (AR), etc.
+According to the budget and the ambition of the project, we advise progressive development, starting with an MVP.  Defining the multi-year plan up front is necesarry to scaling at the lowest possible cost.   
 
-5) Comfort 
-VR can be a strange experience for your brain because your brain sees that you’re moving but in reality you’re not. It is really important in the user story to deal with the movement of the world arond the user and the reverse, the user inside the world and make sure it is smooth.
+XR techologies are evolving at an exponential rate.  Hardware especially will change within a year.   To scale efficiently plan, test and iterate with fluidity.    
 
-6) Interface
+*** Communicate Athmosphere 
+The global feel is expressed in 3D renders, models, images, and spatial audio.  XR is a multi-senspry experience.  Immersion is earned through compelling visuals, inutive interfaces and 3D audio.  These create spatial cognition and a sense of "presence". 
+
+
+*** Comfort 
+Comfort is everything.   Presenting the player with an environment and an experience they want to return to is your number one objective as a designer.  The user experience is everything, and their comfort is in the developers hands.   There is a strong psychlogical need for comfort, especially when travelling somewhere new. Be considerate, patient and smooth.
+
+
+*** Interface
 It is really important to consider layer depth and trensparency in VR.
 The field of view is 360 degrees from the user perspective but another parameter is the depth, information can appear at different depth and transparency could make multiple visible at the same time. 
 
-7) Control
+*** Control
 following the focus of your eyes, using the voice, or hardware controllers. 
 Basicly you have to forget the way you control, it has to be natural so that you focus on the result of the control and not how to execute it. 
 Action has to be really fast, and the less step as possible. 
 For example you can drag and drop with your eye but you can't close your eyes to indicate a click otherwise you loose the immersion. 
 
-8) 3D audio
+*** 3D audio
 
 Audio, musique, environement sounds are really important for the user, anywhere you are, anything you experience, you hear noize even without knowing it. The reverse, a absolute silence is actually strange,
 Music and voice coming from different perspectives can guide the user, you go clother to the sound or you run from the sound. 
 Like music in movie, it will increase the power of sensations,
 
-9) Movement 
+*** Movement 
 
 Movement is a complexe question in VR, the user is not able to walk for hours, but the world is hours walk big.  Are you building something that people is in control? Or are you moving the character in VR? The approach you’ll take in the movement will influence your VR experience. 
 
@@ -89,34 +71,11 @@ Movement is a complexe question in VR, the user is not able to walk for hours, b
 
 
 
-
-
---- process
-
---- tools
-
-- metaphysically
-
-- to what benefit
-
-
-
-The pre-production work is the project's deisgn   Here we establish parameters and set guidelines, namely an Objective.  With an objective, timing, target audience, and key-performance-indicators, we can conceptualize the project.   Budget can drive scope, or scope can drive budget.  Once parameters are set, we develop a strategy and simulate the process to estimate key measures for success.   Based on the results, we tweak and prepare to 
-
-
-
-
- is a clear objective, along wtih para
-
-We shall research and conceptualize the program, testing ideas by and simulating strategy to measure the rate at which it will achieve strategy to achieve
-
-
-
 *** World
 
 *** Interface'
 
-**s* Story
+*** Story
 
 
 iConcept development
@@ -220,7 +179,7 @@ text descrion (Technical, metaphysical, benefit)
 **** XR Color
 **** XR Music
 
-***** KK 1 sentence description 
+***** KK 1 sentence description :KK: :WS:
 - for all four programs
 - 10 work max
 - text descrion (Technical, metaphysical, benefit)
