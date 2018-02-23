@@ -1,21 +1,34 @@
-g
-
-
 * Design   
 
-
-Design is the intermediary between inforation and understanding.   gs
-
+Design is the intermediary between inforation and understanding. 
 
 ** Process 
 
-The pre-production (design) process is the blueprint for development.  Clearly defining goals, expectations and metrics will shepard us to success.  Parameters improve the quality of our research and accuracy of our prototypes.  Organization is the father of creativity. 
+The pre-production process is the blueprint for development.  Clearly defining goals and success metrics shepards success.  Defining the objective and limitations focuses research and increases effeciency.   Prototypes will iterate faster and technical debt will be minimized.  Organization is the father of creativity. 
 
 *** Parameters
-The design phase is about conceptualizing the production.  We start with a simple and clear objective, then considering timing, budget and key performance indicators.  These parameters keep the vision clear, resources optimized and the team on task.  
+Setting parameters lays a foundation to structures strategy.    Set a clear and simple objective.  Clarify deadlines, resources and performance metrics.  These parameters keep the vision clear, resources optimized and the team on task.  
 
 *** Research
-Get inspired.  Look at other works and adapt them to suit your parameters and prefrences.   Knowing where to look is key.   From here we map a complete strategy, including all platforms, tooling and partnerships necesarry to achieve our goal.    Then, we draft materials, systems and labor.
+Research creates new knowledge.  We partner with academia by providing XR world designs, interfaces and stories to live out in their XR productions.   
+
+Seek. 
+  Find. 
+    Internalize. 
+           Surmize. 
+               Apply. 
+                 Refine.
+                  Innovate.
+ 
+
+Find othesr' work for inspiration.   Good research is inspired  The world is plush with artistic genius.  Good research is observing that genius, being inspired and applying learningsy to surmising how to improve.   
+
+
+
+
+
+
+ indpLook at other works and adapt them to suit your parameters and prefrences.   Knowing where to look is key.   From here we map a complete strategy, including all platforms, tooling and partnerships necesarry to achieve our goal.    Then, we draft materials, systems and labor.
 
 *** Prototype
 The earliest iterations will be tested, evaluated and refined by matter experts, technicians and artists.   Upon finalizing a design outline we set a production schedule, budget and deliverables.
