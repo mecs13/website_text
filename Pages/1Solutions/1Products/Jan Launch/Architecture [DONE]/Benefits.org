@@ -1,0 +1,1 @@
+Reduce the assumptions made during the design phase and more efficiently cater to client needs
