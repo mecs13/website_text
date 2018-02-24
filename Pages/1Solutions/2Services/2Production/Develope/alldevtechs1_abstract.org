@@ -22,45 +22,47 @@ Seek.
 
 *** Prototypes
 
+
+
+
 ** Strategy
 
 *** Budget   
 Budget can drive scope or scope cand drive budget.  It is far better have a small experience working smoothly than a big experience causing headaches.  You should budget for $50-$100 per hour of labor, high to low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here:  :F
 
 
-Brown Hotels Financial Strategy
+Hotels: Brown - Financial Strategy
 http://github.com - automatic!
 [GitHub](http://github.com)
 
 
-Pepsi Festival Financial Strategy
+Festival: Pepsi - Financial Strategy
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-Pandora Music Financial Strategy
+Music: Pandora - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-
-Brown Hotels Financial Strategy
-
-
-Brown Hotels Financial Strategy
-
+Relocation: Dwellworks - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 *** Scalability
 According to the budget and the ambition of the project, we advise progressive development, starting with an MVP.  Defining the multi-year plan up front is necesarry to scaling at the lowest possible cost.   
 
-XR techologies are evolving at an exponential rate.  Hardware especially will change within a year.   To scale efficiently plan, test and iterate with fluidity.    
+XR techologies are evolving at an exponential rate.  To scale efficiently plan, test and iterate with fluidity. 
 
 *** Communicate Athmosphere 
 The global feel is expressed in 3D renders, models, images, and spatial audio.  XR is a multi-senspry experience.  Immersion is earned through compelling visuals, inutive interfaces and 3D audio.  These create spatial cognition and a sense of "presence". 
 
 
 *** Comfort 
-Comfort is everything.   Presenting the player with an environment and an experience they want to return to is your number one objective as a designer.  The user experience is everything, and their comfort is in the developers hands.   There is a strong psychlogical need for comfort, especially when travelling somewhere new. Be considerate, patient and smooth.
-
+Comfort is everything.   Presenting the player with an environment and an experience they want to return to is your number one objective as a designer.  The user experience is everything, and their comfort is in the developers' hands.   There is a strong psychlogical need for comfort, especially when travelling somewhere new. 
 
 *** Interface
+Intuitive interfaces consider layer dept, and transparency.
 It is really important to consider layer depth and trensparency in VR.
 The field of view is 360 degrees from the user perspective but another parameter is the depth, information can appear at different depth and transparency could make multiple visible at the same time. 
 
@@ -81,9 +83,6 @@ Like music in movie, it will increase the power of sensations,
 Movement is a complexe question in VR, the user is not able to walk for hours, but the world is hours walk big.  Are you building something that people is in control? Or are you moving the character in VR? The approach you’ll take in the movement will influence your VR experience. 
 
 
-
-
-
 *** World
 
 *** Interface'
@@ -92,7 +91,6 @@ Movement is a complexe question in VR, the user is not able to walk for hours, b
 
 
 iConcept development
-
 - game designers
 - subject matter experts
 - instructional deigner
@@ -196,7 +194,7 @@ text descrion (Technical, metaphysical, benefit)
 - for all four programs
 - 10 work max
 - text descrion (Technical, metaphysical, benefit)
-
+ma
 * Artificial Intelligence
 
 Artificial Intelligence is intelligence demonstrated by a machine.   The branch of computer sciences that studies AI research studies and developes machines to perceive the environment and make adjustments to influence the likelihood of success at achieving goals.  Machines are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
@@ -357,7 +355,7 @@ Re-creating real environments in virtual reality enables us to simulate travel a
 
 
 ***** KK Lab Live - how phtogram is being used in XR
-- objective: communicate photogram's best applications in XR
+- objective: communicate photogram's best applicatio gns in XR
 - 1-4 examples of industry uses, max
 - intro half technical half metaphysical
 - body 75% technical, 25% creative charm
@@ -370,15 +368,17 @@ related blog
 
 * Cryptocurrencies
 
-Cryptocurrency is a a digital asset, secured by cryptography and designed to serve as monetary currency.   "cryptos" are renown for fast, secure, peer-to-peer transactions, developed on "blockchain" technologey.  
+Global, anonymous, cash
 
-As a digital medium of exchange cryptourrencies are a convenient solution to buy or sell digital property. Cryptocurrencies empower virtual worlds with stable economic measures.
+... if you know what you're doing.   
 
-Virtual worlds might be bigger than your realize.  Nearly twenty years ago SeconfLife, a popular 2D virtual world, had a population greater than Australia's.   
+Cryptocurrencies are a digital asset, secured by cryptography and designed to serve as monetary currency.   "cryptos" are renown for fast, secure, peer-to-peer transactions, developed on "blockchain" technologey.  
 
-In 2001 economist Edward Castronova estimated virtual world EverQuest's gross national product (GNP) at $135 million.  Per capita, richer than India, Bulgaria or China.  Today virtual gods amrket is estimated well over $15 billion. More than 430,000 players logged more than two hours per day at that time. 
+As a digital medium of exchange cryptourrencies are a convenient solution to buy or sell property digitally. Cryptocurrencies empower virtual worlds to have an economy. 
 
-The benefits of using crypto-currencies beyond secure and fast transacting without a third party is the anonyminity of holdings and fertile ground-work for more open markets.  It doesn't require
+In 2001 economist Edward Castronova estimated virtual world EverQuest's gross national product (GNP) at $135 million.  Per capita, richer than India, Bulgaria or China.  Today virtual goods market is estimated well over $15 billion. 
+
+The benefits of using crypto-currencies are security, speed, low fees, anonyminity, and more open markets. 
 
 * Cloud computing
 
@@ -467,7 +467,7 @@ subpack
 	⁃	if you are teleporting you cannot do anything that is balanced bath, and by tracking he movement
 	⁃	—  
 	⁃	
-	⁃	
+	⁃	 fr
 	⁃	Eye-tracking
 	⁃	  — gage interest
 	⁃	  — match attention with intention
