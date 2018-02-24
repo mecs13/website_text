@@ -14,7 +14,7 @@ The Torus is based on a central axis - the equilibrium. Depending on how you cho
 
 Once the Torus emerges around the user, they’ll notice information in two separate locations. By glancing above eye level, they’ll find content delivered similarly to the way information is displayed on the top bar of the computer screen. By looking down they’ll find the bottom bar. Depending on how you choose to build your content, the user may scroll through with eye movement, controller commands, or by adjusting the positioning of a virtual band around their wrist. Once the desired information is selected, the featured content appears at a comfortable viewing angle in front of the user.
 
-The Torus is a foundational tool upon which we'll construct customized content. 
+The Torus is a foundational tool within which we'll construct customized content. 
 
 
 [Download 2-Page PDF](Documents/website-text-/Pages/1Solutions/1Products/Jan Launch/Torus)
