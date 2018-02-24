@@ -1,4 +1,8 @@
-** Photogrammetry:
+*ges
+
+- If you are a non profit it is required that there is a conflict of interest articles for the nonprofit organization.ges
+
+- If you are a non profit it is required that there is a conflict of interest articles for the nonprofit organization.* Photogrammetry:
 
 -- create 3d detailed vr spaces an d environemnts
 -- create models
