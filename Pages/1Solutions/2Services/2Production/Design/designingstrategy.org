@@ -1,0 +1,148 @@
+DesigningithJacques
+
+** design strat jacues
+ gs	1)	Budget
+	2)	Immersive technologie are expensive to build, and you d better have a small experience working rather than a big one not. 
+	3)	Defining the budget will allow designer and devellopers to choose the right way and do the best compromise. 
+
+	1)	Scalability
+	2)	According to the budget and the ambition of the project, it is really advissed to create Experiences that can be scaled overtime. 
+	3)	First because the market will devellop, and because you need user feedback to expend the project in the right way.
+3) Communicate the athmosphere. 
+Pictures, 3D renders and art work can be a good way to express roughly the athmosphere, the concept or the global feeling. Then the digital design will follow a road map.. Remember VR is a multi sense experience the goal is to communicate the most immersive moment , so the media is all you senses. 
+4) Framework to use
+Mozilla A-Frame (Web VR) Google Cardboard, Samsung Gear, Oculus Rift Daydream VR (Mid range VR google) Mobile (Daydream ready only) Unity VR, Unreal SDK (High end VR google) Unity Asset Store Oculus Rift. HTC Vive, FOVE, Holelens (AR), etc.
+
+5) Comfort 
+VR can be a strang e experience for your brain because your brain sees that you’re moving but in reality you’re not. It is really important in the user story to deal with the movement of the world arond the user and the reverse, the user inside the world and make sure it is smooth.
+
+6) Interface
+It is really important to consider layer depth and trensparency in VR.
+The field of view is 360 degrees from the user perspective but another parameter is the depth, information can appear at different depth and transparency could make multiple visible at the same time. 
+ 
+7) Control
+following the focus of your eyes, using the voice, or hardware controllers. 
+Basicly you have to forget the way you control, it has to be natural so that you focus on the result of the control and not how to execute it. 
+Action has to be really fast, and the less step as possible. 
+For example you can drag and drop with your eye but you can't close your eyes to indicate a click otherwise you loose the immersion. 
+
+8) 3D audio
+
+Audio, musique, environement sounds are really important for the user, anywhere you are, anything you experience, you hear noize even without knowing it. The reverse, a absolute silence is actually strange,
+Music and voice coming from different perspectives can guide the user, you go clother to the sound or you run from the sound. 
+Like music in movie, it will increase the power of sensations,
+
+9) Movement 
+
+Movement is a complexe question in VR, the user is not able to walk for hours, but the world is hours walk big.  Are you building something that people is in control? Or are you moving the character in VR? The approach you’ll take in the movement will influence your VR experience. 
+
+** jacques Todos
+
+
+iAnimations in the week
+- 2 more in 10 days
+- design strategy done
+- architecture big doc, almost.
+
+
+needs to indicate that the math awas done..
+
+-  dot drawings on the left. to show it is recognized.
+
+
+-  nice animation for bracey - pulled thrugh real real big.
+
+- been working on the architecture.  program to compile all vr arch.   found apro
+
+
+
+** Graphics Designs:
+
+*** Brainstorming and Design process:
+
+
+- What is the platform i am designing for?
+
+- What type of software will i use?
+  + photoshop and illustrator
+  + photo for pics to add to graphic charter
+   + blender
+
+- Once i know thesoftare i ask how do i communicate? the text or the idea.   
+
+- Start looking on Google 
+
+   + if i am looking to express sound i look how peple ahve already described sounds.   
+   + some i like and some i do not like and personally educate myself on how to express sound.
+   + according to what i want to express i come up with a new idea or a adpat an old idea
+   + once i go the first idea i do some quick tries with it aand if it works 
+
+   + seek approval of project manager.
+
+   + finalize the deaigns
+
+
+
+*** Website  
+ Solutions - services - productions - development 
+
+
+** Design
+
+
+* Game Engine:
+
+- easy
+
+* Artificallian Intelligence
+
+personal assistant
+
+
+* Block Chain
+
+
+* Internet of Things
+
+
+
+* Haptics
+
+
+
+* Photogrammetry
+
+
+* Cryptocurrencies
+
+
+* Cloud computing
+
+
+
+* Web XR
+
+
+* Finite State Machines
+
+
+* Optimical tracking
+
+
+* Biometric software
+
+
+* Physics Engines
+
+
+* Spatial OS
+
+
+* Robotics
+- easy
+
+* holograms
+
+
+* projection Mapping
+
