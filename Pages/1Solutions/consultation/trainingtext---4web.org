@@ -1,0 +1,27 @@
+* Header
+Training 
+
+* Abstract
+
+**** Introduction 
+• Installing hardware and software
+• Downloading and playing apps
+• Upgrading and maintenance
+
+**** Hardware 
+• PC and video graphics cards
+• Recording and capture equipment
+• Headsets, controllers and sensors
+
+**** Software 
+• 2D/3D modeling programs (Photoshop, Blender)
+• Game engines (Unity, Unreal, Cry)
+• VR web browsers (WebGL, Chromium, Nightly)
+
+**** Theory 
+• Optics, 3D audio, ultrasonics
+• UX and UI (User experience, user interface)
+• Business landscape (Facebook, Samsung, HTC, Steam, Play Station, et cetera.
+
+**** Lab 
+• New skills in practice
