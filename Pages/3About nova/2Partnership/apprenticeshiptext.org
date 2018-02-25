@@ -1,0 +1,50 @@
+
+*** apprentices:
+
+Interested in Joining Nova as an Apprentice?
+
+Part and full time positions available:
+
+**** Apprenticeship Positions:
+- Game Engine Developers
+- Coders & Hackers
+- Graphic Designer, Videographer, Audio Engineer, Animator
+- Office Assistant
+- Operations Manager
+
+**** Characteristics
+- Organized
+- Prompt
+- Accountable 
+- Thorough
+- Innovative 
+- Determined
+- Driven
+- Self-starter 
+
+**** Skills
+- Video creation
+- Animation
+- Ad audio engineering
+- Photogrammetry
+- Networking
+- Sketch
+- Sales
+- Digital marketing 
+- Python
+- Java
+- React
+- Photoshop
+- SQL
+- JS
+- C++
+- Unity
+- Unreal engine
+- WebGL, WebXR / WebVR
+- Blockchain, Ethereum
+- Machine learning
+- Neuro research
+
+[textbox: tell us about you]
+[textbox: link to t]
+=== calendar visit
