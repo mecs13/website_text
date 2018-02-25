@@ -1,14 +1,14 @@
  gs0 landing page
-1 menu 1 
-2 menu 2
-3 menu 3 or blogstyle highest titles
-4 blogstyle highest or second title
+ 1 menu 1 
+ 2 menu 2
+ 3 menu 3 or blogstyle highest titles
+ 4 blogstyle highest or second title
 
-+ yes
-- no  
+ + yes
+ - no  
+wf = wirefram
 
 
- 
 
 | .. | page title             | BS  | Text  | SEO  | Short URL     | wirefram | PDF | ex links | inlinks  | t-debt | pp?  | Background    |
 |    |                        |     | I A C |      |               |          |     |          |          |        |      |               |
