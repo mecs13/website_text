@@ -1,8 +1,0 @@
-
-**** (9) Bio Metrics
-
-Upon special request we can implement biometric geedback ranging from skin galvenization, emotion recognition, breathing rate, eye movement and even neuro activity.  
-
-[text box Additonal comments]
-`
-=== Dive down the rabbit hole
