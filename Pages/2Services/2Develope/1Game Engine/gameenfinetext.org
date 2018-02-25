@@ -1,0 +1,5 @@
+***** Game Engine
+
+The core functions are typically rendering 3D graphics, a physics engine orcollision detection and collision response systems, networking, streaming, memory management, threading, localization support, and scene graph.  Your engine may also include video support for cinematics, 3D audio for sonic immersion, biometric software to read physicological reactions, or artificial intelligent algorthms to better index user data.
+
+We economize the process of game development by reusing/adaptig the same game engine to create different games.  This also makes it easier to port games to multiple platforms.
