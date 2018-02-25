@@ -1,0 +1,8 @@
+# Biometric Software
+Biometrics refers to metrics related to human biological characteristics, including physiology nd neurology. In virtual reality biometrics are used to measure interest, entertainment and intent.   
+
+By monitoring physiological cues such as skin galvenization, eye dialation, heart and breathing rate, computers infer and escrapolate further details about the player and their experience.
+
+This enables us to remove the many errors and barriors that stand the user and creator regarding how and why content is effective.   My connecting our development tools to biometrical sensors and indexing activity we determine which scenes, scenarios and situations are of most interest. 
+
+The process is based on seven primary emotions: happiness, sadness, anger, contempt, fear, disgust, and suprise. 

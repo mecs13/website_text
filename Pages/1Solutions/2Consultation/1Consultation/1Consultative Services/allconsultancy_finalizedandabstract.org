@@ -1,0 +1,138 @@
+
+
+# introduction
+
+We’ll help you understand, operate, integrate, and troubleshoot XR technologies.  The skills required to produce 3d virtual media (XR) are broad and deep, but we'll keep you focused.  By internalizing the basics of xr hardware and xr software you'll be familiar with why the latest technological breakthroughs and understand /why/ they are indeed /break-throughs/.
+
+Then, you'll come up with innovative ways to improve your business.  Ways in which the competition is not yet equiped to think up themselves.   
+
+Arm yourself for knowledge and you'll be equipped to succeed in this new era of media technologies.   With tech moving at an exponential rate, virtual/augmented reality, artificial inteliigence, robotics, block-chains, the internet of things, and more...there will be many more "Blockbusters, Borders Books, Kodaks and so on)  
+
+“The future is already here – it's just not evenly distributed.
+
+The Economist, December 4, 2003”
+
+Learn about our 
+
+: [ Education and Training Services] 
+
+ ^button
+: link to [[[[vrinstallationstext_finalized.org]]]]
+
+For reccomended material, visit our 
+: [Resource Center]
+ ^button
+: link to [[[[vrinstallationstext_finalized.org]]]]
+
+Stay current on a spectrum of technologies that are intertwining 
+in the new era of augmented experiences.  
+
+As mechanical and biological blend, we’ll keep the light 
+shining on programs that matter.  
+
+#  Virtual vs. Augemnted Reality
+
+## Aumented reality
+
+- Alters the real world on a screen or head-mounted screen.
+
+- feels like the world is your canvas
+
+- lets you collaboratively create
+
+## VR and AR
+
+- Allows you to interact with digital media
+
+- Create nonreal geometry and retina displays 
+
+- Programmed in coding languages C++, javascript, WebGL, python, C# and many others.  
+
+- Spatial cognitive information
+
+
+## Virtual Reality
+
+- creates entirely virtual world
+
+- feels like teleporting to a different dimension
+
+- lets you exist in alternet worlds with other humans to train, learn or play.
+
+# Needs Analysis
+     
+We provide access to advance technologies and advise on related markets.  As needed we can source development, manage project execution and publish experiences.  How can we help you?
+: [text box: What is your initial XR idea?]
+: [text box: Why? ^^ ] 
+
+Scope can drive budget or budget can drive scope.  
+
+Please provide a complete user story that walks us through user's experience, from placing the headset on, to taking it off and sharing the with his friends.
+
+[text box]
+
+or
+
+An investment range, and bullet point key elements, goals or parameters.
+
+[text box]
+
+[make an appointment] <-- calendar integration
+
+# Sourcing Development
+ 
+We scout deliver top  talent from around the world   
+
+We often hire third-party developers to increase net profits, and to improve internet access to remote parts of the world through program /NovaCaine/  
+
+The business arrangement between the developers is governed by a contract, which specifies a list of milestones intended to be delivered over a period of time. By tracking and adapting milestones we manage development rate, hours and deadlines.  Nova work is guarenteed.   
+
+# Training
+
+## Basic Training:
+
+This is a 3-month, light-load training course with weekly lessons customized to your business and goals.  
+
+We'll come set you up witht the basic equipment and familiarize you and your team with xr hardware that can run virtual reality and other GPU-intesive programs.   
+
+We'll meet weekly to cordinate the project's design and educate you on news, software, middleware and netowrking as it pertains to your business.  Every project is different and there is no catch-all solution to being educated.  Your feedback, leanring style and strengths drive the lesson plans.  We commit 10-hours a week, two collaboratively to work with you one on one, and the rest to developing your ideas.  This approach keeps you available to your tradiational responsibilities, while still captaining the ship.     
+   
+
+After 12 weeks we will deliver a full development specification, including the technical architecture, produciton timeline, expenses and financial strategy.
+
+## Intermediate Training
+
+/coming soon/
+
+## Pro Training
+
+/coming soon/
+
+
+# Installations and Training
+
+Custom outfit your home location to be a VR theater.   Install the latest in computer, gaming and immersion technologies.
+
+## Basic Installation:
+
+Hardware Video graphics card : GeForce 1080x
+Processor : Intel i7 quad core
+Head mounted display : HTC Vive
+Position tracker : Valve lighthouse
+Software Operating system : Windows 10
+Content platform : Steam
+Modelling tool : Blender
+Graphic tool : Photoshop
+Game engine : Unity
+
+## XR Training
+Training your team to understand, operate, and troubleshoot VR will be critical to success.
+Presentations and supporting documents will be periodically delivered to your department
+including, but not limited to, the following :
+• What is needed to create VR in terms of hardware and software 
+• How to integrate VR in your existing systems to better assist your clients 
+• How to handle and troubleshoot VR hardware and software 
+• The limitations of the technology and latest breakthroughs 
+• How to create your own VR content
+
+
