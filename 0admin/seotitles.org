@@ -27,54 +27,68 @@ access to advanced technologies, learn about xr, xr media consultation, advising
 ** Publications
 XR financial stratgy, media production roi, financial resturn, money, investment, gross profit, net gain
 
-** Architecture
 
+
+** Architecture
 Architecture in xr, xr architecture, how to architect in virtual reality, xr architecture, xrchatecture,  
 
+** XR Color
 ** Music Exp
-
 Music in xr, XRmusic, musicvr, live music in xr, xr music platform, xr music design, xr music softawre, virtual reality music software
 
-** Torus * 
+** Bloomaway 
+** Torus
 torus in XR, torus shape XR, virtual reality torus, VR information manager, XR information manager, XIM, XIM interface, WIM, world information manager, virtual information manager
 
-** XR Color
+
 color in xr, colour in xr. XR color, XR color design, Color design xr, virtua reality color, vr color design, spaceial color design, color in virtual reality
-
-
++
 ** Infinite Gal
 Content display in virtual reality, xr content display, display art in VR, VR art gallery, XR gallery, infinite xr, infinite art gallery, 8XR, XR8, infinityxr
 
-** Bloomaway
+
 easy way to travel in virtual reality, relocation in virtual reality, vr relocation, xr relocation, travelxr, xr travel, vr dreamscape, dreamscape, dreamscaping
 
-** NYE
+** facematch
+** Live stream
+live in vr, live stream, xr stream, live 360, in real time, 4k, action, news, happening now, 
 
+** NYE
 New Years eve live in vr, global nye vr, vr nye, nye xr, virtual reality new years eve, around the world in vr, live VR from around the world
 
-** AnonCo
+** liveforever
+audio record family,live forever, immortalize, immortal, avatar, life alive, keep, memory, love
 
+** enterprise b2b
+b2b in vr, business sales in virtual reality, xr b2b, b2b xr, selling in vr, sell in virtual reality, xr enterprise, vr enterprise, xr media business
+
+** Exhibit
+museum, exhibition, live event, on site, activation, viewing, acquriaum, on-site, on-premis, local event, pr 
+
+
+
+** festival
+
+
+** AnonCo
 anaonyous blockchain, anonymous blockchain company, Build an anonymous company on a blockchain, build blockchain company, build company on a blockchain, company with distributed ledger
 
 ** coaches
-
 Virtual Reality coach, train in vr, train in xr, tutoring in vr, virtual reality trainer, VR teacher, VR coach, XR tutor, xr coaching
 
-** enterprise b2b
 
-b2b in vr, business sales in virtual reality, xr b2b, b2b xr, selling in vr, sell in virtual reality, xr enterprise, vr enterprise, xr media business
 
-** festival
 XR festival, festival in virtual reality, virtual festival, xr fest, xrfest, vrfest, virtual reality music festival, virtual festival live, live xr, live vr
 
 ** Fifa
 Fifa world cup in virtual reality, VR world cup, XR world cup, FifaXR, futbal xr, soccer xr, xr futbol, world cup in virtual reality, world cup in vr
 
 
+   ad analyze, facematch, ad verify, data check, secure, facial recognition, facial advertising, ad biometrics, physiological, 
+
 ** Foodman
 FMCG in virtual reality, food products in vr, snacks in VR, snacks in xr, xrsnacks, xr soda, eating in vr, vr marketing, xr marketing, market snacks in virtual reality
 
-** in vr
 
 ** health care
 vr health care, xr health care, virtual reality and health, healthy living with virtual reality, 
@@ -84,100 +98,99 @@ vr health care, xr health care, virtual reality and health, healthy living with 
 ** encylopedia
 
 ** sports
-
-** liveforever
+   
 
 ** XR-first webs
-
+   
 ** Services
-
+   
 ** Consultation
 
 ** Consult Serv
-
+   
 ** Industry Sol
 
 ** Increase Prof
 
 ** Source Dev
-
+   
 ** VR Instal
 
 ** Training
-
+   
 ** Learning
-
+   
 ** production
-
+   
 ** Design
-
+   
 ** sketching
-
+   
 ** scripting
 
 ** storyboarding
-
+   
 ** Develop
-
+   
 ** game engine
 
 ** 3d audio
 
 ** 3d modeling
-
+   
 ** 360 video
-
+   
 ** ai
 
 ** animation
 
 ** biometrics
-
+   
 ** blockchain
-
+   
 ** cloud computi
-
+   
 ** cryptocurrenc
-
+   
 ** emotion recog
-
+   
 ** finite state
 
 ** iot
-
+   
 ** motion captur
-
+   
 ** networking
 
 ** photogrammetr
 
 ** physics engin
-
+   
 ** positional tr
-
+   
 ** python, C++.
-
+   
 ** volumtric dis
 
 ** Test
-
-
+   
+   
 ** beta
-
+   
 ** professional
 
 ** alpha
-
+   
 ** publishing
-
+   
 ** distribution
-
+   
 ** promotion
-
+   
 ** Activation
 
 ** data review
-
+   
 ** Publication
 
 ** Financial strat
