@@ -1,0 +1,19 @@
+
+
+** Process 
+
+The pre-production process is the blueprint for development.  Clearly defining goals and success metrics shepards success.  Defining the objective and limitations focuses research and increases effeciency.   Prototypes will iterate faster and technical debt will be minimized.  Organization is the father of creativity. 
+
+*** Parameters
+Setting parameters lays a foundation to structures strategy.    Set a clear and simple objective.  Clarify deadlines, resources and performance metrics.  These parameters keep the vision clear, resources optimized and the team on task.  
+
+*** Research
+Research creates new knowledge.  We partner with academia by providing XR world designs, interfaces and stories to live out in their XR productions.   
+
+Seek. 
+  Find. 
+    Internalize. 
+           Surmize. 
+               Apply. 
+                 Refine.
+                  Innovate.
