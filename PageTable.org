@@ -10,75 +10,213 @@
 
  
 
-| .. | page title          | access  | background        | Text | SEO  | Short URL     | wirefram | PDF | ex links | inlinks | t-debt | pp? |   |   |   |   |   |   |
-| ~  | Home                | Home    | + blu polar       | +    | -    |               |          |     |          |         |        | -   |   |   |   |   |   |   |
-| 0  | legal               | Btm Bar | + sofa            | +    |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 0  | Contact             | Btm Bar | + sofa            | -    |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 0  | build xr            | Btm bar |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 0  | login               | Btm bar |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| == | ==                  | ==      | ==                | ==   | ==   | ==            | ==       | ==  |          |         |        |     |   |   |   |   |   |   |
-| == |                     |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 1H | Solutions           |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 2S | Products            | P       | + ID dev          |      | yes  | /products     |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 2S | Consultation        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 2S | Publications        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 3P | Architecture        | p       | i                 |      | yes  |               |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3p | Torus               | P       | DONE - Eyes       |      | Yes  | /torus        |          |     |          |         |        | y   |   |   |   |   |   |   |
-| 3P | Musics              | p       | (Weds)            |      | yes  |               |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | XR Color            | P       | + color object    |      | Yes  | /color        |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | Infinite Gal        | p       | + hallway         |      | [[Yes]]  | /infinite     |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | Bloomaway           | p       | + in clouds    i  |      | Yes] | /bloomaway    |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | NYE                 | p       | D balloons        |      | Yes  | /nye          |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | AnonCo              | p       | -                 |      | Yes  | /anonco       |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | coaches             | p       | -                 |      | [Yes | /coaches      |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | enterprise b2b      | p       | -                 |      | [[Yes]]  | /b2b          |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | festival            | p       | DONE - Vibrations |      | Yes  | /festival     |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | Fifa                | p       | -                 |      | [[Yes]]  | /Fifa         |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | Foodman             | p       | -                 |      | [Yes | /Food         |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | Rocket VR           | p       | -                 |      | [[Yes]]  | /In-VR        |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | prof services       | p       | DONE Eye          | no   | [Yes | /health       |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | encylopedia         | p       | -                 | no   | [Yes | /encyclopedia |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | sports              | p       | -                 | no   | [[Yes]]  | /sports       |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | liveforever         | p       | -                 | no   | [Ye] | /liveforever  |          |     |          |         |        | n   |   |   |   |   |   |   |
-| 3P | XR-4first webs      | p       | -                 | no   | [[Yes]]  | /xrfirst      |          |     |          |         |        | n   |   |   |   |   |   |   |
-| == |                     |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 3C | Industry sol.utions |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 3C | X industry          |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 3C | Learning lab        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Relocation          |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | auto                |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Tourism             |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Health care         |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Education           |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Transportation      |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Cineatography       |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Gaming              |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Entertainent        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | prof servic         |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | art                 |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | sports              |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | broadcasting        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | Space exploration   |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | civil engineering   |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | design              |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | architecture        |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | retail              |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | telecommunications  |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-| 4I | performing arts     |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
-|    |                  |         |                   |      |      |               |          |     |          |         |        |     |   |   |   |   |   |   |
+| .. | page title             | BS  | Text  | SEO  | Short URL     | wirefram | PDF | ex links | inlinks  | t-debt | pp?  | Background    |
+|    |                        |     | I A C |      |               |          |     |          |          |        |      |               |
+| ~0 | Home                   |     | +     | -    |               |          |     |          |          |        | -    | + blu polar   |
+| ~1 | legal                  |     | +     |      |               |          |     |          |          |        |      | + sofa        |
+| ~1 | Contact                |     | -     |      |               |          |     |          |          |        |      | + sofa        |
+| ~1 | build xr               |     |       |      |               |          |     |          |          |        |      |               |
+| ~1 | login                  |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 1H | Solutions              |     |       |      |               |          |     |          |          |        |      |               |
+| 2S | Products               |     |       | yes  | /products     |          |     |          |          |        | n    | + ID dev      |
+| 2S | Consultation           |     |       |      |               |          |     |          |          |        |      |               |
+| 2S | Publications           |     |       |      |               |          |     |          |          |        |      |               |
+| == | =SOLTUIONS=====        | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | ====PRODCUTS======     | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 3P | Architecture           |     |       | yes  |               |          |     |          |          |        | n    | i             |
+| 3p | Torus                  |     |       | Yes  | /torus        |          |     |          |          |        | y    | DONE - Eyes   |
+| 3P | Musics                 |     |       | yes  |               |          |     |          |          |        | n    | (Weds)        |
+| 3P | XR Color               | ct  |       | Yes  | /color        |          |     |          |          |        | n    | + color obje  |
+| 3P | Infinite Gal           |     |       | [[Yes]]  | /infinite     |          |     |          |          |        | n    | + hallway     |
+| 3P | Bloomaway              | i   |       | Yes] | /bloomaway    |          |     |          |          |        | n    | + in clouds   |
+| 3P | NYE                    |     |       | Yes  | /nye          |          |     |          |          |        | n    | D balloons    |
+| 3P | AnonCo                 |     |       | Yes  | /anonco       |          |     |          |          |        | n    | -             |
+| 3P | coaches                |     |       | [Yes | /coaches      |          |     |          |          |        | n    | -             |
+| 3P | enterprise b2b         |     |       | [[Yes]]  | /b2b          |          |     |          |          |        | n    | -             |
+| 3P | festival               | tion|       | Yes  | /festival     |          |     |          |          |        | n    | DONE - Vibra  |
+| 3P | Fifa                   |     |       | [[Yes]]  | /Fifa         |          |     |          |          |        | n    | -             |
+| 3P | Foodman                |     |       | [Yes | /Food         |          |     |          |          |        | n    | -             |
+| 3P | Rocket VR              |     |       | [[Yes]]  | /In-VR        |          |     |          |          |        | n    | -             |
+| 3P | prof services          |     | no    | [Yes | /health       |          |     |          |          |        | n    | DONE Eye      |
+| 3P | encylopedia            |     | no    | [Yes | /encyclopedia |          |     |          |          |        | n    | -             |
+| 3P | sports                 |     | no    | [[Yes]]  | /sports       |          |     |          |          |        | n    | -             |
+| 3P | liveforever            |     | no    | [Ye] | /liveforever  |          |     |          |          |        | n    | -             |
+| 3P | XR-4first webs         |     | no    | [[Yes]]  | /xrfirst      |          |     |          |          |        | n    | -             |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | ===CONSULTATION=       | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | 3==============        | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 3C | *Industry soltions*    |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Relocation             |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Auto                   |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Architecture           |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Tourism                |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Health care            |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Education              |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Transportation         |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Cineatography          |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Gaming                 |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Entertainent           |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Prof servic            |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Art                    |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Sports                 |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Broadcasting           |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Space exploration      |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Civil engineering      |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Design                 |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Architecture           |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Retail                 |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Telecommunications     |     |       |      |               |          |     |          |          |        |      |               |
+| 4I | Performing arts        |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 3C | *X industry*           |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | World peace            |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Marketing              |     |       | \    |               |          |     |          |          |        |      |               |
+| 4X | Fund raising           |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Selling products       |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Selling services       |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | On-boarding            |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Coaching               |     |       |      |               |          |     |          |          |        |      |               |
+| 4x | Social media           |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Collaboration          |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | PR stunting            |     |       |      |               |          |     |          |          |        |      |               |
+| 4X | Education              |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 3C | *Learning lab*         |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | The basics             |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Resource Center        |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Publications           |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Training               |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Strategy               |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Production             |     |       |      |               |          |     |          |          |        |      |               |
+| 4L | Installation           |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | ===PUBLICATIONS====    | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| == | 3==============        | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 4L | *Financial Strategiess |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Relocation             |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Festival               |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Music                  |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Architecure            |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Facematch              |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | NYE                    |     |       |      |               |          |     |          |          |        |      |               |
+| 4F | Encyclopedia           |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+| 4L | *Tech reports*         |     |       |      |               |          |     |          |          |        |      |               |
+|    | Remote OS              |     |       |      |               |          |     |          |          |        |      |               |
+|    | Emacs Work Flow        |     |       |      |               |          |     |          |          |        |      |               |
+|    | Live Streaming         |     |       |      |               |          |     |          |          |        |      |               |
+| == | ==============         | ====| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== | == =========  |
+|    | * Market Research*     |     |       |      |               |          |     |          |          |        |      |               |
+|    | Tourism                |     |       |      |               |          |     |          |          |        |      |   |
+|    | Real Estate            |     |       |      |               |          |     |          |          |        |      |   |
+|    | Embodied Cognition     |     |       |      |               |          |     |          |          |        |      |   |
+|    | Situated Learning      |     |       |      |               |          |     |          |          |        |      |   |
+| == | ==============         | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| == | ==============         | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| == | ==============         | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| 1H | Services               |     |       |      |               |          |     |          |          |        |      |   |
+| 2S | Design                 | + ID|       | yes  | /products     |          |     |          |          |        | n    |   |
+| 2S | Develop                |     |       |      |               |          |     |          |          |        |      |   |
+| 2S | Deploy                 |     |       |      |               |          |     |          |          |        |      |   |
+| == | =SERVICES=====         | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| == | ====DESIGN======       | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| 3P | *Design*               |     |       | yes  |               |          |     |          |          |        | n    |   |
+| == | ====DEVELOP======      | == =| ==    | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |   |
+| == | =3===========          |     |       |      |               |          |     |          |          |        |      |   |
+|    | Program                |     |       |      |               |          |     |          |          |        |      |   |
+|    | game engine            |     |       |      |               |          |     |          |          |        |      |   |
+|    | Web XR                 |     |       |      |               |          |     |          |          |        |      |   |
+|    | C++                    |     |       |      |               |          |     |          |          |        |      |   |
+|    | physics engine         |     |       |      |               |          |     |          |          |        |      |   |
+|    | Js                     |     |       |      |               |          |     |          |          |        |      |   |
+|    | python                 |     |       |      |               |          |     |          |          |        |      |   |
+|    | c#                     |     |       |      |               |          |     |          |          |        |      |   |
+|    | ai                     |     |       |      |               |          |     |          |          |        |      |   |
+|    | lisp                   |     |       |      |               |          |     |          |          |        |      |   |
+|    | spatial os             |     |       |      |               |          |     |          |          |        |      |   |
+|    |                        |     |       |      |               |          |     |          |          |        |      |   |
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| == | ===CONSULTATION=       |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| == | 3==============        |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| 3C | *Industry soltions*    |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Relocation             |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Auto                   |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Architecture           |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Tourism                |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Health care            |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Education              |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Transportation         |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Cineatography          |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Gaming                 |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Entertainent           |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Prof servic            |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Art                    |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Sports                 |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Broadcasting           |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Space exploration      |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Civil engineering      |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Design                 |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Architecture           |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Retail                 |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Telecommunications     |          |      |      |               |          |     |          |          |        |      |  
+| 4I | Performing arts        |          |      |      |               |          |     |          |          |        |      |  
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| 3C | *X industry*           |          |      |      |               |          |     |          |          |        |      |  
+| 4X | World peace            |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Marketing              |          |      | \    |               |          |     |          |          |        |      |  
+| 4X | Fund raising           |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Selling products       |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Selling services       |          |      |      |               |          |     |          |          |        |      |  
+| 4X | On-boarding            |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Coaching               |          |      |      |               |          |     |          |          |        |      |  
+| 4x | Social media           |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Collaboration          |          |      |      |               |          |     |          |          |        |      |  
+| 4X | PR stunting            |          |      |      |               |          |     |          |          |        |      |  
+| 4X | Education              |          |      |      |               |          |     |          |          |        |      |  
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| 3C | *Learning lab*         |          |      |      |               |          |     |          |          |        |      |  
+| 4L | The basics             |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Resource Center        |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Publications           |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Training               |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Strategy               |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Production             |          |      |      |               |          |     |          |          |        |      |  
+| 4L | Installation           |          |      |      |               |          |     |          |          |        |      |  
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| == | ===PUBLICATIONS====    |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| == | 3==============        |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| 4L | *Financial Strategiess |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Relocation             |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Festival               |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Music                  |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Architecure            |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Facematch              |          |      |      |               |          |     |          |          |        |      |  
+| 4F | NYE                    |          |      |      |               |          |     |          |          |        |      |  
+| 4F | Encyclopedia           |          |      |      |               |          |     |          |          |        |      |  
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+| 4L | *Tech reports*         |          |      |      |               |          |     |          |          |        |      |  
+|    | Remote OS              |          |      |      |               |          |     |          |          |        |      |  
+|    | Emacs Work Flow        |          |      |      |               |          |     |          |          |        |      |  
+|    | Live Streaming         |          |      |      |               |          |     |          |          |        |      |  
+| == | ==============         |  == =====| ==   | ==   | ==========    | ======   | ==  | ======== | ======== | ====== | ==== |  
+|    | * Market Research*     |          |      |      |               |          |     |          |          |        |      |  
+|    | Tourism                |          |      |      |               |          |     |          |          |        |      |  
+|    | Real Estate            |          |      |      |               |          |     |          |          |        |      |  
+|    | Embodied Cognition     |          |      |      |               |          |     |          |          |        |      |  
+|    | Situated Learning      |          |      |      |               |          |     |          |          |        |      |  
 
 
 
-
-
-| 2S | Publications        |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
-|  3 |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
-| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
+  
+| 2S | Publications        |            |                   |      |      |                   |          |     |          |         |        |     |
+|  3 |                     |            |                   |      |      |                   |          |     |          |         |        |     |
+| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |
+| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |
+| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |
+| == |                     |            |                   |      |      |                   |          |     |          |         |        |     |
 | == |                     |            |                   |      |      |                   |          |     |          |         |        |     |   |   |   |   |   |   |
 |  1 | Services            | s          | +  Torus          | yes  | yes  | /services         |          |     |          |         |        | n   |   |   |   |   |   |   |
 |  2 | Consultation        | s-c        | +  Open Book      | yes  | Yes] | /consultation     |          |     |          |         |        | n   |   |   |   |   |   |   |
