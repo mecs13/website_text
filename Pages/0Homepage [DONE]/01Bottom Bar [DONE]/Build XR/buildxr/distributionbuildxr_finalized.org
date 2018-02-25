@@ -1,0 +1,20 @@
+**** (7) Distrbution:
+***** Publishing Platforms
+ - iOS
+ - Android
+ - WebXR
+ - Rift Store
+ - Steam Store
+ - Play Store
+ - Facebook
+ - Youtube
+   
+***** Promotion Channels
+ - Content partnerships
+ - VR Apps stores
+ - Social media
+ - Infliencers
+ - Forums/exchanges
+ - Growth hacking
+ - alt techs
+   
