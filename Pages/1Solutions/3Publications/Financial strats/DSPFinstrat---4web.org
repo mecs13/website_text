@@ -1,7 +1,23 @@
-* Header
-XR Financial Strategy
+* Header 1
+Publications
 
-* Tag
-Destination Service Provider
+* Header 2
+- fin strat -> intro1 & blog list 1
+- market research -> intro2 & blog list 2
+- lab live -> intro3 & shows blog list 3
 
-* Abstract
+* Blog list 1
+publications tagged as fin strats
+
+* Blog list 2
+publications tagged as market research
+
+* Blog list 3
+publications tagges as business reports
+
+
+* intro 1
+
+* intro 2
+
+* intro 3
