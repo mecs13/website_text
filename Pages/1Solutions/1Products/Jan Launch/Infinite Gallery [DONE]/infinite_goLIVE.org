@@ -5,7 +5,7 @@ The Infinite gallery is an original VR interface through which businesses can di
 
  * Welcome Inside
 
-Once the user enters the Infinite Gallery, they'll find themselves inside a space resembling the decorative walkway of a museum. Dependent on your customized version of the Gallery, the the user will then control their own motion through the walkway (via eye or wrist movement, controller commands, a touchpad, etc.). As they move, they'll rely on their own head and eye movement to turn and view the content displayed on the wall. Just as in the real world, the user can look up, down, side-to-side, and even dictate the pace and direction of their own movement. 
+Once the user enters the Infinite Gallery, they'll find themselves inside a space resembling the decorative walkway of a museum. Dependent on your customized version of the Gallery, the the user will then control their own motion through the walkway (via eye or wrist movement, controller commands, or a touchpad). As they move, they'll rely on their own head and eye movement to turn and view the content displayed on the wall. Just as in the real world, the user can look up, down, side-to-side, and even dictate the pace and direction of their own movement. 
 
 **** Display Anything
 
