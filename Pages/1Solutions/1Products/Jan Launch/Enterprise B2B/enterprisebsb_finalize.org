@@ -1,45 +1,57 @@
-Abstract:
+* XR in B2B
 
-XR allows people to visit places they otherwise could not go.  Like the inside of a combusting engine.  Businesses are capitalizing on the opportunity to develop XR because it educates buyers through active learning.   
+XR allows people to visit places they otherwise could not go. Like the inside of a combustion engine. Businesses are capitalizing on the opportunity to develop XR because it educates buyers through active learning.   
 
-Here is an example of how big industry B2B might work.   In begins with understanding what materials are already one hand.  In this scenario with Rolls-Royce, they already have 3D models of their engine parts designed, and they want to repurpose them to drive marketing.
+Here is an example of how big industry B2B might work. tn begins with understanding what materials are already on hand. In this scenario with Rolls-Royce, the company already owns 3D models of their engine parts, and wants to repurpose the models to improve B2B marketing.
 
-
-* B2B Enterprise Marketing
+* Enterprise Marketing
 
 ** Introduction
-As immersive content alters today's media landscape, all brands will be forced to adapt their marketing strategies May it be engineering powerhouses like Rolls-Royce or a regional mom-and-pop shop, any business with 3D models, 360 imagery, or volumetric displays are uniquely poised to repurpose their materials tp creat compelling immersive content. That content can then be deployed to drive marketing sales and increase brand affinity.
+As immersive content alters today's media landscape, all brands will adapt their marketing strategies. May it be engineering powerhouses like Rolls-Royce or regional mom-and-pop shops, business with 3D models, 360 imagery, or volumetric displays are uniquely poised to repurpose their materials and create compelling immersive content. That content can then be deployed to drive marketing sales and increase brand affinity.
 
 ** Example scenario:
-Big Industry is currently using 3D modes to demonstrate in the feild lik
+Big Industry is currently using 3D models to demonstrate in the field
 
 ** Strategy
-1 Transform current 3D models into VR through games and narrative stories.
-2 Demo VR experience in a controlled room with customzied microtexture.
-3 Engage ultrasonic for haptics, 3D studio, and wireless 6DoF headset.
-4 Monitor cognitive state with biometric software.
-5 Remind buyers RR is the best and will always maintain their standing.
+1 Transform current 3D models into VR through games and narrative stories
+2 Demo VR experience in a controlled room with customized microtexture
+3 Engage ultrasonic for haptics, 3D studio, and wireless 6DoF headset
+4 Monitor cognitive state with biometric software
+5 Remind buyers RR is the best and will always maintain its standing
 
 ** Production Pipeline
-Month 1-2 Design marketing objective, functionality, and storylineUI/UX. Deliverables: Full spec, demo, studio options.
-Month 3-7 Development, Testing. Outfit for 3D acoustics and ultrasonics. Deliverables: Beta version of VR experience, hardware.
-Month 8-10 Refine + Prepare: Improve application, rebuild microarchitecture, media roll out, PR outreach.
+*** Month 1-2: Design 
+- Design marketing objective, functionality, and storyline (UI/UX)
+- Deliverables: Full spec, demo, studio options
+
+*** Month 3-7 Development: 
+- Testing
+- Outfit for 3D acoustics and ultrasonics 
+- Deliverables: Beta version of VR experience, hardware
+
+*** Month 8-10: Refine & Test
+- Prepare and Improve application
+- rebuild microarchitecture
+- Media roll out, PR outreach
+
+*** Month 11-20: Distribution 
+- Deploy media (owned/paid/ earned) and measure success.
 
 ** Deliverables: 
 
-Final VR experience, media coverage, and launch party.
-Month 11-20 Distribution, Measuring Success: Deploy media, owned/paid/ earned. Measure success on key performance indicators identified in “Design” or
-through customized biometric software that gages attention, emotion, and cognative load.
-Deliverable: Publication, media reports
+- Final VR experience, media coverage, and launch party 
+- Measure success on key performance indicators identified in “Design” or
+through customized biometric software that gages attention, emotion, and cognitive load.
+- Publication, media reports
 
 
 ** Content Idea Starters
 
 1) The Ultimate Success Story
-With more than 100 years of briliance in innovation, let’s take the potential client on a journey through time. We'll begin with the historic meeting of Henry Royce and Roger Rolls in 1904, take flight on The Eagle as it crossed the Atlantic, help develop the world’s first manless jet, and forecast RR'achievements in the coming decades.
+With more than 100 years of brilliance in innovation, let’s take the potential client on a journey through time. We'll begin with the historic meeting of Henry Royce and Roger Rolls in 1904, take flight on The Eagle as it crossed the Atlantic, help develop the world’s first manless jet, and forecast RRs achievements in the coming decades.
 
 2) Inside an Engine
-Imagine the client hearing the purr of Rolls-Royce and feeling it’s vibrato. Because of VR, he’s finally afforded the opportunity to physically interact with this work of art. The buyer can build their engine for various missions (high speed, endurance, rescue) and whitness first hand how the engine at work, up close.
+Imagine the client hearing the purr of Rolls-Royce and feeling it’s vibrato. Because of VR, he’s finally afforded the opportunity to physically interact with this work of art. The buyer can build their engine for various missions (high speed, endurance, rescue) and witness first hand how the engine at work, up close.
 
 3) Feel The Charge
 Invite the potential client to play the role of hero and hear the exhilaration in his voice after he defuses a military conflict inside the Virtual cockpit of a Roll-Royce defense plane.
@@ -48,4 +60,4 @@ Invite the potential client to play the role of hero and hear the exhilaration i
 The potential buyer will be in the virtual board meeting learning about the record-breaking thrust engine RR deployed in 2015. Then she’ll sit in the cockpit and feel the G-Forces it produces resulting from a set of advanced aerofoils that were 3D printed.
 
 5) Everyone’s future
-We'll design and distribute content to aspiring engineers who are nearing college age, focussed on energy-conservation, and advocates for green initiatives. Will produce bite-sized content to distribute over WebVR and incentivize netowrk sharing of our highly
+We'll design and distribute content to aspiring engineers who are nearing college age, focussed on energy-conservation, and advocates for green initiatives. Will produce bite-sized content to distribute over WebVR and incentivize network sharing of our highly.
