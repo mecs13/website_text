@@ -9,3 +9,7 @@
 **** Dev Con
 **** Music Streaming
 **** Department Development
+ sales grid (JM)
+- Goal tracking (JM) 
+- bug reports (TB)
+- accounting (TB)
