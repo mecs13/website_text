@@ -1,0 +1,3 @@
+* Features
+- Brand your own Virtual lobby 
+- Bring guests around the world in VR
