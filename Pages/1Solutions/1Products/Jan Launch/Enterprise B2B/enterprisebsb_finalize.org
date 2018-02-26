@@ -1,8 +1,8 @@
 * XR in B2B
 
-XR allows people to visit places they otherwise could not go. Like the inside of a combustion engine. Businesses are capitalizing on the opportunity to develop XR because it educates buyers through active learning.   
+Businesses are capitalizing on the opportunity to develop XR because it educates buyers through active learning. XR allows clients to visit places they otherwise could not go.   
 
-Here is an example of how big industry B2B might work. tn begins with understanding what materials are already on hand. In this scenario with Rolls-Royce, the company already owns 3D models of their engine parts, and wants to repurpose the models to improve B2B marketing.
+Here is an example of how big industry B2B might work. The process begins with understanding what materials are already on hand. In this scenario with Rolls-Royce, the company already owns 3D models of their engine parts and wants to repurpose the models to improve B2B marketing.
 
 * Enterprise Marketing
 
@@ -13,11 +13,11 @@ As immersive content alters today's media landscape, all brands will adapt their
 Big Industry is currently using 3D models to demonstrate in the field
 
 ** Strategy
-1 Transform current 3D models into VR through games and narrative stories
-2 Demo VR experience in a controlled room with customized microtexture
-3 Engage ultrasonic for haptics, 3D studio, and wireless 6DoF headset
-4 Monitor cognitive state with biometric software
-5 Remind buyers RR is the best and will always maintain its standing
+- Transform current 3D models into VR through games and narrative stories
+- Demo VR experience in a controlled room with customized microtexture
+- Engage ultrasonic for haptics, 3D studio, and wireless 6DoF headset
+- Monitor cognitive state with biometric software
+- Remind buyers RR is the best and will always maintain its standing
 
 ** Production Pipeline
 *** Month 1-2: Design 
@@ -44,20 +44,19 @@ Big Industry is currently using 3D models to demonstrate in the field
 through customized biometric software that gages attention, emotion, and cognitive load.
 - Publication, media reports
 
-
 ** Content Idea Starters
 
-1) The Ultimate Success Story
+(1) The Ultimate Success Story
 With more than 100 years of brilliance in innovation, let’s take the potential client on a journey through time. We'll begin with the historic meeting of Henry Royce and Roger Rolls in 1904, take flight on The Eagle as it crossed the Atlantic, help develop the world’s first manless jet, and forecast RRs achievements in the coming decades.
 
-2) Inside an Engine
+(2) Inside an Engine
 Imagine the client hearing the purr of Rolls-Royce and feeling it’s vibrato. Because of VR, he’s finally afforded the opportunity to physically interact with this work of art. The buyer can build their engine for various missions (high speed, endurance, rescue) and witness first hand how the engine at work, up close.
 
-3) Feel The Charge
+(3) Feel The Charge
 Invite the potential client to play the role of hero and hear the exhilaration in his voice after he defuses a military conflict inside the Virtual cockpit of a Roll-Royce defense plane.
 
-4) Breaking Tech Barriers
+(4) Breaking Tech Barriers
 The potential buyer will be in the virtual board meeting learning about the record-breaking thrust engine RR deployed in 2015. Then she’ll sit in the cockpit and feel the G-Forces it produces resulting from a set of advanced aerofoils that were 3D printed.
 
-5) Everyone’s future
+(5) Everyone’s future
 We'll design and distribute content to aspiring engineers who are nearing college age, focussed on energy-conservation, and advocates for green initiatives. Will produce bite-sized content to distribute over WebVR and incentivize network sharing of our highly.
