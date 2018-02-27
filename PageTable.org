@@ -449,9 +449,9 @@ background
  | 2S  | Products             | +    | + + + - | +   | /products     |    | -   | +   | -    | + ID dev          |       |   |   |   |
  | 2S  | Consultation         | +    | + + + + | +   | /consultation |    | -   | +   | -    |                   |       |   |   |   |
  | 2S  | Publications         | +    | + + - - | +   | /publications |    | -   | +   | -    |                   |       |   |   |   |
- | #   | SOLTUIONS            |      |         |     |               |    |     |     |      |                   |       |   |   |   |
- | ==  | ====PRODCUTS======   | ==   | ==      | ==  | ===           | == | ==  | === | ==   | == =========      |       |   |   |   |
- | 3P  | 1. architect         |      |         | +   | /arch         |    |     | +   | -    | + bus stop        |       |   |   |   |
+ | #   | SOLTUIONS            |      | +       |     |               |    |     |     |      |                   |       |   |   |   |
+ | ==  | ====PRODCUTS======   | ==   | +=      | ==  | ===           | == | ==  | === | ==   | == =========      |       |   |   |   |
+ | 3P  | 1. architect         |      | +       | +   | /arch         |    |     | +   | -    | + bus stop        |       |   |   |   |
  | 3p  | 2. color             |      |         | +   | /color        |    |     | +   | -    | +  Eyes           |       |   |   |   |
  | 3P  | 3. music             |      |         | +   | /music        |    |     | +   | -    | -                 |       |   |   |   |
  | 3P  | 4. bloomaway         |      |         | +   | /bloomaway    |    |     | +   | -    | + color obje      |       |   |   |   |
@@ -488,50 +488,50 @@ background
  |     | 35. token sale       |      |         |     | /tokensale    |    |     |     |      |                   |       |   |   |   |
  |     | 36. scavenger hunt   |      |         |     | /scavengerhun |    |     |     |      |                   |       |   |   |   |
  |     |                      |      |         |     |               |    |     |     |      |                   |       |   |   |   |
- | ==  | ===CONSULTATION=     | ===  | ==      |     | ====          | == | ==  | === | ==== | == =========      |       |   |   |   |
+ | ==  | ===CONSULTATION=     | ===  |         | +   | ====          | == | ==  | === | ==== | == =========      |       |   |   |   |
  |     | ------------------   |      |         |     |               |    |     | +   |      |                   |       |   |   |   |
  |     | *Industry soltions*  | +    | + + + - |     | /industrysol  |    |     | +   | -    | -                 |       |   |   |   |
- | 4I  | Relocation           |      |         |     | /relocation   |    |     | +   | -    | - bloomaway2      |       |   |   |   |
+ | 4I  | Relocation           | -    |         |     | /relocation   |    |     | +   | -    | - bloomaway2      |       |   |   |   |
  | 4I  | Automobile           | -    | + + + + |     | /automobile   |    |     | +   | -    | - sleek car       |       |   |   |   |
- | 4I  | Architecture         |      |         |     | /architecture |    |     | +   | -    | -                 |       |   |   |   |
- | 4I  | Tourism              |      |         |     | /Tourism      |    |     | +   | -    | - bloomaway4      |       |   |   |   |
- | 4I  | Health care          |      |         |     | /healthcare   |    |     | +   | -    | -                 |       |   |   |   |
- | 4I  | Education            |      |         |     | /education    |    |     | +   | -    | - book shelf      |       |   |   |   |
- | 4I  | Transportation       |      |         |     | /transportati |    |     | +   | -    | - airplane        |       |   |   |   |
- | 4I  | Cinematography       |      |         |     | /cinematograp |    |     |     | -    | -  movie reel     |       |   |   |   |
- | 4I  | Gaming               |      |         |     | /gaming       |    |     |     | -    | - vr haptic suit  |       |   |   |   |
- | 4I  | Entertainent         |      |         |     | /entertainmen |    |     |     | -    | - ppl havin fun   |       |   |   |   |
- | 4I  | Prof servic          |      |         |     | /profserv     |    |     |     | -    | - suit/tie        |       |   |   |   |
- | 4I  | Art                  |      |         |     | /art          |    |     |     | -    | - canvas          |       |   |   |   |
- | 4I  | Sports               |      |         |     | /sports       |    |     |     | -    | - athlete shadow  |       |   |   |   |
- | 4I  | Broadcasting         |      |         |     | /broadcasting |    |     |     | -    | - mic + tower     |       |   |   |   |
- | 4I  | Space exploration    |      |         |     | /space        |    |     |     | -    | - rocket ship     |       |   |   |   |
- | 4I  | Civil engineering    |      |         |     | /CE           |    |     |     | -    | - bride           |       |   |   |   |
- | 4I  | Design               |      |         |     | /design       |    |     |     | -    | -                 |       |   |   |   |
- |     | Surveillanc          |      |         |     | /Surverillanc |    |     |     | -    | - camera in sky   |       |   |   |   |
- | 4I  | Retail               |      |         |     | /retail       |    |     |     | -    | - grab from shelf |       |   |   |   |
- | 4I  | Telecommunications   |      |         |     | /telecomm     |    |     |     | -    | -  devices cnctd  |       |   |   |   |
- | 4I  | Performing arts      |      |         |     | /performing a |    |     |     | -    | - theater actors  |       |   |   |   |
+ | 4I  | Architecture         | -    | +       |     | /architecture |    |     | +   | -    | -                 |       |   |   |   |
+ | 4I  | Tourism              | -    | +       |     | /Tourism      |    |     | +   | -    | - bloomaway4      |       |   |   |   |
+ | 4I  | Health care          | -    | +       |     | /healthcare   |    |     | +   | -    | -                 |       |   |   |   |
+ | 4I  | Education            | -    | +       |     | /education    |    |     | +   | -    | - book shelf      |       |   |   |   |
+ | 4I  | Transportation       | -    | +       |     | /transportati |    |     | +   | -    | - airplane        |       |   |   |   |
+ | 4I  | Cinematography       | -    | +       |     | /cinematograp |    |     |     | -    | -  movie reel     |       |   |   |   |
+ | 4I  | Gaming               | -    | +       |     | /gaming       |    |     |     | -    | - vr haptic suit  |       |   |   |   |
+ | 4I  | Entertainent         | -    |         |     | /entertainmen |    |     |     | -    | - ppl havin fun   |       |   |   |   |
+ | 4I  | Prof servic          | -    |         |     | /profserv     |    |     |     | -    | - suit/tie        |       |   |   |   |
+ | 4I  | Art                  | -    |         |     | /art          |    |     |     | -    | - canvas          |       |   |   |   |
+ | 4I  | Sports               | -    |         |     | /sports       |    |     |     | -    | - athlete shadow  |       |   |   |   |
+ | 4I  | Broadcasting         | -    |         |     | /broadcasting |    |     |     | -    | - mic + tower     |       |   |   |   |
+ | 4I  | Space exploration    | -    |         |     | /space        |    |     |     | -    | - rocket ship     |       |   |   |   |
+ | 4I  | Civil engineering    | -    |         |     | /CE           |    |     |     | -    | - bride           |       |   |   |   |
+ | 4I  | Design               | -    |         |     | /design       |    |     |     | -    | -                 |       |   |   |   |
+ |     | Surveillanc          | -    |         |     | /Surverillanc |    |     |     | -    | - camera in sky   |       |   |   |   |
+ | 4I  | Retail               | -    |         |     | /retail       |    |     |     | -    | - grab from shelf |       |   |   |   |
+ | 4I  | Telecommunications   | -    |         |     | /telecomm     |    |     |     | -    | -  devices cnctd  |       |   |   |   |
+ | 4I  | Performing arts      | -    |         |     | /performing a |    |     |     | -    | - theater actors  |       |   |   |   |
  |     | ----------------     | ==== | ==      | ==  | ==========    | == | ==  | === | ==== | == =========      |       |   |   |   |
- | 3C  | *X industry*         |      |         |     | /xindustry    |    |     |     | -    |                   |       |   |   |   |
- | 4X  | World peace          |      |         |     | /worldpeace   |    |     |     | -    | dove              |       |   |   |   |
- | 4X  | Marketing            |      |         | \   | /marketing    |    |     |     | -    | charts + media    |       |   |   |   |
- | 4X  | Fund raising         |      |         |     | /fundraising  |    |     |     | -    | chart ->goal      |       |   |   |   |
- | 4X  | Selling              |      | `       |     | /selling      |    |     |     | -    | transaction       |       |   |   |   |
- | 4X  | On-boarding          |      |         |     | /on-boarding  |    |     |     | -    | welcoming         |       |   |   |   |
- | 4X  | Coaching             |      |         |     | /coaching     |    |     |     | -    | trainer           |       |   |   |   |
- | 4x  | Social media         |      |         |     | /socialmedia  |    |     |     | -    | iconsocial med    |       |   |   |   |
- | 4X  | Collaboration        |      |         |     | /collaboratio |    |     |     | -    | remote  cordtn    |       |   |   |   |
- | 4X  | PR stunting          |      |         |     | /PR-stunting  |    |     |     | -    | garnering attn    |       |   |   |   |
- | 4X  | Education            |      |         |     | /education    |    |     |     | -    | books on shelf    |       |   |   |   |
- |     | ---------------      | ==== | ==      | ==  | ==========    | == | ==  | ==  | ==   | == =========      |       |   |   |   |
+ | 3C  | *X industry*         | +    |         |     | /xindustry    |    |     |     | -    |                   |       |   |   |   |
+ | 4X  | World peace          | -    |         |     | /worldpeace   |    |     |     | -    | dove              |       |   |   |   |
+ | 4X  | Marketing            | -    |         | \   | /marketing    |    |     |     | -    | charts + media    |       |   |   |   |
+ | 4X  | Fund raising         | -    |         |     | /fundraising  |    |     |     | -    | chart ->goal      |       |   |   |   |
+ | 4X  | Selling              | -    | `       |     | /selling      |    |     |     | -    | transaction       |       |   |   |   |
+ | 4X  | On-boarding          | -    |         |     | /on-boarding  |    |     |     | -    | welcoming         |       |   |   |   |
+ | 4X  | Coaching             | -    |         |     | /coaching     |    |     |     | -    | trainer           |       |   |   |   |
+ | 4x  | Social media         | -    |         |     | /socialmedia  |    |     |     | -    | iconsocial med    |       |   |   |   |
+ | 4X  | Collaboration        | -    |         |     | /collaboratio |    |     |     | -    | remote  cordtn    |       |   |   |   |
+ | 4X  | PR stunting          | -    |         |     | /PR-stunting  |    |     |     | -    | garnering attn    |       |   |   |   |
+ | 4X  | Education            | -    |         |     | /education    |    |     |     | -    | books on shelf    |       |   |   |   |
+ |     | ---------------      |  ==== | ==      | ==  | ==========    | == | ==  | ==  | ==   | == =========      |       |   |   |   |
  | 3C  | *Learning lab*       |      |         |     |               |    |     |     | -    |                   |       |   |   |   |
  | 4L  | The basics           |      |         |     | /thebasics    |    |     |     | -    |                   |       |   |   |   |
  | 4L  | Resource Center      |      |         |     | /resourcecent |    |     |     |      |                   |       |   |   |   |
  | 4L  | Publications         |      |         |     | /publications |    |     |     |      |                   |       |   |   |   |
  | 4L  | Training             |      | + - + - | +   | /training     |    |     |     |      |                   |       |   |   |   |
- | 4L  | Strategy             |      |         |     | /strategy     |    |     |     |      |                   |       |   |   |   |
- | 4L  | Production           |      |         |     | /production   |    |     |     |      |                   |       |   |   |   |
+ | 4L  | Strategy             |      |         | +   | /strategy     |    |     |     |      |                   |       |   |   |   |
+ | 4L  | Production           |      |         | +   | /production   |    |     |     |      |                   |       |   |   |   |
  | 4L  | Installation         |      |         |     | /installation |    |     |     |      |                   |       |   |   |   |
  | ==  | ===PUBLICATIONS====  | ==== | ==      | ==  | ==========    | == | ==  | ==  | ==== | == =========      |       |   |   |   |
  |     | -----------------    |      |         |     |               |    |     |     |      |                   |       |   |   |   |
@@ -557,35 +557,35 @@ background
  | #   | SERVICES             |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  | === | ================     |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  | 1H  | Services             |      |         |     | /Services     |    |     |     |      |                   |       |   |   |   |
- | 2S  | Design               | + ID |         | yes | /products     |    |     |     | n    |                   |       |   |   |   |
- | 2S  | Develop              |      |         |     | /develop      |    |     |     |      |                   |       |   |   |   |
- | 2S  | Deploy               |      |         |     | /deploy       |    |     |     |      |                   |       |   |   |   |
+ | 2S  | Design               | + ID |         | +   | /products     |    |     |     | n    |                   |       |   |   |   |
+ | 2S  | Develop              |      |         | +   | /develop      |    |     |     |      |                   |       |   |   |   |
+ | 2S  | Deploy               |      |         | +   | /deploy       |    |     |     |      |                   |       |   |   |   |
  | ==  | ====DESIGN======     | == = | ==      | ==  | ==========    | == | ==  | ==  | ==== |                   |       |   |   |   |
- |     | Sketch               |      |         |     | /sketch       |    |     |     |      |                   |       |   |   |   |
- |     | Storyboard           |      |         |     | /storyboard   |    |     |     |      |                   |       |   |   |   |
- |     | Script               |      |         |     | /script       |    |     |     |      |                   |       |   |   |   |
- |     | Model                |      |         |     | /model        |    |     |     |      |                   |       |   |   |   |
+ |     | Sketch               |      |         | +   | /sketch       |    |     |     |      |                   |       |   |   |   |
+ |     | Storyboard           |      |         | +   | /storyboard   |    |     |     |      |                   |       |   |   |   |
+ |     | Script               |      |         | +   | /script       |    |     |     |      |                   |       |   |   |   |
+ |     | Model                |      |         | +   | /model        |    |     |     |      |                   |       |   |   |   |
  | ==  | ====DEVELOP======    | == = | ==      | ==  | ==========    | == | ==  | ==  | ==== |                   |       |   |   |   |
  |     | ------------------   |      |         |     |               |    |     |     |      |                   |       |   |   |   |
- |     | *Program*            |      |         |     | /program      |    |     |     |      |                   |       |   |   |   |
+ |     | *Program*            |      |         | +   | /program      |    |     |     |      |                   |       |   |   |   |
  |     | Web XR               |      |         |     | /webxr        |    |     |     |      |                   |       |   |   |   |
  |     | C++                  |      |         |     | /c++          |    |     |     |      |                   |       |   |   |   |
  |     | Physics engine       |      |         |     | /physicsengin |    |     |     |      |                   |       |   |   |   |
  |     | Js                   |      |         |     | /js           |    |     |     |      |                   |       |   |   |   |
  |     | Python               |      |         |     | /python       |    |     |     |      |                   |       |   |   |   |
  |     | C#                   |      |         |     | /Csharp       |    |     |     |      |                   |       |   |   |   |
- |     | AI                   |      |         |     | /ai           |    |     |     |      |                   |       |   |   |   |
+ |     | AI                   |      |         | +   | /ai           |    |     |     |      |                   |       |   |   |   |
  |     | Lisp                 |      |         |     | /lisp         |    |     |     |      |                   |       |   |   |   |
  |     | Spatial os           |      |         |     | /spatialos    |    |     |     |      |                   |       |   |   |   |
  |     | -------------        |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  |     | *Produce*            |      |         |     | /produce      |    |     |     |      |                   |       |   |   |   |
- |     | Game Engine          |      |         |     | /gameengine   |    |     |     |      |                   |       |   |   |   |
- |     | Live Stream          |      |         |     | /livestram    |    |     |     |      |                   |       |   |   |   |
- |     | 3D audio             |      |         |     | /3daudio      |    |     |     |      |                   |       |   |   |   |
+ |     | Game Engine          |      |         | +   | /gameengine   |    |     |     |      |                   |       |   |   |   |
+ |     | Live Stream          |      |         | +   | /livestram    |    |     |     |      |                   |       |   |   |   |
+ |     | 3D audio             |      |         | +   | /3daudio      |    |     |     |      |                   |       |   |   |   |
  |     | Haptics              |      |         |     | /haptics      |    |     |     |      |                   |       |   |   |   |
  |     | Volumetric           |      |         |     | /columetric   |    |     |     |      |                   |       |   |   |   |
  |     | Photogrammetry       |      |         |     | /photogrammet |    |     |     |      |                   |       |   |   |   |
- |     | 360 video            |      |         |     | /360video     |    |     |     |      |                   |       |   |   |   |
+ |     | 360 video            |      |         | +   | /360video     |    |     |     |      |                   |       |   |   |   |
  |     | Robotics             |      |         |     | /robotics     |    |     |     |      |                   |       |   |   |   |
  |     | Holograms            |      |         |     | /holograms    |    |     |     |      |                   |       |   |   |   |
  |     | FSM                  |      |         |     | /fsm          |    |     |     |      |                   |       |   |   |   |
@@ -597,9 +597,9 @@ background
  |     | Testing              |      |         |     | /testing      |    |     |     |      |                   |       |   |   |   |
  |     | -----------------    |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  |     | *Netowrk*            |      |         |     | /Network      |    |     |     |      |                   |       |   |   |   |
- |     | Live Stream          |      |         |     | /livestream   |    |     |     |      |                   |       |   |   |   |
- |     | Cloud Computing      |      |         |     | /cloudcomputi |    |     |     |      |                   |       |   |   |   |
- |     | Blockchain           |      |         |     | /blockchain   |    |     |     |      |                   |       |   |   |   |
+ |     | Live Stream          |      |         | *   | /livestream   |    |     |     |      |                   |       |   |   |   |
+ |     | Cloud Computing      |      |         | *   | /cloudcomputi |    |     |     |      |                   |       |   |   |   |
+ |     | Blockchain           |      |         | *   | /blockchain   |    |     |     |      |                   |       |   |   |   |
  |     | P2P                  |      |         |     | /p2p          |    |     |     |      |                   |       |   |   |   |
  |     | IoT                  |      |         |     | /iot          |    |     |     |      |                   |       |   |   |   |
  | ==  | =====DEPLOY=         | ==   | ==      | ==  | ==========    | == | ==  | ==  | ==== |                   |       |   |   |   |
