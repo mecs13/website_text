@@ -11,7 +11,7 @@ H
 Ss s 
 A
 C
-td
+td 
 pp?
 PDF?
 image
@@ -24,9 +24,9 @@ background
  | ~1  | contact              | +    | + + + - | +   | /contact      |    | -   | +   | -    | + chairs          |       |   |   |   |
  | ~1  | Build xr             | -    | + + + - | +   | /buildxr      |    | -   | +   | -    |                   |       |   |   |   |
  | ~1  | Login                | -    | - - + - | +   | /login        |    | -   | +   | -    |                   |       |   |   |   |
- | 1H  | Solutions            | /    | + - + - | +   | /solutions    |    | -   | +   | -    |                   |       |   |   |   |
- | 2S  | Products             | +    |         | +   | /products     |    | -   | +   | -    | + ID dev          |       |   |   |   |
- | 2S  | Consultation         | +    | + + + - | +   | /consultation |    | -   | +   | -    |                   |       |   |   |   |
+ | 1H  | Solutions            | /    | + + + - | +   | /solutions    |    | -   | +   | -    |                   |       |   |   |   |
+ | 2S  | Products             | +    | + + + - | +   | /products     |    | -   | +   | -    | + ID dev          |       |   |   |   |
+ | 2S  | Consultation         | +    | + + + + | +   | /consultation |    | -   | +   | -    |                   |       |   |   |   |
  | 2S  | Publications         | +    | + + - - | +   | /publications |    | -   | +   | -    |                   |       |   |   |   |
  | #   | SOLTUIONS            |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  | ==  | ====PRODCUTS======   | ==   | ==      | ==  | ===           | == | ==  | === | ==   | == =========      |       |   |   |   |
