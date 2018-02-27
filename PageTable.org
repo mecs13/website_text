@@ -4,19 +4,6 @@
  3 menu 3 or blogstyle highest titles
  4 blogstyle highest or second title
 
- + yes
- - no  
-wf = wirefram
-H
-Ss s 
-A
-C
-td 
-pp?
-PDF?
-image
-background
-
  | ..  | page title           | Blog | Text    | SEO | Short URL     | wf | PDF | t-d | pp?  | Background        | image |   |   |   |
  |     | =  =  =  =  =  =     | styl | H S A C |     |               |    |     | +   |      |                   |       |   |   |   |
  | ~0  | Home                 | -    | - + - + | +   |               |    | -   | +   | -    | + blu polar       |       |   |   |   |
