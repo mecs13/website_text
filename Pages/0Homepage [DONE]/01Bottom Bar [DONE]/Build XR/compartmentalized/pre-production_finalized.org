@@ -1,0 +1,8 @@
+**** (5) Pre-production:
+=== Generate Creative Spec 
+ --- Auto generate the spec best suited for them based ont he answeres to the first 4 questions.
+
+[Visual animation of processs]
+file://Dropbox/Screenshots/Screenshot 2018-01-12 20.45.44.png
+
+# open right panel
