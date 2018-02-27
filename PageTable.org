@@ -490,9 +490,9 @@ background
  |     |                      |      |         |     |               |    |     |     |      |                   |       |   |   |   |
  | ==  | ===CONSULTATION=     | ===  | ==      |     | ====          | == | ==  | === | ==== | == =========      |       |   |   |   |
  |     | ------------------   |      |         |     |               |    |     | +   |      |                   |       |   |   |   |
- |     | *Industry soltions*  |      |         |     | /industrysol  |    |     | +   | -    | -                 |       |   |   |   |
+ |     | *Industry soltions*  | +    | + + + - |     | /industrysol  |    |     | +   | -    | -                 |       |   |   |   |
  | 4I  | Relocation           |      |         |     | /relocation   |    |     | +   | -    | - bloomaway2      |       |   |   |   |
- | 4I  | Automobile           |      |         |     | /automobile   |    |     | +   | -    | - sleek car       |       |   |   |   |
+ | 4I  | Automobile           | -    | + + + + |     | /automobile   |    |     | +   | -    | - sleek car       |       |   |   |   |
  | 4I  | Architecture         |      |         |     | /architecture |    |     | +   | -    | -                 |       |   |   |   |
  | 4I  | Tourism              |      |         |     | /Tourism      |    |     | +   | -    | - bloomaway4      |       |   |   |   |
  | 4I  | Health care          |      |         |     | /healthcare   |    |     | +   | -    | -                 |       |   |   |   |
