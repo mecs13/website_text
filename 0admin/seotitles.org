@@ -149,26 +149,53 @@ script, xrscript, write, story, scriptxr
 storyboard, characters, develope characters, xrcharacters, xrctoryboard, xrscenes
 
 ** Develop
+
+develop XR, xrdevelopment, xrdeveloper, virtual reality developer, vr coder, coderxr, xrcoder, xrprogramming, programxr
+
    
 ** game engine
 
+
+game engine, engineer, developer, modeling interctive, visual tools, optical tracking
+
 ** 3d audio
 
+xraudio, audioxr, 3daudioxr, xr3daudio, spatial sound, sparialxr, xr sound, soundxr
+
+
 ** 3d modeling
+
+3Dxr xr3dmodelling, virtual reality models, 3d, modeled xr, shaped
    
 ** 360 video
    
+360xr, virtual reality video, 3d stereoscopic, live stream, new years, vr-live-360 
+
+
 ** ai
+
+artificial intelligence in virtual reality, xrai, aixr, virtual assistant, personalized xr
 
 ** animation
 
+animatedxr, riggingxr, animate models for virtual reality, tell vr stories, vr cartoons, vr animated reality, animated reality 
+
+
 ** biometrics
-   
+
+
+ biometrical VR, data mining xr, surveillance, xr, darkxr, xr physiological 
 ** blockchain
+
+blockchainxr, xrp2p, distributedxr, distributed ledger p2p 
    
-** cloud computi
+** cloud computing
+
+cloudxr, netowrked xr, cloud computing in virtual reality, virtual cloud reality,  
    
-** cryptocurrenc
+** cryptocurrency
+
+cryptocurrency in xr, bitcoinxr, icoxr, xrico, 
    
 ** emotion recog
    
