@@ -195,7 +195,7 @@ background
  | ==  | ===Who We Are=       |      | `       | ==  | ==========    | == | -   | ==  | ==== |                   |       |   |   |   |
  |     | Contact              |      |         |     |               |    | -   |     |      |                   |       |   |   |   |
  |     | Contact              |      |         |     |               |    | -   |     |      |                   |       |   |   |   |
- | ==  | * Community *        | ==   | ==      | ==  | ==========    | == | -   | ==  | ==== |                   |       |   |   |   |
+ | ==  | * Community *        | +    | ==      | ==  | ==========    | == | -   | ==  | ==== |                   |       |   |   |   |
  |     | philanthropy         |      |         |     | /philanthropy |    | -   |     |      |                   |       |   |   |   |
  |     | philosophy           |      |         |     | /philosophy   |    | -   |     |      |                   |       |   |   |   |
  |     | shouts               |      |         |     | /shouts       |    |     |     |      |                   |       |   |   |   |
@@ -203,7 +203,7 @@ background
  |     | rent                 |      |         |     | /rent         |    | -   |     |      |                   |       |   |   |   |
  |     | member               |      |         |     | /membership   |    | -   |     |      |                   |       |   |   |   |
  |     | learning lab         |      |         |     | /learninglab  |    | -   |     |      |                   |       |   |   |   |
- | ==  | ===Partnership=      | ==   | ==      | ==  | ==========    | == | -   | ==  | ==== |                   |       |   |   |   |
+ | ==  | ===Partnership=      | +    | ==      | ==  | ==========    | == | -   | ==  | ==== |                   |       |   |   |   |
  |     | sponsor              |      |         |     | /sponsor      |    | -   |     |      |                   |       |   |   |   |
  |     | investor             |      |         |     | /investor     |    | -   |     |      |                   |       |   |   |   |
  |     | studio               |      |         |     | /studio       |    | -   |     |      |                   |       |   |   |   |
@@ -226,8 +226,7 @@ background
  | 4   | songkran             |      |         |     | /songkran     |    | -   |     |      |                   |       |   |   |   |
  | 4   | full moon            |      |         |     | /fullmoon     |    | -   |     |      |                   |       |   |   |   |
  | 2   | Find Us              |      |         |     | /findus       |    | -   |     |      |                   |       |   |   |   |
- | 0   | NOVACOGNITIO         |      |         |     | /novacognito  |    | -   |     |      |                   |       |   |   |   |
- | 1   | BLog                 |      |         |     | /blog         |    | -   |     |      |                   |       |   |   |   |
+ | 1   | BLog                 | +    |         |     | /LabLive      |    | -   |     |      |                   |       |   |   |   |
  | 1   | Rent room            |      |         |     | /rentroom     |    | -   |     |      |                   |       |   |   |   |
  | 1   | Rent space           |      |         |     | /rentspace    |    | -   |     |      |                   |       |   |   |   |
  | 1   | Photoshoot           |      |         |     | /photoshoot   |    | -   |     |      |                   |       |   |   |   |
