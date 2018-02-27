@@ -1,0 +1,12 @@
+** Benefits: 
+Display the vehicle to the buyer without asking them to leave their home. 
+Allow the user to adjust the color, model, or make of the car on demand.
+Initiate an enhanced emotional connection between the buyer and the vehicle before they even arrive to the showroom
+Help them understand which vehicle they’re most interested in, saving time and building decisiveness before they arrive on the day of purchase.  
+
+** Features 
+There is only so much room on the showroom floor, and often a buyer is interested in a vehicle that the dealership does not have in stock. A lot of sales are lost within this restriction. Think about how often a potential buyer walks out the door because the color, make, or model they had in mind wasn’t available on the day of their visit. VR reduces this threat by offering an on-site solution in which the buyer is able to put on the headset and view and test drive any vehicle they wish, regardless of whether it’s in stock. 
+
+** Benefits: 
+Adjust the color, make, or model of the vehicle with the click of a button. 
+Allow the buyer to test-drive a similar vehicle as the one they wish to purchase and show them the photogrammetric details of the exact version they like most. 
