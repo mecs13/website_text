@@ -1,0 +1,19 @@
+* AR Marketing Beverages:
+
+ There is a hoop to jump through to retrieve information.  You need to manually look it up.  Those days are numbered with AR, AI and IOT.  (Augmented Reality, Artificial Intelligence, Internet of Things).   
+
+These technologies will enable us to naturally and effortly interact with a "smart world".
+
+I look across the table at my bottle of beer.  How cold is that beer, it's awfully near the fire.  The temperature lists above.   I'm informed the ounces,  A link to the brewery's website.  A mini icon to rate the beer, or tweet it.   
+
+In less than 100 months, you will tap the lable and all this information will appear before you.   
+
+It's natural to think /there are no electronic components in my bottle of beer, no nodes, no copper, no semiconductors or metalloids of any type, nada.  Util my beer has computational abilities and an IP address, I will not have these instant insights.   
+
+Augmented reality is the hackaround.  Computer vision sensing Ultra Sound, Light Detection and Ranging (LiDAR), and cameras process the information of the surroundings and return whatever information is at the other end of its protocol. 
+
+Soon, we will know which of our friends (via my social media) are also drinking this beer in this same moment.  We can send them a virtual“cheers” with the raise of my glass in front of my eyewear, and a nod.   “Cheers! Phil!”  
+
+The message will appear as a noification and maybe the latest social media platorm will say "Joe and Phil are enjoying a Six Point Brew together from Six Point brewery in brooklyn, an 65th streen in manahattan.   
+
+These are made possible with inside-out tracking which is to deploy in 2018 by three major hardware manufacturers: Sony, HTC and Oculus.  Headware that has self-contained tracking is to be a major breakthrough for the industry, and subject to failure.  
