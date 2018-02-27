@@ -1,8 +1,8 @@
 * Header
-build_XR:      
+build XR      
 
 * Tag
-Build XE in 6 easy steps:
+in 6 easy steps:
 
 * Abstract
 
@@ -108,7 +108,7 @@ Upon special request we can implement biometric geedback ranging from skin galve
 
 [text box Additonal comments]
 `
-=== Dive down the rabbit hole
+ === Dive down the rabbit hole
 
 
 

@@ -2,7 +2,7 @@
 
 * Header
 Privacy Policy
- gs
+
 * Content
 
 ** Terms and Conditions of Use

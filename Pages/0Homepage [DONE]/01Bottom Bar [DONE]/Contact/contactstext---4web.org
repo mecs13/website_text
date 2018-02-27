@@ -4,11 +4,11 @@
 * Header
 Contact
 
-* Tag
-We are open most days, all hours, by appointment.   481 Van Brunt, Brooklyn, New York, 11231
+* Second
+
+ 481 Van Brunt, Brooklyn, New York, 11231
+
 : map : https://www.google.com/maps/search/xr+media/@40.658784,-74.0266566,12z/data=!3m1!4b1
-[text box Message Submit
-]
 
 * Abstract
 
@@ -22,4 +22,3 @@ We are open most days, all hours, by appointment.   481 Van Brunt, Brooklyn, New
 : steemit : @novaxr
 : Sketchfab : /novamedianewyork
 
-=== Build XR 
