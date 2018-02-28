@@ -148,7 +148,7 @@ develop XR, xrdevelopment, xrdeveloper, virtual reality developer, vr coder, cod
 
 
 game engine, engineer, developer, modeling interctive, visual tools, optical tracking
-
+ 
 ** 3d audio
 
 xraudio, audioxr, 3daudioxr, xr3daudio, spatial sound, sparialxr, xr sound, soundxr
@@ -382,7 +382,9 @@ communications in vr
 crypto vr
 
 
+** Tourism
 
+virtual reality seemless travel, visit the world in vr global xr travel anywhere, thomas cook quote xr 360 preview a country promote destination
 
 ** Freelancer
 get involved, per project, hire production, freelancing, freelancer, production manager, developer, coder, programmer, technician , systems engineer, designer, animator, sketch artists, 
@@ -390,3 +392,14 @@ get involved, per project, hire production, freelancing, freelancer, production 
 ** Studios and Labs
 
 virtual reality possible, best in the business, top studios in new york, production vr network, vr industry, xr media network, virtual reality insiders
+
+** VR vs ar
+vr compared, ven diagram, undestand, how to, leanring, the basics, what, who, how, why, when, 101, contrast, xr, with vr specturm, differentiate, differences, vrvsvr
+
+** the Basics
+
+101, learning, new, tutorial, how-tow, first time, getting familiar, familiarize, initial education, 
+ fr
+** Space exporation 
+
+cosmos, explore, space, nasa, station, international, buzz, light years, adr1ft, atmosphere, adventure, stars, moon, sun, solar system

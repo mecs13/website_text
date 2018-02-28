@@ -1,3 +1,14 @@
+
+* Header
+
+Virtual vs Augmented Reality
+
+* Second
+
+AR is the mobile solution to full immersion (VR)
+
+* Abstract
+
 ** Aumented reality
 
 - Alters the real world on a screen or head-mounted screen.
@@ -16,7 +27,6 @@
 
 - Spatial cognitive information
 
-
 ** Virtual Reality
 
 - creates entirely virtual world
@@ -28,3 +38,7 @@
 
 
 
+
+* Content
+
+/Ven diagram/

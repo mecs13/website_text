@@ -3,8 +3,15 @@
 The Basics
  
 * Second
-
+Learn about XR 101
 * Abstract
 
-* Content
+- AR vs. VR
+- Building an XR ready PC
+- How does XR work
+- Fromal Training
+- Produce your own XR 
+ 
 
+
+ 
