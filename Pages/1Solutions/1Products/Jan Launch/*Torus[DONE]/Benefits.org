@@ -1,1 +1,6 @@
-Reduce the barrier between new users and Virtual technology interface
+* Benefits 
+
+- Reduce learning curve for new VR users
+- Expand ways in which content can be displayed
+- Promote interaction between user and product display
+- Create innovative way to interact with VR
