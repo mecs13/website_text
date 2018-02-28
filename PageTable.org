@@ -207,9 +207,9 @@ background
  |     | producer             |      | +       |     | /producer     |    | -   |     |      |               |       |   |   |   |
  |     | designer             |      | +       |     | /designer     |    | -   |     |      |               |       |   |   |   |
  |     | apprentice           |      | +       |     | /apprentice   |    | -   |     |      |               |       |   |   |   |
- |     | freelance            |      | +       |     | /freelance    |    | -   |     |      |               |       |   |   |   |
- |     | volunteer            |      | +       |     | /volunteer    |    | -   |     |      |               |       |   |   |   |
- |     |                      |      |         |     |               |    | -   |     |      |               |       |   |   |   |
+ |     | freelance            |      | + + + - |     | /freelance    |    | -   |     |      |               |       |   |   |   |
+ |     | volunteer            |      | + + + - |     | /volunteer    |    | -   |     |      |               |       |   |   |   |
+ |     | Studios and Labs     | +    | + + + - |     |               |    | -   |     |      |               |       |   |   |   |
  | ==  | ===Contact=          | ==   | +       | ==  | ==========    | == | -   | ==  | ==== |               |       |   |   |   |
  | ==  | ==Novacognito==      |      | +       |     | /novacognito  |    | -   |     |      |               |       |   |   |   |
  | 3   | Future prod          | +    | +       |     | /futurepro    |    | -   |     |      |               |       |   |   |   |
