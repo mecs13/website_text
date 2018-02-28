@@ -1,1 +1,6 @@
-Reduce the assumptions made during the design phase and more efficiently cater to client needs
+* Benefits
+
+- Reduce assumptions made during the design phase by sketching and measuruing in advance
+- more efficiently cater to client needs by iterating in 3D before final product creation
+- Better understand structural function and form 
+- Advanced access to the way sunlight, rainfall, and human traffic will interact with structures
