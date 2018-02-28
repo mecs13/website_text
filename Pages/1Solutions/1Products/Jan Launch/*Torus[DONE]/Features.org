@@ -1,1 +1,6 @@
-The Torus introduces real world energy flow to VR and highlights the ability to select information focally.
+* Features
+
+- Real world energy flow
+- 360 degree top information display bar
+- 360 degree bottom information display bar
+- Virtual wrist band so user can move in VR
