@@ -1,1 +1,6 @@
-Architects design and assemble their real-world projects in Virtual space before exporting them for physical world implementation
+* Features
+
+- Sketch in VR 
+- Measure in VR
+- Implament blue prints in 3D space
+- Work together with client in VR
