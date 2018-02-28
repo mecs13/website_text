@@ -1,1 +1,5 @@
-
+* Features
+- Make available all colors of spectrum 
+- Interact and select from inside a 3D color object 
+- Varying hue, lightness, and saturation of each color
+- Draw, sketch, design with any color in VR
