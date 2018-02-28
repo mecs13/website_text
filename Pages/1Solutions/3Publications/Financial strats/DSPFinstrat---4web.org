@@ -1,23 +1,19 @@
-* Header 1
-Publications
+* Header
 
-* Header 2
-- fin strat -> intro1 & blog list 1
-- market research -> intro2 & blog list 2
-- lab live -> intro3 & shows blog list 3
+Strategy Development
 
-* Blog list 1
-publications tagged as fin strats
+* Second
 
-* Blog list 2
-publications tagged as market research
+XR can be a tool to reduce internal costs, or increase sales.   You understand your industry.  We understand XR. 
 
-* Blog list 3
-publications tagges as business reports
+* Abstract
+Together, we can devise and execute a plan to disrupt modern methods, accelerate business and earn a measurable return on the time, money and resources we invest.
 
+[text box: What industry?]
+[text box: what is the goal]
+[text box: who is the audience]
+[text box: what does the audience care about?]
+[text box: what does your superior care about?]
+[text box: what is the timing and budget?]
 
-* intro 1
-
-* intro 2
-
-* intro 3
+=== book an appointment

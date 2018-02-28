@@ -4,5 +4,16 @@ Installation
 
 * Abstract
 
+Custom outfit your home location to be a VR theater.   Install the latest in computer, gaming and immersion technologies.
 
-* Content
+** Basic Installation:
+
+Hardware Video graphics card : GeForce 1080x
+Processor : Intel i7 quad core
+Head mounted display : HTC Vive
+Position tracker : Valve lighthouse
+Software Operating system : Windows 10
+Content platform : Steam
+Modelling tool : Blender
+Graphic tool : Photoshop
+Game engine : Unity

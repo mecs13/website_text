@@ -100,19 +100,19 @@ background
  | 4X  | On-boarding          | --   | +       |     | /on-boarding  |    | -   |     | -    | welcoming        |       |   |   |   |
  | 4X  | Coaching             | -    | +       |     | /coaching     |    | -   |     | -    | trainer          |       |   |   |   |
  | 4x  | Social media         | -    | +       |     | /socialmedia  |    | -   |     | -    | iconsocial me    |       |   |   |   |
- | 4X  | Collaboration        | -    | +       |     | /collaboratio |    | -   |     | -    | remote  cordt    |       |   |   |   |
+ | 4X  | Collaboration        | -    | +       |     | /collaboratio |    | -   |     | -    | remote coop      |       |   |   |   |
  | 4X  | PR stunting          | -    | +       |     | /PR-stunting  |    | -   |     | -    | garnering att    |       |   |   |   |
  | 4X  | Education            | -    | +       |     | /education    |    | -   |     | -    | books on shel    |       |   |   |   |
  |     | ---------------      | -    | ==      | ==  | ==========    | == | -   | ==  | ==   | == =========     |       |   |   |   |
- | 3C  | *Learning lab*       | +    | +       |     |               |    | -   |     | -    |                  |       |   |   |   |
+ | 3C  | *Learning lab*       | +    | +       |     |               |    | -   |     | -    | vr wood guy      |       |   |   |   |
  | 4L  | The basics           | +    | + + + - | +   | /thebasics    |    | -   |     | -    | childrens blocks |       |   |   |   |
  |     | AR vs VR             | -    | + + + + | +   | /vrvsvr       |    |     |     |      | ven diagram      |       |   |   |   |
  | 4L  | Resource Center      | -    |         |     | /resourcecent |    | -   |     | +    |                  |       |   |   |   |
  | 4L  | Publications         | -    |         |     | /publications |    | -   |     | +    |                  |       |   |   |   |
  | 4L  | Training             | -    | + - + - | +   | /training     |    | -   |     | -    |                  |       |   |   |   |
- | 4L  | Strategy             | -    |         | +   | /strategy     |    | -   |     | +    |                  |       |   |   |   |
+ | 4L  | Strategy             | -    | + + + - | +   | /strategy     |    | -   |     | +    |                  |       |   |   |   |
  | 4L  | Production           | -    |         | +   | /production   |    | -   |     | -    |                  |       |   |   |   |
- | 4L  | Installation         | -    |         |     | /installation |    | -   |     | -    |                  |       |   |   |   |
+ | 4L  | Installation         | -    | + - + - |     | /installation |    | -   |     | -    |                  |       |   |   |   |
  | ==  | ===PUBLICATIONS====  | -    | ==      | ==  | ==========    | == | -   | ==  | ==== | == =========     |       |   |   |   |
  |     | -----------------    | -    |         |     |               |    | -   |     |      |                  |       |   |   |   |
  | 4L  | *Financial Strats*   |      |         |     | /financialstr |    | -   |     | +    |                  |       |   |   |   |
