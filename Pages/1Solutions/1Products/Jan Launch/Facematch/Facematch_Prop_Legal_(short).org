@@ -12,12 +12,8 @@ The age-old challenge: how do you really know if your ad worked? Generally, you 
 
 By analyzing Facebook user login info and profile photos, we'll create, encrypt, and database a library of photos, cross reference it against the photos taken of visitors when they arrive at customs, and produce a number that represents your ad's success rate. 
 
-
-** Features 
-Refer to visual on  page 17 of same ID file as directed to above 
-
 ** Benefits
-We will Implement a software that will verify  ad-viewers who visit Cayman through face recognition technology.   This metric will allow Cayman to increase advertising by  an estimated 40% effectiveness, dollar per dollar.      
+We will Implement a software that will verify  ad-viewers who visit Cayman through face recognition technology.  This metric will allow Cayman to increase advertising by an estimated 40% effectiveness, dollar per dollar.      
 
 This turn-key solution will hold media partners accountable to quantifiably increase visits.
 
