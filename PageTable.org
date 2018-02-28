@@ -124,7 +124,7 @@ background
  | 4F  | NYE                   | -    |         |     | /nyefs         |    | -   |     | +    |                  |       |   |   |   |   |
  | 4F  | Encyclopedia          | -    |         |     | /encyclopedia  |    | -   |     | +    |                  |       |   |   |   |   |
  |     | ------------------    | -    | ==      | ==  | ==========     | == | -   | ==  |      | == =========     |       |   |   |   |   |
- | 4L  | *Tech reports*        | -    |         |     |                |    | -   |     | -    |                  |       |   |   |   |   |
+ | 4L  | *Interface Design*    | -    |         |     |                |    | -   |     | -    |                  |       |   |   |   |   |
  |     | Remote OS             | -    |         |     | /remoteos      |    | -   |     | -    |                  |       |   |   |   |   |
  |     | nova - mode           | -    |         |     | /novamode      |    | -   |     | -    |                  |       |   |   |   |   |
  |     | Live Streaming        | -    |         |     | /livestream    |    | -   |     | -    |                  |       |   |   |   |   |
@@ -142,7 +142,7 @@ background
  | 2S  | Deploy                | -    |         | +   | /deploy        |    | -   |     | -    | rocket launch    |       |   |   |   |   |
  | ==  | ====DESIGN======      | -    | ==      | ==  | ==========     | == | ==  | ==  | -    |                  |       |   |   |   |   |
  |     | Sketch                | -    |         | +   | /sketch        |    | --  |     | -    |                  |       |   |   |   |   |
- |     | Storyboard            | -    |         | +   | /storyboard    |    | -   |     | -    |                  |       |   |   |   |   |
+ |:::  | Storyboard            | -    |         | +   | /storyboard    |    | -   |     | -    |                  |       |   |   |   |   |
  |     | Script                | -    |         | +   | /script        |    | -   |     | -    |                  |       |   |   |   |   |
  |     | Model                 | -    |         | +   | /model         |    | -   |     | -    |                  |       |   |   |   |   |
  | ==  | ====DEVELOP======     | -    | + + + - | ==  | ==========     | == | -   | ==  | -    |                  |       |   |   |   |   |
@@ -206,7 +206,12 @@ background
  | 1   | +Photoshoot           | -    | +       |     | /photoshoot    |    | -   |     |      |                  |       |   |   |   |   |
  |     | +member               | -    | +       |     | /membership    |    | -   |     |      | safe             |       |   |   |   |   |
  | ==  | ========Partnership=  | -    | +       | ==  | ==========     | == | -   | ==  | ==== |                  |       |   |   |   |   |
- |     | Client Portal         |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | *Client Portal*       |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | *Productions *        |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | Past                 |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | Current               |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | Future                |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
+ |     | *Partners*            |      |         |     |                |    |     |     |      |                  |       |   |   |   |   |
  |     | sponsor               | -    | +       |     | /sponsor       |    | -   |     |      |                  |       |   |   |   |   |
  |     | investor              | -    | +       |     | /investor      |    | -   |     |      |                  |       |   |   |   |   |
  |     | developer             | --   | +       |     | /developer     |    | -   |     |      |                  |       |   |   |   |   |
@@ -240,3 +245,9 @@ background
  | 4   | oktober fest         | -    | +       |     | /oktoberfest  |    | -   |     |      |                |       |   |   |   |
  | 4   | songkran             | -    | +       |     | /songkran     |    | -   |     |      |                |       |   |   |   |
  | 4   | full moon            | -    | +       |     | /fullmoon     |    | -   |     |      |                |       |   |   |   |
+
+
+| 4L  | *Interface Design* | -    |         |     |                |    | -   |     | -    |                  |       |   |   |   |   |
+ |     | Remote OS             | -    |         |     | /remoteos      |    | -   |     | -    |                  |       |   |   |   |   |
+ |     | nova - mode           | -    |         |     | /novamode      |    | -   |     | -    |                  |       |   |   |   |   |
+ |     | Live Streaming        | -    |         |     | /livestream    |    | -   |     | -    |                  |       |   |   |   |   |
