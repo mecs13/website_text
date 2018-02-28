@@ -1,3 +1,6 @@
 * Features
+
 - Brand your own Virtual lobby 
 - Bring guests around the world in VR
+- Interact with old and new friends
+- 3D audio
