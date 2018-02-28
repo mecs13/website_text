@@ -1,6 +1,13 @@
 
+* Facematch 
+
+** Tagline 
+Ad Viewer Verification
+
+** Abstract
 Explicitly know when an ad-viewer visits your location
 
+** Intro
 The age-old challenge: how do you really know if your ad worked? Generally, you don’t. You have insights, clues, and stats but are missing a key metric: "viewer-visit verification."
 
 By analyzing Facebook user login info and profile photos, we'll create, encrypt, and database a library of photos, cross reference it against the photos taken of visitors when they arrive at customs, and produce a number that represents your ad's success rate. 
@@ -72,7 +79,6 @@ For the remained of this year we can review IT infrastructure  and ad buying dat
 *** Year 2
 
 During the first 16 weeks of 2018 we will develop Cayman's Face Matching software.  This includes a full specification, production and implementation.   A  May launch will conclude the work budgeted in this document. Future work will take place outside the scope of this proposal. You software will improve with data.
-
 
 				
 *** Year 3
