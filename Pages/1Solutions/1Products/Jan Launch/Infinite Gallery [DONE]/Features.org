@@ -1,0 +1,7 @@
+* Features
+
+- Content displayed on walls of virtual space
+- Advance through gallery at preferred pace
+- Upload existing images of your products 
+- Integrate existing images of your products into gallery
+- Unlimited quantity of content display 
