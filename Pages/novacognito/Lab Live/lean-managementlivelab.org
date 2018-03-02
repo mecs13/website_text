@@ -1,0 +1,23 @@
+I have to learn what it means to be /lean/.   It's on my TODOs.  So I bumped some music and sat at my word editer, writing this.
+
+
+/Lean/ gives start-ups a framework to innovate, sustain and become profitable.  Basically, produc development methodology - answering, /Can this product yeild a worthy return on investment?/
+
+The aim is to shorten the product deveopment cycle.  We accomplish this in /lean/ methodology by
+
+(1) Experimenting with a business-hypthesis focus. IE, experiment to learn about the prospective business models, financial strategies, and marketability of our product.
+
+(2) Iterative product releases, as in: make-test-and-adapt products quickly.  This prevents over-spending on non-commerically viable ideas, and missallocating resources on unachievable goals.
+
+(3) Vaidated learning - which is to measure the success against potential customers, with their feedback being the "validation" of what we learned.
+
+
+For a businessman, it appears /lean/ is a business-first approach to tech development.  For exmaple, of course yu start with a business hypthesis, and an understanding if their is money at the end of this road.  Why else get involved?  Iterative process to me is keeping a close eye on if your team is getting off track, and validated leaning is simply "testing the market".
+
+A build-measure-learn process will get us to our MVP (minimum viable product).  Along the way, keep asking questions.  Poke holes.  Insist on proof of information.  I prefer to favor an experienced persons' gut than a scientifically proven fact sheet, but this doesn't always work and forces you to be cautious with who you hire as your "experts".  Simply, ask "who", "why", "why", "when", "where" enough times until you can confidently pitch the idea to a buyer and not be left bullshiting on something you haven't thought of.
+
+This helps identify major changes to structure and/or direction.  At it's core, we are just testing the hypothesis.
+
+ The key to a /lean/ start up is managing innovtion without losing control.  Give the team freedom to experiment and develop new ideas, while keeping them on objective and out of rabbit holes.
+
+To summarize, /lean/ is to test a hypthesis and turn ideas into viable products.  You will receive your feedback on viabiity by testing the market.  You can keep one simple question top of mind.  Who makes money, when?
