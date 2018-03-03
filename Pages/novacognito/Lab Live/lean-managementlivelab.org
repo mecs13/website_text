@@ -12,9 +12,7 @@ The aim is to shorten the product development cycle. We accomplish this in /lean
 
 For a businessman, it appears /lean/ is a business-first approach to tech development. For example, of course you start with a business hypothesis and an understanding of whether there is money at the end of a particular road. Why else get involved? Iterative process to me is keeping a close eye on whether your team is getting off track. Validated learning is simply "testing the market.”
 
-A build-measure-learn process will get us to our MVP (minimum viable product). Along the way, keep asking questions. Poke holes. Insist on proof of information. I prefer to favor an experienced person’s gut over a scientifically proven fact sheet, but this doesn't always work, forcing caution in deeming "experts".  Simply, ask "who”, "what", "why", "when”, "where”, and “how” enough times until you’re able to confidently pitch your idea to a buyer. If you’ve done this, you’ll avoid one of the worst feelings in sales...bullshiting parts of a meeting because you’re unprepared and your ideas are not fully thought out. 
-
-This helps identify major changes to structure and/or direction. At the core we are just testing the hypothesis.
+A build-measure-learn process will get us to our MVP (minimum viable product). Along the way, keep asking questions. Poke holes. Insist on proof of information. I prefer to favor an experienced person’s gut over a scientifically proven fact sheet.  However, watch who you consider an "experts".  Ask "who”, "what", "why", "when”, "where”, and “how” enough times that you can pitch your idea to a scrutinizing buyer without having to bullshit.   
 
 The key to a /lean/ startup is managing innovation without losing control. Give the team freedom to experiment and develop new ideas, while keeping them on objective and out of rabbit holes.
 
