@@ -1,0 +1,65 @@
+* Header
+Program
+* Second
+Artificial Intelligence
+
+* Abstract
+
+Artificial Intelligence is intelligence demonstrated by a machine.   The branch of computer sciences that studies AI research studies and developes machines to perceive the environment and make adjustments to influence the likelihood of success at achieving goals.  Machines are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
+
+
+* Content
+
+Artificial Agents enhances VR through 
+- Personalization 
+- Generative design
+- Contextual awerness
+- Data indexing
+- character engines
+
+*** Personaliztion
+
+Personalization is when a coputer remembers your prefrences and autoatically loads them PLUS some other new ideas it predicts you will like.  This is done through probability models, also known as an /AI algorythm/ or some other hype name.
+
+In VR you are lead to experiences you are likely to enjoy.   Your space is tailored to you taste.  The way in which the world works is up to you, because of AI.  
+
+By delivering a highly personal experince, we increase game-play, engagement, and retention.  AI excellerates the rate of learning.   
+
+
+*** Generative design
+
+Generative design is creation by computer, based on data.  By feeding big data into an AI we can generate designs humans might not have thought of.   With proper programming, you can enlist the requirements for a airplane, request certain fuel intake and other variables, and receive a menu of physically possible desins.  
+
+In virtual reality, we generate worlds based on game-play and experiences.   Generative design is an up front cost that pays dividens long after it's investment has been returned.   There is no limit to how many world designs you generate, and the parameters are within you control. 
+
+
+*** Storefront navigation
+
+At the front of a store, or in a virtual world, you will ask an AI "butler" or "host" for information about the local area.  These bots will grow more and more expert in communicating with patrons and visitors.  Think about friendly chatbots on a website, but personified as a character.
+
+*** Contextual awerness
+
+*Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location.   If you press the blue dot (ask where you are) it compares this request to its knowledge of the map.  The computer has a small degree of contextual awerness.   
+
+In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play.  AI characters train through trial and error.  They record the context of the successes and failures and adjust to optimize likelihood for success.   
+
+
+*** Data indxing
+
+Artificial intelligent algorthms to better index user data.   If information is better categorized it will be better read and understood.  We'll comprehend larger and large sums of data, especially very intimate information VR can fascilitate, such as body movements and emotional states.  
+
+A semi-technical explanaition of the process is to track, collate, distill and visualize.
+
+By visualizng the data of VR players through   indexing you wholistically understand the user's experience. The AI creates visuals of comple data in 3D, so you can move around and scale the data in real-size.  This engagement significantl increases comprehension.  
+
+*** Character engines
+
+In Virtual Reality (XR) develops "character engines" into the experience.  These engine the characters behavior and desicion making.   By programming learning algorythms your characters can remember information about you, your game play, and whatever else we teach it to... within reason.  They can be your virtual friends.
+
+Intelligent characters make for better game play.  The user's experience is familiar and personalized.   When you allow visitors to customize their environment, feel ownership.  Intelligent characters increase experience affinity and replay-value.
+
+
+**** Programs of Interest
+
+- Live forever audio capture
+- Professional Services
