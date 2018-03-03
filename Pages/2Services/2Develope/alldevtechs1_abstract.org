@@ -160,17 +160,9 @@ do reallly big douments for arhcietuers
 
 ** Introduction
 
- VR we develope is *Programmable* enabling media to be *interactive*, commonly known as a "computer simulation".   Learning through interactive and simulated media improves mental constructs an cognitive tasks. (You learn better, namely by being able to better conceptualize, recall details, and apply judgement/reasoning.    
+ The VR we develope is *Programmable*  The virtual expereince can be manipulated through inputs, such as code, player interfacing or phsyiological behaviors.  
 
-![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Productio gs n/Develope/1Game Engine)
-  n
-
-- The visitor will have a *visceral* expereince, because game engines can create life-like simulations.
-i
-
-
-![Your Brain on VR] /Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine
-
+Virtual Reality is an *interactive* software simulation, with positional tracking and player input.  Find below some of the many disciplines that make XR (virtual reality).
 
 
 ** Game Engine
@@ -180,7 +172,6 @@ Game engines equip developers to custom design virtual environments, program pla
 
 Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces.   By developing with foresight producers save time and money.   
 
-The
 Game Engines enable comprehensive developmenwith all the features of the internet from collaboration to payment, in 3D.
 
 *** Program examples:

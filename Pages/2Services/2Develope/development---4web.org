@@ -1,5 +1,5 @@
 * Header
-
+Develop
 * Second
 - Program
 - Produce
@@ -7,14 +7,27 @@
 
 * Abstract
 
+ The VR we develope is *Programmable*  The virtual expereince can be manipulated through inputs, such as code, player interfacing or phsyiological behaviors.  
 
-VR we develope is *Programmable* enabling media to be *interactive*, commonly known as a "computer simulation".   Learning through interactive and simulated media improves mental constructs an cognitive tasks. (You learn better, namely by being able to better conceptualize, recall details, and apply judgement/reasoning.    
+Virtual Reality is an *interactive* software simulation, with positional tracking and player input.  Find below some of the many disciplines that make XR (virtual reality).
 
-![Dale's Cone of Learning] (/Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Productio gs n/Develope/1Game Engine)
-  n
+There are a variety of production techniques, tools and frameworks to make XR.   They are all synchronized in a software framework called a "game engine". 
 
-- The visitor will have a *visceral* expereince, because game engines can create life-like simulations.
-i
+A *game engine* is used to create interactive 3D media (XR).  We build XR in game engines.  They are a powerful visualization tool for developing all the features of the internet, from netowrked play to social sharing, and secure payments, into a single application.    
+ 
 
 
-![Your Brain on VR] /Users/joemecca/Documents/website-text-/Pages/1Solutions/2Services/2Production/Develope/1Game Engine
+* Content
+
+[GAME ENGINE GRAPHIC - DIAGRAM RAINBOW COLOR]
+
+Game engines equip developers to custom design virtual environments, program players, goals and rules as applications shared and experienced throgh personal computers, mobile dvices and gaming consules. Game engine framework's core functions are to render 3D graphics, engineer physics/collision (and response systems) manage memoreym shread, and graph scenes.   
+
+Nova economizes the process of virtual reality (XR) development by adapting game engine builds (software executable) to create new VR expereinces.   By developing with foresight producers save time and money.   
+
+Some Game Engines you may have heard of are:
+
+Unity, Unreal, Cryengine, GameMaker Studio, HTML5, Godot, OpenGL, Blender, Source, Lumberyard, Torque, Frostbite, Doom Engine, Havok, MonkeyEngine, Panda3D, PhyreEngine, Ren'Py, ORX, ORGE, HeroEngine,RenderWare,Freescape, LithTech, GoldBox
+
+They've all advantages and disadvantages, varying features, code , graphical interfaces and so on.   The best way to figure your favorite is to express what you want to accomplish and why - or first-hand experiment with all.
+
