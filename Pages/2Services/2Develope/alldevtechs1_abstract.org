@@ -269,6 +269,7 @@ The seven primary emotions monitored in traditional commercial software is happi
 
 
 ***** KK lab Live on biometric applications
+      SCHEDULED: <2018-03-16 Fri>
 - hwo do we use these physiological cues to improve expereinces
 - quantifiably, why does this information matter?
 
@@ -279,7 +280,7 @@ A "block"-"chain" is a distributed database (or ledger) that maintains a contin
 - Secure, private transactions
 - Microtransactions
 - Public, imutable record keeping
-- Democratized administrative control 
+- Democratized administrative controm 
 - General platform stability
 
 
@@ -289,6 +290,7 @@ Blockchain tech allows the users to exclusively own and control them content and
 
 
 ***** KK lab live blockchain and vr- very high level (elemenatary words and concepts) 
+      SCHEDULED: <2018-03-16 Fri>
 - highly technical
 - describe the tech archeteure in paragraph form on a VR on the block chain
 
@@ -299,11 +301,8 @@ The Internet of things (IoT) is the network of digitally conntected devices,such
 Simulations of physical tasks allow for us to practice, minimize risks and scale profit margins.   Imagine remotely controlling construction machinerary.  By being in the simulation, apprentices can train without the risk of hurting themselves.   Experts can control machines remotely, cutting down on transportation costs.   Through the VR simulation one can navigate the controls to operate an actual piece of machinerary just as effectively as if he were int he machine itself, but from the other side of the world.  This is the "internet of things", which will quickly evolving into the "Internet of Everything" (IoE) and then the "Internet of Humans" (IoH).
 
 
-***** JB internet of things graphics 
--- see example here; https://en.wikipedia.org/wiki/Internet_of_things#/media/File:Internet_of_Things.jpg
-
-
 ***** KK lab live on simulations connected to physical world shit
+      SCHEDULED: <2018-03-23 Fri>
 - focus on how simulations save time and money
 
 * Haptics
@@ -317,6 +316,7 @@ Virtual experiences that train seurgeons and athletes rely on haptic technology 
 
 
 ***** KK Lab Live on how haptics engage senses  
+      SCHEDULED: <2018-03-23 Fri>
 - and how those senses influence perception, desicion making, retention (learning)
 - write as if it is all currently happening, not as if it soon will
 - shout out companies doing awesome stuff

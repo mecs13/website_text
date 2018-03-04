@@ -1,0 +1,21 @@
+* HEader
+
+Develop
+
+* Second
+
+Biometrics
+
+* Abstract
+
+
+Biometrics refers to metrics related to human biological characteristics, including physiology nd neurology. In virtual reality biometrics are used to measure interest, entertainment and intent.   
+
+By monitoring physiological cues such as skin galvenization, eye dialation, heart and breathing rate, computers infer and escrapolate further details about the player and their experience.
+
+This enables us to remove the many errors and barriors that stand between user and feedback.By using bio-measurements we improve the storyline and pin point player's interest, displeasure, fatigue, excitement and much more.  
+
+The seven primary emotions monitored in traditional commercial software is happiness, sadness, anger, contempt, fear, disgust, and suprise.
+
+* Content
+

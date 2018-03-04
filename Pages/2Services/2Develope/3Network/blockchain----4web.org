@@ -1,0 +1,24 @@
+* Header
+
+Development
+
+* Second
+
+Blockchain/distributed ledgers
+
+* Abstract
+
+A "block"-"chain" is a distributed database (or ledger) that maintains a continuously growing list of ordered records.  Some major blockchain features include: 
+
+- Secure, private transactions
+- Microtransactions
+- Public, imutable record keeping
+- Democratized administrative controm 
+- General platform stability
+
+
+Features, such as "smart contracts" allow us to host concerts in VR with secure micro-transactions.  An inumeral amount of people can attend concerts and experiences live with musicians and artists.  On a blockchain, you can charge them based on network contribution.  
+
+Blockchain tech allows the users to exclusively own and control them content and platform the build.  
+
+

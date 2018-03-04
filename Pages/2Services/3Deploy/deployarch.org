@@ -1,0 +1,32 @@
+ b
+* Deploy
+
+
+** Test
+
+Alpha
+Beta
+Professional
+
+** Distrbute
+
+*** Audiences
+
+*** Publish
+app store
+web
+
+*** Advertise
+
+**** Paid
+
+
+**** Owned
+
+
+**** Earned
+
+** Review
+
+Surverying
+Biometrics
