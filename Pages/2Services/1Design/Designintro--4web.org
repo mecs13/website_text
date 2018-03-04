@@ -1,3 +1,73 @@
-* Design   
+* Header   
+Design
 
-Design is the intermediary between inforation and understanding. 
+* Second
+
+the intermediary between inforation and understanding
+
+* Abstract
+
+Design a strategy to have clear vision
+
+
+** KK Design abdtract text.  Please read the below for what you're introducing
+
+
+* Content 
+** Process 
+
+The pre-production process is the blueprint for development.  Clearly defining goals and success metrics shepards success.  Defining the objective and limitations focuses research and increases effeciency.   Prototypes will iterate faster and technical debt will be minimized.  Organization is the father of creativity. 
+
+*** Parameters
+Setting parameters lays a foundation to structures strategy.    Set a clear and simple objective.  Clarify deadlines, resources and performance metrics.  These parameters keep the vision clear, resources optimized and the team on task.  
+
+*** Research
+Research creates new knowledge.  We partner with academia by providing XR world designs, interfaces and stories to live out in their XR productions.   
+
+Seek. 
+  Find. 
+    Internalize. 
+           Surmize. 
+               Apply. 
+                 Refine.
+                  Innovate.
+
+
+
+** Strategy
+
+*** Budget   
+Budget can drive scope or scope cand drive budget.  It is far better have a small experience working smoothly than a big experience causing headaches.  You should budget for $50-$100 per hour of labor, high to low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here:  :F
+
+
+Hotels: Brown - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+Festival: Pepsi - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Music: Pandora - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Relocation: Dwellworks - Financial Strategy
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+*** Scalability
+According to the budget and the ambition of the project, we advise progressive development, starting with an MVP.  Defining the multi-year plan up front is necesarry to scaling at the lowest possible cost.   
+
+XR techologies are evolving at an exponential rate.  To scale efficiently plan, test and iterate with fluidity. 
+
+*** Communicate Athmosphere 
+The global feel is expressed in 3D renders, models, images, and spatial audio.  XR is a multi-senspry experience.  Immersion is earned through compelling visuals, inutive interfaces and 3D audio.  These create spatial cognition and a sense of "presence". 
+
+
+*** Comfort 
+Comfort is everything.   Presenting the player with an environment and an experience they want to return to is your number one objective as a designer.  The user experience is everything, and their comfort is in the developers' hands.   There is a strong psychlogical need for comfort, especially when travelling somewhere new. 
+
+ 
