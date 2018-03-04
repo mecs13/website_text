@@ -66,6 +66,7 @@ background
  |      | ------------------   | -    |         |     |                |    | -   | +   | -    |                     |                            |       |   |   |   |
  |      | *Industry soltions*  | -    | + + + - |     | /industrysol   |    | -   | +   | -    | -                   |                            |       |   |   |   |
  | 4I   | Relocation           | -    |         |     | /relocation    |    | -   | +   | -    | - fish bloomaway2   |                            |       |   |   |   |
+ |      | AR Beverage          | -    | + + + - |     |                |    |     |     |      |                     |                            |       |   |   |   |
  | 4I   | Automobile           | -    | + + + + |     | /automobile    |    | -   | +   | -    | - concept car       |                            |       |   |   |   |
  | 4I   | Architecture         | -    | +       |     | /architecture  |    | -   | +   | -    | - yu mall           |                            |       |   |   |   |
  | 4I   | Tourism              | -    | + - + - | +   | /Tourism       |    | -   | +   | -    | - statue of liberty |                            |       |   |   |   |
