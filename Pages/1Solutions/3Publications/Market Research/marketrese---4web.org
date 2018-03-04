@@ -1,0 +1,50 @@
+
+
+
+
+* header
+Marketing Research
+
+* Second
+
+Keep an eye on the past and the future
+
+* Abstract
+
+
+VR/AR are at a tipping point.  Over the next ten years VR and AR will become as common as desktop, tablet and mobile computing is today.   AR/VR is forecast to grow from $5.2 billion in 2016 to more than $162 [I read 20 billion by 2020 in Fobes] billion in 2020.  (IDC)
+
+Throughout history, new media-technology disruptions have lead to industry and economic growth.  We adopt these innovations at an accelerated rate.   See the “Ever Accelerating Adoption of Media” chart here. 
+
+Three factors will further accelerate today’s adoption of AR/VR.  
+The exponentially easier access to information, the internet 25 years evolved.    
+A blueprint of our current 2D computing evolution, industry and metaverse to guide geometric 3D
+
+An open-source mentality and more educated + diverse population than ever to contribute
+
+Other factors, such as crypto-banking, the internet of things/humans, and robots, and other exponential technologies, will have a great impact of markets.  We will be adequately adept to capitalize.
+
+
+* Content
+
+When you consider how technology evolves, and the “Ever Accelerating Adoption of Media” you realize how quickly these technologies will be the norm.  For example, television:  The boom of television, 10k users in 1945 to 6mm in 1950.  Or the personal computer.   At first computers were large in size and used scarcely.  After 1982, the PC became widely available to the everyday consumer. Today, an estimated 2 billion PCs are used daily.  Furthermore, here is a timeline we created of 2D Computing, as much of 3D is sure to be similar.
+
+**** During the 1990s 
+Different from he dot com and app boom, this next digital revolution is far more complex.  A middle man market will emerge to simplify technologies, source development and manage execution. 
+
+Selling online boomed with Amazon, Ebay and PayPal in the middle of the decade.  At the same time internet marketing was born, and about 500 million PCs shipped to connect more than 100 million people around the world.   
+
+Music and video made their way to the web with Napster and Netflix. It should be noted Napster's P2P protocol, which is still in use today, was villinized by Hollywood. Netflix began as a delivery service of videos, but overtook the biggest media distributors on earth in record time.   
+
+Publishing moved from /broadcast/ to /personal/.
+
+At the turn of the century Wifi, Bluetooth, Broadband, VoiP connected us further.  Wikipedia, and Tor appeared and more 400 million people were connected.  8.7 billion PCs shipped.   
+
+This, and other social conditions, gave rise to social media, as MySpace, CouchSurfing, Facebook, YouTube, Twitter and so on.   Then the smart phone came out, mobilizing people.  Wikileaks, SoundCloud, AirBnB, Uber, and smart phones let people share everything.   
+
+Publishing moved from /personal/ to /interactive/
+
+
+With the crash of the economy world wide, /Bitcoin/, Blockchains, and /Silk road/ entered the world wide internet and 80% of people all ages are on social media.   Social media became social business.  
+
+Publishing moved from /interactive/ to /network/
