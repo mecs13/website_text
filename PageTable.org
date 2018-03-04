@@ -83,7 +83,7 @@ background
  | 4I   | Space exploration    | -    | + + + - |     | /space         |    | -   | +   | -    | - rocket ship       |                            |       |   |   |   |
  | 4I   | Civil engineering    | -    | +       |     | /CE            |    | -   | +   | -    | - bridge            |                            |       |   |   |   |
  | 4I   | Design               | -    | +       |     | /design        |    | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | Surveillanc          | -    | +       |     | /Surverillanc  |    | -   | +   | -    | - camera in s       |                            |       |   |   |   |
+ |      | Surveillance         | -    | + + + - |     | /Surverillanc  |    | -   | +   | -    | - eye in sky        |                            |       |   |   |   |
  | 4I   | Retail               | -    | +       |     | /retail        |    | -   | +   | -    | - grab from s       |                            |       |   |   |   |
  | 4I   | Telecommunications   | -    | +       |     | /telecomm      |    | -   | +   | -    | -  devices cn       |                            |       |   |   |   |
  | 4I   | Performing arts      | -    | +       |     | /performing a  |    | -   | +   | -    | - theater act       |                            |       |   |   |   |
