@@ -1,0 +1,13 @@
+* Header:
+Automobile
+
+* Tagline
+
+/Auto's xr revolution/
+
+* Abstract:  
+Virtual Reality addresses two of the greatest challenges in automotive sales. Through holiday sales, updated  features, and new off-roading capabilities, we’ve watched for years as the automotive industry has worked to attract buyers to the showroom. While there will never be a replacement for getting a qualified buyer’s hands on the wheel and feet on the pedals, Virtual Reality brings a three dimensional automotive experience to the buyer’s home. 
+
+* Content: 
+First we capture dozens of photos from various angles of both the interior and exterior of the car. Then, by splicing these images together through an image-creation technology known as photogrammetry and installing them into Unity (the VR game engine), we enable the user to put on the VR headset and look at the vehicle as though it were parked right there in their living room. The user can walk around the car, seeing the front, back open the trunk, and lift the hood to examine the engine in Virtual Reality. Once they’ve understood the experior of the vehicle, they’ll be able to open the driver-side door and sit behind the wheel, adjust the seat, and turn around and peer through the back windshield. Once they turn the key to start the engine, they’ll cap off this real-life simulation by going for a test ride through the streets of any city or town they chose. 
+
