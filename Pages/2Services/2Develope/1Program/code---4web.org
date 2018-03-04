@@ -4,6 +4,8 @@ Program
 code
 * Abstract
 
+/coming soon/
+
 C++, C#, js, python
 
 game engine
@@ -18,5 +20,4 @@ lisp
 
 spatial OS
 
-* Content
 

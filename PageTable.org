@@ -17,246 +17,248 @@ PDF?
 image
 background
 
- | ..   | page title           | Blog | Text    | SEO | Short URL      | wf   | PDF | t-d | pp?  | Background          | image                      | picto |   |   |   |
- |      | =  =  =  =  =  =     | styl | H S A C |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- | ~0   | Home                 | -    | - + - + | +   |                |      | -   | +   | -    | + polar pink        |                            |       |   |   |   |
- | ~1   | legal                | -    | + - - + | +   | /legal         |      | +   | +   | -    | + sofa              |                            |       |   |   |   |
- | ~1   | contact              | +    | + + + - | +   | /contact       |      | -   | +   | -    | + chairs            |                            |       |   |   |   |
- | ~1   | Build xr             | -    | + + + - | +   | /buildxr       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | ~1   | Login                | -    | - - + - | +   | /login         |      | -   | +   | -    | + woman             |                            |       |   |   |   |
- | #    | = Solutions = = = =  | -    | + + + - | +   | /solutions     |      | -   | +   | -    | + Polar Green       |                            |       |   |   |   |
- |      | Products             | +    | + + + - | ==  | ===            | ==   | ==  | === | ==   | + Inside Torus      |                            |       |   |   |   |
- |      | Consultation         |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- |      | Publications         |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- | ==   | ====PRODCUTS======   | +    | + + + - | ==  | ===            | ==   | ==  | === | ==   | + Inside Torus      |                            |       |   |   |   |
- | 3P   | 1. architect         | -    | +       | +   | /arch          |      |     | +   | -    | + bus stop          |                            |       |   |   |   |
- | 3p   | 2. color             | -    |         | +   | /color         |      | -   | +   | -    | + ball + chair      |                            |       |   |   |   |
- | 3P   | 3. music             | -    |         | +   | /music         |      | -   | +   | -    | + viz sound         |                            |       |   |   |   |
- | 3P   | 4. bloomaway         | -    |         | +   | /bloomaway     |      | -   | +   | -    | + in clouds         |                            |       |   |   |   |
- | 3P   | 5. infinite          | -    |         | +   | /infinite      |      | -   | +   | -    | + hallway           |                            |       |   |   |   |
- | 3P   | 6. facematch         | -    |         | +   | /facematch     |      | -   | +   | +    | + face              |                            |       |   |   |   |
- | 3P   | 7. live stream       | -    |         | +   | /livestream    |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 8. nye               | -    |         | +   | /nye           |      | -   | +   | +    | + balloons          |                            |       |   |   |   |
- | 3P   | 9. live forever      | -    |         | +   | /liveforever   |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 10. enterprise b2b   | -    |         | +   | /b2b           |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 11. exhibit          | -    |         | +   | /exhibit       |      | -   | +   | -    | + underwater tank   |                            |       |   |   |   |
- | 3P   | 12. festival         | -    |         | +   | /Festival      |      | -   | +   | -    | + ??                |                            |       |   |   |   |
- | 3P   | 13. wellness         | -    |         |     | /wellness      |      | -   | +   | -    | + tree              |                            |       |   |   |   |
- | 3P   | 14. 3d brand design  | -    |         |     | /3dbranddesgi  |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 15. anon on blockcha | -    |         | +   | /anon          |      | -   | +   | +    | + Eye               |                            |       |   |   |   |
- | 3P   | 16. ar branding      | -    |         |     | /arbranding    |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 17. ar reatil        | -    |         |     | /retatil       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 18. ar event         | -    |         |     | /arevent       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- | 3P   | 19. fifa             | -    |         |     | /fifa          |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 20. foodman          | -    |         |     | /food          |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 21. health care      | -    |         | +   | /healthcare    |      | -   | +   | -    | - ar health care    |                            |       |   |   |   |
- |      | 22. hotels           | -    |         |     | /hotels        |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 23. in vr            | -    |         |     | /invr          |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 24. sports           | -    |         |     | /sports        |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 25. token sale       | -    |         |     | /tokensale     |      | -   | +   | -    | - crpyt coins       |                            |       |   |   |   |
- |      | 26. encyclopedia     | -    |         |     | /encylopedia   |      | -   | +   | -    | -  info in torus    |                            |       |   |   |   |
- |      | 27. xr-first website | -    |         |     | /xrfirst       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 28. emacs GUI        | -    |         |     | /emacs GUI     |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 29. torus            | -    |         |     | /torus         |      | -   | +   | +    | -                   |                            |       |   |   |   |
- |      | 30. existing int he  | -    |         |     | /existinginwo  |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 31. bioler room      | -    |         |     | /boilerroom    |      | -   | +   | -    | + music viz         |                            |       |   |   |   |
- |      | 32. Catalog          | -    |         |     | /catalog       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 33. city dev         | -    |         |     | /citydev       |      | -   | +   | -    | - city              |                            |       |   |   |   |
- |      | 34. coaches          | -    |         |     | /coaches       |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | 35. token sale       | -    |         |     | /tokensale     |      | -   | +   | -    | - crypto cpoins     |                            |       |   |   |   |
- |      | 36. scavenger hunt   | -    |         |     | /scavengerhun  |      | -   | +   | -    | - ar searching land |                            |       |   |   |   |
- | ==== | == CONSULTATION=     | +    | + + + + | +   | /consultation  |      | -   | +   | -    | + polar green       |                            |       |   |   |   |
- |      | *Industry Insights*  | -    | + + + - |     | /industrysol   |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | ** Vertical **       |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- | 4I   | Relocation           | -    |         |     | /relocation    |      | -   | +   | -    | - fish bloomaway2   |                            |       |   |   | i |
- |      | AR Beverage          | -    | + + + - |     |                |      |     |     |      |                     |                            |       |   |   |   |
- | 4I   | Automobile           | -    | + + + + |     | /automobile    |      | -   | +   | -    | - concept car       |                            |       |   |   |   |
- | 4I   | Architecture         | -    | +       |     | /architecture  |      | -   | +   | -    | - yu mall           |                            |       |   |   |   |
- | 4I   | Tourism              | -    | + - + - | +   | /Tourism       |      | -   | +   | -    | - statue of liberty |                            |       |   |   |   |
- | 4I   | Health care          | -    | +       |     | /healthcare    |      | -   | +   | -    | - ar healthare      |                            |       |   |   |   |
- | 4I   | Education            | -    | +       |     | /education     |      | -   | +   | -    | - greekphilosopher  |                            |       |   |   |   |
- | 4I   | Transportation       | -    | +       |     | /transportati  |      | -   | +   | -    | - traffic highway   |                            |       |   |   |   |
- | 4I   | Cinematography       | -    | +       |     | /cinematograp  |      | -   | +   | -    | - movie reel        |                            |       |   |   |   |
- | 4I   | Gaming               | -    | +       |     | /gaming        |      | -   | +   | -    | - vr haptic s       |                            |       |   |   |   |
- | 4I   | Entertainent         | -    | +       |     | /entertainmen  |      | -   | +   | -    | - concert           |                            |       |   |   |   |
- | 4I   | Prof servic          | -    | +       |     | /profserv      |      | -   | +   | -    | - suit/tie          |                            |       |   |   |   |
- | 4I   | Art                  | -    | +       |     | /art           |      | -   | +   | -    | - canvas            |                            |       |   |   |   |
- | 4I   | Sports               | -    | +       |     | /sports        |      | -   | +   | -    | - athlete sha       |                            |       |   |   |   |
- | 4I   | Broadcasting         | -    | +       |     | /broadcasting  |      | -   | +   | -    | - mic + tower       |                            |       |   |   |   |
- | 4I   | Space exploration    | -    | + + + - |     | /space         |      | -   | +   | -    | - rocket ship       |                            |       |   |   |   |
- | 4I   | Civil engineering    | -    | +       |     | /CE            |      | -   | +   | -    | - bridge            |                            |       |   |   |   |
- | 4I   | Design               | -    | +       |     | /design        |      | -   | +   | -    | -                   |                            |       |   |   |   |
- |      | Surveillance         | -    | + + + - |     | /Surverillanc  |      | -   | +   | -    | - eye in sky        |                            |       |   |   |   |
- | 4I   | Retail               | -    | +       |     | /retail        |      | -   | +   | -    | - grab from s       |                            |       |   |   |   |
- | 4I   | Telecommunications   | -    | +       |     | /telecomm      |      | -   | +   | -    | -  devices cn       |                            |       |   |   |   |
- | 4I   | Performing arts      | -    | +       |     | /performing a  |      | -   | +   | -    | - theater act       |                            |       |   |   |   |
- |      | ----------------     | -    | ==      | ==  | ==========     | ==   | -   | === | ==== | == =========        |                            |       |   |   |   |
- | 3C   | *X industry*         | -    | +       |     | /xindustry     |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- | 4X   | World peace          | -    | + + + - |     | /worldpeace    |      | -   | +   | -    | - dove              |                            |       |   |   |   |
- | 4X   | Marketing            | -    | +       |     | /marketing     |      | -   | +   | -    | - charts + medi     |                            |       |   |   |   |
- | 4X   | Fund raising         | -    | +       |     | /fundraising   |      | -   | +   | -    | - chart ->goal      |                            |       |   |   |   |
- | 4X   | Selling              | -    | +       |     | /selling       |      | -   | +   | -    | - transaction       |                            |       |   |   |   |
- | 4X   | On-boarding          | -    | +       |     | /on-boarding   |      | -   | +   | -    | - welcoming         |                            |       |   |   |   |
- | 4X   | Coaching             | -    | +       |     | /coaching      |      | -   | +   | -    | - trainer           |                            |       |   |   |   |
- | 4x   | Social media         | -    | +       |     | /socialmedia   |      | -   | +   | -    | - iconsocial me     |                            |       |   |   |   |
- | 4X   | Collaboration        | -    | +       |     | /collaboratio  |      | -   | +   | -    | - remote coop       |                            |       |   |   |   |
- | 4X   | PR stunting          | -    | +       |     | /PR-stunting   |      | -   | +   | -    | - garnering att     |                            |       |   |   |   |
- | 4X   | Education            | -    | + + + + |     | /education     |      | -   | +   | -    | - books on shel     | dales cone, brain on vr    |       |   |   |   |
- |      | ---------------      | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | == =========        |                            |       |   |   |   |
- | 3C   | *Learning lab*       | +    | +       |     |                |      | -   | +   | -    | vr wood guy         |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- | 4L   | Thrue basics         | +    | + + + - | +   | /thebasics     |      | -   | +   | -    | childrens blocks    |                            |       |   |   |   |
- |      | AR vs VR             | -    | + + + + | +   | /vrvsvr        |      |     | +   |      | ven diagram         |                            |       |   |   |   |
- | 4L   | Resource Center      | -    |         |     | /resourcecent  |      | -   | +   | +    |                     |                            |       |   |   |   |
- | 4L   | Training             | -    | + - + - | +   | /training      |      | -   | +   | -    |                     |                            |       |   |   |   |
- | 4L   | Strategy             | -    | + + + - | +   | /strategy      |      | -   | +   | +    |                     |                            |       |   |   |   |
- | 4L   | Production           | -    |         | +   | /production    |      | -   | +   | -    |                     |                            |       |   |   |   |
- | 4L   | Installation         | -    | + - + - |     | /installation  |      | -   | +   | -    |                     |                            |       |   |   |   |
- | ==   | ===PUBLICATIONS====  | -    | + + + - | ==  | ==========     | ==   | -   | ==  | ==== | mobius              |                            |       |   |   |   |
- |      | -----------------    | -    | ======= |     | ==========     | ==   | ==  | ==  | ===  | ===                 |                            |       |   |   |   |
- | 4L   | *Financial Strats*   | +    | + + + - |     | /financialstr  |      | -   | +   | +    |                     |                            |       |   |   |   |
- |      | ------------------   | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | ===                 |                            |       |   |   |   |
- | 4L   | *Interface Design*   | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | ----------------     | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | ===                 |                            |       |   |   |   |
- |      | *Market Research*    | -    | + + + + |     |                |      | -   | +   | +    |                     | adopt chart, headset sales |       |   |   |   |
- | #    | = SERVICES  ==       | -    | + + - - |     | /services      |      | -   | +   |      |                     |                            |       |   |   |   |
- | 2S   | Design               | +    | + + + + | +   | /products      |      | -   | +   | -    |                     |                            |       |   |   |   |
- | 2S   | Develop              | +    | + + + + | +   | /develop       |      | -   | +   | -    |                     | game engine diag, ge TA    |       |   |   |   |
- | 2S   | Deploy               | +    |         | +   | /deploy        |      | -   | +   | -    | rocket launch       |                            |       |   |   |   |
- | ==   | =========DESIGN====  | ===  | =====   | ==  | ==========     | ==   | ==  | ==  | -    |                     |                            |       |   |   |   |
- | :::  | *Story*              | -    | + + - - | +   | /story         |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | *World*              | -    |         | +   | /world         |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | *Interface*          | -    |         | +   | /interface     |      | -   | +   | -    |                     |                            | o     |   |   |   |
- |      | *Sketch*             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | *Storyboard *        |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | *Script*             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | *Model*              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- | ==   | ==========DEVELOP=== | -    | + + +   | ==  | ==========     | ==   | -   | ==  | -    |                     |                            |       |   |   |   |
- |      | ------------------   |      |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | *Program*            | +    |         | +   | /program       |      | -   | +   | -    | - wave of dots      | Game Engine                |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Web XR               | -    |         |     | /webxr         |      | -   | +   | -    | - beakers with code |                            |       |   |   |   |
- |      | Physics engine       | -    |         |     | /physicsengine |      |     | +   |      | - steve eatin chps  |                            |       |   |   |   |
- |      | AI                   | -    | + + + + | +   | /ai            |      | -   | +   | -    | - robot             |                            |       |   |   |   |
- |      | Spatial os           | -    |         |     | /spatialos     |      | -   | +   | -    | - room scale vr     |                            |       |   |   |   |
- |      | -------------        | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | *Produce*            | -    |         |     | /produce       |      | -   | +   | -    | - wave of abstract  |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Live Stream          | -    |         | +   | /livestram     |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | 3D audio             | -    |         | +   | /3daudio       |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Haptics              | -    |         |     | /haptics       |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Volumetric           | -    |         |     | /columetric    |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Photogrammetry       | -    |         |     | /photogrammet  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | 360 video            | -    |         | +   | /360video      |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Robotics             | -    |         |     | /robotics      |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Holograms            | -    |         |     | /holograms     |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | FSM                  | -    |         |     | /fsm           |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Projection Mapping   | -    |         |     | /projectionma  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Optical Tracing      | -    |         |     | /opticaltrack  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Motion Capture       | -    |         |     | /motioncaptur  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Emotion Recognition  | -    |         |     | /emotionrecog  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Microarchitectures   | -    |         |     | /microarchite  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Biometrics           |      | + + + - |     | /biometrics    |      |     | +   |      |                     |                            |       |   |   |   |
- |      | -----------------    | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | *Netowrk*            | -    |         |     | /Network       |      | -   | +   | -    | wave of humminbirds |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Live Stream          | -    |         | *   | /livestream    |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Cloud Computing      | -    |         | *   | /cloudcomputi  |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Blockchain           | -    | + + + - | *   | /blockchain    |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | P2P                  | -    |         |     | /p2p           |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | IoT                  | -    | + + + - |     | /iot           |      | -   | +   |      |                     |                            |       |   |   |   |
- | ==   | ======DEPLOY=        | +    |         | ==  | ==========     | ==   | -   | ==  | -    |                     |                            |       |   |   |   |
- |      | Testing              | -    |         |     | /testing       |      | --  | +   | -    |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Distribution         | -    |         |     | /distribution  |      |     | +   | -    | buffet of media     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Promotion            | -    |         |     | /promotion     |      | -   | +   | -    | mega phone          |                            |       |   |   |   |
- |      | Publishing           | -    |         |     | /publishing    |      | -   | +   | -    | printing press      |                            |       |   |   |   |
- |      | Activation           | -    |         |     | /activation    |      | -   | +   | -    |                     |                            |       |   |   |   |
- |      | Audiences            | -    |         |     | /audiences     |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Advertise            | -    |         |     | /productions   |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Review               |      |         |     |                |      | \   |     |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- | #    | =  NOVA XR     = = = |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Who We Are           |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- |      | Partnerships         |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- |      | Find Us              |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
- | ==   | =WHO WE ARE=         | -    |         | ==  | /whoweare      | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | About Us *           |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Lab Live   *         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Remote OS            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Father of VR         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Gitblog              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Community *          | -    | +       | ==  | ==========     | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | Philanthr            | -    | +       |     | /Novacain      |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Philosophy           | -    | +       |     | /philosophy    |      | -   | +   |      | rocks               |                            |       |   |   |   |
- |      | Shouts               | -    | +       |     | /shouts        |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Rent room            | -    | +       |     | /rentroom      |      | -   | +   |      |                     |                            |       |   |   |   |
- | 1    | Photoshoot           | -    | +       |     | /photoshoot    |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Member               | -    | +       |     | /membership    |      | -   | +   |      | safe                |                            |       |   |   |   |
- | ==   | ===PARTNERSHIP       | -    | +       | ==  | ==========     | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | *Productions*        |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | --------------       | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
- |      | ** Past **           |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Hard Rock            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Taiwa                |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Australia            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Kelly                |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Live Nation          |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Italian Trade Agency |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Go Ahead Tours       |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Hawian Airlines      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Cayman Islands       |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ** Current **        |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Con Body             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | NYE                  |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Ethiopia             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Paris                |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | July 4th BBQ         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ** Future **         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ------------------   |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- | 4    | NYE                  | -    | +       |     | /nye2019       |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | mardi gras           | -    | +       |     | /mardigras     |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | 4th july             | -    | +       |     | /4thjuly       |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | holi                 | -    | +       |     | /holi          |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | san fermin           | -    | +       |     | /san-fermin    |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | oktober fest         | -    | +       |     | /oktoberfest   |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | songkran             | -    | +       |     | /songkran      |      | -   | +   |      |                     |                            |       |   |   |   |
- | 4    | full moon            | -    | +       |     | /fullmoon      |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | *Partners*           |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Studios and Labs     | --   | + + + - | +   |                |      | -   | +   |      |                     |                            |       |   |   | ` |
- |      | Investor             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Studios              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Producer             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | * Career *           |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | ----------------     |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
- |      | Sponsor              | -    | +       |     | /sponsor       |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Investor             | -    | +       |     | /investor      |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Developer            | --   | +       |     | /developer     |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Producer             | -    | +       |     | /producer      |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Designer             | -    | +       |     | /designer      |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Apprentice           | -    | +       |     | /apprentice    |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Freelance            | -    | + + + - |     | /freelance     |      | -   | +   |      |                     |                            |       |   |   |   |
- |      | Volunteer            | -    | + + + - | +   | /volunteer     |      | -   | +   |      | people helping      |                            |       |   |   |   |
- | ==   | =Find Us=            | -    | + + - - |     | /findus        |      | -   | +   |      |                     |                            |       |   |   |   |
+ | ..   | page title            | Blog | Text    | SEO | Short URL      | wf   | PDF | t-d | pp?  | Background          | image                      | picto |   |   |   |
+ |      | =  =  =  =  =  =      | styl | H S A C |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ | ~0   | Home                  | -    | - + - + | +   |                |      | -   | +   | -    | + polar pink        |                            |       |   |   |   |
+ | ~1   | legal                 | -    | + - - + | +   | /legal         |      | +   | +   | -    | + sofa              |                            |       |   |   |   |
+ | ~1   | contact               | +    | + + + - | +   | /contact       |      | -   | +   | -    | + chairs            |                            |       |   |   |   |
+ | ~1   | Build xr              | -    | + + + - | +   | /buildxr       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | ~1   | Login                 | -    | - - + - | +   | /login         |      | -   | +   | -    | + woman             |                            |       |   |   |   |
+ | #    | = Solutions = = = =   | -    | + + + - | +   | /solutions     |      | -   | +   | -    | + Polar Green       |                            |       |   |   |   |
+ |      | Products              | +    | + + + - | ==  | ===            | ==   | ==  | === | ==   | + Inside Torus      |                            |       |   |   |   |
+ |      | Consultation          |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ |      | Publications          |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ | ==   | ====PRODCUTS======    | +    | + + + - | ==  | ===            | ==   | ==  | === | ==   | + Inside Torus      |                            |       |   |   |   |
+ | 3P   | 1. architect          | -    | +       | +   | /arch          |      |     | +   | -    | + bus stop          |                            |       |   |   |   |
+ | 3p   | 2. color              | -    |         | +   | /color         |      | -   | +   | -    | + ball + chair      |                            |       |   |   |   |
+ | 3P   | 3. music              | -    |         | +   | /music         |      | -   | +   | -    | + viz sound         |                            |       |   |   |   |
+ | 3P   | 4. bloomaway          | -    |         | +   | /bloomaway     |      | -   | +   | -    | + in clouds         |                            |       |   |   |   |
+ | 3P   | 5. infinite           | -    |         | +   | /infinite      |      | -   | +   | -    | + hallway           |                            |       |   |   |   |
+ | 3P   | 6. facematch          | -    |         | +   | /facematch     |      | -   | +   | +    | + face              |                            |       |   |   |   |
+ | 3P   | 7. live stream        | -    |         | +   | /livestream    |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 8. nye                | -    |         | +   | /nye           |      | -   | +   | +    | + balloons          |                            |       |   |   |   |
+ | 3P   | 9. live forever       | -    |         | +   | /liveforever   |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 10. enterprise b2b    | -    |         | +   | /b2b           |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 11. exhibit           | -    |         | +   | /exhibit       |      | -   | +   | -    | + underwater tank   |                            |       |   |   |   |
+ | 3P   | 12. festival          | -    |         | +   | /Festival      |      | -   | +   | -    | + ??                |                            |       |   |   |   |
+ | 3P   | 13. wellness          | -    |         |     | /wellness      |      | -   | +   | -    | + tree              |                            |       |   |   |   |
+ | 3P   | 14. 3d brand design   | -    |         |     | /3dbranddesgi  |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 15. anon on blockcha  | -    |         | +   | /anon          |      | -   | +   | +    | + Eye               |                            |       |   |   |   |
+ | 3P   | 16. ar branding       | -    |         |     | /arbranding    |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 17. ar reatil         | -    |         |     | /retatil       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 18. ar event          | -    |         |     | /arevent       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ | 3P   | 19. fifa              | -    |         |     | /fifa          |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 20. foodman           | -    |         |     | /food          |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 21. health care       | -    |         | +   | /healthcare    |      | -   | +   | -    | - ar health care    |                            |       |   |   |   |
+ |      | 22. hotels            | -    |         |     | /hotels        |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 23. in vr             | -    |         |     | /invr          |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 24. sports            | -    |         |     | /sports        |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 25. token sale        | -    |         |     | /tokensale     |      | -   | +   | -    | - crpyt coins       |                            |       |   |   |   |
+ |      | 26. encyclopedia      | -    |         |     | /encylopedia   |      | -   | +   | -    | -  info in torus    |                            |       |   |   |   |
+ |      | 27. xr-first website  | -    |         |     | /xrfirst       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 28. emacs GUI         | -    |         |     | /emacs GUI     |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 29. torus             | -    |         |     | /torus         |      | -   | +   | +    | -                   |                            |       |   |   |   |
+ |      | 30. existing int he   | -    |         |     | /existinginwo  |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 31. bioler room       | -    |         |     | /boilerroom    |      | -   | +   | -    | + music viz         |                            |       |   |   |   |
+ |      | 32. Catalog           | -    |         |     | /catalog       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 33. city dev          | -    |         |     | /citydev       |      | -   | +   | -    | - city              |                            |       |   |   |   |
+ |      | 34. coaches           | -    |         |     | /coaches       |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | 35. token sale        | -    |         |     | /tokensale     |      | -   | +   | -    | - crypto cpoins     |                            |       |   |   |   |
+ |      | 36. scavenger hunt    | -    |         |     | /scavengerhun  |      | -   | +   | -    | - ar searching land |                            |       |   |   |   |
+ | ==== | == CONSULTATION=      | +    | + + + + | +   | /consultation  |      | -   | +   | -    | + polar green       |                            |       |   |   |   |
+ |      | *Industry Insights*   | -    | + + + - |     | /industrysol   |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | ** Vertical **        |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ | 4I   | Relocation            | -    |         |     | /relocation    |      | -   | +   | -    | - fish bloomaway2   |                            |       |   |   | i |
+ |      | AR Beverage           | -    | + + + - |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ | 4I   | Automobile            | -    | + + + + |     | /automobile    |      | -   | +   | -    | - concept car       |                            |       |   |   |   |
+ | 4I   | Architecture          | -    | +       |     | /architecture  |      | -   | +   | -    | - yu mall           |                            |       |   |   |   |
+ | 4I   | Tourism               | -    | + - + - | +   | /Tourism       |      | -   | +   | -    | - statue of liberty |                            |       |   |   |   |
+ | 4I   | Health care           | -    | +       |     | /healthcare    |      | -   | +   | -    | - ar healthare      |                            |       |   |   |   |
+ | 4I   | Education             | -    | +       |     | /education     |      | -   | +   | -    | - greekphilosopher  |                            |       |   |   |   |
+ | 4I   | Transportation        | -    | +       |     | /transportati  |      | -   | +   | -    | - traffic highway   |                            |       |   |   |   |
+ | 4I   | Cinematography        | -    | +       |     | /cinematograp  |      | -   | +   | -    | - movie reel        |                            |       |   |   |   |
+ | 4I   | Gaming                | -    | +       |     | /gaming        |      | -   | +   | -    | - vr haptic s       |                            |       |   |   |   |
+ | 4I   | Entertainent          | -    | +       |     | /entertainmen  |      | -   | +   | -    | - concert           |                            |       |   |   |   |
+ | 4I   | Prof servic           | -    | +       |     | /profserv      |      | -   | +   | -    | - suit/tie          |                            |       |   |   |   |
+ | 4I   | Art                   | -    | +       |     | /art           |      | -   | +   | -    | - canvas            |                            |       |   |   |   |
+ | 4I   | Sports                | -    | +       |     | /sports        |      | -   | +   | -    | - athlete sha       |                            |       |   |   |   |
+ | 4I   | Broadcasting          | -    | +       |     | /broadcasting  |      | -   | +   | -    | - mic + tower       |                            |       |   |   |   |
+ | 4I   | Space exploration     | -    | + + + - |     | /space         |      | -   | +   | -    | - rocket ship       |                            |       |   |   |   |
+ | 4I   | Civil engineering     | -    | +       |     | /CE            |      | -   | +   | -    | - bridge            |                            |       |   |   |   |
+ | 4I   | Design                | -    | +       |     | /design        |      | -   | +   | -    | -                   |                            |       |   |   |   |
+ |      | Surveillance          | -    | + + + - |     | /Surverillanc  |      | -   | +   | -    | - eye in sky        |                            |       |   |   |   |
+ | 4I   | Retail                | -    | +       |     | /retail        |      | -   | +   | -    | - grab from s       |                            |       |   |   |   |
+ | 4I   | Telecommunications    | -    | +       |     | /telecomm      |      | -   | +   | -    | -  devices cn       |                            |       |   |   |   |
+ | 4I   | Performing arts       | -    | +       |     | /performing a  |      | -   | +   | -    | - theater act       |                            |       |   |   |   |
+ |      | ----------------      | -    | ==      | ==  | ==========     | ==   | -   | === | ==== | == =========        |                            |       |   |   |   |
+ | 3C   | *X industry*          | -    | +       |     | /xindustry     |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ | 4X   | World peace           | -    | + + + - |     | /worldpeace    |      | -   | +   | -    | - dove              |                            |       |   |   |   |
+ | 4X   | Marketing             | -    | + + + - |     | /marketing     |      | -   | +   | -    | - charts + medi     |                            |       |   |   |   |
+ | 4X   | Fund raising          | -    | +       |     | /fundraising   |      | -   | +   | -    | - chart ->goal      |                            |       |   |   |   |
+ | 4X   | Selling               | -    | +       |     | /selling       |      | -   | +   | -    | - transaction       |                            |       |   |   |   |
+ | 4X   | On-boarding           | -    | +       |     | /on-boarding   |      | -   | +   | -    | - welcoming         |                            |       |   |   |   |
+ | 4X   | Coaching              | -    | +       |     | /coaching      |      | -   | +   | -    | - trainer           |                            |       |   |   |   |
+ | 4x   | Social media          | -    | +       |     | /socialmedia   |      | -   | +   | -    | - iconsocial me     |                            |       |   |   |   |
+ | 4X   | Collaboration         | -    | +       |     | /collaboratio  |      | -   | +   | -    | - remote coop       |                            |       |   |   |   |
+ | 4X   | PR stunting           | -    | +       |     | /PR-stunting   |      | -   | +   | -    | - garnering att     |                            |       |   |   |   |
+ | 4X   | Education             | -    | + + + + |     | /education     |      | -   | +   | -    | - books on shel     | dales cone, brain on vr    |       |   |   |   |
+ |      | ---------------       | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | == =========        |                            |       |   |   |   |
+ | 3C   | *Learning lab*        | +    | +       |     |                |      | -   | +   | -    | vr wood guy         |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ | 4L   | Thrue basics          | +    | + + + - | +   | /thebasics     |      | -   | +   | -    | childrens blocks    |                            |       |   |   |   |
+ |      | AR vs VR              | -    | + + + + | +   | /vrvsvr        |      |     | +   |      | ven diagram         |                            |       |   |   |   |
+ | 4L   | Resource Center       | -    |         |     | /resourcecent  |      | -   | +   | +    |                     |                            |       |   |   |   |
+ | 4L   | Training              | -    | + - + - | +   | /training      |      | -   | +   | -    |                     |                            |       |   |   |   |
+ | 4L   | Strategy              | -    | + + + - | +   | /strategy      |      | -   | +   | +    |                     |                            |       |   |   |   |
+ | 4L   | Production            | -    |         | +   | /production    |      | -   | +   | -    |                     |                            |       |   |   |   |
+ | 4L   | Installation          | -    | + - + - |     | /installation  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ | ==   | ===PUBLICATIONS====   | -    | + + + - | ==  | ==========     | ==   | -   | ==  | ==== | mobius              |                            |       |   |   |   |
+ |      | -----------------     | -    | ======= |     | ==========     | ==   | ==  | ==  | ===  | ===                 |                            |       |   |   |   |
+ | 4L   | *Financial Strats*    | +    | + + + - |     | /financialstr  |      | -   | +   | +    |                     |                            |       |   |   |   |
+ |      | ------------------    | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | ===                 |                            |       |   |   |   |
+ | 4L   | *Interface Design*    | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | ----------------      | -    | ==      | ==  | ==========     | ==   | -   | ==  | ==   | ===                 |                            |       |   |   |   |
+ |      | *Market Research*     | -    | + + + + |     |                |      | -   | +   | +    |                     | adopt chart, headset sales |       |   |   |   |
+ | #    | = SERVICES  ==        | -    | + + - - |     | /services      |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 2S   | Design                | +    | + + + + | +   | /products      |      | -   | +   | -    |                     |                            |       |   |   |   |
+ | 2S   | Develop               | +    | + + + + | +   | /develop       |      | -   | +   | -    |                     | game engine diag, ge TA    |       |   |   |   |
+ | 2S   | Deploy                | +    | + + + - | +   | /deploy        |      | -   | +   | -    | rocket launch       |                            |       |   |   |   |
+ | ==   | =========DESIGN====   | ===  | =====   | ==  | ==========     | ==   | ==  | ==  | -    |                     |                            |       |   |   |   |
+ | :::  | *Story*               | -    | + + - - | +   | /story         |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | *World*               | -    |         | +   | /world         |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | *Interface*           | -    |         | +   | /interface     |      | -   | +   | -    |                     |                            | o     |   |   |   |
+ |      | *Sketch*              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | *Storyboard *         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | *Script*              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | *Model*               |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ | ==   | ==========DEVELOP===  | -    | + + + - | ==  | ==========     | ==   | -   | ==  | -    |                     | game engine                |       |   |   |   |
+ |      | ------------------    |      |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | *Program*             | +    | + + + - | +   | /program       |      | -   | +   | -    | - wave of dots      | Game Engine                |       |   |   |   |
+ |      | --------------        | ---  | -------- | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Web XR                | -    | + - - - |     | /webxr         |      | -   | +   | -    | - beakers with code |                            |       |   |   |   |
+ |      | Physics engine        | -    | + - - - |     | /physicsengine |      |     | +   |      | - steve eatin chps  |                            |       |   |   |   |
+ |      | Code                  | -    | + + + - |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ |      | AI                    | -    | + + + + | +   | /ai            |      | -   | +   | -    | - robot             |                            |       |   |   |   |
+ |      | Spatial os            | -    | + - - - |     | /spatialos     |      | -   | +   | -    | - room scale vr     |                            |       |   |   |   |
+ |      | Biometrics            |      | + + + - |     | /biometrics    |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Finite State Machines | -    | + + + - | +   | /fsm           |      | -   | +   | -    | finite state m      |                            |       |   |   |   |
+ |      | -------------         | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | *Produce*             | -    |         |     | /produce       |      | -   | +   | -    | - wave of abstract  |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Live Stream           | -    |         | +   | /livestram     |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | 3D audio              | -    |         | +   | /3daudio       |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Haptics               | -    |         |     | /haptics       |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Volumetric            | -    |         |     | /columetric    |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Photogrammetry        | -    |         |     | /photogrammet  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | 360 video             | -    |         | +   | /360video      |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Robotics              | -    |         |     | /robotics      |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Holograms             | -    |         |     | /holograms     |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | FSM                   | -    |         |     | /fsm           |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Projection Mapping    | -    |         |     | /projectionma  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Optical Tracing       | -    |         |     | /opticaltrack  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Motion Capture        | -    |         |     | /motioncaptur  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Emotion Recognition   | -    |         |     | /emotionrecog  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Microarchitectures    | -    |         |     | /microarchite  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | -----------------     | -    |         |     |                |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | *Netowrk*             | -    |         |     | /Network       |      | -   | +   | -    | wave of humminbirds |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Live Stream           | -    |         | *   | /livestream    |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Cloud Computing       | -    |         | *   | /cloudcomputi  |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Blockchain            | -    | + + + - | *   | /blockchain    |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | P2P                   | -    |         |     | /p2p           |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | IoT                   | -    | + + + - |     | /iot           |      | -   | +   |      |                     |                            |       |   |   |   |
+ | ==   | ======DEPLOY=         | +    |         | ==  | ==========     | ==   | -   | ==  | -    |                     |                            |       |   |   |   |
+ |      | Testing               | -    |         |     | /testing       |      | --  | +   | -    |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Distribution          | -    |         |     | /distribution  |      |     | +   | -    | buffet of media     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Promotion             | -    |         |     | /promotion     |      | -   | +   | -    | mega phone          |                            |       |   |   |   |
+ |      | Publishing            | -    |         |     | /publishing    |      | -   | +   | -    | printing press      |                            |       |   |   |   |
+ |      | Activation            | -    |         |     | /activation    |      | -   | +   | -    |                     |                            |       |   |   |   |
+ |      | Audiences             | -    |         |     | /audiences     |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Advertise             | -    |         |     | /productions   |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Review                |      |         |     |                |      | \   |     |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ | #    | =  NOVA XR     = = =  |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Who We Are            |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ |      | Partnerships          |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ |      | Find Us               |      |         |     |                |      |     |     |      |                     |                            |       |   |   |   |
+ | ==   | =WHO WE ARE=          | -    |         | ==  | /whoweare      | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | About Us *            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Lab Live   *          |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Remote OS             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Father of VR          |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Gitblog               |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Community *           | -    | +       | ==  | ==========     | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | Philanthr             | -    | +       |     | /Novacain      |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Philosophy            | -    | +       |     | /philosophy    |      | -   | +   |      | rocks               |                            |       |   |   |   |
+ |      | Shouts                | -    | +       |     | /shouts        |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Rent room             | -    | +       |     | /rentroom      |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 1    | Photoshoot            | -    | +       |     | /photoshoot    |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Member                | -    | +       |     | /membership    |      | -   | +   |      | safe                |                            |       |   |   |   |
+ | ==   | ===PARTNERSHIP        | -    | +       | ==  | ==========     | ==   | -   | ==  | ==== |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | *Productions*         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | --------------        | ---  | ---     | --- | ----------     | ---- | --- |     |      |                     |                            |       |   |   |   |
+ |      | ** Past **            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Hard Rock             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Taiwa                 |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Australia             |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Kelly                 |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Live Nation           |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Italian Trade Agency  |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Go Ahead Tours        |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Hawian Airlines       |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Cayman Islands        |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ** Current **         |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Con Body              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | NYE                   |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Ethiopia              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Paris                 |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | July 4th BBQ          |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ** Future **          |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ------------------    |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ | 4    | NYE                   | -    | +       |     | /nye2019       |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | mardi gras            | -    | +       |     | /mardigras     |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | 4th july              | -    | +       |     | /4thjuly       |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | holi                  | -    | +       |     | /holi          |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | san fermin            | -    | +       |     | /san-fermin    |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | oktober fest          | -    | +       |     | /oktoberfest   |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | songkran              | -    | +       |     | /songkran      |      | -   | +   |      |                     |                            |       |   |   |   |
+ | 4    | full moon             | -    | +       |     | /fullmoon      |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | *Partners*            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Studios and Labs      | --   | + + + - | +   |                |      | -   | +   |      |                     |                            |       |   |   | ` |
+ |      | Investor              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Studios               |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Producer              |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | * Career *            |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | ----------------      |      |         |     |                |      |     | +   |      |                     |                            |       |   |   |   |
+ |      | Sponsor               | -    | +       |     | /sponsor       |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Investor              | -    | +       |     | /investor      |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Developer             | --   | +       |     | /developer     |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Producer              | -    | +       |     | /producer      |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Designer              | -    | +       |     | /designer      |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Apprentice            | -    | +       |     | /apprentice    |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Freelance             | -    | + + + - |     | /freelance     |      | -   | +   |      |                     |                            |       |   |   |   |
+ |      | Volunteer             | -    | + + + - | +   | /volunteer     |      | -   | +   |      | people helping      |                            |       |   |   |   |
+ | ==   | =Find Us=             | -    | + + - - |     | /findus        |      | -   | +   |      |                     |                            |       |   |   |   |
  #+TBLFM: $2=Solutions
 
 

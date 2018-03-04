@@ -1,32 +1,33 @@
- b
-* Deploy
+ 
+* Header
 
+Deploy
+
+* Second
+- Test
+- Distribute
+- Measure Success
+
+* Abstract
+
+/ Coming soon/
 
 ** Test
-
 Alpha
 Beta
 Professional
-
-** Distrbute
-
+** Distribute
 *** Audiences
-
 *** Publish
 app store
 web
-
 *** Advertise
-
 **** Paid
-
-
 **** Owned
-
-
 **** Earned
+** Measure Success
+**** Surveying
+**** Biometrics
+Physiological
+Neurological
 
-** Review
-
-Surverying
-Biometrics
