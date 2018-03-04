@@ -241,7 +241,8 @@ By visualizng the data of VR players through   indexing you wholistically unders
 
 In Virtual Reality (XR) develops "character engines" into the experience.  These engine the characters behavior and desicion making.   By programming learning algorythms your characters can remember information about you, your game play, and whatever else we teach it to... within reason.  They can be your virtual friends.
 
-Intelligent characters make for better game play.  The user's experience is familiar and personalized.   When you allow visitors to customize their environment, feel ownership.  Intelligent characters increase experience affinity and replay-value.
+Intelligent characters make for better game play.  The user's experience is familiar and personalized.   When you allow visitors to customize their ento the way it did on the internet just after the .com boom. This is the first step toward selling your products directly through VR. You'll be able to sell anything you'd sell on the internet. 
+vironment, feel ownership.  Intelligent characters increase experience affinity and replay-value.
 
 
 **** Programs of Interest
