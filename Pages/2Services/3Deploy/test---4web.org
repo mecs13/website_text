@@ -1,0 +1,17 @@
+* Header
+
+Deployment
+
+* Second
+
+Testing
+
+- Alpha
+- Beta
+- Professional
+
+
+* Abstract
+
+testing is important.  Think of it as refining. 
+
