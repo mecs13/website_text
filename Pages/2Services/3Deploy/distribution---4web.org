@@ -1,9 +1,14 @@
 * Header
 
-Distribution
+Deploy
 
 * Second
 
+Distribute
+
 * Abstract
 
-* Content
+- Publishing
+- Advertising
+- Activation
+
