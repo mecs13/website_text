@@ -4,7 +4,7 @@ Development
 
 * Second
 
-Blockchain/distributed ledgers
+Blockchains
 
 * Abstract
 
