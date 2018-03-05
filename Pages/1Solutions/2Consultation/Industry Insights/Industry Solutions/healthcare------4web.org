@@ -2,18 +2,16 @@
 
 Consultation
 
- 
 * Second
 
 XR Health Care Solution: Solve real health problems
 
 * Abstract
 
-** 
-
-* Content
-
 creating lifelike sensory experience to incentivize the patient to work toward recovery
 What-relieving phantom pain that can often emerge during rehab or treatment process
 Why-Patients are often deincentivized or inflicted with mental blocks and the perception of pain
 How-Use of biometrics, haptics, 3D audio
+
+
+

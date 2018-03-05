@@ -1,10 +1,14 @@
 * Header
 
-XR Retail Solution 
+Consultation
  
 * Second
 
+Retail
+
 * Abstract
 
+What - allow the customer to chose the color, style, and texture of the products they're considering as purchase items.
+Why - afford the customer a more intimate interaction with the product. This is similar to the difference in effectiveness between a a radio ad. and TV ad. The more sensory appeal the more likely to buy.
+How - incorporate color, texture, styles into VR game engine through XR color.
 
-* Content

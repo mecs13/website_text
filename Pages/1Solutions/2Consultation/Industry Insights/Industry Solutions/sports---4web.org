@@ -1,10 +1,15 @@
 * Header
 
-XR Sports Solution 
+Consultation
  
 * Second
 
+Sports
+
 * Abstract
 
+/coming soon/
 
-* Content
+
+Athletes in game-simulations facing the down and overcoming sports' greatest challenges.   This increases game-time effectiveness by training with in visceral replicas of game action.  This is down through optical tracking and immersive media simulations developed in game engines.
+

@@ -1,10 +1,21 @@
 * Header
 
-XR Art Solution 
+Consultation
  
 * Second
 
+XR Architecture 
+
 * Abstract
 
+Allow architects the opportunity to sketch, measure, and create a 3D image of the structure they're building. Google's tiltbrush is a generic example of this concept. This will bring the blueprint off the page and into 3D, uniting the architect with his vision in a 3D environment.  We do it through CAD designs being ported into executables produced in game engines.   
 
 * Content
+
+****** Cross Platform virtual reality enviironments
+        designed in virtaul reaity engines, traditional used for video game making, to produce interactive 3d environemtns to put you inside of your deisgns.
+****** Scenario Planning
+Your own 3d models transformed into VR environments for you to engage and interact with, manipulate and asses the constribtability impacts or costs.
+****** Timely and cost effective
+accomplish more, quicker, by better comprehensiving you work by 
+ 
