@@ -1,0 +1,29 @@
+# Header
+
+Volunteer
+
+# Second
+
+Got time to save the world?  
+
+# Abstract
+
+Get involved with community projects in New York and around the world.
+
+ ## Local
+
+Nova-mode-ademics is our local coding school for underprivilged New Yorkers to learn skills for the real world.  We help them cultivate their own talent and realize potential.  We aim to inspire and guide, while givng students the freedom to learn at their own rate.  Nova-mode-ademics teaches the application of programs such as emacs and git, that empower young ambitious New Yorkers with applicable and cross-industry programming abilities.  We believe learning invigorates the mind.  Our mission is to share opportunity
+
+## Inter-continental
+
+We are on a mission to bring internet areas of the world in need.  Through our non-for-profit, Novacaine, we source, develop and nuild  infrastructure in remote ares of Eastern Europe, the Middle East, Africa, Central America.  We know the wonderfull powers and liberties of free information.  Connecting these communities to the web will open their worlds.  Some very well may leap frog the World Wide Web all together and enter straight into 3D metaverses.  We believe in people and our mission is to share opportunity with those who have less.
+
+
+
+
+
+
+
+
+
+
