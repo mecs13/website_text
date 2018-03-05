@@ -1,0 +1,13 @@
+* Header
+
+Network
+
+* Second
+
+Cloud Computing
+
+* Abstract
+
+Cloud computing is the remote storage, access and control of computers.   A "cloud" is really just a server, and storing in the cloud merely means you are storing your data on someone elses' hard drive.  For example, iCloud is storing you data on Apple's hardware, instead of your own (locally).
+
+

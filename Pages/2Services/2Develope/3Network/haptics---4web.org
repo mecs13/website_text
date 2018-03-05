@@ -1,0 +1,17 @@
+* Header
+
+Produce
+
+* Second
+
+Haptics
+
+* Abstract
+
+Haptics are the communication of devices thhrough touch and feel, as a reaction to an action.  This is the science of applying tactule sensations to controllers to interact with computer applications.   
+
+
+Add a visceral dimension to virtual expeirences and 3D environments, most frequently by applying vibration, or electrostatic shock.  By using ex-devices, like gloves, vests, shoes and so on, the player receives non-verbal, non-visual feedback from the computer. 
+
+Virtual experiences that train seurgeons and athletes rely on haptic technology to train muscles to maneuver with better presicion.  Our hands determine hardness, shape, tempertaure, texture weight and more.  There is a lot to be undetstood through touch and haptics development is a major contributor to immersion.  
+
