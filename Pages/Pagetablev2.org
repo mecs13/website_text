@@ -66,9 +66,9 @@ background
  |      | 35. token sale        | -    |          |     | /tokensale      |      | -    | +    | -     | - crypto cpoins      |                            |       |       |     |   |
  |      | 36. scavenger hunt    | -    |          |     | /scavengerhun   |      | -    | +    | -     | - ar searching land  |                            |       |       |     |   |
  |      | == CONSULTATION=      | +    | + + + +  | +   | /consultation   |      | -    | +    | -     | + polar green        |                            |       |       |     |   |
- |      | *Industry Insights*   | -    | + + + -  |     | /industrysol    |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | *Industry Insights*   | -    | + + + -  |     | /industryins    |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
- |      | ** Ind Solutions **   |      |          |     |                 |      |      |      |       |                      |                            |       |       |     |   |
+ |      | ** Ind Solutions **   | +    | + + + -  | +   | /industrysol    |      |      |      |       |                      |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |      | Relocation            | -    | + + + -  |     | /relocation     |      | -    | +    | -     | - fish bloomaway2    |                            |       |       |     |   |
  |      | AR Beverage           | -    | + + + -  |     | /arbev          |      | -    | +    |       |                      |                            |       |       |     |   |
@@ -87,20 +87,20 @@ background
  |      | Broadcasting          | -    | + + + -  |     | /broadcasting   |      | -    | +    | -     | - mic + tower        |                            |       |       |     |   |
  |      | Space exploration     | -    | + + + -  |     | /space          |      | -    | +    | -     | - rocket ship        |                            |       |       |     |   |
  |      | Civil engineering     | -    | + + + -  |     | /CE             |      | -    | +    | -     | - bridge             |                            |       |       |     |   |
- |      | Design                | -    | +        |     | /design         |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | Design                | -    | + + + -  |     | /design         |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |      | Surveillance          | -    | + + + -  |     | /Surverillanc   |      | -    | +    | -     | - eye in sky         |                            |       |       |     |   |
  |      | Retail                | -    | + + + -  |     | /retail         |      | -    | +    | -     | - grab from s        |                            |       |       |     |   |
  |      | Telecommunications    | -    | + + + -  |     | /telecomm       |      | -    | +    | -     | -  devices cn        |                            |       |       |     |   |
  |      | Real Estate           | -    | + + + -  | -   | /realestate     |      | -    | +    | -     | -housig              |                            |       |       |     |   |
  |      | ----------------      | -    | ==       | ==  | ==========      | ==   | -    | ===  | ====  | == =========         |                            |       |       |     |   |
- |      | *X industry*          | -    | +        |     | /xindustry      |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |      | *X industry*          | -    | + + + -  |     | /xindustry      |      | -    | +    | -     |                      |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |      | World peace           | -    | + + + -  |     | /worldpeace     |      | -    | +    | -     | - dove               |                            |       |       |     |   |
  |      | Marketing             | -    | + + + -  |     | /marketing      |      | -    | +    | -     | - charts + medi      |                            |       |       |     |   |
- |      | Fund raising          | -    | +        |     | /fundraising    |      | -    | +    | -     | - chart ->goal       |                            |       |       |     |   |
- |      | Selling               | -    | +        |     | /selling        |      | -    | +    | -     | - transaction        |                            |       |       |     |   |
- |      | On-boarding           | -    | +        |     | /on-boarding    |      | -    | +    | -     | - welcoming          |                            |       |       |     |   |
- |      | Coaching              | -    | +        |     | /coaching       |      | -    | +    | -     | - trainer            |                            |       |       |     |   |
+ |      | Fund raising          | -    | + + + +  |     | /fundraising    |      | -    | +    | -     | - chart ->goal       |                            |       |       |     |   |
+ |      | Selling               | -    | + + + -  |     | /selling        |      | -    | +    | -     | - transaction        |                            |       |       |     |   |
+ |      | On-boarding           | -    | + + + -  |     | /on-boarding    |      | -    | +    | -     | - welcoming          |                            |       |       |     |   |
+ |      | Coaching              | -    | + + + -  |     | /coaching       |      | -    | +    | -     | - trainer            |                            |       |       |     |   |
  |      | Social media          | -    | +        |     | /socialmedia    |      | -    | +    | -     | - iconsocial me      |                            |       |       |     |   |
  |      | Collaboration         | -    | +        |     | /collaboratio   |      | -    | +    | -     | - remote coop        |                            |       |       |     |   |
  |      | PR stunting           | -    | +        |     | /PR-stunting    |      | -    | +    | -     | - garnering att      |                            |       |       |     |   |

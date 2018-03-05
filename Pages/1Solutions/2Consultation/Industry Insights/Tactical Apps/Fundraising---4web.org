@@ -1,8 +1,97 @@
 * Header
 
-Fund Raising
+Tactical Applications of XR
  
 * Second
 
+Fund Raising
 
 * Abstract
+
+Earn $460,000 in donations from 300 people in five events through highly impactful XR Media
+
+* Content
+
+** Objective:  
+Increase donations
+
+** Strategy:  
+
+- Creative process: Script story
+- Development Build: Game engine, 4k-photogrammetry, live action, for Rift
+- High-powered VR Pop-UP Station at events
+- Elecit empathy through emotional 1st POV experience as a wounded warrior returning home to dog
+- Earn dination pledge in the VR experience.
+- Transition them back to physical with a link
+- Complete donation with charming fascilitators 
+- Meaure success!
+
+- 60x people per headset: (1 per 5 minutes, for 5 fours, on 5 rigs) = 300 people:
+
+| Donation Quantity: | Contributors |
+| $20                |           80 |
+| $100               |           35 |
+| $500               |           15 |
+| $1,000             |           10 |
+| $5,000             |            5 |
+| $10,000            |            3 |
+| $20,00             |            2 |
+| $50,000            |            1 |
+
+SUM Total: $165,000
+Average Contribution: $550 / person
+Gross Resturn: $660,000 
+Development Expenses: $200,000
+-  $40,000 ($10k per event)
+-  $160,00 software
+
+** Content Thought Starters:
+
+1st person experience of leaving for active duty, experiencing time abroad, and returning home to their family and dog.
+
+| Scene | Action                 | Emotion      | Technology            |
+|     1 | Leave for active duty  | Anticipation | photo gram, 3da        |
+|     2 | Arrive abroad          | Lonliness    | Computer graphics, 3da |
+|     3 | War                    | hurt, shock  | Computer graphics, 3da |
+|     4 | Reutn home             | Joy, relief  | photo gram, 3da        |
+|     5 | Little support at home | Helpless     | computer graphics, 3da |
+|     6 | Awitch to 3POV         | Empathy      | computer graphics, 3da |
+|     7 | Apply empathy, pledge  | Giving       | Photogram, 3da         |
+ 
+     
+User Exeperience:
+- Leave for active duty
+- Get injured, go to hostpital, wounded warriors donates prosthetic
+- Return home and welcomed by family and dog
+- Contribute to wounded warriors 
+
+** Timeline:
+
+Weeks
+| 2 | Design         |
+| 2 | Capture        |
+| 4 | Programming    |
+| 2 | Testing        |
+| 2 | Re-programming |
+| 2 | Testing        |
+| 2 | Finalizing exe |
+| 1 | Publishing     |
+17 weeks 
+
+** Evolution of Dev:
+2019: Expected Christmas sales allowing us to push the exp in homes (target interested users)
+-Could build off this and create a sequel: Soldier is home and in high spirits, working with wounded warriors, behind the scenes with artists, meeting with younger soldiers. 
+-Full body track (leap motion) with more in-depth experience: hugging the dog, going through basic training, haptics, subpac.
+
+...
+
+** Other content options
+Live Stream the concert on Steam/Oculus 
+
+Engage people by gamifying the live stream. Give them a guitar and if they hit the proper notes (matched with artist) they get points. Points earned for sharing on social, donating, bringing friends into experience. Whoever gets most points gets to go onstage John Popper. 
+
+Trivia competition could be way to earn points.
+
+Artist promotion: Mentioned by artist on stage - "go home and check out VR exp"
+-artist promotes their own ticket sales
+-we build artist experience (popper experience in VR where he teaches you to play a few notes of his songs in VR)
