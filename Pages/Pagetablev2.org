@@ -13,7 +13,7 @@ A
 C
 td 
 pp?
-PDF?
+PDF  ?
 image
 background
 
@@ -26,8 +26,8 @@ background
  |      | Login                 | -    | - - + -  | +   | /login          |      | -    | +    | -     | + woman              |                            |       |       |     |   |
  |      | = Solutions = = = =   | -    | + + + -  | +   | /solutions      |      | -    | +    | -     | + Polar Green        |                            |       |       |     |   |
  |      | Products              | +    | + + + -  | +   | /products       | ==   | +    | +    | -     | + Inside Torus       |                            |       |       |     |   |
- |      | Consultation          |      | + + + +  | +   | /products       |      | +    | +    | -     |                      |                            |       |       |     |   |
- |      | Publications          |      | + + + -  | +   | /publications   |      | +    | +    | -     |                      |                            |       |       |     |   |
+ |      | Consultation          |      | + + + +  | +   | /products       |      | +    | +    | -     | + polar lights       |                            |       |       |     |   |
+ |      | Publications          |      | + + + -  | +   | /publications   |      | +    | +    | -     | + polar lights       |                            |       |       |     |   |
  |      | ====PRODCUTS======    | +    | =======  | === | ===             | ==   | ==   | ===  | ==    | + Inside Torus       |                            |       |       |     |   |
  |      | 1. architect          | -    |          | +   | /arch           |      | -    | +    | -     | + bus stop           |                            |       |       |     |   |
  |      | 2. color              | -    |          | +   | /color          |      | -    | +    | -     | + ball + chair       |                            |       |       |     |   |
@@ -35,17 +35,17 @@ background
  |      | 4. bloomaway          | -    |          | +   | /bloomaway      |      | -    | +    | -     | + in clouds          |                            |       |       |     |   |
  |      | 5. infinite           | -    |          | +   | /infinite       |      | -    | +    | -     | + hallway            |                            |       |       |     |   |
  |      | 6. facematch          | -    |          | +   | /facematcih     |      | -    | +    | +     | + face               |                            |       |       |     |   |
- |      | 7. live stream        | -    |          | +   | /livestream     |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | 7. live stream        | -    |          | +   | /livestream     |      | -    | +    | -     | - globe connected    |                            |       |       |     |   |
  |      | 8. nye                | -    |          | +   | /nye            |      | -    | +    | +     | + balloons           |                            |       |       |     |   |
- |      | 9. live forever       | -    |          | +   | /liveforever    |      | -    | +    | -     | -                    |                            |       |       |     |   |
- |      | 10. enterprise b2b    | -    |          | +   | /b2b            |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | 9. live forever       | -    |          | +   | /liveforever    |      | -    | +    | -     | - immortality        |                            |       |       |     |   |
+ |      | 10. enterprise b2b    | -    |          | +   | /b2b            |      | -    | +    | -     | - biz2biz            |                            |       |       |     |   |
  |      | 11. exhibit           | -    |          | +   | /exhibit        |      | -    | +    | -     | + underwater tank    |                            |       |       |     |   |
  |      | 12. festival          | -    |          | +   | /Festival       |      | -    | +    | -     | + ??                 |                            |       |       |     |   |
  |      | 13. wellness          | -    |          |     | /wellness       |      | -    | +    | -     | + tree               |                            |       |       |     |   |
- |      | 14. 3d brand design   | -    |          |     | /3dbranddesgi   |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | 14. 3d brand design   | -    |          |     | /3dbranddesgi   |      | -    | +    | -     | -  3d model          |                            |       |       |     |   |
  |      | 15. anon on blockcha  | -    |          | +   | /anon           |      | -    | +    | +     | + Eye                |                            |       |       |     |   |
- |      | 16. ar branding       | -    |          |     | /arbranding     |      | -    | +    | -     | -                    |                            |       |       |     |   |
- |      | 17. ar reatil         | -    |          |     | /retatil        |      | -    | +    | -     | -                    |                            |       |       |     |   |
+ |      | 16. ar branding       | -    |          |     | /arbranding     |      | -    | +    | -     | - ar on outsde wrld  |                            |       |       |     |   |
+ |      | 17. ar reatil         | -    |          |     | /retatil        |      | -    | +    | -     | - purhasing w / ar   |                            |       |       |     |   |
  |      | 18. ar event          | -    |          |     | /arevent        |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |      | 19. fifa              | -    |          |     | /fifa           |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |      | 20. foodman           | -    |          |     | /food           |      | -    | +    | -     | -                    |                            |       |       |     |   |
@@ -70,17 +70,17 @@ background
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |      | ** Ind Solutions **   |      |          |     |                 |      |      |      |       |                      |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
- |      | Relocation            | -    | + + + - |     | /relocation     |      | -    | +    | -     | - fish bloomaway2    |                            |       |       |     |   |
- |      | AR Beverage           | -    | + + + -  |     |                 |      |      |      |       |                      |                            |       |       |     |   |
+ |      | Relocation            | -    | + + + -  |     | /relocation     |      | -    | +    | -     | - fish bloomaway2    |                            |       |       |     |   |
+ |      | AR Beverage           | -    | + + + -  |     | /arbev          |      | -    | +    |       |                      |                            |       |       |     |   |
  |      | Automobile            | -    | + + + +  |     | /automobile     |      | -    | +    | -     | - concept car        |                            |       |       |     |   |
  |      | Architecture          | -    | + + + +  |     | /architecture   |      | -    | +    | -     | - yu mall            |                            |       |       |     |   |
  |      | Tourism               | -    | + - + -  | +   | /Tourism        |      | -    | +    | -     | - statue of liberty  |                            |       |       |     |   |
  |      | Health care           | -    | + + + -  |     | /healthcare     |      | -    | +    | -     | - ar healthare       |                            |       |       |     |   |
- |      | Education             | -    | +        |     | /education      |      | -    | +    | -     | - greekphilosopher   |                            |       |       |     |   |
- |      | Transportation        | -    | +        |     | /transportati   |      | -    | +    | -     | - traffic highway    |                            |       |       |     |   |
+ |      | Education             | -    | + + + -  |     | /education      |      | -    | +    | -     | - greekphilosopher   |                            |       |       |     |   |
+ |      | Transportation        | -    | + + + -  |     | /transportati   |      | -    | +    | -     | - traffic highway    |                            |       |       |     |   |
  |      | Cinematography        | -    | + + - -  |     | /cinematograp   |      | -    | +    | -     | - movie reel         |                            |       |       |     |   |
  |      | Gaming                | -    | + + + -  |     | /gaming         |      | -    | +    | -     | - vr haptic s        |                            |       |       |     |   |
- |      | Entertainent          | -    | +        |     | /entertainmen   |      | -    | +    | -     | - concert            |                            |       |       |     |   |
+ |      | Entertainent          | -    | + + + -  |     | /entertainmen   |      | -    | +    | -     | - concert            |                            |       |       |     |   |
  |      | Prof servic           | -    | + + + -  |     | /profserv       |      | -    | +    | -     | - suit/tie           |                            |       |       |     |   |
  |      | Art                   | -    | + + + -  |     | /art            |      | -    | +    | -     | - canvas             |                            |       |       |     |   |
  |      | Sports                | -    | + + + -  |     | /sports         |      | -    | +    | -     | - athlete sha        |                            |       |       |     |   |
@@ -90,8 +90,7 @@ background
  |      | Design                | -    | +        |     | /design         |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |      | Surveillance          | -    | + + + -  |     | /Surverillanc   |      | -    | +    | -     | - eye in sky         |                            |       |       |     |   |
  |      | Retail                | -    | + + + -  |     | /retail         |      | -    | +    | -     | - grab from s        |                            |       |       |     |   |
- |      | Telecommunications    | -    | +        |     | /telecomm       |      | -    | +    | -     | -  devices cn        |                            |       |       |     |   |
- |      | Performing arts       | -    | +        |     | /performing a   |      | -    | +    | -     | - theater act        |                            |       |       |     |   |
+ |      | Telecommunications    | -    | + + + -  |     | /telecomm       |      | -    | +    | -     | -  devices cn        |                            |       |       |     |   |
  |      | Real Estate           | -    | + + + -  | -   | /realestate     |      | -    | +    | -     | -housig              |                            |       |       |     |   |
  |      | ----------------      | -    | ==       | ==  | ==========      | ==   | -    | ===  | ====  | == =========         |                            |       |       |     |   |
  |      | *X industry*          | -    | +        |     | /xindustry      |      | -    | +    | -     |                      |                            |       |       |     |   |
