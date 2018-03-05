@@ -1,9 +1,15 @@
+* Header
 
-*** apprentices:
+Apprenticeship
+
+* Second
 
 Interested in Joining Nova as an Apprentice?
 
 Part and full time positions available:
+
+* Abstract
+
 
 **** Apprenticeship Positions:
 - Game Engine Developers
@@ -45,6 +51,4 @@ Part and full time positions available:
 - Machine learning
 - Neuro research
 
-[textbox: tell us about you]
-[textbox: link to t]
-=== calendar visit
+
