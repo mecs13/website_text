@@ -1,10 +1,21 @@
 * Header
 
-Sponsor
+Partners
 
 * Second
 
+Sponsors
+
 * Abstract
+
+What are you interested to sponsor?
+
+- Live Event Stream
+- Indie Game Release (product placement)
+- Customized Content
+- Hackathon
+- College Student Initiatives
+
 
 
 * Content

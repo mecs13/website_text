@@ -1,10 +1,26 @@
 * Header
 
-Developer
+Careers
 
 * Second
 
+Developer
+
 * Abstract
 
+Skills
+- WebGL
+- React
+- JS
+- Python
+- Systems
+
+
+Characteristics
+- Clear communicator
+- Prompt
+- Precise
+- Relaxed
+- self-motivated
 
 * Content
