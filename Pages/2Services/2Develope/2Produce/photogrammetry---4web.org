@@ -1,0 +1,16 @@
+* Header
+
+Produce
+
+* Second
+
+Photogrammetry
+
+* Abstract
+
+
+Is the scanning, computing and rendering of 3D models through 2D photographs and distance differentiators.   By taking several hundred photos of an object from strategic angles we redesign and texture photorealistic objects and environments.
+
+Photogrammetry conveys real spaces as digital simulations,  Think "immersive realism".
+
+Re-creating real environments in virtual reality enables us to simulate travel and fascilitate training.  By maping locations 
