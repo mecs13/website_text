@@ -1,8 +1,0 @@
-* Header
-
-Strategy
-
-* Abstract
-
-
-* Content

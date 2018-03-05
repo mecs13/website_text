@@ -101,16 +101,22 @@ background
  |      | Selling               | -    | + + + -  |     | /selling        |      | -    | +    | -     | - transaction        |                            |       |       |     |   |
  |      | On-boarding           | -    | + + + -  |     | /on-boarding    |      | -    | +    | -     | - welcoming          |                            |       |       |     |   |
  |      | Coaching              | -    | + + + -  |     | /coaching       |      | -    | +    | -     | - trainer            |                            |       |       |     |   |
- |      | Social media          | -    | +        |     | /socialmedia    |      | -    | +    | -     | - iconsocial me      |                            |       |       |     |   |
- |      | Collaboration         | -    | +        |     | /collaboratio   |      | -    | +    | -     | - remote coop        |                            |       |       |     |   |
- |      | PR stunting           | -    | +        |     | /PR-stunting    |      | -    | +    | -     | - garnering att      |                            |       |       |     |   |
- |      | Education             | -    | + + + +  |     | /education      |      | -    | +    | -     | - books on shel      | dales cone, brain on vr    |       |       |     |   |
+ |      | Collaboration         | -    | + + + -  |     | /collaboratio   |      | -    | +    | -     | - remote coop        |                            |       |       |     |   |
+ |      | Social                | -    | + + + -  | -   | /social         |      | -    | +    | -     | - social icons       | rise of social chart       |       |       |     |   |
+ |      | PR stunting           | -    | + + + -  |     | /PR-stunting    |      | -    | +    | -     | - garnering att      |                            |       |       |     |   |
+ |      | Education             | -    | + + + +  |     | /education      |      | -    | +    | -     | - books on shel      | brain on vr                |       |       |     |   |
  |      | ---------------       | -    | ==       | ==  | ==========      | ==   | -    | ==   | ==    | == =========         |                            |       |       |     |   |
- |      | *Learning lab*        | +    | +        |     | /learninglab    |      | -    | +    | -     | vr wood guy          |                            |       |       |     |   |
+ |      | *Learning lab*        | +    | + + + -  |     | /learninglab    |      | -    | +    | -     | vr wood guy          | dales cone                 |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |      | Thrue basics          | +    | + + + -  | +   | /thebasics      |      | -    | +    | -     | childrens blocks     |                            |       |       |     |   |
- |      | AR vs VR              | -    | + + + +  | +   | /vrvsvr         |      |      | +    |       | ven diagram          |                            |       |       |     |   |
- |      | Resource Center       | -    |          |     | /resourcecent   |      | -    | +    | +     |                      |                            |       |       |     |   |
+ |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
+ |      | AR vs VR              | -    | + + + +  | +   | /vrvsvr         |      |      | +    |       |                      | ven diagram                |       |       |     |   |
+ |      | How VR Works          |      |          |     | /howvrworks     |      |      |      |       |                      |                            |       |       |     |   |
+ |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
+ |      | Resource Center       | -    | + + + -  |     | /resourcecent   |      | -    | +    | +     |                      |                            |       |       |     |   |
+ |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
+ |      | Hire Us               |      |          |     | /hireus         |      |      |      |       |                      |                            |       |       |     |   |
+ |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |      | Training              | -    | + - + -  | +   | /training       |      | -    | +    | -     |                      |                            |       |       |     |   |
  |      | Strategy              | -    | + + + -  | +   | /strategy       |      | -    | +    | +     |                      |                            |       |       |     |   |
  |      | Production            | -    |          | +   | /production     |      | -    | +    | -     |                      |                            |       |       |     |   |
@@ -171,7 +177,7 @@ background
  |      | P2P                   | -    | + + + -  |     | /p2p            |      | -    | +    | -     |                      |                            |       |       |     |   |
  |      | IoT                   | -    | + + + -  |     | /iot            |      | -    | +    |       |                      |                            |       |       |     |   |
  |      | ======DEPLOY=         | +    |          | ==  | ==========      | ==   | -    | ===  | -     |                      |                            |       |       |     |   |
- |      | Testing               | -    |          |     | /testing        |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |      | Testing               | -    | + + + -  |     | /testing        |      | -    | +    | -     |                      |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
  |      | Distribution          | -    |          |     | /distribution   |      | +    | +    | -     | buffet of media      |                            |       |       |     |   |
  |      | --------------        | ---  | ---      | --- | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
@@ -203,7 +209,7 @@ background
  |      | Philanthr             | -    | +        |     | /Novacain       |      | -    | +    |       |                      |                            |       |       |     |   |
  |      | Philosophy            | -    | +        |     | /philosophy     |      | -    | +    |       | rocks                |                            |       |       |     |   |
  |      | Shouts                | -    | +        |     | /shouts         |      | -    | +    |       |                      |                            |       |       |     |   |
- |      | Rent room             | -    | +        |     | /rentroom       |      | -    | +    |       |                      |                            |       |       |     |   |
+ |      | Rent room             | -    | +        |     | /rentroom       |      | -    | +    |       |                      | nova office spae           |       |       |     |   |
  |      | Photoshoot            | -    | +        |     | /photoshoot     |      | -    | +    |       |                      |                            |       |       |     |   |
  |      | ===PARTNERSHIP        | -    | ======   | ==  | ==========      | ==   | -    | ==   | ====  |                      |                            |       |       |     |   |
  |      | --------------        | ---  | -------  | --- | ----------      | ---- | ---  | ---  | ===   |                      |                            |       |       |     |   |
@@ -224,11 +230,11 @@ background
  |      | ----------------      | ---  | -------  |     | -------------   |      | ---- | +    |       |                      |                            |       |       |     |   |
  |      | ** Live **            | +    | + + + -  |     | /live           |      | +    | +    |       |                      |                            |       |       |     |   |
  |      | ----------------      | ---  | -------  |     | -------------   |      | ---- | +    |       |                      |                            |       |       |     |   |
- |      | Con Body              | -    | + + + -  |     | /conbody        |      | +    | +    |       |                      |                            |       |       |     |   |
+ |      | Con Body              | -    | + + + -  |     | /conbody        |      | +    | +    |       |                      | live stream content        |       |       |     |   |
  |      | NYE                   | -    | + + + -  |     | /nye            |      | -    | +    |       |                      |                            |       |       |     |   |
- |      | Ethiopia              | -    | + + + -  |     | /ethiopia       |      | -    | +    |       |                      |                            |       |       |     |   |
- |      | Paris                 | -    | + + + -  |     | /paris          |      | -    | +    |       |                      |                            |       |       |     |   |
- |      | July 4th BBQ          | -    | + + + -  |     | /4thjuly        |      | +    | +    |       |                      |                            |       |       |     |   |
+ |      | Ethiopia              | -    | + + + -  |     | /ethiopia       |      | -    | +    |       |                      | photogrammetry             |       |       |     |   |
+ |      | Paris                 | -    | + + + -  |     | /paris          |      | -    | +    |       |                      | photogrammtery             |       |       |     |   |
+ |      | July 4th BBQ          | -    | + + + -  |     | /4thjuly        |      | +    | +    |       |                      | live stream content        |       |       |     |   |
  |      | ----------------      |      | -------  |     | -------------   |      | ---- | +    |       |                      |                            |       |       |     |   |
  |      | ** Up Coming **       | +    | + + + -  |     | /upcoming       |      | +    | +    |       |                      |                            |       |       |     |   |
  |      | ----------------      | ---  | -------  |     | -------------   |      | ---- | +    |       |                      |                            |       |       |     |   |
