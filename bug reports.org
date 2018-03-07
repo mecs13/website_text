@@ -4,3 +4,5 @@ Clicking on Infinite Gallery products page results in New Year's Eve backgroud
 
 mobile: click on page youre on doesn't reload
 
+Reloading specific product pages reults in different page 
+
