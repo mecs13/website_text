@@ -1,2 +1,6 @@
 Clicking on Torus in Products home page brings up XR color background 
 
+Clicking on Infinite Gallery products page results in New Year's Eve backgroud 
+
+mobile: click on page youre on doesn't reload
+
