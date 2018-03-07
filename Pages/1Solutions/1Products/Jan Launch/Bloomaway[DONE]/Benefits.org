@@ -1,7 +1,8 @@
 * Benefits 
+- Seamless Virtual Transport
 - Reduce cost of relocation travel
-- Allow assignee to select from a wider range of potential cities 
-- Reduce fatigue by reducing assignee travel quantity 
+- Allow user to select from a wider range of potential cities 
+- Reduce fatigue by reducing relocation travel quantity 
 - Find new home quickly and more efficiently
 - Reduce cost of on-site tour guide/consultant 
 - Lead your industry into the future of internal cost reduction through advanced technology
