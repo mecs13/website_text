@@ -18,5 +18,5 @@ Designed in Virtual Reality engines (traditionally used for video game creation)
 ****** Scenario Planning
 Transform your own 3D models into VR environments and interact with them, manipulating and assessing the constructability, impact, and cost.
 
-****** Timely and cost effective
+****** Timely and Cost Effective
 VR leads to richer comprehension and retention for the user. This allows you to accomplish more at a quicker rate.
