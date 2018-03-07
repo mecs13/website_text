@@ -8,14 +8,15 @@ XR Architecture
 
 * Abstract
 
-Allow architects the opportunity to sketch, measure, and create a 3D image of the structure they're building. Google's tiltbrush is a generic example of this concept. This will bring the blueprint off the page and into 3D, uniting the architect with his vision in a 3D environment.  We do it through CAD designs being ported into executables produced in game engines.   
+Allow architects the opportunity to sketch, measure, and create a 3D image of the structure they're building. Google's TiltBrush program is a generic example of this concept. This will bring the blueprint off the page and into 3D, uniting the architects with their vision in a 3D environment. We carry this out by porting CAD designs into executables produced in game engines.   
 
 * Content
 
-****** Cross Platform virtual reality enviironments
-        designed in virtaul reaity engines, traditional used for video game making, to produce interactive 3d environemtns to put you inside of your deisgns.
+****** Cross Platform Virtual Reality environments
+Designed in Virtual Reality engines (traditionally used for video game creation), these interactive 3D environments are created for the inside of your designs. 
+
 ****** Scenario Planning
-Your own 3d models transformed into VR environments for you to engage and interact with, manipulate and asses the constribtability impacts or costs.
+Transform your own 3D models into VR environments and interact with them, manipulating and assessing the constructability, impact, and cost.
+
 ****** Timely and cost effective
-accomplish more, quicker, by better comprehensiving you work by 
- 
+VR leads to richer comprehension and retention for the user. This allows you to accomplish more at a quicker rate.
