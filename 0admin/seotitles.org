@@ -1,23 +1,58 @@
 SEO Titles: META DESCRIPTIONS
 
+* Home
 ** Home:
 Nova XR Media provides virtual reality and augmented reality solutions for businesses to extend reality, innovate media, produce XR and make xr content
 
-advising, information, encyclopedia, dictionary 
+** Legal
+privacy policy, user rights, nova xr privacy, save the internet, terms and conditions, safety and security
+
+** Contact 
+
+Contact Nova, buy xr, get in touch, talk to someone about xr, learn about xr, follow xr experts, connect with xr developer, find xr producer
+
+** Build XR
+
+build xr, develop xr, make xr, create xr, create virtual reality, how to design vr, making augmented reality
+
+** login 
+
+nova member, xr club, xr login, privileged access, whos who in xr, virtual reality elites
+
+** Products
+interface designs for xr, buy XR, XR products, XR tools, new to XR, simple, fundamentals of vr 
+
+** Consultation,
+
+learning about xr, consultation, consulting, learn how to xr undertand xr, professional xr produce xr, consultation, advice, xradvise
 
 ** Publications
 XR financial stratgy, media production roi, financial resturn, money, investment, gross profit, net gain
 
+======================
 
+** Solutions
+
+** Services
+
+XR services, XR consultancy, VR development, VR production, XR deployment, VR industry, ServicesXR
+
+** Nova XR
+
+who we are, about us, about nova, find nova xr, who makes VR, where to make vr, why make XR?, where is nova, what is nova xr
+
+* Products
 
 ** Architecture
 Architecture in xr, xr architecture, how to architect in virtual reality, xr architecture, xrchatecture,  
 
 ** XR Color
+  
 ** Music Exp
 Music in xr, XRmusic, musicvr, live music in xr, xr music platform, xr music design, xr music softawre, virtual reality music software
 
 ** Bloomaway 
+
 ** Torus
 torus in XR, torus shape XR, virtual reality torus, VR information manager, XR information manager, XIM, XIM interface, WIM, world information manager, virtual information manager
 
@@ -30,7 +65,10 @@ Content display in virtual reality, xr content display, display art in VR, VR ar
 
 easy way to travel in virtual reality, relocation in virtual reality, vr relocation, xr relocation, travelxr, xr travel, vr dreamscape, dreamscape, dreamscaping
 
-** facematch
+** Facematch
+
+ad analysis, face matching, biometrics, facial recognition, facial advertising, new cookie, viewer verification, validate advertising impact, return on investment, key performnce indicator
+
 ** Live stream
 live in vr, live stream, xr stream, live 360, in real time, 4k, action, news, happening now, 
 
@@ -45,7 +83,6 @@ b2b in vr, business sales in virtual reality, xr b2b, b2b xr, selling in vr, sel
 
 ** Exhibit
 museum, exhibition, live event, on site, activation, viewing, acquriaum, on-site, on-premis, local event, pr 
-
 
 
 ** festival
@@ -82,30 +119,98 @@ vr health care, xr health care, virtual reality and health, healthy living with 
    
 
 ** XR-first webs
-   
-** Services
-   
+
+=========
+
+
+* Consultation
+
+
 ** Consultation
-
-consulting, learn how to xr undertand xr, professional xr produce xr, consultation, advice, xradvise
-
-
-** Consult Serv
    
 services for consulting, learn how to xr undertand xr, professional xr produce xr, consultation, advice, xradvise
 
+** Industry Insights
+
+XR insights, industry applications, tactical virtual reality, applications of XR, VR use cases, XR use-cases, AR applications, industry 
+
+
 ** Industry Sol
 
-cross industry solutions to xr, xr per industry, use xr to solve problem
+cross industry solutions to xr, xr per industry, use xr to solve problem, early adopters of XR, innovators, visionaries, solutions by industry for virtual reality, VR applications, AR per industry 
 
 
-** Source Dev
 
-source xr development, build xr development department, sourcing xr, 
-   
-** VR Instal
 
-installation in xr, virtual reality rig set up, vr arcade, xrbar, xrset up, vive vr installation
+=====
+
+** Industry Insights
+
+XR insights, industry applications, tactical virtual reality, applications of XR, VR use cases, XR use-cases, AR applications, industry 
+
+
+** Industry Sol
+
+cross industry solutions to xr, xr per industry, use xr to solve problem, early adopters of XR, innovators, visionaries, solutions by industry for virtual reality, VR applications, AR per industry 
+
+** Relocation
+
+relocate in xr, vr for hr, Virtual orientation, transferee, assignee, home-scope, search for home, explore neighborhoods
+
+** AR Beverage
+AR retail, beverage, sell xr, virtual reality marketing, call to action, vr branding, FMCG, beverage sales, xr production
+
+** Autombile
+
+connected car, xr vehicles, driverless virtual reality, auto xr, autoxr, virtual car, test drive in xr
+
+** Architecture
+
+architecture, designing, interior deaign, virtual development, XR blueprint, pre-dev XR, architectural XRmusic
+
+** Tourism
+
+travel im XR, seemless relocation, pre-visit, orientate, smaple destination, airline, immigrations office, visit, vacation, business travel, 
+
+** Health care
+
+** Education
+
+** Transportation
+
+** Cinematography
+
+** Gaming
+
+** Entertainment
+ 
+** Prof servic
+
+** Art
+
+** Sports
+
+** Source Dev 
+
+** Broadcasting
+
+** Space exploration   
+
+** source dev
+
+xr development, build xr development department, sourcing xr,
+
+** Civil engineering    
+
+** Design             
+
+** Surveillance
+
+** Retail             
+
+** Telecommunications
+
+** Real Estate        
 
 ** Training
 
@@ -115,10 +220,8 @@ leanring, learnxr training, tutor, educaiton, class, how to, uderstand xr course
  
 understand, know, educate, eduxr, teacher, tutor, tutorial, how-to, mind, comprehend, listen, 
 
- 
-** production
+** Production
    
-
 produce, develope, make, create, xr, developexr, createxr, producexr, maker, makexr
 
 ** Design
@@ -402,4 +505,8 @@ vr compared, ven diagram, undestand, how to, leanring, the basics, what, who, ho
  fr
 ** Space exporation 
 
-cosmos, explore, space, nasa, station, international, buzz, light years, adr1ft, atmosphere, adventure, stars, moon, sun, solar system
+   cosmos, explore, space, nasa, station, international, buzz, light years, adr1ft, atmosphere, adventure, stars, moon, sun, solar system
+
+** VR Instal
+  
+nstallation in xr, virtual reality rig set up, vr arcade, xrbar, xrset up, vive vr installation
