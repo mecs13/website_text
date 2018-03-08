@@ -1,0 +1,43 @@
+
+* Header
+
+Virtual vs Augmented Reality
+
+* Second
+
+AR is the mobile solution to full immersion (VR)
+
+* Abstract
+
+** Augmented reality
+
+- Alters the real world on a screen or head-mounted screen.
+
+- feels like the world is your canvas
+
+- lets you collaboratively create
+
+** VR and AR
+
+- Allows you to interact with digital media
+
+- Create non real geometry and retina displays 
+
+- Programmed in coding languages C++, javascript, WebGL, python, C# and many others.  
+
+- Spatial cognitive information
+
+** Virtual Reality
+
+- creates entirely virtual world
+
+- feels like teleporting to a different dimension
+
+- lets you exist in alternate worlds with other humans to train, learn or play.
+
+
+
+* Content
+
+/Venn diagram/
+
