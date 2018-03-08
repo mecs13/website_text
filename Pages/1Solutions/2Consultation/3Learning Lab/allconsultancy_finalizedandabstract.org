@@ -1,6 +1,7 @@
 # introduction
 
-We’ll help you understand, operate, integrate, and troubleshoot XR technologies. The skills required to produce 3D virtual media (XR) are broad and deep, but we'll keep you focused. By internalizing the basics of XR hardware and XR software you'll be familiar with the latest technological breakthroughs and understand /why/ they are indeed /breakthroughs/. Then, you'll come up with innovative ways to improve your business. Ways in which the competition is not yet equipped to think up themselves.   
+([TB N.B.]: Website only has space for what is in bold, can add up to 6-7 words)
+*We’ll help you understand, operate, integrate, and troubleshoot XR technologies. The skills required to produce 3D virtual media (XR) are broad and deep, but we'll keep you focused.* By internalizing the basics of XR hardware and XR software you'll be familiar with the latest technological breakthroughs and understand /why/ they are indeed /breakthroughs/. Then, you'll come up with innovative ways to improve your business. Ways in which the competition is not yet equipped to think up themselves.   
 
 Arm yourself for knowledge and you'll be equipped to succeed in this new era of media technologies. With tech moving at an exponential rate, Virtual and Augmented reality, artificial intelligence, robotics, blockchains, the internet of things will continue producing brands reminiscent of giants from the past - Blockbuster, Borders Books, Kodaks and others.
 
