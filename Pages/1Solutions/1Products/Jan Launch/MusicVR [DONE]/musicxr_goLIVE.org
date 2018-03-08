@@ -5,6 +5,8 @@ Immersive Music Experience
 ** Abstract
 Socialize, create, and discover music in Virtual Reality
 
+Inside Virtual Reality users can visit environments filled with music, work with and create music as though they were in a studio, and discover music in a 3D streaming environment. 
+
 *** XR Boiler Room
 Music is an integral part of social gatherings - whether getting together with friends at a party, going into the city on a Saturday night, or attending a live event. XR Boiler Room offers users the opportunity to gather for similar purposes inside the new virtual world. With the addition of 3D audio, we can surround ourselves with any auditory experience in any of these music-centric environments. 
 
