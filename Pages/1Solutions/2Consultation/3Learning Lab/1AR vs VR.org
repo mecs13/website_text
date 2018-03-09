@@ -13,9 +13,9 @@ AR is the mobile solution to full immersion (VR)
 
 - Alters the real world on a screen or head-mounted screen.
 
-- feels like the world is your canvas
+- Feels like the world is your canvas
 
-- lets you create collaboratively
+- Promotes collaborative creation
 
 ** VR and AR
 
@@ -29,8 +29,8 @@ AR is the mobile solution to full immersion (VR)
 
 ** Virtual Reality
 
-- creates entirely virtual world
+- Creates an entirely Virtual world
 
-- feels like teleporting to a different dimension
+- Feels like teleporting to a different dimension
 
-- lets you exist in alternate worlds while interacting with other humans for training, learning, or enjoyment.
+- Allows you to exist in alternate worlds while interacting with other humans for training, learning, or enjoyment.
