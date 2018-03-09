@@ -55,7 +55,7 @@ title 3
 
 
 
- | lvl | page title            | Style | Text     | SEO  | Short URL       | wf   | PDF  | t-d  | pp?   | Background           | sqr 4 blg                      | sqr 4 rec | txtbx | cal | + |
+ | lvl | page title            | Style | Text     | SEO  | Short URL       | wf   | PDF  | t-d  | pp?   | visuals           | sqr 4 blg                      | sqr 4 rec | txtbx | cal | + |
  |     | =  =  =  =  =         |       | H S A C  |      |                 |      |      | +    |       |                      |                            |       |       |     | + |
  |   0 | Home                  | -     | - + - +  | +    |                 |      | -    | +    | -     | + polar pink         |                            |       |       |     | + |
  |   0 | legal                 | Pa    | + - - +  | +    | /legal          |      | +    | +    | -     | + sofa               |                            |       |       |     | + |
