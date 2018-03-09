@@ -4,8 +4,7 @@ Learning Labs
  
 * Second
 
-Learn something dumb dumb
-
+Learn something
 
 - The Basics
 
@@ -16,8 +15,6 @@ Learn something dumb dumb
 
 * Abstract
 
-For example, Dale's Cone of Learning was an innovative study in the mid 20th century supporting the notion that within two weeks humans retain 90% of what they do and say - a breakthrough realization compared to the 50% retention of what we see and hear. Credible studies like this one are proving applicable again as the immersive XR worlds continue to grow.
+Past studies of human cognition are inflating in relevance as we step into the Virtual World. For example, Dale's Cone of Learning was an innovative study in the mid 20th century supporting the notion that within two weeks humans retain 90% of what they do and say - a breakthrough realization compared to the 50% retention of what we see and hear. Credible studies like this one are proving applicable again as the immersive XR worlds continue to grow.
 
-[ DALES CONE OF LEARNING]
-
- 
+[ DALES CONE OF LEARNING CHART]
