@@ -1,5 +1,3 @@
-
-
 * Header
 
 Consultation
@@ -10,5 +8,4 @@ Collaboration
 
 * Abstract
 
-Virtual Chat Rooms let us seemingly stand in the same room as another, thought millions of miles away.   Through thin flexible fibers with a glass core light signals (fiber optics) send data and information at a rate of 50Mps.  Our movements and voices are read and replicated for recipeients to experience in sumulation software, that we are now calling "virtual reality".
-       
+Despite the thousands of physical miles that may separate us, Virtual Chat Rooms allow people to stand in the same room. Thin flexible fibers with glass core light signals (fiber optics) send data and information at a rate of 50Mps. Our movements and voices are read and replicated, so recipients can experience these behaviors through simulated software. We’re now calling this technology "Virtual Reality".
