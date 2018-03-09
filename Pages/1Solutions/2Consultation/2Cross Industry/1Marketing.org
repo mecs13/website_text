@@ -9,25 +9,22 @@ XR is Marketing's El Dorado
 
 * Abstract
 
-/coming soon/
+There is no industry that will seize the future of XR more deeply than marketing. Here is just an introduction to the way this tool will be exercised by marketers. 
 
 
 ** Branding 
-*** Sponsor Event
-*** Product Placement
-*** Content Creation
-*** PR Stunting
+- Sponsor Event
+- Product Placement
+- Content Creation
+- PR Stunting
 
 ** Call to Action
-*** Sales
-*** Event Traffic
-*** Use App 
-*** View Content
-*** Join Community
+- Sales
+- Event Traffic
+- Use App 
+- View Content
+- Join Community
 
 ** Data
-*** Collecting
-*** Applying
-
-
-**** 
+- Collecting
+- Applying
