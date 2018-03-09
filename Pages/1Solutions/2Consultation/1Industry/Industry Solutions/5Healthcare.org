@@ -8,7 +8,7 @@ XR Health Care Solution: Solve real health problems
 
 * Abstract
 
-Create a lifelike sensory experience to incentivize the patient to work toward recovery.
+Create a lifelike sensory experience to incentivize the patient recovery process.
 
 What: Relieve phantom pain that can occur during rehab or treatment process.
 
