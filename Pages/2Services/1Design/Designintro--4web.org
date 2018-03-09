@@ -3,7 +3,7 @@ Design
 
 * Second
 
-the intermediary between inforation and understanding
+The intermediary between information and understanding
 
 * Abstract
 
@@ -13,27 +13,22 @@ Design a strategy to have clear vision
 - Interface
 - Story 
 
-** KK Design abdtract text.  Please read the below for what you're introducing
-
-
 * Content 
 
 ** Strategy
 
 *** Process 
-The pre-production process is the blueprint for development.  Clearly defining goals and success metrics shepards success.  Defining the objective and limitations focuses research and increases effeciency.   Prototypes will iterate faster and technical debt will be minimized.  Organization is the father of creativity. 
+The pre-production process is the blueprint for development. Clearly defining goals and success metrics shepards success. Defining the objective and limitations focuses research and increases efficiency. Prototypes will iterate faster and technical debt will be minimized.  Organization is the father of creativity. 
 
 *** Parameters
-Setting parameters lays a foundation to structures strategy.    Set a clear and simple objective.  Clarify deadlines, resources and performance metrics.  These parameters keep the vision clear, resources optimized and the team on task.  
+Setting parameters lays a foundation to structures strategy. Set a clear and simple objective.  Clarify deadlines, resources and performance metrics.  These parameters keep the vision clear, resources optimized and the team on task.  
 
 **** Budget   
-Budget can drive scope or scope cand drive budget.  It is far better have a small experience working smoothly than a big experience causing headaches.  You should budget for $50-$100 per hour of labor, high to low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here:  :F
-
+Budget can drive scope or scope cand drive budget. It is far more valuable to take on a limited number of projects and operate them smoothly. You should budget for $50-$100 per hour of labor, high-to-low level programming, respectively.  Defining the budget enables us to provide you with a financial strategy and options.  See examples here: 
 
 Hotels: Brown - Financial Strategy
 http://github.com - automatic!
 [GitHub](http://github.com)
-
 
 Festival: Pepsi - Financial Strategy
 http://github.com - automatic!
@@ -51,11 +46,8 @@ http://github.com - automatic!
 
 Without proper runway space, you won't take flight.
 
-
-
-
 *** Research
-Research creates new knowledge.  We partner with academia by providing XR world designs, interfaces and stories to live out in their XR productions.   
+Research creates new knowledge. We partner with academia by providing XR world designs, interfaces, and stories to live out in their XR productions.   
 
 Seek. 
   Find. 
@@ -67,15 +59,12 @@ Seek.
 
 
 *** Scalability
-According to the budget and the ambition of the project, we advise progressive development, starting with an MVP.  Defining the multi-year plan up front is necesarry to scaling at the lowest possible cost.   
+According to the budget and the ambition of the project, we advise progressive development, starting with an MVP.  Defining the multi-year plan up front is necessary to scaling at the lowest possible cost.   
 
-XR techologies are evolving at an exponential rate.  To scale efficiently plan, test and iterate with fluidity. 
+XR technologies are evolving at an exponential rate. To scale efficiently plan, test and iterate with fluidity. 
 
-*** Communicate Athmosphere 
-The global feel is expressed in 3D renders, models, images, and spatial audio.  XR is a multi-senspry experience.  Immersion is earned through compelling visuals, inutive interfaces and 3D audio.  These create spatial cognition and a sense of "presence". 
-
+*** Communicate Atmosphere 
+The global feel is expressed in 3D renders, models, images, and spatial audio.  XR is a multi-sensory experience.  Immersion is earned through compelling visuals, inutive interfaces and 3D audio. These create spatial cognition and a sense of "presence". 
 
 *** Comfort 
-Comfort is everything.   Presenting the player with an environment and an experience they want to return to is your number one objective as a designer.  The user experience is everything, and their comfort is in the developers' hands.   There is a strong psychlogical need for comfort, especially when travelling somewhere new. 
-
-
+Comfort is everything. Presenting the player with an environment and an experience they want to return to is your number one objective as a designer. The user experience is everything, and their comfort is in the developer’s hands. There is a strong psychological need for comfort, especially when travelling somewhere new. 
