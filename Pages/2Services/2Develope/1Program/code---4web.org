@@ -1,4 +1,4 @@
- * Header
+* Header
 
 Program
 * Second
@@ -15,7 +15,7 @@ This is one of the high-level programming languages in common use today. One of 
 ** C++
 (C plus plus) is a high programming language. It’s commonly the language used to build software infrastructure and desktop apps. Programmers rely on C++ when they’re willing to exchange complexity in the code for speed on the user end. 
 
-**C#
+** C#
 C sharp is a general purpose programming language developed as part of Microsoft’s “Common Language Infrastructure. The most recent version was released at the end of last year. 
 
 ** Lisp
