@@ -1,23 +1,31 @@
-* Header
+ * Header
+
 Program
 * Second
+
 code
 * Abstract
 
-/coming soon/
+** JavaScript 
+JS is one of the three core technologies of the web. In the 21st century, JS is one of the coding languages we rely on to make web pages interactive and construct online programs and video games. 
 
-C++, C#, js, python
+** Python
+This is one of the high-level programming languages in common use today. One of the advantages to programming in python is the ability to express concepts in fewer lines than are typically required. 
 
-game engine
+** C++
+(C plus plus) is a high programming language. It’s commonly the language used to build software infrastructure and desktop apps. Programmers rely on C++ when they’re willing to exchange complexity in the code for speed on the user end. 
 
-pysics engine
+**C#
+C sharp is a general purpose programming language developed as part of Microsoft’s “Common Language Infrastructure. The most recent version was released at the end of last year. 
 
-back end admin
+** Lisp
+Represents a family of high-level programming languages. It dates back all the way to 1958.
 
-air integration
+** Back End Admin
+Is a panel built on top of the code that allows users to manipulate basic information that’s displayed to the front-end user. Think of the Admin panel as the first of many layers beneath the web page.  
 
-lisp
+** AI
+Is simply the intelligence demonstrated by various machines. This form of intelligence is gathered by machine learning algorithms. 
 
-spatial OS
-
-
+** Spatial OS
+Is a development program that connects servers to the cloud. This allows for Virtual Reality experiences to be stored on the cloud similarly to the way you’d store 2D information there. 
