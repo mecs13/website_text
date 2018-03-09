@@ -152,23 +152,24 @@ title 3
  |     | --------------        | ---   | ---      | ---- | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  |     | ===PUBLICATIONS====   | ====  | =======  | ==   | ==========      | ==   | -    | ==   | ====  | ======               |                            |       |       |     |   |
  |     | -----------------     | ----  | -------  |      | ==========      | ==   | ==   | ==   | ===   | ======               |                            |       |       |     |   |
- |     | *Financial Strats*    | B     | + + + -  |      | /financialstr   |      | -    | +    | +     |                      |                            |       |       |     |   |
+ |   2 | *Financial Strats*    | B     | + + + -  |      | /financialstr   |      | -    | +    | +     |                      |                            |       |       |     |   |
  |     | ------------------    | ----  | ==       | --   | ==========      | ==   | -    | ==   | ==    | ======               |                            |       |       |     |   |
- |     | *Interface Design*    | B     |          |      | /interfaced     |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Interface Design*    | B     |          |      | /interfaced     |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | ----------------      | ----  | -------- | --   | ==========      | ==   | -    | ==   | ==    | ======               |                            |       |       |     |   |
- |     | *Market Research*     | B     | + + + +  |      | /marketresearch |      | -    | +    | +     |                      | adopt chart, headset sales |       |       |     |   |
+ |   2 | *Market Research*     | B     | + + + +  |      | /marketresearch |      | -    | +    | +     |                      | adopt chart, headset sales |       |       |     |   |
+ |     | ----------------      | ----  | -------- | --   | ==========      | ==   | -    | ==   | ==    | ======               |                            |       |       |     |   |
  |     | = SERVICES  ==        | =     | + + - -  |      | /services       |      | -    | +    |       |                      |                            |       |       |     |   |
- |     | Design                | B     | + + + +  | +    | /products       |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Develop               | B     | + + + +  | +    | /develop        |      | -    | +    | -     |                      | game engine diag, ge TA    |       |       |     |   |
- |     | Deploy                | B     | + + + -  | +    | /deploy         |      | -    | +    | -     | rocket launch        |                            |       |       |     |   |
+ |   1 | Design                | B     | + + + +  | +    | /products       |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |    1 | Develop               | B     | + + + +  | +    | /develop        |      | -    | +    | -     |                      | game engine diag, ge TA    |       |       |     |   |
+ |   1 | Deploy                | B     | + + + -  | +    | /deploy         |      | -    | +    | -     | rocket launch        |                            |       |       |     |   |
  |     | =========DESIGN====   | ===   | =====    | ==   | ==========      | ==   | ==   | ==   | -     |                      |                            |       |       |     |   |
- |     | *Story*               | PA    | + + - -  | +    | /story          |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | *World*               | PA    |          | +    | /world          |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | *Interface*           | PA    |          | +    | /interface      |      | -    | +    | -     |                      |                            | o     |       |     |   |
- |     | *Sketch*              | PA    | + + - -  |      | /sketch         |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | *Storyboard *         | PA    | + + - -  |      | /storyboard     |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | *Script*              | PA    | + + - -  |      | /script         |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | *Model*               | PA    | + + - -  |      | /model          |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Story*               | PA    | + + - -  | +    | /story          |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *World*               | PA    |          | +    | /world          |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Interface*           | PA    |          | +    | /interface      |      | -    | +    | -     |                      |                            | o     |       |     |   |
+ |   2 | *Sketch*              | PA    | + + - -  |      | /sketch         |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Storyboard *         | PA    | + + - -  |      | /storyboard     |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Script*              | PA    | + + - -  |      | /script         |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |   2 | *Model*               | PA    | + + - -  |      | /model          |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | ==========DEVELOP===  | -     | + + + -  | ==   | ==========      | ==   | ==   | ==   | ==    |                      | game engine                |       |       |     |   |
  |     | ------------------    | ----  | -------- |      | -----------     |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | *Program*             | B     | + + + -  | +    | /program        |      | -    | +    | -     | - wave of dots       | Game Engine                |       |       |     |   |
