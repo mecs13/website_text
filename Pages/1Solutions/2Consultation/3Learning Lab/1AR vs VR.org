@@ -15,13 +15,13 @@ AR is the mobile solution to full immersion (VR)
 
 - feels like the world is your canvas
 
-- lets you collaboratively create
+- lets you create collaboratively
 
 ** VR and AR
 
 - Allows you to interact with digital media
 
-- Create non real geometry and retina displays 
+- Create non-real geometry and retina displays 
 
 - Programmed in coding languages C++, javascript, WebGL, python, C# and many others.  
 
@@ -33,11 +33,4 @@ AR is the mobile solution to full immersion (VR)
 
 - feels like teleporting to a different dimension
 
-- lets you exist in alternate worlds with other humans to train, learn or play.
-
-
-
-* Content
-
-/Venn diagram/
-
+- lets you exist in alternate worlds while interacting with other humans for training, learning, or enjoyment.
