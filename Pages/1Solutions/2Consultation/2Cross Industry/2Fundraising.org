@@ -1,10 +1,39 @@
 * Header
 
+Fundraising in XR
+
+* Second
+
+Enhance the relationships that fuel fundraising
+ 
+* Abstract
+
+Allow the immersiveness of Virtual Reality to draw a stronger connection between the donor and those who are in need of their assistance. 
+
+* Content 
+
+At the root of fundraising is the empathetic connection that encourages funds to change hands. Take the example of the Wounded Warriors Project. With a mission of offering a variety of educational, health, and employment programs to veterans, the foundation relies heavily on donations from a variety of sources. Often these donations are solicited at events that attempt to communicate the journey, mentality, and some of the post-combat struggles that afflict soldiers across the country. 
+
+For those who’ve never been to war, one of the most incomprehensible tasks is truly understanding the journey of a soldier. Advanced technology does not bridge this gap between civilians and soldiers. However, it can increase the likelihood of striking an empathetic connection. 
+
+At a fundraising event geared toward raising money for Wounded Warriors, Virtual Reality can take the donor inside an immersive experience that reflects some of the perils and post-combat ills that plague soldiers. Virtual Reality can digitally put the donor in the place of a soldier as the say goodbye to their family, arrive oversees, and ride through foreign terrain toward combat. Inside the headset, the donor can also experience the elation of returning home from war and the devastation of rehabilitating some of the life-altering injuries sustained by these men and women. 
+
+When used in this way, VR is a powerful tool for eliciting empathy. 
+
+END WBSITE TEXT HERE /\ /\ /\ /\
+
+
+
+
+
+
+* Header
+
 Tactical Applications of XR
  
 * Second
 
-Fund Raising
+Fundraising
 
 * Abstract
 
