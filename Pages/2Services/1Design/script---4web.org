@@ -4,5 +4,7 @@ Design
 
 * Second
 
-Script
+Your Script
 
+* Content 
+Once we’ve established your XR solution, we’ll present it as a script. This script details the steps we’ll take to mature your idea into a product. The script may include the collection of content through tools like photogrammetry, motion capture, and 3D audio. Each project is unique and each script will reflect that quality. 
