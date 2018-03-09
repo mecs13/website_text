@@ -7,5 +7,6 @@ XR Cinematography Solution
 
 * Abstract
 
-/coming soon/
- 
+Cinema is among the most natural mediums transitioning into Virtual Reality. With tools like 360 video capture and photogrammetry...photographers, filmographers, directors, and producers are bringing their work into the Virtual World. By donning the VR headset, the viewer becomes immersed in the cinema - experiencing the film all around them. 
+
+In 2018 most 3D cinema is short, with a runtime under 10 minutes. As the technology becomes more widespread, the quality, length and prevalence of these productions will grow. Additionally, we’ll repurpose some of the most popular 2D films into the Virtual World through a three-dimensional remake process.
