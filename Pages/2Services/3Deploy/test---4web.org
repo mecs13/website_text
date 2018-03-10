@@ -13,5 +13,5 @@ Testing
 
 * Abstract
 
-testing is important.  Think of it as refining. 
+Testing is important. Think of it as refining. 
 
