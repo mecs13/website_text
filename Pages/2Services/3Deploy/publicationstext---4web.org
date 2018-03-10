@@ -1,4 +1,3 @@
-
 * Header
 
 Publications
@@ -16,6 +15,3 @@ Publications
 - Embodied Cognition MS
 - Relocation Fin Strat
 - Remote OS Tech Report
-
-
-
