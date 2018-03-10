@@ -1,4 +1,3 @@
-
 * Header
 Nova XR
 
@@ -15,21 +14,21 @@ Who We Are
 
 Nova XR is a team of artists and technicians programming new media.  Our specialty is XR (Extended Reality).  We develop from the 4th floor of the 19th century Beard Street Warehouses in Brooklyn, New York.  
 
-"Nova" is latin for /new/, contrasting the future with fundamentals.   We chose the name because it is simple, versatile and expressive of our work to innovate media technologies.   
+"Nova" is latin for /new/, contrasting the future with fundamentals. We chose the name because it is simple, versatile, and expressive of our approach to innovate media technologies.   
 
 * Content
 
-Virtual Reality brings us to a place where the confines of the physical world can disappear. Time and gravity and our relationship with space have been as much a part of the human experience as our need for air. Now, as the architects of these virtual worlds, we breathe the same air while breaking free from physical measurements.
+Virtual Reality brings us to a place where the confines of the physical world can disappear. Time and gravity and our relationship with space have been as much a part of the human experience as our need for air. Now, in these virtual worlds, we’re breaking free from these physical measurements.
  
-We're reminded of our quest for this new idea of freedom every time we look out the window of our Nova Studios in South Brooklyn and see Liberty Island and her.
+We're reminded of our quest for this new idea of freedom every time we look out the window of our Nova Studios and see the Statue of Liberty.
 
-100 years after the United States formed its own union, the French designed and built the Statue of Liberty to honor this new version of freedom. 10 years later the statue was dedicated on an island in the New York Harbor. It's emergence was followed by one of the greatest periods of human migration, as nearly 20 million people emigrated through the New York Harbor in search of freedom from religious persecution, economic disparity, and tyrannical leadership - elements of their human experience that had shackled them in their home nations. 
+100 years after the United States formed its own union, the French designed and built the Statue of Liberty to honor this new version of freedom. It's emergence was followed by one of the greatest periods of human migration, as nearly 20 million people immigrated through the New York Harbor in search of freedom from religious persecution, economic disparity, and tyrannical leadership - elements of their human experience that had shackled them in their home nations. 
 
-As these immigrants arrived to the New York Harbor fresh off a months-long journey across the Atlantic, they saw her, 151 feet tall, holding up a beacon of light and with a set of shackles laying broken at her feet. 
+As these immigrants arrived to the New York Harbor fresh off a weeks-long journey across the Atlantic, they saw her, 151 feet tall, holding up a beacon of light and with a set of shackles laying broken at her feet. 
 
-More than a century later, Nova XR's studios sit right here in union with her - Extending Reality along a quest to reach this next world. 
+More than a century later, Nova XR's studios sit right here in union with her - Extending Reality along a quest to reach this next world of media. 
 
-Two of our co founders trace their lineage back to folks who immigrated across the Atlantic toward the end of the 19th century, while two others come from Paris, the city in which La Liberté éclairant le monde was conceived. 
+Two of our co founders trace their lineage back to folks who emigrated across the Atlantic toward the end of the 19th century, while two others come from Paris, the city in which La Liberté éclairant le monde was conceived. 
 
 Together we're a small part of the 21st century movement into Extended Reality, and we're inviting others to come along. 
 
