@@ -1,6 +1,5 @@
 ** Development Introduction
 
-XR delelopment is broad and deep, as it is comprised of most skills required for video production and video game development.  Further, the advancement of other technologies, from display to automation, robotics and capture, XR Development is a far reaching and flexible term.   
+XR development is broad and deep, as it’s comprised of most skills required for video production and video game development. Further, the advancement of other technologies - such as display, automation, robotics, capture, and others - XR Development is a far reaching and flexible term.   
 
-/Games/, for the purposes of designing xr in a "game engine", can be understood as follows:  /A competition in which players' skill, chance and/or endurance is deployed with strategy to achieve a goal, in accordance with a set of rules.  Winners write the history/ 
-
+/Games/, for the purposes of designing xr in a "game engine", can be understood as follows:  /A competition in which players' skill, chance and/or endurance is deployed with strategy to achieve a goal, in accordance with a set of rules. Winners write the history/
