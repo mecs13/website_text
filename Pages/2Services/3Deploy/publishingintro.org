@@ -1,11 +1,10 @@
-
 *** Publishing
 **** Distribute
-Our recommendation is to approach distribution similar to the approach of any other content you might create.  The key is still simply putting the correct message in front of the correct audience with effective frequency.  10 million people in the US use VR.   As early adopters, they will influence 50%+ of the market.   
+Our recommendation is to approach distribution similar to the approach of any other content you might create. The key is still putting the correct message in front of the correct audience at the right time. 10 million people in the US use VR. As early adopters, they will influence 50% (or more) of the market.   
 
 [[url of early adopter chart]]
 
-***** Promotiom
+***** Promotion
 ****** Paid
 - advertising space
 - Native adverts
@@ -21,8 +20,8 @@ Our recommendation is to approach distribution similar to the approach of any ot
   + Influencers
 
 ***** Audiences
-****** Early adoptors
-They influene 50% of the market.  [to format graph]
+****** Early adopters
+They influence 50% of the market.  [to format graph]
 
 [[image of people]]
 
@@ -33,6 +32,7 @@ They influene 50% of the market.  [to format graph]
 
 ****** Early Adopters + Innovators       
 18-34, II $100k+, frequent traveler, influential, good networker,  Works freelance, at start-ups to or on project development teams, older Millennials coming into money and support only themselves. 
+
 
 [[image of people]]
 
@@ -53,5 +53,3 @@ They influene 50% of the market.  [to format graph]
 **** Activation
 - Pop up shop
 - Perminant installation
-
-
