@@ -1,6 +1,6 @@
 * Header
 
-Up Coming Productions
+Upcoming Productions
 
 * Second
 
@@ -10,7 +10,6 @@ Up Coming Productions
 
 Live Stream from the Delaware River, off-roading, kayaking, camping.     
 
-Where George Washington lead his continental army, we will be on an AR scavenger hunt.  Maps will be auto genereted with a public and private key for play verification. It is a 36 hour hunt for geo targeted clues that lead to a crypto-hardware-wallet and a pneumonic phrase.   If you don't collect all clues, you might not get the phrase.   
+Where George Washington led the Continental Army, we will be on an AR scavenger hunt. Maps will be auto-generated with a public and private key for play verification. It is a 36 hour hunt for geo targeted clues that lead to a crypto-hardware-wallet and a mnemonic phrase. If you don't collect all the clues, you might not get the phrase.   
 
 Register by emailing AnneIrence@novamedia.nyc
-
