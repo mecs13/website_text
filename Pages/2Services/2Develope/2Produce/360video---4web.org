@@ -5,6 +5,6 @@ Produce
 
 360 Video
 
-* Abstract
+A 360 camera uses multiple lenses to record various shot angles without moving. Once captured they’re stitched together into a spherical digital environment that aligns and balances color grade - creating an atmosphere we can explore multidimensionally inside the VR headset.  
 
-/coming soon/
+Instead of expended time and money on traditional modes of transportation to travel to a different three-dimensional environment, we can now do so from inside this hardware. 
