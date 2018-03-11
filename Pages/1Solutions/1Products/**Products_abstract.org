@@ -3,7 +3,7 @@ Products
 
 * Second
 
-We develop XR for artists and businesses, empowing the design and deployment of virtually anything.
+We develop intuitive designs. The following products are powerful resources for artists and businesses to create and deploy virtual and augmented reality content.
 
 * Abstract
 - Bloomaway
