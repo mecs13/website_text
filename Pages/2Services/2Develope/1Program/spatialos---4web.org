@@ -6,4 +6,6 @@ Spatial OS
 
 * Abstract
 
-/coming soon/
+Content: 
+
+Spatial OS is a software that allows for VR experiences to be stored on a cloud rather than on your local drive. 
