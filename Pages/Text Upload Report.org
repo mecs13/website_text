@@ -36,6 +36,24 @@ Needs links to bulleted text to bring user to resources outside our site. (KK to
 - Text for each of these needs improvement (JM To Do)
 - "Advertising" does not have text 
 
+** Nova XR 
+
+*** About us
+- text is not client facing 
+
+*** Community 
+- Uploaded header, text, picto for philosophy, philanthropy, rent space, photoshoot
+- No image in "community" dropbox folder titled "shout out" (uploaded header and text)
+
+*** Lab Live 
+- No image for "Olympics in VR" but pulled from Art Director 
+- 7 Lab Live pages uploaded 
+
+
+
+
+
+
 
 
 
