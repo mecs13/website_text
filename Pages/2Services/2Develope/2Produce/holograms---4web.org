@@ -5,6 +5,5 @@ Produce
 
 Holograms
 
-* Abstract
-
-/coming soon/
+* Content 
+A hologram is a photographic recording of a light field rather than an image formed by a lens. Holography is the process of creating an interference pattern that diffracts the light  into an arrangement that appears three-dimensionally and replicates an object. 
