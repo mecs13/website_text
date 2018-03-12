@@ -1,10 +1,8 @@
 * Header
+Volumetric Display
 
-Produce
-* Second
+* 3D Object Projection to the Unaided Eye
 
-Volumetric Displays
+* Content: 
 
-* Abstract
-
-/coming soon/
+Volumetric Display is a form of graphic display that creates a visual representation of an object and portrays it into the physical world. It’s the concept of bringing Virtual Reality to the human eye’s natural habitat rather than requiring the human eye to enter into advanced hardware for access to this Visual perception.
