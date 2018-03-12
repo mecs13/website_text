@@ -30,4 +30,7 @@ Needs links to bulleted text to bring user to resources outside our site. (KK to
 *** Develop 
 - Need to add to admin 
 
+*** Deploy 
+- All headers, text, pictos uploaded. 
+
 
