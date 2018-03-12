@@ -71,5 +71,11 @@ Needs links to bulleted text to bring user to resources outside our site. (KK to
 
 Need a "Find Us" on admin
 
+2 Bugs to report: 
+
+1. Text not appearing under "community"
+
+2. After clicking on rectangles in "Design" body of text does not appear
+
 Nice work, guys. Plenty more to come 
 
