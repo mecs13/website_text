@@ -7,3 +7,5 @@ Replicate Real World Movements
 
 * Content 
 A physics engine is the technology that allows objects to behave in the Virtual World similarly to the way the behave in the physical world. It’s a means through which the laws of gravity are incorporated into Extended Reality. 
+
+For businesses interested in an XR solution that required objects to obey the laws of gravity, a physics engine will be a crucial element of your project development. 
