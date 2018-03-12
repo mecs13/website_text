@@ -5,6 +5,6 @@ Produce
 
 Robotics
 
-* Abstract
+* Content
 
-/coming soon/
+This branch of engineering develops machines that can substitute for human beings by replicating their actions. By building the robot with a physicality that resembles human anatomy, the robot is more likely to succeed at completing human tasks. While in the physical world these machines are often used for mechanical work in factories, assembly lines, and in dangerous forms of testing, the Virtual World presents a different purpose. Robots may exist in VR to simulate athletic opponents, resemble deceased loved ones, or act as a guide to a new virtual space. 
