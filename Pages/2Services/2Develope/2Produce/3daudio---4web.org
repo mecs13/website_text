@@ -6,6 +6,8 @@ Produce
 
 3D Audio
 
-* Abstract
+* Content 
 
-/coming soon/
+3D audio is the concept of manipulating sound waves so - even when they come from a speaker - the human ear perceives the sounds as though they’re coming from various points in a physical space. By working with head related transfer function (HRTF), this technology is able to mimic natural sounds waves (which originate from a point in space) and lead us to believe the sounds are coming from above, below, behind, or anywhere else within the three dimensions. 
+
+As you incorporate your own XR solution, 3D audio enhances the lifelike feeling presented to the user by presenting a more diverse sensory experience. 
