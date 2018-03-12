@@ -5,6 +5,8 @@ Produce
 
 Projection Mapping 
 
-* Abstract
+* Content
 
-/coming soon/
+Think of projection mapping as a combination of Virtual and Augmented Reality that does not require a headset. This technology projects images and variations of light and movement onto the walls of a space, so everyone inside is together within the experience. 
+
+Projection mapping is most applicable in cases where it’s important to the vendor that the members of the group remain together in the physical world while experiencing digital visual enhancement. It can be a useful solution for business models that encourage the customer to engage in body movement (dancing, exercising, exploring). 
