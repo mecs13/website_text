@@ -1,15 +1,33 @@
 * Kyle Uploading Text to Admin
 ** 12:30 AM March 12
 
+** Solutions 
+
 *** Industry
-uploaded all 13 header, text, picto 
+uploaded all 13: header, text, picto 
 
 *** Cross Industry 
-Uploaded all 5 header, text, picto 
+Uploaded all 5: header, text, picto 
 
 *** Learning Lab 
-- Pictos not visible in Dropbox location 
-- Uploaded random pictos as placeholder, header, text
+- Pictos not visible in Dropbox location (folder empty)
+- Uploaded random pictos as placeholder and uploaded header, text
 
-*** Resource Center 
-Needs links to bulleted text to bring user to resources outside our site. 
+**** Resource Center 
+Needs links to bulleted text to bring user to resources outside our site. (KK to do)
+
+*** Publication 
+- The titles of the visuals in Dropbox do not match the titles of the web arch ((1) Market Research, (2) Financial Stratetgies)
+- Inside the Publication Admin were 7 folders. The Github folder tree was only contained 2 .orgs (Market Research and Fin Strat). 
+- Action: uploaded the 2 .orgs + Relocation Fin Strat PDF (downloaded from Githu). 
+- We have content for NYE Fin Strat but it's in .org form on Dropbox. Did not upload it to Admin page. 
+
+** Services 
+
+*** Design 
+- All smooth. For all four sections, uploaded header, text, and picto 
+
+*** Develop 
+- Need to add to admin 
+
+
