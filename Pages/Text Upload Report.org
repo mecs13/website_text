@@ -25,12 +25,17 @@ Needs links to bulleted text to bring user to resources outside our site. (KK to
 ** Services 
 
 *** Design 
-- All smooth. For all four sections, uploaded header, text, and picto 
+- Uploaded header, text, and picto for all 4 sections. 
+- Text does not appear on website. 
 
 *** Develop 
-- Need to add to admin 
+- Need this folder added to admin 
 
 *** Deploy 
-- All headers, text, pictos uploaded. 
+- All pictos uploaded
+- Text for each of these needs improvement (JM To Do)
+- "Advertising" does not have text 
+
+
 
 
