@@ -7,4 +7,4 @@ Design
 3D Modeling 
 
 * Content
-Creating your 3D solution may require modeling your products in a 3D software program called Blender. Depending on the creative solution that’s best for you, we may capture images of your products and port them directly into (Unity) (a 3D game engine) or we may take your existing image files (JPEG, PNG) and hand craft them to fit the 3D environment. This is the process of modeling. 
+Creating your 3D solution may require modeling your products in a 3D software program called Blender. Depending on the creative solution that’s best for you, we may capture images of your products and port them directly into Unity (a 3D game engine) or we may take your existing image files (JPEG, PNG) and hand craft them to fit the 3D environment. This is the process of modeling. 
