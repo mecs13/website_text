@@ -7,8 +7,8 @@ Touch In the Virtual World
 * Content 
 Haptic technology invites the sense of the touch into the Virtual World. By coordinating various forms of force and vibration with the user’s movement, we’re beginning to incorporate a 3rd human sense (seeing, hearing) into VR. Most research divides the human sense of touch into 
 
-Cutaneous - affecting the skin
-Kinesthetic - affecting the muscles, tendons, and joints
-Haptic - the ability to grasp
+- Cutaneous: affecting the skin
+- Kinesthetic: affecting the muscles, tendons, and joints
+- Haptic: the ability to grasp
 
 The first two distinctions of touch are generally considered passive while “haptic” is initiated by an active movement by the human body. It’s the first form of touch to become present in the Virtual World. Haptic technology mimics the sensory experience that comes with grasping in an object in your hands. 
