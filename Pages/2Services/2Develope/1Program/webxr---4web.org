@@ -8,4 +8,4 @@ Extended Reality Through Your Web Browser
 
 * Content 
 
-Web XR represents the next step in making Virtual Reality more accessible to the masses. It’s powered by a JavaScript API that allows for compatible web browsers to render 2D and 3D graphics. As VR hardware becomes more agile, users at home will be able to sync their headsets to their computer screen and experience Extended Reality through their web browser. 
+Web XR represents the next step in making Virtual Reality more accessible to the masses. It’s powered by a JavaScript API that allows for compatible web browsers to render 2D and 3D graphics. As VR hardware becomes more agile, users at home will be able to sync their headsets to their computer screen and experience Extended Reality anywhere there's an internet connection. 
