@@ -1,0 +1,19 @@
+* Uploading text Mar 13 5:30 PM
+
+** Develop 
+*** Program 
+- No Visual for Web XR 
+- No text for lisp
+
+*** Produce
+- No visual for Live Stream 
+- No visual for photogrammetry 
+- no Text for Finite State 
+- NO text for Optical tracking 
+- No text for motion capture
+- No text for emotion recognition 
+- No text for micro arch 
+- No text for testing 
+- NO text for biometric 
+- No text for web gl
+
