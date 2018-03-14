@@ -10,6 +10,6 @@ Art is divine
 
 There are two ways artists are interacting with the early days of Virtual Reality. 
 
-- Through programs like Google’s TitleBrush, artists are able to draw and paint their own three-dimensional environments. 
+- Through programs like Google’s TiltBrush, artists are able to draw and paint their own three-dimensional environments. 
 
 -Photographers, painters, sculptors, designers and other visual artists are displaying their physical world creation inside the virtual world. See Infinite Gallery. 
