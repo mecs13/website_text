@@ -1,2 +1,3 @@
-Deploy 
+* Deploy 
+
 This is the process of presenting your XR content to the right audience with the proper timing. The deployment of XR still abides by traditional marketing basics but requires the navigation of additional 3D software and hardware.
