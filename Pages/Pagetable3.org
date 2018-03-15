@@ -24,13 +24,26 @@ title 3
 ---------
 
 
-** List Style
+Productions
+Industry
+Cross Industry
+Learning Lab
+Publications
+Design
+Develop
+Produce
+Network
+Deploy
+Community
+Lab Live
+Production
+Partners
+Careers
 
+** List Style
 - intro
 
-
 ** Product Style:
-
 - Title
 - Tagline
 - Abstract
@@ -39,28 +52,27 @@ title 3
 - background
 - PDF
 
-
 ** Blog Style
-
 - title
 - content
 - square picture
 
 ** Paragraph style
-
 - free-for-fucking all (markdownfile)
 - background (paralax and layers)
 
-
+** manual style
+- paragraph style
+- cant be edited on admin
 
 
  | lvl | page title            | Style | Text     | SEO  | Short URL       | wf   | PDF  | t-d  | pp?   | visuals           | format                     | complete? | txtbx | cal | + |
  |     | =  =  =  =  =         |       | H S A C  |      |                 |      |      | +    |       |                      |                            |       |       |     | + |
- | + 0 | Home                  | -     | - + - +  | +    |                 |      | -    | +    | -     | + polar pink         |                            |       |       |     | + |
- |   0 | legal                 | Pa    | + - - +  | +    | /legal          |      | +    | +    | -     | + sofa               |                            |       |       |     | + |
- |   0 | contact               | Pa    | + + + -  | +    | /contact        |      | -    | +    | -     | + chairs             |                            |       |       |     | + |
- |   0 | Build xr              | -     | + + + -  | +    | /buildxr        |      | -    | +    | -     | -                    |                            |       |       |     | + |
- |   0 | Login                 | Pa    | - - + -  | +    | /login          |      | -    | +    | -     | + woman              |                            |       |       |     | + |
+ | + 0 | Home                  | man    | - + - +  | +    |                 |      | -    | +    | -     | + polar pink         |                            |       |       |     | + |
+ |   0 | legal                 | man    | + - - +  | +    | /legal          |      | +    | +    | -     | + sofa               |                            |       |       |     | + |
+ |   0 | contact               | man    | + + + -  | +    | /contact        |      | -    | +    | -     | + chairs             |                            |       |       |     | + |
+ |   0 | Build xr              | man    | + + + -  | +    | /buildxr        |      | -    | +    | -     | -                    |                            |       |       |     | + |
+ |   0 | Login                 | man    | - - + -  | +    | /login          |      | -    | +    | -     | + woman              |                            |       |       |     | + |
  |     | = Solutions = = = =   | -     | + + + -  | +    | /solutions      |      | -    | +    | -     | + Polar Green        |                            |       |       |     |   |
  |   1 | Products              | Pr    | + + + -  | +    | /products       | ==   | +    | +    | -     | + Inside Torus       |                            |       |       |     |   |
  |   1 | Consultation          | B     | + + + +  | +    | /products       |      | +    | +    | -     | + polar lights       |                            |       |       |     |   |
@@ -102,8 +114,8 @@ title 3
  |   2 | 34. coaches           | PA    |          |      | /coaches        |      | -    | +    | -     | -                    |                            |       |       |     |   |
  |   2 | 35. token sale        | PA    |          |      | /tokensale      |      | -    | +    | -     | - crypto cpoins      |                            |       |       |     |   |
  |   2 | 36. scavenger hunt    | PA    |          |      | /scavengerhun   |      | -    | +    | -     | - ar searching land  |                            |       |       |     |   |
- |     | == CONSULTATION=      | B     | + + + +  | +    | /consultation   |      | -    | +    | -     | + polar green        |                            |       |       |     |   |
- |   2 | ** Ind Solutions **   | B     | + + + -  | +    | /industrysol    |      |      |      |       |                      |                            |       |       |     |   |
+ |     | == CONSULTATION=      | man     | + + + +  | +    | /consultation   |      | -    | +    | -     | + polar green        |                            |       |       |     |   |
+ |   2 | ** Ind Solutions **   | pa**    | + + + -  | +    | /industrysol    |      |      |      |       |                      |                            |       |       |     |   |
  |     | --------------        | ---   | -------  | ---  | ----------      | ---- | ---  |      |       |                      |                            |       |       |     |   |
  | + 3 | Relocation            | P     | + + + -  |      | /relocation     |      | -    | +    | -     | - fish bloomaway2    |                            |       |       |     |   |
  | + 3 | AR Beverage           | P     | + + + -  |      | /arbev          |      | -    | +    |       |                      |                            |       |       |     |   |
@@ -157,7 +169,7 @@ title 3
  |     | ----------------      | ----  | -------- | --   | ==========      | ==   | -    | ==   | ==    | ======               |                            |       |       |     |   |
  | + 2 | *Market Research*     | B     | + + + +  |      | /marketresearch |      | -    | +    | +     |                      | adopt chart, headset sales |       |       |     |   |
  |     | ----------------      | ----  | -------- | --   | ==========      | ==   | -    | ==   | ==    | ======               |                            |       |       |     |   |
- |     | = SERVICES  ==        | =     | + + - -  |      | /services       |      | -    | +    |       |                      |                            |       |       |     |   |
+ |     | = SERVICES  ==        | man     | + + - -  |      | /services       |      | -    | +    |       |                      |                            |       |       |     |   |
  | + 1 | Design                | B     | + + + +  | +    | /products       |      | -    | +    | -     |                      |                            |       |       |     |   |
  |   1 | Develop               | B     | + + + +  | +    | /develop        |      | -    | +    | -     |                      | game engine diag, ge TA    |       |       |     |   |
  |   1 | Deploy                | B     | + + + -  | +    | /deploy         |      | -    | +    | -     | rocket launch        |                            |       |       |     |   |
@@ -215,12 +227,12 @@ title 3
  |     | --------------        | ---   | ---      | ---  | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
  |     | =  NOVA XR     = = =  |       |          |      | /novaxr         |      | -    | +    |       |                      |                            |       |       |     |   |
  |     | --------------        | ---   | ---      | ---  | ----------      | ---- | ---- | ---- |       |                      |                            |       |       |     |   |
- |  +  | Who We Are            | l     |          |      | /whoweare       |      | -    | +    |       |                      |                            |       |       |     |   |
- |  +  | Partnerships          | l     |          |      | /partnerships   |      | -    | +    |       |                      |                            |       |       |     |   |
- |  +  | Find Us               | pa    |          |      | /findus         |      | -    | +    |       |                      |                            |       |       |     |   |
- |     | =WHO WE ARE=          | ===== | ======   | ==   | ===========     | ===  | -    | ===  | ====  |                      |                            |       |       |     |   |
+ |  +  | Who We Are            | man     |          |      | /whoweare       |      | -    | +    |       |                      |                            |       |       |     |   |
+ |  +  | Partnerships          | man     |          |      | /partnerships   |      | -    | +    |       |                      |                            |       |       |     |   |
+ |  +  | Find Us               | man    |          |      | /findus         |      | -    | +    |       |                      |                            |       |       |     |   |
+ |     | =WHO WE ARE=          | === | ======   | ==   | ===========     | ===  | -    | ===  | ====  |                      |                            |       |       |     |   |
  |     | --------------        | ---   | -------  | ---  | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
- |   + | About Us *            | pa    | + + + -  |      | /aboutus        |      | +    | +    |       |                      |                            |       |       |     |   |
+ |   + | About Us *            | man   | + + + -  |      | /aboutus        |      | +    | +    |       |                      |                            |       |       |     |   |
  |     | --------------        | ---   | ---      | ---  | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
  |     | Lab Live   *          | B     |          |      | /lablive        |      | -    | +    |       |                      |                            |       |       |     |   |
  |     | --------------        | ---   | ---      | ---  | ----------      | ---- | ---- | ===  |       |                      |                            |       |       |     |   |
