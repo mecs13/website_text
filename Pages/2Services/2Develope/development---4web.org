@@ -16,10 +16,6 @@ By *networking* the software you can experience with others.  This allows for jo
 
 There are a variety of production techniques, tools and frameworks to make XR.   They are all synchronized in a software framework called a "game engine".
 
- 
-* Content
-
-
 A *game engine* is used to create interactive 3D media (XR).  We build XR in game engines.  They are a powerful visualization tool for developing all the features of the internet, from netowrked play to social sharing, and secure payments, into a single application.    
 
 [GAME ENGINE GRAPHIC - DIAGRAM RAINBOW COLOR]
