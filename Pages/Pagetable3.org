@@ -186,12 +186,12 @@ title 3
  |  +  | Live Stream           | pa    | + + + +  | +    | /livestram      |      | -    | +    | -     | virtual concert      |                            |       |       |     |   |
  |  +  | 3D audio              | pa    | + + - -  | +    | /3daudio        |      | -    | +    | -     |                      |                            |       |       |     |   |
  |  +  | Haptics               | pa    | + + + -  |      | /haptics        |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Volumetric            | pa    | + + + -  |      | /columetric     |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Photogrammetry        | pa    | + + + -  |      | /photogrammet   |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | 360 video             | pa    | + + + -  | +    | /360video       |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Robotics              | pa    | + + + -  |      | /robotics       |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Holograms             | pa    | + + + -  |      | /holograms      |      | -    | +    | -     |                      |                            |       |       |     |   |
- |     | Projection Mapping    | pa    | + + + -  |      | /projectionma   |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | Volumetric            | pa    | + + + -  |      | /columetric     |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | Photogrammetry        | pa    | + + + -  |      | /photogrammet   |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | 360 video             | pa    | + + + -  | +    | /360video       |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | Robotics              | pa    | + + + -  |      | /robotics       |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | Holograms             | pa    | + + + -  |      | /holograms      |      | -    | +    | -     |                      |                            |       |       |     |   |
+ |  +  | Projection Mapping    | pa    | + + + -  |      | /projectionma   |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | Optical Tracing       | pa    | + + + -  |      | /opticaltrack   |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | Motion Capture        | pa    | + + + -  |      | /motioncaptur   |      | -    | +    | -     |                      |                            |       |       |     |   |
  |     | Emotion Recognition   | pa    | + + + -  |      | /emotionrecog   |      | -    | +    | -     |                      |                            |       |       |     |   |
