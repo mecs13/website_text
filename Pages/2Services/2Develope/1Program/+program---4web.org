@@ -4,7 +4,7 @@ Game Engine
 
 * Second
 
-Programming is centralized in a *game engine* is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
+Programming is centralized in a *game engine*, which is a software framework used to create interactive 3D media (XR).  We build XR in game engines.  
 
 * Abstract 
 
