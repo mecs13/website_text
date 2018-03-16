@@ -9,20 +9,30 @@ code
 ** JavaScript 
 JS is one of the three core technologies of the web. In the 21st century, JS is one of the coding languages we rely on to make web pages interactive and construct online programs and video games. 
 
+Can code unity in Java Script. If you already have web skills it allows you to work in Unity without learning new language. Easy networking in VR via web GL. Web GL is JS api that allows you to talk to the gpu from JS. Pretty cool stuff in the web browser. Still limited by security measures. 
+
 ** Python
-This is one of the high-level programming languages in common use today. One of the advantages to programming in python is the ability to express concepts in fewer lines than are typically required. 
+This is one of the high-level programming languages in common use today. One of the advantages to programming in python is the ability to express concepts in fewer lines than are typically required. It's light syntax (doesn't use a lot of characters). Drawback is that  it's a slow language. 
+
+You can write an application on Python and whatever part is slowing you down you can rewrite it in C. Num py allow syou to do easy math. Num pi library goes down to C. They rewrote elements in C. TIOB rank (ranking of programming rank). Easier to recruit is your language is widely used. 
 
 ** C++
-(C plus plus) is a high programming language. It’s commonly the language used to build software infrastructure and desktop apps. Programmers rely on C++ when they’re willing to exchange complexity in the code for speed on the user end. 
+(C plus plus) is a high performance language. It’s commonly the language used to build software infrastructure and desktop apps. Programmers rely on C++ when they’re willing to exchange complexity in the code for speed on the user end. 
+
+Computationally intensive. Marchine learning is computationally heavy tasks. Trade off is security, ease of language, speed. Harder to write good secure code in C++ because the manual management of memory allows the programmer to mistep. 
 
 ** C#
 C sharp is a general purpose programming language developed as part of Microsoft’s “Common Language Infrastructure. The most recent version was released at the end of last year. 
 
+Unity might do C#. If they use .net. Inspired by Java. A lot of applications of windows are written in C# and .net...not comp intensive. 
+
 ** Lisp
-Represents a family of high-level programming languages. It dates back all the way to 1958.
+Represents a family of high-level programming languages. It dates back all the way to 1958. Developed at MIT. Used in 1980s at MIT AI lab. Functional programming language. Particular syntax. It allows to develop very quickly. It's coming back with language like closure and racket that allow you to target the JVM (Java virtual machine). 
 
 ** Back End Admin
-Is a panel built on top of the code that allows users to manipulate basic information that’s displayed to the front-end user. Think of the Admin panel as the first of many layers beneath the web page.  
+Is a panel built on top of the code that allows users to control basic information that’s displayed to the front-end user. Think of the Admin panel as the first of many 
+
+We can build your own backend admin for your aps, XR programs. They can modify their database. User management, adding content to the VR exp, networking. Allows you to change your application dynamically. You personalize your web page. 
 
 ** AI
 Is simply the intelligence demonstrated by various machines. This form of intelligence is gathered by machine learning algorithms. 
