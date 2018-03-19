@@ -11,3 +11,5 @@ Since we know where a user is looking, we also know where they are not. This sim
 
 **** In Business
 One of the most immediate business applications for this program is within the relocation industry. When a company decides to relocate an employee to another city, it's a costly adjustment that requires as many as three visits to the new city for the employee and their family. Factors like living arrangements, transportation options, schooling for their children, and general awareness of the city's geography are all part of this acclimation process. Displaying key parts of the city to the employee in Virtual Reality reduces the number of visits (and thus transportation and accomodation costs) and greatly reduces the financial burden to the company facilitating the relocation. 
+
+
