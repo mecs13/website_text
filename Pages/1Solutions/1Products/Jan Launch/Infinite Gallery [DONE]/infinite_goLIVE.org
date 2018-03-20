@@ -1,17 +1,27 @@
 
 **** Interfacing with VR 
 
-The Infinite gallery is an original VR interface through which businesses can display their content on the walls of an unlimited virtual space. Whether it be the story of your company's history or images of your company's products, we'll use this means of interaction to help you create your own linear VR experience for your customers. 
+As content creators transition to VR they're met with the challenge of presentation. The Infinite Gallery is an original VR interface built to display content linearly and the first step in building customized Virtual architecture.
 
  * Welcome Inside
 
-Once the user enters the Infinite Gallery, they'll find themselves inside a space resembling the decorative walkway of a museum. Dependent on your customized version of the Gallery, the the user will then control their own motion through the walkway (via eye or wrist movement, controller commands, or a touchpad). As they move, they'll rely on their own head and eye movement to turn and view the content displayed on the wall. Just as in the real world, the user can look up, down, side-to-side, and even dictate the pace and direction of their own movement. 
+How the experience unfolds (a bit of the scene and a bit about mobility) 
+
+* The experience begins in a space custom-designed for content display. B
+
+Upon entering the Gallery, they'll find themselves inside a space resembling the decorative walkway of a museum. Dependent on your customized version of the Gallery, the the user will then control their own motion through the walkway (via eye or wrist movement, controller commands, or a touchpad). As they move, they'll rely on their own head and eye movement to turn and view the content displayed on the wall. Just as in the real world, the user can look up, down, side-to-side, and even dictate the pace and direction of their own movement. 
+
+* What can be displayed 
 
 **** Display Anything
 
 Appropriately, the amount of content that can be displayed inside the Infinite Gallery is unlimited. Whether you'd like to display 5, 500, 5,000 or more pieces of information, the user will seamlessly cycle through the infinity loop and view the content you choose to show them. 
 
 We've found this VR interface applicable for various forms of artwork - providing value for photographers who wish to display their content three-dimensionally and even for virtual artists who create VR-ready content from scratch. 
+
+* The concept (how it ties to FW)
+
+* How it's applied to business
 
 **** Business Solutions
 
