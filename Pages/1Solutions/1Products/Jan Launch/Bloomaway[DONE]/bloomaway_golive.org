@@ -4,10 +4,10 @@
 With the first step into Virtual Reality comes uncertainty, so we created Bloomaway. It's seamless virtual navigation powered by user intuition. 
 
 **** Seamless 
-Bloomaway smooths the transition into VR. By eliminating controllers, this internally developed software responds to manual action and optical focus, empowering users to dictate pace and destination. 
+Bloomaway smooths the transition into VR. By eliminating controllers, this internally developed software responds to manual action and optical focus, empowering users to dictate destination and pace of movement. 
 
 **** Virtual 
-Dizziness in VR results from scene shifts within user vantage point. Bloomaway's response is to load environment transitions outside the user's sightline. See the map, touch the destination, turn 180 degrees, and you've arrived. Dreamscape across nations and overseas with touch a sight.
+Dizziness in VR results from scene shifts within user vantage point. Bloomaway solves by loading environment transitions outside the user's sightline. See the map, touch the destination, turn 180 degrees, and you've arrived. Dreamscape across nations and overseas with touch a sight.
 
 **** Transport 
-Bloomaway reduces business travel expenses (like those associated with employee relocation), displaying properties, schools, car dealerships, city buildings, and providing general area orientation in VR. While some experiences cannot be replaced with Virtual Reality, others merge with it to reduce travel demands and maximize time efficiency. Bloomaway ports destinations into VR and brings you there. 
+Bloomaway reduces business travel expenses (like those associated with employee relocation) by displaying properties, schools, car dealerships, city buildings, and providing general area orientation in VR. While some experiences cannot be replaced with Virtual Reality, others merge with it to reduce travel demands and maximize efficiency. Bloomaway ports destinations into VR and brings you there. 
