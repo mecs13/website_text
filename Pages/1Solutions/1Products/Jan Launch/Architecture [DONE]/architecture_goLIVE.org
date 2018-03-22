@@ -1,9 +1,19 @@
+** Tag
+Sketch, Measure, and Build
 
-Before architects introduce their work to the physical world, it's expressed on a blueprint and 2D screen. Virtual Reality acts as an intermediate step between the two dimensional plan for these detailed and costly structures and the process of building them in our cities and towns.
+** Intro 
+Before infrastructure reaches the physical world it's crafted on a 2D screen - an inexact tool. VR is an intermediate space between digital and physical. The architect steps inside his 3D structure to refine its precision. 
 
-In Virtual space, architects gain a firmer understanding of how the geometrical dynamics of their structure will influence aspects like traffic flow and pedestrian movement. They also gain full imagery of the ways in which elements like rainfall and natural lighting will interact with infrastructure. 
+...
 
-Today, more architects are gaining access to computer aided design (CAD) and computer aided manufacturing (CAM). These programs have introduced a new language of forms and shapes that's too complex for the human brain to project and visualize on its own. Virtual Reality is the technological platform enabling the mind to comprehend this elaborate imagery.
+** Increase Certainty 
+In Virtual Space, architects inspect the relationship between the geometrical dynamics of a structure and it's environment. Traffic flow, pedestrian movement, sunlight, and rainfall are among the variables to be evaluated from inside an environment replica. 
 
-Architecture is spatial discipline that's found a natural home home inside the Virtual World. 
+** Expand Potential 
+Today, more architects are gaining access to computer aided design (CAD) and computer aided manufacturing (CAM). These programs introduce a new language of forms and shapes too complex for the human brain to project and visualize. Virtual Reality is the technology enabling the mind to comprehend this imagery.
 
+** The Buyer
+Receives multiple architectural proposals for major construction projects. When receiving a submission in Virtual Reality, the investor, often local government, makes a more informed decision from inside the Virtual Model.       
+
+** Financial Efficiency 
+Architecture is a spatial discipline that's at home in the Virtual World. Inviting architects into VR increases the precision of their calculations and the sensitivity of their design. It's a tool for maximizing efficiency of major construction projects before they break ground in our towns and cities.  
