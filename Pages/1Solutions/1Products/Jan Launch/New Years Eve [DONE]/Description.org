@@ -1,19 +1,24 @@
-In stereoscopic 3D Virtual Reality we bring your guests to 10 iconic cities around the world. All they need is the internet.
+** Tag
 
-On the most exciting evening of the year, we provide your guests with the ability to visit some of the most appealing locations 
-in the world.
+Anywhere In The World 
 
-Once they put on the headset, the guests first arrive in your customized Virtual lobby. Surrounded by your brand, a virtual map 
-appears in front of the guest and they have the opportunity to select their destination of choice. They reach out and touch 
-their preferred city and in seconds they've arrived in a new city. 
+* Description
 
-By arranging a series of 360 cameras in some of the most lively neighborhoods in these cities, we live stream and 
-then centralize the content into a computer graphic game engine, so users can access it from any location. Once inside 
-the New Year’s experience, users have the option of linking up with friends, meeting new people, or soaking in the 
-most energizing evening of the year however they choose.
+Among the earliest yields of VR is Virtual teleportation. Wear the headset, click the button, and travel anywhere. We've crafted this limitlessness into a global New Year's celebration. Guests select from a menu of destinations and join the first ever Live New Year's in VR.
 
-Visit all 10 cities or explore the nuances of just one. You decide.
+** The Experience 
 
-Unite your brand with the first ever live New Year's celebration in Virtual Reality 
+Begin in your branded lobby, the Virtual globe at center. Click it, move it, rotate it, and select among marked locations. Travel stylishly and arrive among the people. Listen to the sounds; explore the town. Stay a while or return to the lobby to explore another celebration. 
 
-New Year’s Eve is an example of the global possibilities of live event streaming in the Virtual World.
+** In Business 
+
+Locations, transportation styles, and clothing preferences are among the customizable elements of this live event. We arrange 360 cameras in cities around the world, stream the content, centralize it in a CG game engine, and publish it on VR app stores. Users can travel with friends, meet new people along the way, or go it alone.
+
+** Effect
+
+Destinations working to attract visitors may display their culture, infrastructure, and appearance - shedding light in a brand new way. 
+
+** Introduce
+
+Teleportation to show real people real destinations on the last night of the year. Make global use of VR's live stream potential.  
+
