@@ -1,11 +1,11 @@
 
 **  The Exterior 
 
-As content creators transition to VR they're met with the challenge of presentation. The Infinite Gallery, our original VR interface, is built to display content linearly. It's step one in creating customized Virtual architecture.
+Content creators transitioning to are met with the challenge of presentation. An original VR interface, The Infinite Gallery is built to display content linearly. It's step one in creating customized Virtual architecture.
 
 ** Welcome Inside
 
-The experience begins in a space custom-designed for content display. A finger against the VR touchpad initiates movement. Remove your finger to stop moving. Continue like this to navigate the entire architectural structure. Just as in the real world, users can move their head to access 360-degree viewing.
+The experience begins in a space custom-designed for content display. A finger against the VR touchpad initiates movement. Remove your finger to stop. Continue like this to navigate the entire architectural structure. Just as in the real world, users can move their head to access 360-degree viewing.
 
 ** What to Display
 
