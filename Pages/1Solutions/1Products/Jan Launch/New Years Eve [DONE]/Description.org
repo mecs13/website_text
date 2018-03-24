@@ -4,7 +4,7 @@ Anywhere In The World
 
 * Description
 
-Among the earliest yields of VR is Virtual teleportation. Wear the headset, click the button, and travel anywhere. We've crafted this limitlessness into a global New Year's celebration. Guests select from a menu of destinations and join the first ever Live New Year's in VR.
+Among the earliest yields of VR is Virtual teleportation. Wear the headset, click the button, and travel anywhere. We've crafted this limitlessness into a global New Year's celebration. Guests select from a globe of destinations and join the first ever Live New Year's in VR.
 
 ** The Experience 
 
@@ -12,7 +12,7 @@ Begin in your branded lobby, the Virtual globe at center. Click it, move it, rot
 
 ** In Business 
 
-Locations, transportation styles, and clothing preferences are among the customizable elements of this live event. We arrange 360 cameras in cities around the world, stream the content, centralize it in a CG game engine, and publish it on VR app stores. Users can travel with friends, meet new people along the way, or go it alone.
+Destinations, transportation, and clothing preferences are among the customizable elements of this live event. We arrange 360 cameras in cities around the world, stream the content, centralize it in a CG game engine, and publish it on VR app stores. Users can travel with friends, meet new people along the way, or go it alone.
 
 ** Effect
 
@@ -20,5 +20,5 @@ Destinations working to attract visitors may display their culture, infrastructu
 
 ** Introduce
 
-Virtual Teleportation to show real people real destinations on the last night of the year. Make global use of VR's live stream potential.  
+Virtual Teleportation to show real people real destinations on the last night of the year. Make global use of VR's live potential.  
 
