@@ -1,7 +1,7 @@
 * Torus 
 
 ** Tag
-Energetic Mobility
+Energy and Mobility
 
 ** The VR Solution
 The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is clumsy. Inspired by VR's fully immersive nature, we developed the Torus to reflect real world energy flow.
