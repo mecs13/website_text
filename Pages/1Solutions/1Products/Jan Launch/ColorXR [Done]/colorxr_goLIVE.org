@@ -1,19 +1,13 @@
 * XR Color
 ** Tagline 
-Virtual Color Palet
+Live in Color 
 
 ** Abstract
-Immerse digital artists inside a 3D color object and allow them active selection of any color on the spectrum
-
-** Description
-
-For more than 100 years we’ve known that color can be divided by hue, lightness, and saturation. With the understanding of these parameters we’ve created a Virtual Experience to present the user with the most complete representation of the color spectrum.
-
-This program can be divided into three categories:
+Currently, designers and developers create immersive worlds off a 2D screen, a barrier between process and product. XR color immerses the human consciousness in a 3D color object and grants interaction with any color on the spectrum. 
 
 **** Choosing color 
 
-Inside XR Color there are three dimensions in which the user can move. Vertical movement changes the lightness - the polar north of the sphere representing pure white and the polar south representing pure black. Through rotation around the polar axis, the user is able to adjust the hue. Altering depth through the center point changes saturation. Complementary colors are available at the reciprocal distance and angle from centerpoint. By reaching out and selecting a given color within the sphere, any color and it's complimentary form will instantly be within reach. A change in color may also take place based on the user's visual focus. 
+Users can move three-dimensionally. Vertical movement alters lightness (polar north representing pure white south pure black). Rotation around the polar axis adjusts hue. Altering horizontal depth changes saturation. Complementary colors are available at the reciprocal distance and angle from center. Any color and it's complimentary form are always within reach. Initiating color adjustments may occur in reaction to optical focus, controller clicks, or adjusting a virtual wristband.
 
 ***** Benefits: 
 
