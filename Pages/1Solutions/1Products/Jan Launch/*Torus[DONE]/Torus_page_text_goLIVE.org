@@ -1,28 +1,23 @@
 * Torus 
 
 ** Tag
-VR Energy Flow
+Energetic Mobility
 
 ** The VR Solution
-The early days of Virtual Reality revealed a core flaw in user experience. Like a computer without a mouse, Virtual Reality without the Tours is clumsy and indirect for new users. 
+The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is clumsy. 
 
 ** Making Nature Virtual 
 
-Energy flow occurs in the same manner at all universal scales. Known scientifically as toroidal flow, it's the energy moves through and around our planet and all life within it. Embedded in our perception of our physical world surroundings is this ,  movement of energy, we  The Torus is Completely immersed in the technology,  
+Energy flows in the same manner at all universal scales. Known scientifically as /toroidal flow/, it's the energetic movement that powers our planet. Similar to the way light colors our vision, toroidal energy drives our perception of movement. To maximize Virtual Reality's function as a tool for enhancing real world experience, we've integrated this energetic flow into immersive technology, enabling intuitive mobility.  
 
+** Applying the Torus
 
-# Making Nature Virtual
+Once the Torus surrounds the user, information emerges in two locations. By glancing above eye level, content appears similarly to a computer screen's top bar. Glance down to access the bottom bar. Both information sources slide, change, and refresh in reaction to eye movement, controller commands, or interaction with a virtual wristband. Customize the Torus however you choose. Once information is selected, the featured content appears at a comfortable viewing angle within the user's vantage point.
 
-As VR is a fully immersive technology, we developed the Torus based on the natural flow of energy experienced by the human body in the physical world, making the transition into VR as intuitive as possible. The Torus embodies the balanced energy flow found in sustainable systems of all scales throughout our planet. This natural energy flow is the primary component that allows each living entity to thrive on its own while also existing in unison with all other live organisms. 
+** Maximizing the Torus
 
-The Torus is based on a central axis - the equilibrium. Depending on how you choose to build your customized Torus, varying parts of the human body can occupy the centerpoint - eyes, feet, midsection, etc. The body can also be placed at the outside of the Torus sphere or even at the bottom or top. The variations can be as simple or complex as you wish. 
-
-
-# Information in VR
-
-Once the Torus emerges around the user, they’ll notice information in two separate locations. By glancing above eye level, they’ll find content delivered similarly to the way information is displayed on the top bar of the computer screen. By looking down they’ll find the bottom bar. Depending on how you choose to build your content, the user may scroll through with eye movement, controller commands, or by adjusting the positioning of a virtual band around their wrist. Once the desired information is selected, the featured content appears at a comfortable viewing angle in front of the user.
+Considering the omnipresence of toroidal flow in the physical world, it's a challenge to narrow down the Torus' applications in Virtual Reality. The most effective VR content promotes mobility and interactivity, and the Torus is designed to facilitate these functions in all cases. 
 
 The Torus is the foundational tool we'll use to build your customized VR content. 
-
 
 [Download 2-Page PDF](Documents/website-text-/Pages/1Solutions/1Products/Jan Launch/Torus)
