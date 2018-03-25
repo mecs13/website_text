@@ -1,4 +1,29 @@
-Relocation
+* Relocation
+
+The allure of Virtual Reality is it's ability to teleport. For more than a century we've grappled with this concept, exploring it in movies, science fiction novels, and quantum physics. The possibility of transporting matter from one location to another without regard to time or space would stand among the greatest developments in human evolution. 
+
+The closest we've come to this experience is inside Virtual Reality - where we're surrounded by a computer-generated environment. With complete mobility and 360 viewing access, the click of a button transports us from one location to another. We could stand in the middle of Manhattan, click the trigger, and in an instant be standing in the middle of Istanbul. We can apply the same effect from inside any setting - buildings, homes, schools, movies, or go from a video game-like setting back into a realistic Virtual environment. 
+
+There are unlimited business applications for this technological capability. Among the earliest in use is in the relocation industry. The process of relocating an employee from one city to another is costly. The company usually funds multiple trips to the new city for the employee and their immediate family members, constructing an orientation program that includes visits to potential homes, visits to local schools, registration with municipal buildings, acclimation to the various modes of transportation, and exploration of the social environment. 
+
+There are a few ways VR can reduce the costs associated with this process.
+
+** Eliminating 1 of the Trips
+Instead of traveling to the new city twice, the employee the first visit takes place in the virtual world. Here they walk the streets of their new city, visit potential apartments or houses, orient with the transportation layout, and visit some of the locations where their kids may attend school. The savings here are immense, as the cost of plane tickets, hotel rooms, and meals are cut in half. 
+
+** Enhancing 1 of the Trips 
+It is possible that after experiencing VR, you still want to afford your employee multiple visits to their new home city. In this case, we set up a Virtual Reality rig at the office where they employee will be relocating to. When they arrive in the new city, the office is among their first visits. Here, they enter VR and visit up to a dozen potential homes in VR, selecting the two or three they prefer most and then viewing those in person. The cost reduction in this scenario comes in 
+*** Time  
+Time spent between the assignee and the liaison is cut in half and so is the number of hours commuting to and viewing listed homes.
+*** Range of Viewing 
+Instead of viewing five or six listed homes in one day (which may be all time permits in the physical world), in VR the employee can see twice as many, decide which ones they're interested in visiting in person, and then be more rested, focused, and aware in order to view these spaces the following day. 
+*** The Cost Reduction  
+If the liaison costs $25/hour for a day of work and Virtual Reality cuts this demand by two hours, there's a $50/day cost reduction for each relocation trip funded. 
+
+*** What it takes to Produce 
+- First we meet with you to storyboard teh 
+
+...
 * Header
 
 XR Relocation Solution 
