@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * Header
 Nova XR
 
@@ -31,4 +32,11 @@ More than a century later, Nova XR's studios sit right here in union with her - 
 Two of our co founders trace their lineage back to folks who emigrated across the Atlantic toward the end of the 19th century, while two others come from Paris, the city in which La Liberté éclairant le monde was conceived. 
 
 Together we're a small part of the 21st century movement into Extended Reality, and we're inviting others to come along. 
+=======
+to read: 
+
+Nova XR is a team of artists and technicians programming new media.  Our specialty is XR (Extended Reality).  We develop from the 4th floor Red Hook's Beard Street Warehouses, Brooklyn, New York.  
+
+"Nova" is latin for /new/, contrasting the future with fundamentals.   We chose the name because it is simple, versatile and expressive of our work to innovate media technologies.   
+>>>>>>>  we ariwhowesre
 
