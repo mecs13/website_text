@@ -1,0 +1,995 @@
+* Web Text 
+
+** Solutions 
+
+*** Products 
+
+**** Intro 
+
+Through consistent experimentation, research, and a desire to solve real problems we've created six original Virtual Reality products.
+
+***** New Year's Eve 
+
+# How It Works
+
+By setting up 360 cameras in 10 of the most iconic locations, we’re live streaming from around the world for 36 consecutive hours. Travel from down under, to Dubai, through the old world, and all the way to North America, experiencing the sights and sounds of New Year's Eve in the most thrilling locations. Anyone with an internet connection can participate. 
+
+# Display Your Brand 
+
+Users can travel with friends, meet new people along the way, or go it alone. Beyond the raw sights and sounds from the 360 video stream, anything about the experience can be sponsored. We could build a customized style of transportation or incorporate brand visibility with retail products placed throughout the XR experience. 
+
+# User Experience 
+
+Begin in your branded lobby, the Virtual globe at center. Click it, move it, rotate it, and select among marked locations. Travel stylishly and arrive among the people. Listen to the sounds; explore the town. Stay a while or return to the lobby to explore another celebration.
+
+# Broadcast 
+
+Destinations working to attract visitors may display their culture, infrastructure, and appearance - shedding light in a brand new way. Virtual Teleportation shows the glamour of your destination. Make global use of VR’s live potential.
+
+***** XR Architecture 
+
+# Abstract 
+Before infrastructure reaches the physical world it's crafted on a 2D screen - an inexact tool. VR is an intermediate space between digital and physical. The architect steps inside his 3D structure to refine its precision.
+
+# Increase Certainty 
+
+In Virtual Space, architects inspect the relationship between the geometrical dynamics of a structure and it's environment. Traffic flow, pedestrian movement, sunlight, and rainfall are among the variables to be evaluated from inside an environment replica. 
+
+# Expand Potential 
+
+!!! Today, more architects are gaining access to computer aided design (CAD) and computer aided manufacturing (CAM). These programs introduce a new language of forms and shapes too complex for the human brain to project and visualize. Virtual Reality is the technology enabling the mind to comprehend this imagery.
+
+# The Buyer
+
+Receives multiple architectural proposals for major construction projects. When receiving a submission in Virtual Reality, the investor, often local government, makes a more informed decision from inside the Virtual Model.       
+
+# Financial Efficiency
+ 
+Architecture is a spatial discipline that's at home in the Virtual World. Inviting architects into VR increases the precision of their calculations and the sensitivity of their design. It's a tool for maximizing efficiency of major construction projects before they break ground in our towns and cities.
+
+***** Infinite Gallery 
+
+# Abstract 
+As content creators transition to VR they’re met with the challenge of presentation. The Infinite Gallery, our original VR interface, is built to display content linearly. It’s step one in creating customized Virtual architecture.
+
+# Welcome Inside
+
+The experience begins in a space custom-designed for content display. A finger against the VR touchpad initiates movement. Remove your finger to stop moving. Continue like this to navigate the entire architectural structure. Just as in the real world, users can move their head to access 360-degree viewing.
+
+# What to Display
+Capable of hosting an unlimited content library, The Infinite Gallery is prepared for original display ideas. Hang products on the wall, show content behind glass window panes, create doorways to varying dimensions, or build the second floor of your company’s customized structure.
+
+# In Business
+This interface is immediately applicable for basic 3D marketing. Regardless of file type, any visual content ports to The Infinite Gallery. Photographers displaying in 3D, galleries scaling beyond a physical location, and 3D artists creating VR-ready content from scratch are among early adopters.
+
+# Provide Access
+At the beginning of the 20th century, F.W. Woolworth altered retail marketing. Before the advent of his “Five and Dime” drugstores, the customer requested a product, the clerk retrieved it, and the transaction took place. Woolworth was the first to display drugstore products on publicly accessible shelves, initiating a physical and emotional connection between goods and customers. 100 years later it remains a global display standard in retail.
+
+# Show Your Story
+The Infinite Gallery is a linear display interface in 3D. Upon reaching the end of your story, the user has connected with your brand.
+
+***** Torus 
+
+# Abstract
+The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is clumsy. Inspired by VR’s fully immersive nature, we developed the Torus to reflect real world energy flow.
+
+# Making Nature Virtual
+
+Energy flows in the same manner at all universal scales. Known scientifically as toroidal flow, it’s the energetic movement that powers our planet. Similar to the way light colors our vision, toroidal energy drives our perception of movement.
+
+!!! To maximize Virtual Reality’s function as a tool for enhancing real world experience, we’ve integrated this energetic flow into immersive technology, enabling intuitive mobility.
+
+# Applying the Torus
+
+Once the Torus surrounds the user, information emerges in two locations. By glancing above eye level, content appears similarly to a computer screen’s top bar. Glance down to access the bottom bar. Both information sources slide, change, and refresh in reaction to eye movement, controller commands, or interaction with a virtual wristband. Customize the Torus however you choose. Once information is selected, the featured content appears at a comfortable viewing angle within the user’s vantage point.
+
+# Maximizing the Torus
+
+Considering the omnipresence of toroidal flow in the physical world, it’s a challenge to narrow down the Torus’ applications in Virtual Reality. The most effective VR content promotes mobility and interactivity, and the Torus is designed to facilitate these functions in all cases.
+
+The Torus is the foundational tool we’ll use to build your customized VR content.
+
+***** XR Color 
+
+# Abstract
+Currently, designers and developers create immersive worlds by working off a 2D screen. There lies a natural incoherence between tool and product. XR Color immerses human consciousness in a 3D color object and grants interaction with any color on the spectrum.
+
+# Choosing color
+
+Users can move three-dimensionally. Vertical movement alters lightness (polar north representing pure white and south pure black). Rotation around the polar axis adjusts hue. Altering horizontal depth changes saturation. Complementary colors are available at the reciprocal distance and angle from center. Any of the interactive options (optical focus, controller click, or a virtual wristband) may initiate interaction.
+
+!!! As more designers and developers interact with color in 3D, richer and more color-coordinated content will result. Eventually, we’ll experience a Virtual world resembling the color and texture of the physical world.
+
+# Understanding Color:
+
+Although color is a foundational component of human sight, how and why our eyes perceive it is often misunderstood. Integrating this Virtual object with academic programs adds a tangible element to the relationship between student and study. Making XR Color available to the general public through VR app stores democratizes this form of immersive education and enhances our understanding of the human sense of sight.
+
+# Pleasure & Wellness
+
+For close to a millennium, humans have practiced various forms of chromotherapy. In some cases, colors are portrayed onto varying body parts to increase blood flow and cleanse anatomical systems. Other methods of chromotherapy work by exposing the eye to specific colors for specific time intervals. XR Color is a new form of accessing chromotherapy.
+
+The health benefits of XR Color span widely, elevating the computer programmer and graphic designer out of their chair - initiating movement, blood flow, and precise access to their paint.
+
+***** Bloomaway 
+
+# Abstract 
+With the first step into Virtual Reality comes uncertainty, so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
+
+## Seamless 
+
+!!! Bloomaway smooths the transition into VR. By eliminating controllers, this internally developed software responds to manual action and optical focus, empowering users to dictate destination and pace of movement. 
+
+## Virtual 
+
+Dizziness in VR results from scene shifts within user vantage point. Bloomaway solves by loading environment transitions outside the user's sightline. See the map, touch the destination, turn 180 degrees, and you've arrived. Dreamscape across nations and overseas with touch and sight.
+
+## Transport 
+
+Bloomaway reduces business travel expenses (like those associated with employee relocation) by displaying properties, schools, car dealerships, city buildings, and providing general area orientation in VR. While some experiences cannot be replicated by Virtual Reality, others merge with it to reduce travel demands and maximize efficiency. Bloomaway ports destinations into VR and brings you to them.
+
+...
+
+*** Consultation 
+
+**** Intro 
+
+Virtual Reality (VR) and Augmented Reality (AR), fitting under the parent term "Extended Reality", enhance communication, collaboration, and education. Unlike it's predecessors, XR Media is interactive, calling on the user to embody their consciousness.
+
+These technologies will increasingly be in the home, integrating with daily living in the way televisions, computers, and phones already have. As of today, you can engage with simulated environments through your phone (or XR glasses/goggles).
+
+Historical rates of technological adoption suggest 25% of the US population will have an AR/VR in their homes within the next five years. It's the next frontier of human connectivity.
+
+In business, XR Media cuts internal costs by providing immersive training programs and business travel alternatives. When used to drive revenue, XR is a natural marketing tool, the backdrop for new age content creation.
+
+XR Media can be the ultimate communication tool or the reason your business falls behind.
+
+**** Industry 
+
+People of every industry are finding solutions to their most stubborn challenges by producing immersive (XR) media content. Share, communicate, and learn. 
+
+***** XR Relocation 
+
+When an employee is relocated to a new city they must find a place to live, the proper school for their children, obtain national and state documentation, and learn the geography of the city. In preparation for the move the employee takes multiple flights. VR makes the trips more efficient. 
+
+Visiting a complete list of potential homes may require an entire day of travel navigating city traffic. VR condenses time when users explore homes inside the VR headset. A process called photogrammetry builds the environment around them. 
+
+After visiting 10 or more virtual homes the employee travels to their three favorite properties in the physical world, reducing the stress of a home search. On the ground, the relocation service spends less time touring the employee around the new city and cuts internal costs. 
+
+***** XR Auto Revolution 
+
+Through various holiday sales and new vehicle features, the automotive industry works to attract buyers to the showroom. Virtual Reality brings a three-dimensional automotive experience to the buyer’s home. Inside their VR headset, the user is able to interact with the vehicle and even sit in the driver's seat. 
+
+First we capture dozens of photos from various angles of both the vehicle's interior and exterior, a process known as photogrammetry. Once the images are captured, they're arranged (or "meshed") together in a 3D software to be exported and made compatible with VR hardware. 
+
+The end result: the user can sit inside the car and walk around the exterior of the vehicle. Once they sit behind the wheel, they’ll be able to adjust the seat and mirror before turning the key and taking the car for a simulated test-drive through the streets of any city or town in the world.
+
+***** Travel and Tourism 
+
+National ministries (tourism/trade divisions) are developing content that lets us soar through the sky like an Olympic ski jumper (Korea Tourism Office, ~$100k), hang out backstage with Sir Paul McCartney (Visit Britain, ~$1.5mm), and swim the crystal clear Caribbean alongside stingrays (Caribbean Island, ~$300,000). These organizations are finding that immersive media engages travelers and influences agencies more effectively than any media prior, with more robust analytics to prove return on investment.
+
+«Before, travelers just had a brochure or information on the website to inform their choices. Virtual reality allows them to get a true sense of the hotel and the excursion they can go on. It’s been a real game changer for us all.»
+  - Marco Ryan, Chief Digital Officer, Thomas Cook
+
+«…Virtual reality let’s our travel trade and media partners experience our destination in a new and unique way that has not been possible before.»
+   -Marsha Walden, CEO, Destination British Columbia.
+
+***** Medical 
+
+# Neuroscience
+Stanford Medicine is using a software system that combines imaging from MRIs, CT scans, and angiograms to create a three dimensional model of the patient's brain prior to surgery.
+
+Inside these 3D renderings, surgeons wear the headset and step inside a model of the patient's brain. It's a pre-op tool that allows for customized planning. Interaction with the three dimensional images enhances preparation and improves accuracy.
+
+“We can plan out how we can approach a tumor and avoid critical areas like the motor cortex or the sensory areas. Before, we didn’t have the ability to reconstruct it in three dimensions; we’d have to do it in our minds." -Gary Steinberg, MD, neurosurgeon, PhD.
+
+
+https://www.youtube.com/watch?v=TYBxhomLAcw
+
+https://med.stanford.edu/news/all-news/2017/07/virtual-reality-system-helps-surgeons-reassures-patients.html
+
+***** Education 
+Like the media platforms before it, Extended Reality will continue merging with educational systems around the world and advance visual learning. 
+
+The industry is implementing bar code stickers for the interior of academic textbooks. Scanning the code with an AR kit brings information off the page. This visual learning also reduces the cognitive load required of school teachers.   
+
+In a test run for this program students learned basic anatomy of the heart. 
+
+***** Travel 
+XR is the ultimate travel-branding tool. You have full control over the travel experience - untapped potential in the industry. The fun is hardly the destination but how we arrive there, soaking in the glories and tribulations along the way.
+
+***** Immersive Art 
+
+Artists are already creating and displaying in Virtual Reality. 
+
+Google's "Tilt Brush" is a Virtual painting program. Stepping inside, artists select various brush strokes, hues, and implements for designing 3D models. In Tilt Brush, and similar customized programs, graphic designers are learning how to design 3D models in a 3D space, enhancing the work they've already done in programs like Blender and Maya.
+
+In addition to the creation of 3D models, artists and businesses are displaying artwork in the Virtual World. The work of Photographers, sculptors, designers, and other visual artists are on display in Virtual art galleries. See Infinite Gallery.
+
+***** Design 
+Designers are at home in the new Virtual World. The art of Design is taking on two definitions in VR. 
+
+1) Preplanning: All major projects go through a preliminary design phase. Before architectural, construction, transportation or assembly projects are configured in the physical world, they’re first outlined on a computer screen. Virtual Reality has introduced an intermediary step between this pre planning process and it’s real-world incorporation. Developing and experiencing these projects in the Virtual World before breaking ground in the physical world is becoming a crucial portion of the process.
+
+2) With the Virtual World maturing, more companies are seeking three-dimensional artwork. Logos, animations, and 3D renders are moving to the forefront of brand mentality. As entertainment and commerce shift into 3D, you’re brand will do the same.
+
+***** Gaming 
+
+# The Pioneering Industry 
+
+In its earliest days, Virtual Reality was predominantly a home for gamers. Classic video games like "Doom" have been remade for VR, while new games like "The Price of Freedom" are expanding the concept of VR gaming. 
+
+The software programs most commonly used to build Virtual programs (game engines like Unity and Unreal) were first a platforms for building video games. These game engines are now evolving to build all forms of Virtual interactivity. 
+
+VR is different from most media forms that have come before it. Unlike newspapers, books, radio, and television, VR encourages the user to be part of the content, using their body and mind to influencing the information surrounding them. This is a principle first mastered in the gaming industry. 
+
+We continue to source the expertise of video game programmers to realize VR's potential. 
+
+***** Entertainment 
+
+The transition from analog to digital was a shock to the media and live entertainment industries, altering them from all angles. While the Virtual shift remains digital, it’s impact is equally as sizeable as computer science again alters the way we interact with media. A decade ago, phone screens and HD televisions brought mobility and clarity to the way consumers ingest information. Virtual and Augmented reality are inviting the consumer inside the information - blending the physical and digital worlds.
+
+With the boom of new AR applications, XR has become the new platform for entertainment media. A connection and experience unlike anything possible through traditional media, XR allows the user to connect with and be part of the scene they’re viewing.
+
+***** Cinema 
+Cinema is among the most natural mediums transitioning into Virtual Reality. With tools like 360 video capture and photogrammetry...photographers, filmographers, directors, and producers are bringing their work into the Virtual World. By donning the VR headset, the viewer becomes immersed in the cinema - experiencing the film all around them.
+
+In 2018 most 3D cinema is short, with a runtime under 10 minutes. As the technology becomes more widespread, the quality, length and prevalence of these productions will grow. Additionally, we’ll repurpose some of the most popular 2D films into the Virtual World through a three-dimensional remake process.
+
+***** Hiring 
+Even some of the most successful companies struggle to hire the right employees. The applicant creates a resume from their most attractive accomplishments and prepares their best presentation to display during the interview process.
+
+Virtual Reality provides an opportunity to evaluate the psychology of the applicant more explicitly. By presenting a Virtual component to supplement your company’s interview process, you’ll ask the applicant to enter an interactive Virtual World in which they’ll go through a series of short prompts. Through advanced psychological studies, we’ll help you understand how the applicant’s interaction with the Virtual prompts reveals elements of their mentality, learning style, and competence as related to the particular job opening.
+
+Data collected from their spatial behavior, interaction with various objects, and reaction to varying colors will help companies better evaluate applicants and ultimately reduce costs in their HR department.
+
+***** Architecture 
+Allow architects the opportunity to sketch, measure, and create a 3D image of the structure they're building. Google's TiltBrush program is a generic example of this concept. This will bring the blueprint off the page and into 3D, uniting the architects with their vision in a 3D environment. We carry this out by porting CAD designs into executables produced in game engines.
+
+Cross Platform Virtual Reality environments
+Designed in Virtual Reality engines (traditionally used for video game creation), these interactive 3D environments are created for the inside of your designs.
+
+Scenario Planning
+Transform your own 3D models into VR environments and interact with them, manipulating and assessing the constructability, impact, and cost.
+
+Timely and Cost Effective
+VR leads to richer comprehension and retention for the user. This allows you to accomplish more at a quicker rate.
+
+**** Cross Industry 
+Allow the immersion of Virtual Reality to draw a stronger connection between the donor and those who are in need of their assistance.
+
+At the root of fundraising is the empathetic connection that encourages funds to change hands. Take the example of the Wounded Warriors Project. With a mission of offering a variety of educational, health, and employment programs to veterans, the foundation relies heavily on donations from a variety of sources. Often these donations are solicited at events that attempt to communicate the journey, mentality, and some of the post-combat struggles that afflict soldiers across the country.
+
+For those who’ve never been to war, one of the most incomprehensible tasks is truly understanding the journey of a soldier. Advanced technology does not bridge this gap between civilians and soldiers. However, it can increase the likelihood of striking an empathetic connection.
+
+At a fundraising event geared toward raising money for Wounded Warriors, Virtual Reality can take the donor inside an immersive experience that reflects some of the perils and post-combat ills that plague soldiers. Virtual Reality can digitally put the donor in the place of a soldier as the say goodbye to their family, arrive oversees, and ride through foreign terrain toward combat. Inside the headset, the donor can also experience the elation of returning home from war and the devastation of rehabilitating some of the life-altering injuries sustained by these men and women.
+
+When used in this way, VR is a powerful tool for eliciting empathy.
+
+***** Fundraising 
+Allow the immersion of Virtual Reality to draw a stronger connection between the donor and those who are in need of their assistance.
+
+At the root of fundraising is the empathetic connection that encourages funds to change hands. Take the example of the Wounded Warriors Project. With a mission of offering a variety of educational, health, and employment programs to veterans, the foundation relies heavily on donations from a variety of sources. Often these donations are solicited at events that attempt to communicate the journey, mentality, and some of the post-combat struggles that afflict soldiers across the country.
+
+For those who’ve never been to war, one of the most incomprehensible tasks is truly understanding the journey of a soldier. Advanced technology does not bridge this gap between civilians and soldiers. However, it can increase the likelihood of striking an empathetic connection.
+
+At a fundraising event geared toward raising money for Wounded Warriors, Virtual Reality can take the donor inside an immersive experience that reflects some of the perils and post-combat ills that plague soldiers. Virtual Reality can digitally put the donor in the place of a soldier as the say goodbye to their family, arrive oversees, and ride through foreign terrain toward combat. Inside the headset, the donor can also experience the elation of returning home from war and the devastation of rehabilitating some of the life-altering injuries sustained by these men and women.
+
+When used in this way, VR is a powerful tool for eliciting empathy.
+
+***** World Peace
+Virtual Reality will democratize experience.
+
+Consider how the internet democratized information.
+
+The internet has globalized us. We communicate, share, and do business with people around the world - most we've never met in person. We may have never seen their face or heard their voice, but we /know/ them.
+
+XR empowers remote access to in-person experiences through shared virtual environments.
+
+If we really knew what it was like to walk in another's shoes, we'd be humbled. If we visited the places our governments declared as enemies, we'd ask more questions. If we knew first hand the horrors of war, the inhumanity of greed, and the glory of love, we'd live differently.
+
+Virtual Reality will democratize experience and facilitate peace.
+
+***** Collaboration 
+# Virtual Meetings
+Despite thousands of physical miles that may separate business associates, Virtual Chat Rooms allow folks to be together in the same Virtual space. Thin flexible fibers with glass core light signals (fiber optics) send data and information at a rate of 50Mps. Our movements and voices are read and replicated, so recipients can experience these behaviors through simulated software. We’re now calling this technology "Virtual Reality."
+
+As VR becomes more prevalent in business, it will replace video conferencing. Instead of seeing the image of a colleague's face on your 2D computer screen, you'll put on the headset and join them in a Virtual Conference room, hearing their voice in 3D audio and using Virtual controller commands to trigger interaction and demonstration.
+
+***** Public Relations  
+Public Relations is content creation promoting a cause. In Julius Caesar's Rome, Acta Diurna were daily notices carved on stone and posted throughout the city. They were legal proceedings, outcomes of trials, and notable births, deaths, and marriages. In the 15th century, PR reached farther and wider with the advent of the Printing Press. 
+
+In 1807 Thomas Jefferson was the first to use the term "Public Relations" in an address to the US Congress. By the end of that century Westinghouse Electric Corporation was the first company to establish a PR department. It came in the heat of their rivalry with Thomas Edison's General Electric. PR boomed through the first half of the 20th century when the most powerful nations in the world communicated to their citizens during both World War I and World War II.   
+
+After the Second War came a revolution in communication, and the Television emerged as the most powerful visual media. Political speeches, branded commercials, and paid programming became the freshest means of relating to the public. The PR movement gained steam as we moved into the next millennium, companies and political campaigns reaching people on the internet and eventually through social media. 
+
+Now, in the heart of the information age, new brands and old ones, politicians and celebrities are vying for attention - the most successful of them communicating with and expanding their audience constantly and creatively.
+
+With a quick glance to the near future, we see a new media platform ready to host your message. Step away from the noise of social media and into Extended Reality. Share your story in your own way.  
+
+***** XR Marketing 
+
+
+**** Learning Lab 
+
+***** Resource Center
+
+VR for mapping and regenerating memory:
+https://www.universityofcalifornia.edu/news/fighting-memory-loss-virtual-reality
+
+
+Through academic relationships and our own study of the industry and its history, we'll periodically deliver presentations and supporting documents to assist your understanding of XR and better assist your clients.
+
+Academic Papers
+Production Tools
+Favorite Forums
+Featured this week
+News
+Chatbot
+
+LET'S GO INTO THE DROPBOX LIBRARY AND POST SOME OF THE ACADEMIC PAPERS
+
+***** E-Learning 
+# Edgar Dale 
+As we become more submerged in Extended Reality technologies, we're re-examining studies of human cognition that have come before. 
+
+In the middle of the 20th century, educator Edgar Dale developed the "Cone of Learning," helping us visualize the way our minds retain information. Through his study we learned that within two weeks of participating in an activity, the human brain remembers 90% of the information included in that activity. By comparison, the brain remembers just 50% of the information it sees and hears. 
+
+Virtual Reality is predicated on "doing." It's an interactive media calling on the user to reach out and touch objects, pick them up, and move them throughout a Virtual space.
+
+# René Descartes
+
+Long before Edgar Dale, French philosopher René  Descartes was a leading intellectual of the 17th century. His meditations on existence, God, Reason and how those topics relate to Algebra and Geometry led to his ground breaking writings that are still studied in Universities across the world today. He's often referred to as the father of modern western philosophy and a predecessor to the Scientific Revolution. 
+
+Among his most famous concepts is Mind/Body Dualism. As he considered the nature of human consciousness, he settled on the phrase "I think therefore I am." Descartes believed that human existence could be proven in that human beings have thoughts. With "thought" as the center of existence, Descartes understood there to be a separation between the mind and the body. 
+
+This philosophy has become the basis for a modern psychological study termed Embodied Cognition. It's the study of how the human mind communicates with the adjoining body and how human cognition is implanted into the world only through the mind's control over the body. 
+
+Like Dale's Cone of Learning, the importance of Descartes' Mind/Body Dualism is re-emerging. As Virtual Reality grows, we're stepping into a medium that's calling on us to embody our cognition and use our physical dexterity to influence our surroundings.
+
+***** Basic Knowledge
+AR is the mobile solution to full immersion (VR)
+
+# Augmented Reality:
+ 
+Experienced through a screen, it's the principle of imposing digital information onto a physical world environment. Look through your phone screen as you would with your camera app and see an Augmented World. 
+
+Applications are centered on physical world scavenger hunts like Pokemon Go, facilitating creative collaboration on the backend and group activity among users. AR reemerged with the advent of the Iphone, yet it's been in the public eye for decades, dating back to the earliest graphics on television screens, the scoreboard appearing during athletic broadcasts, or the digitized open to a nightly news broadcast. 
+
+# Virtual Reality: 
+Put on the headset and enter a fully immersive world. Looking up, down, and in every direction, the user perceives an entirely Virtual Environment. Click the controls to be transported to another location, or use similar commands to influence your surroundings. Lift objects or adjust the time of day and color quality inside VR. 
+
+Travel to alternate environments has existed in Science Fiction for more than a century, yet the origin of hardware-aided VR first existed in the mid 1900s - pioneered by Morton Heilig's "Experience Theatre." Less than two decades later, MIT released the "Aspen Movie Match" in which users could move through the Virtual world in one of three modes: winter, summer, or polygons. 
+
+VR has experienced may iterations in the years since, yet the biggest leap forward emerged in 2016 when both HTC - a Taiwanese tech company - and Facebook released competing state-of-the-art VR hardware. Microsoft, Sony, and Samsung, and Stanford University are invested in the technology. 
+
+*** Publications
+These Publications are to serve as in depth resources for better understanding financial strategies and market entry. They are part of the free resources Nova provides to the community at large.
+
+**** Relocation Financial Strategy 
+One of the most powerful applications of VR is Virtual Teleportation. This capability inside the Virtual world introduces a number of travel-based business solutions, the most immediate of which we've found within the relocation industry. 
+
+When a company relocates an employee from one city to another, the move may require multiple flights to the target city. The employee must find a new home, orient with the geography, and determine the right school for their children. 
+
+Customizing this solution for various relocation-based businesses includes the following Financial Strategy.
+
+* Abstract
+This document investigates a financial strategy to scale VR in the relocation industry. When a company relocates an employee, this implies the cost of accommodating the employee to this new location. This translates into flights, meals, lack of sleep, lack of availability at work among other issues. 
+
+The analysis covers the costs of the application itself, the hardware necessary to run it, and the content development costs. A strategy is suggested to obtain a return on investment as quickly as possible and break even during the second year following the project's start.
+
+By replacing the employee’s first exploration trip to the new city with a virtual experience (simulating the location), Dwellworks could save between *33% to 50%* of traveling related costs and could see a net return on investment of about *$1 million* by year 4.
+
+* Introduction
+Using virtual reality in the relocation industry in order to reduce operating costs is an obvious application of the technology. We will try to quantify the costs associated with such a project and the revenue it can generate. We will then define a method to scale the project to multiple cities until all the cities are accessible from the VR platform.
+
+**** NYE Financial Strategy 
+Before we present an XR solution to a client, we enter into an intense period of financial analysis to determine the path to ROI. During this process, we learn about some of the best and worse case scenarios, building them out on top of a quantitative foundation. 
+
+The Abstract and Introduction below are the beginning of our Financial Strategy for New Year's XR. 
+
+/See our Contact page to inquire about more info/
+
+# Abstract
+
+This document analyzes the New Year's XR Virtual Reality experience from the perspective of the advertiser. Our subject is a tourism board seeking increased visibility abroad and short term foot traffic at home. The project's return on investment is detailed before the paper's conclusion. 
+
+# Introduction
+Nova Media is producing New Year's Eve in Virtual Reality, an opportunity to reach a target audience through immersive media. This project heavily targets VR headset owners, encouraging them to try New Year's XR with friends to increase the program's overall viewership.  
+
+This paper investigates the advertising potential of New Year's XR. The cost of sponsoring New Year's XR is $100,000, 20% of which will be dedicated to the advertising budget. There will be 10 sponsors and thus a $200,000 ad budget. By pooling together 10 ad buyers, your $20,000 investment returns as a $200,000 product. Through specific social media channels and YouTube programming geared directly toward this campaign's target market, we explain the probability of going viral and what that means for your final return on investment.
+
+/See our Contact page to inquire about more info/
+
+**** Projection Mapping Market Research 
+
+One of the display options within Extended Reality is Projection Mapping. With a series of images projected onto the walls, users are taken into a digitally created 3D environment without holding a smartphone or wearing a VR headset. 
+
+Industries have used projection mapping for decades as a means of enhancing both their product image and marketing strategies. While the term is relatively new, we see traces of this content display dating all the way back to 1969 at Disney’s haunted mansion ride, when the technology was more commonly referred to as “Spatial Augmented Reality.”
+
+Five decades later, “Projection Mapping” has stretched into many corners of entertainment, education, and visual art. For nine consecutive years in Australia, the Sydney Opera House has hosted “The Lighting of the Sails” - selecting a digital production company to display a dramatic and colorful array of images and motion pictures onto the grand sails of the famous 20th Opera House.
+
+Every fall, the city of Bucharest hosts the biggest projection mapping competition in the world, inviting visual artists to project a series of mapped structures onto the 60,000 square foot facade of the Palace of Parliament, the second largest administrative building in the world. The event is called Imap Bucharest.
+
+In 2017 the Canadian tech company SAGA released a project called “The Interactive Gym.” By projecting a series of shapes onto the wall of an elementary school gymnasium, the product enticed young students to participate in physical education class. With the objective of tossing a ball against the wall and pegging the projected shapes in motion, students earned points in accordance with the accuracy of their tosses. With a prototype created in less than a month, SAGA has begun investigating the deeper seeded influence of combining digital gaming with physical activity and team play.
+
+In her book titled “Alone Together,” Sherry Turke, a social scientist at MIT, summed up an alarming phenomenon we’ve all become familiar with since the advent of the smartphone. It’s the feeling you get when you’re in the same room with close friends, family members, or coworkers, yet everyone is silent - interacting only with the tiny screens between their fingers. It's disconnectedness. The recent development of Extended Reality is influencing this concept, enticing users to interact with the technology as a group.
+
+**** NYE Market Research 
+
+Nova's New Year's XR is the first ever live New Year's celebration in Virtual Reality. We set up 360 cameras in 10 cities around the globe and live stream the scene from Times Square or a rooftop in Dubai on the most festive night of the year. We evaluated the market for this content and quantified how many potential viewers might be at home and interested in experiencing this content: 
+
+Live streaming from an array of global destinations has never happened in VR, yet the concept has already been validated in 2D. On December 31, 2017 Time Magazine streamed live from 12 countries across four continents.
+
+As we enhance this concept for VR technology, consider most VR users access their equipment at home, similar to the way television content is consumed. As New Year's Eve is famous for attracting people into the nightlife, we examine how many people in the United States were viewing each of the last three New Year's Eve Celebrations on the four major American television networks. {{{cite(NYE-2D-Stream)}}}
+
+#+CAPTION: NYE network ratings
+| Network | 2015    | 2016    | 2017     |
+|---------+---------+---------+----------|
+| ABC     | 18 mil  | 16 mil  | 21.1 mil |
+| CBS     | 3.1 mil | 3.4 mil | 3.1 mil  |
+| NBC     | 6 mil   | 6.6 mil | 3.6 mil  |
+| FOX     | 4 mil   | 6.6 mil | 3.6 mil  |
+
+
+Over the last three years the major American networks have combined to average 30 million viewers on New Year's Eve. On Average, 12.5 million of those viewers came from the 18-49 age demographic (the same demo that owns the majority of Virtual Reality headsets.
+
+There are three important conclusions to draw from the information in this section: 
+
+ 1) Major publications like Time Magazine and high profile tourism locations like Dubai, Hong Kong, Rio De Janeiro, and New York City have already adopted this live stream concept on New Year's Eve.
+ 2) The basic hardware and software challenges presented by this streaming concept have already been validated for the flat screen. 
+ 3) Despite New Year's Eve being famous for drawing people out of the home and into the nightlife, official network ratings reveal that millions of people are in fact in the home on this night of celebration. 
+
+Also to Note: a VR studio in Amsterdam released a 360º video series in 2017 centered on immersive VR tours of London, Amsterdam, Bangkok, and Rome (among others). In total, the series received more than one million views on YouTube. 360º is an immersive experience that is beginning to drive Virtual travel. 
+
+"...[Virtual Reality] let's our travel trade and media partners experience our destination in a new and unique way that has not been possible before." - Marsha Walden, CEO, Destination British Columbia.
+
+
+** Services
+
+*** Design 
+In XR, the term "Design" has two identities. First, we work with you to design a customized XR world. Then we design 3D models of your vision to be featured in your story.
+
+**** Sketch
+# From Scratch
+During the first step of the design process we'll evaluate your business to understand which type of customized XR solution fits your brand. XR is capable of providing two types of business solutions.
+
+# 1) Increasing Business Acquisition
+This is a marketing solution. We help you create Extended Reality for acquiring more business. This is akin to the way you create video content to promote on YouTube, Facebook, or television. In XR, rather than reaching people on a 2D screen, the user will interact with the content inside a 3D world. 
+
+# 2) Internal Training
+Extended Reality offers a more immersive and interactive solution to internal business communication. Instead of centering training sessions on verbal connection between computer screens, you'll train new employees by welcoming them inside a 3D learning environment.
+
+**** Storyboard 
+
+# Step By Step
+
+To build a detailed experience from top to bottom we may ask you to prepare specific information for our next discussion. Depending on your industry and style of business, we'll need access to additional information about the ways your customers interact with your product or service.
+
+Then we begin storyboarding your XR content. Think of this as an outline of what your customer will experience when they're inside your Virtual World. What does the lobby look like? How do the home screen options appear? Does the user reach out and touch to select or does the program respond to optical focus?
+
+In many ways, designing your Virtual space is like designing a physical space. We need to consider the size of the space, it's dimensions, and the distance between featured objects. What does the world look like? What are movements the user will deploy and experience as they progress through the content?
+
+As we build your experience, it's imperative that the theme and the visuals inside align with your brand mentality and brand image. This is all part of the story building phase.
+
+**** Script 
+# User Journey
+Once we've sketched the parameters of your experience, we'll construct your brand's user story. This is when we imagine the type of user who will engage with your content. What demographics do they fit into? Where will they learn about your content? What inspires them to act on their awareness? What do they want from their experience? How does it make them feel?
+
+Once we understand the answers to these questions, we'll create a script to articulate, from start to finish, the user journey, so you can imagine who your customer is and understand each step of their experience.
+
+This element of the design phase often emerges as a narrative with characters, scenes, and dialogue. 
+
+**** Model 
+# Creating Visuals
+
+Virtual Reality content can be divided into two broad categories.
+
+# 1) Lens Capture
+This is content captured by a camera lens and closely resembling the physical world. Think of it as VR's version of realism. Motion picture content is captured by a 360 camera, while still images are gathered through a process called photogrammetry (taking dozens of shots from various angles and stitching them together to create an inhabitable, 3D photograph).
+
+# 2) Game Engined
+This content is built in a software program (often "Unity" or "Unreal") and appears more akin to a video game or digitized world.
+
+Regardless of which path you take (and there is the option to combine the two), we will model the "assets" that make up your Virtual World.
+
+Lens-captured content will be modeled by a photographer while game engined content will be created first in a 3D modeling software (often "Blender" or "Maya") and then ported into the game engine and configured for viewing inside the headset.
+
+*** Develop
+The VR we develop is programmable. Virtual experiences can be manipulated through inputs such as code, player interfacing, or physiological behaviors. Content produced can range from photo-real capture to entirely fictitious dreamscapes.
+
+"Networking" the software allows multiple people to interact in VR together. Some of its immediate results are market creation, distributed file keeping, and remote access to devices.
+
+There are a variety of production techniques, tools, and frameworks used to make XR. They are all synchronized in a software framework called a "game engine". A game engine is used to create interactive 3D media (XR). These engines are powerful visualization tools for developing all the features of the internet (networked play, social sharing, secure payments, etc.) into a single application.
+
+Game engines empower developers to custom-design virtual environments. The core game engine frameworks include rendering 3D graphics, engineering physics engines (and response systems), managing memory, and handling graphics scenes.
+
+Nova economizes the Virtual Reality (VR) development process by adapting game engine builds (software executable) to create new VR experiences. By developing with foresight, producers save time and money.
+
+Game Engines you may have heard of are:
+
+Unity, Unreal, Cryengine, GameMaker Studio, HTML5, Godot, OpenGL, Blender, Source, Lumberyard, Torque, Frostbite, Doom Engine, Havok, MonkeyEngine, Panda3D, PhyreEngine, Ren'Py, ORX, ORGE, HeroEngine, RenderWare, Freescape, LithTech, GoldBox
+
+Please replace current "Develop" intro text with...
+
+They all include advantages and disadvantages (varying features, code, graphical interfaces, etc.). The best way to determine your favorite game engine is by understanding what you want to accomplish and why.
+
+**** Program 
+XR Programming is centralized in a "game engine", a software framework used to create interactive 3D media. This is where we build your XR experiences.
+
+***** Web XR 
+# XR Through Your Browser
+Over the last few years, XR has been primarily accessed by downloading and then logging into digital distribution platforms such as Steam or Oculus (XR's version of the app store).
+
+Still in its infancy, Web XR makes it possible to access XR content by typing a web address into the URL box in your browser, arriving at an XR-compatible website, and viewing 3D content through a headset that's connected to your computer.
+
+The benefit is accessibility. From the company's perspective, you don't need to build an XR app nor rely on the user downloading it. Instead, you build XR capability into the front end of your website and invite users to visit and view just as they would your current 2D site.
+
+***** Physics Engine 
+# Virtual Laws of Gravity
+
+In simplest terms, a physics engine is a software that implements the laws of physics into a game engine. In the interactive world of Virtual Reality, this software enables objects to behave as they would in the physical world. When you pick up a baseball in VR and throw as though you're a pitcher, the ball moves forward with velocity before falling to the floor of the Virtual World. This behavior is made possible by a physics engine. 
+
+Most of our Virtual Reality content is programmed in the game engine "Unity" - which has a built-in physics engine. By manually adjusting the parameter settings, we can customize the Virtual objects and the way they behave. By taking it a step further and controlling the physics from customized lines of code, we can give the objects the dynamics of a vehicle, a piece of material, or any other matter.
+
+***** Java Script
+# A Staple In the Game
+One of the core technologies of the web, JavaScript remains a crucial element as we move into Extended Reality. It's one of two programming languages compatible with "Unity" - the top VR programming software.
+
+In the 21st century, JS is one of the coding languages we rely on to make web pages interactive and for building online programs and video games.
+
+When you type a website address into your browser, press the enter key, and watch the page load, there are three core programs facilitating the appearing image.
+
+The site's text comes through a program called HTML. Alone, HTML text is bland, appearing like in Notepad or Microsoft Word. An interpreter called CSS is the program that styles the text so it's spacing, font, and orientation are readable and aesthetically pleasing.
+
+Finally the JavaScript engine compiles the files downloaded from the web server and customizes them to fit your computer. The size of the screen, browser being used, and operating system on which the computer is running are all variables the JS engine must consider and manage so the image appears clearly in the browser.
+
+***** Python 
+This is one of the high-level programming languages in common use today. One of the advantages to programming in python is the ability to express concepts in fewer lines than are typically required.
+
+***** C-Sharp 
+# Object Orientation
+Developed by Microsoft, C# (pronounced "C-Sharp") is one of two programming languages compatible with Unity (the most commonly used VR game engine). It's an object-oriented programming language, making it a valuable resource for building interactive VR experiences.
+
+Historically, programming has been understood as a logical procedure for performing an action - taking input data, processing it, and producing an output. At its origin, the essence of programming has been writing the logic rather than defining the data. By contrast, object oriented programming is rooted in the belief that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. An "object" could be anything from a human being to a building to widgets of a web page.
+
+VR is based on the creation of such objects, and C# is the object-oriented programming language driving the backend of the VR world.
+
+***** Spatial OS
+## Virtual World Host
+
+Spatial OS is a cloud-based platform that hosts collaborative applications built by game developers. It was created to expand beyond the limits of a single server. It's a distributed operating system with the power to host massive simulations thousands of times bigger and more powerful than what a single computer is capable of building or hosting. 
+
+Developers log on and interact with it as an online platform, downloading tools that can be integrated with game engines like Unity and Unreal. Once the world has been built on the developer's local operating system, the application is packaged and pushed to Spatial OS. With the code hosted and available to other developers on the cloud, it can be grown to massive scales. 
+
+Think of the content that exists in Spatial OS to have similar properties and functionalities as the physical world. Users log on and travel to these simulated worlds. However, unlike games and worlds that exist on your home computer or gaming system, Virtual simulations hosted on Spatial OS exist and evolve even when you're not logged in. As with the real world outside - let's say on the street outside your house - if a tree falls or a new car parks along the curb while you're asleep, that new information is available to you when you walk outside the next morning. The same principle applies when you return to a world hosted on Spatial OS. 
+
+Massive projects like public transportation construction or renovation in major cities can be first simulated to scale in Spatial OS before being applied in the physical world. 
+
+***** AI
+# Artificial Intelligence 
+
+It's a wide-ranging term for intelligence demonstrated by a machine. The branch of computer sciences that studies AI research studies and develops machines that are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
+
+
+## Content
+
+Artificial Agents enhances VR through 
+- Personalization 
+- Generative design
+- Contextual awareness
+- Storefront Navigation 
+- Data indexing
+- Character engines
+
+### Personalization
+
+Personalization is when a computer remembers your preferences and automatically loads them PLUS some other new ideas it predicts you will like. This is done through probability models, also known as an /AI algorithm/ or some other hype name.
+
+In VR you are led to experiences you are likely to enjoy. Your space is tailored to your taste. Because of AI, the world works according to your preferences.  
+
+By delivering a highly personal experience, we increase game-play, engagement, and retention. AI accelerates the rate of learning.   
+
+
+### Generative design
+
+Generative design is creation by a computer, based on data. By feeding big data into an AI we can generate designs humans may not have conceived. With proper programming, you can enlist the requirements for a airplane, request certain fuel intake and other variables, and receive a menu of physically possible designs.  
+
+In Virtual Reality, we generate worlds based on game-play and experiences. Generative design is an upfront cost that pays dividends long after it's investment has been returned. There is no limit to how many world designs you generate, and the parameters are within you control. 
+
+### Contextual awareness
+
+*Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location. If you press the blue dot (ask where you are), it compares this request to its knowledge of the map. The computer has a small degree of contextual awareness.   
+
+In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play. AI characters train through trial and error. They record the context of the successes and failures and adjust to optimize likelihood for success.   
+
+### Storefront navigation
+
+At the front of a store, or in a virtual world, you will ask an AI "butler" or "host" for information about the local area. These bots will grow more and more expert in communicating with patrons and visitors. Think about friendly chatbots on a website but personified as a character.
+
+
+### Data indexing
+
+Artificial intelligence algorithms to better index user data. If information is better categorized it will be better read and understood. We'll comprehend larger and large sums of data, especially very intimate information VR can facilitate, such as body movements and emotional states.  
+
+A semi-technical explanation of the process is to track, collate, distill and visualize.
+
+By visualizing the data of VR players through indexing, we gain a complete understanding the user's experience. The AI creates visuals of complete data in 3D, so you can move around and scale the data in real-size. This engagement significantly increases comprehension.  
+
+### Character engines
+
+In Virtual Reality (XR) develops "character engines" into the experience. These enhance the characters behavior and decision making. By programming learning algorithms your characters can remember information about you, your game play, and whatever else we teach it to...within reason. They can be your virtual friends.
+
+Intelligent characters make for better game play. The user's experience is familiar and personalized. When you allow visitors to customize their environment, they feel ownership. Intelligent characters increase experience affinity and replay-value.
+
+**** Produce
+Peeling back the layers of an Extended Reality experience reveals the various components required to build one. Here are some of the core building blocks of XR.
+
+***** Biometrics
+Biometrics refers to metrics related to human biological characteristics, including physiology and neurology. In Virtual Reality biometrics are used to measure interest, entertainment, and intent.
+
+By monitoring physiological cues such as skin galvanization, eye dilation, heart and breathing rate, computers infer and extrapolate further details about the player and their experience.
+
+This enables us to remove the many errors and barriers that stand between the user and feedback. By using bio-measurements we improve the storyline and pinpoint the player’s interest, displeasure, fatigue, excitement and much more.
+
+The seven primary emotions monitored in traditional commercial software are happiness, sadness, anger, contempt, fear, disgust, and surprise.
+
+***** Game Engine 
+A game engine is the software environment where computer developers build interactive 3D experiences. Game engines combine three elements: graphics, audio, and logic. Think of them akin to the factory in which a vehicle is constructed - where all the necessary space, tools, and engineering platforms exist. In the current Virtual Reality climate, most developers choose between the two most powerful game engines. 
+
+## Unity 
+Unity supports the construction of both 2D and 3D experiences for computers, consoles, and mobile devices. It was first revealed at Apple's Worldwide Developer's conference in 2005. Since then, five major versions of it have been released and more than 100 of the most well-respected experiences in the gaming industry have been created in Unity.  
+
+Unity is now free for download, making it more accessible for anyone to gain access to VR development tools. This has been huge step in the growing ecosystem of VR coders worldwide. 
+
+While there are features available for non-coders, understanding how to read and write in one of Unity's supported programming languages is the ticket to maximizing its potential. Unity supports three programming languages, yet C# (Cee Sharp) is preferred by most professional developers. C# is an object-oriented language, making it compatible with the three-dimensional relationship among objects in VR. 
+
+A new feature released in Unity this year is enhanced texturing, allowing developers to create more detailed replicas of complex physical world objects. The surface of a rock, with its infinite nuances, is difficult to texture in a game engine. This new feature allows developers to create more life-like replicas of complex textures. 
+
+## Unreal 
+
+The decision of which game engine to use coincides with the creator's existing skills. Are they a coder or a designer? As a coder (someone who reads and writes in one or multiple programming languages), the creator will write in one of the languages supported by the game engine. Unreal supports a language called C++.
+
+While it's not always the case, coders may be more likely to work in Unity while designers may gravitate toward Unreal's "visual programming." Instead of writing scripts, the designer places modules in an open area within the software interface. 
+
+Regardless of the game engine in use, creators work within many "frameworks" available in the engine. During the game creation process, the creator may want to generate a similar (or even identical) outcome at various points throughout the experience. Perhaps the user's movement should lead to the same outcome regardless of whether they're in Virtual New York city or Virtual San Francisco. Building frameworks is like building bridges. Once the bridge has been constructed and finalized, traversing that body of water in the future becomes standardized, saving time and energy.
+
+Access to these frameworks is one of the great appeals to industry-leading game engines like Unity. However, there are cases when the developer may want the flexibility to work outside such parameters or even build their own frameworks. Understanding this, Unreal makes all of its source code (the lines of code written to build the game engine itself) available to subscribers. With this access, the community of Unreal developers has created documentation to help other coders work through the inevitable hurdles of programming in Unreal. 
+
+***** 3D Audio 
+(Also referred to as binaural audio) is a technology that presents sound to the human ears in a manner resembling the auditory qualities interpreted from the natural world. 
+
+Stereoscopic playback systems (headphones and speakers) emit sound from a single point in space. When you move your head while wearing headphones, the sounds move with you. Yet when you move your head in relation to sounds of the natural world, the location of the sound source remains fixed. In the case of stationary speakers, the sound remains fixed but unidimensional. 
+
+Without technology, human ears perceive sounds from an infinite number of sources and locations simultaneously. Because the ears are positioned on different sides of the head, sound waves reach one ear at a slightly different time and with slightly different properties than when they reach the other ear. Much like having two eyes enhances our ability to see in three dimensions, the same is true for the human auditory system. Amplitude, frequency, and timing differences reveal to our ears the specific location of a sound, which direction it's coming from, and even the properties of the space in which it's being heard. The most pivotal factor relating to this dynamic auditory perception are the physical properties of the human ear. It's oval shape with varying coves, curves, and suppleness all contribute to the way it receives sound waves and the way the brain interprets sound.
+
+In order to recreate this sound interpretation with modern technology, VR studios are capturing sound with microphones that resemble the shape of the human ear. These mics record sound not through a flat or circular device but with respect to the natural contours of the ear. When the recorded sounds are played back, they're more dynamic. They've been enriched by the same intricacies as the organ that receives and delivers them to the brain. When hearing 3D audio through a pair of headphones, the various sounds may seem to crawl from one ear to the other, come from 10 feet in front of you, or bleed in from a distance. 
+
+This the technology is not a new realization. through 20th century (and most of the 21st thus far) there has not been a demand for 3D audio, as visual content has been almost exclusively 2D. The emergence of 3D imaging in Virtual Reality is now calling for sound technology equally as dynamic.
+
+***** Haptics 
+Haptic technology invites the sense of the touch into the Virtual World. By coordinating various forms of force and vibration with the user’s movement, we’re beginning to incorporate a 3rd human sense (seeing, hearing) into VR. Most research divides the human sense of touch into
+
+Cutaneous: affecting the skin Kinesthetic: affecting the muscles, tendons, and joints Haptic: the ability to grasp
+
+The first two distinctions of touch are generally considered passive while “haptic” is initiated by an active movement by the human body. It’s the first form of touch to become present in the Virtual World. Haptic technology mimics the sensory experience that comes with grasping in an object in your hands.
+
+***** Volumetrics 
+Volumetric Display is a form of graphic display that creates a visual representation of an object and portrays it into the physical world. It’s the concept of bringing Virtual Reality to the human eye’s natural habitat rather than requiring the human eye to enter into advanced hardware for access to this Visual perception.
+
+***** 360 Video 
+A 360 camera uses multiple lenses to record various shot angles without moving the device. Once captured they’re stitched together into a spherical digital environment that aligns and balances color grade - creating an atmosphere we can explore multidimensionally inside the VR headset.
+
+Instead of expended time and money on traditional modes of transportation to travel to a different three-dimensional environment, we can now do so from inside this hardware.
+
+***** Holograms 
+A hologram is a photographic recording of a light field rather than an image formed by a lens. Holography is the process of creating an interference pattern that diffracts the light into an arrangement that appears three-dimensionally and replicates an object.
+
+***** Projection Mapping 
+Think of projection mapping as a combination of Virtual and Augmented Reality that does not require a headset. This technology projects images and variations of light and movement onto the walls of a space, so everyone inside is together within the experience.
+
+Projection mapping is most applicable in cases where it’s important to the vendor that the members of the group remain together in the physical world while experiencing digital visual enhancement. It can be a useful solution for business models that encourage the customer to engage in body movement (dancing, exercising, exploring).
+
+***** Robotics 
+This branch of engineering develops machines that can substitute for human beings by replicating their actions. By building the robot with a physicality that resembles human anatomy, the robot is more likely to succeed at completing human tasks. While in the physical world these machines are often used for mechanical work in factories, assembly lines, and in dangerous forms of testing. The Virtual World presents a different purpose. Robots may exist in VR to simulate athletic opponents, resemble deceased loved ones, or act as a guide to a new virtual space.
+
+***** Photogrammetry 
+Is the scanning, computing and rendering of 3D models through 2D photographs and distance differentiators. By taking several hundred photos of an object from strategic angles we redesign and texture photorealistic objects and environments.
+
+Photogrammetry conveys real spaces as digital simulations. Think “immersive realism”.
+
+Recreating real environments in Virtual Reality enables us to simulate travel and facilitate training. By blending photography with 3D game engines we’re enhancing the “realistic” possibilities of VR.
+
+**** Network 
+Consider “Network” in this context to be the digital unification of people and industrial products. These are some of the emerging technologies to be integrated with your ideas.
+
+***** Live Stream 
+Live Stream in XR to mass distributing real events in real time. Anyone in the world with an XR headset can remotely attend your event. Birthday party your cousin cannot attend? Throw on the headset and participate in singing along, cutting the cake and wishing family lots of love! Having a blow our party or big festival? Want to sell virtual tickets for them to attend in their headset? Charge a $5 cover to attend, promote to 50 million, convince 1/10,000 to join and you sold 5,000 for a $25,000 profit.
+
+***** Cloud Computing 
+Cloud computing is the remote storage, access, and control of computers. A “cloud” is really just a server. Storing in the cloud means you are storing your data on someone else’s’ hard drive. For example, iCloud is storing you data on Apple’s hardware, instead of your own local drive.
+
+***** Blockchain 
+A “block”-“chain” is a distributed database (or ledger) that maintains a continuously growing list of ordered records. Some major blockchain features include:
+
+Secure, private transactions Microtransactions Public, imutable record keeping Democratized administrative controm General platform stability Features, such as “smart contracts” allow us to host concerts in VR with secure micro-transactions. An inumeral amount of people can attend concerts. On a blockchain, you can charge them based on network contribution.
+
+Blockchain tech allows the users to exclusively own and control them content and platform they build.
+
+***** Internet of Things 
+The Internet of things (IoT) is the network of digitally connected devices, such as home appliances and vehicles, that are connected to the internet. These devices are equipped with sensors and operating software, enabling remote access and management. For example, adjusting your beach house thermostat from upstate, or receiving a text message notifying you the plants need watering (because your botany sensors noticed drought).
+
+Simulations of physical tasks allow for us to practice, minimize risks, and scale profit margins. Imagine remotely controlling construction machinery. By being in the simulation, apprentices can train without the risk of hurting themselves. Experts can control machines remotely and thus down on transportation costs. Through VR simulation one can navigate the controls to operate an actual piece of machinery just as effectively as if he were in the machine itself, but from the other side of the world. This is the “internet of things”, which will quickly evolving into the “Internet of Everything” (IoE) and then the “Internet of Humans” (IoH).
+
+**** Deploy 
+This is the process of presenting your XR content to the right audience with the proper timing. The deployment of XR still abides by traditional marketing basics but requires the navigation of additional 3D software and hardware.
+
+***** Distribution 
+Distributing XR - shipping it from the owner to the consumer - takes place along one of a few channels:
+
+** VR App Store 
+Each VR hardware system feeds to an app store. Experiences through the HTC Vive link to the steam store, while Oculus hardware is associated with the Oculus store. Log in and download an experience similarly to the way you would on your smartphone 
+
+** YouTube
+When a VR experience has been captured with a lens (often a 360 camera) it may be available on a YouTube channel and experienced in 2D. Marketing campaigns attempting to use VR content to reach beyond the scope of VR hardware users may "simulcast" their content through both VR hardware and a streaming platform. 
+
+** Web GL
+As the Virtual ecosystem evolves, browsers and websites become three dimensional. Content can now be distributed to a web browser, accessed on a 2D screen, and viewed through the three dimensional lens of a VR headset. 
+
+As major tech companies like Google, Facebook, and Microsoft continue enhancing VR hardware and software, content distribution will flow more steadily through VR app stores. As varying brands and markets join the VR movement, they'll begin building their own VR-capable websites via Web GL.
+
+When we learned to speak we began marketing products/services through speech. When we discovered how to write on a tablet we used that. Same with printing press, audio recordings, radio, telegraph, television, computer, smartphone, etc. Marketing can only happen through a means of communication. 
+
+Our distribution process follows this progression
+
+Publishing
+Advertising
+Activation
+Our recommendation is to approach distribution similar to the approach of any other content you might create. The key is still putting the correct message in front of the correct audience at the right time. 10 million people in the US use VR. As early adopters, they will influence 50% (or more) of the market.
+
+***** Activation 
+Activation
+Pop up shop
+Permanent installation
+
+***** Publishing 
+Types of Publications
+Financial Strategies
+Market Research
+Technology Reports
+Published By Nova
+Festival Fin Strat
+Music Fin Strat
+Embodied Cognition MS
+Relocation Fin Strat
+Remote OS Tech Report
+
+***** Promotion 
+# Finalized XR Experiences 
+
+We will advice e categorize promotion of your XR experience into the following categories
+
+## Paid
+
+
+advertising space
+Native adverts
+Owned
+homemade
+Social media handles
+SEO
+Earned
+journalist sponsorship
+Partnerships
+Studios
+Publishers
+Influencers
+
+***** Audience 
+A core marketing question: "Who is your audience?" The answer influences everything about your brand, its visual aesthetic, written voice, and channels of communication.
+
+## The Home Audience 
+
+There are roughly 10 million top-line VR headsets in homes across the United States, so the consumer market is young and forward thinking. They are the technology's early adopters, passionate gamers, open minded, experimental, and savvy with their own equipment. A large portion of this group falls into the coveted 18-34-year-old male demographic with a stable income. They are leading the way as consumers of VR as a form of home entertainment. 
+
+## Reaching Outside 
+
+Every day people around the western world are experiencing VR for the first time. Most first time users are guests. They experience VR at a friend's house, an event in the city, or as part of a marketing campaign established on site at a business they frequent. It's an inevitable characteristic of a large sector of the VR audience. They must be invited, called to action by a friend or trusted merchant. 
+
+
+In its early days, Virtual Reality is appealing to the most highly influenced demographic.
+
+Early adopters
+They influence 50% of the market. to format graph
+
+Students and Early Influencers
+18-34, II $100k+, frequent traveler, experience-seeker, anxious to learn, highly impressionable, great networker, Fields of engineering, computer science, art + design, etc
+
+Early Adopters + Innovators
+18-34, II $100k+, frequent traveler, influential, good networker, Works freelance, at start-ups to or on project development teams, older Millennials coming into money and support only themselves.
+
+Youth + Young Families
+8-17, 34-49 HHI 200k+, frequent traveler, disposable income, educated, open mind With children in the house and careers in technology.
+
+Gamer
+
+
+
+s
+The first group to innovate within and interact with the XR market.
+
+Data Review
+biometrics
+Analytics
+Distribution
+
+***** Advertising 
+
+XR Experiences 
+
+An advertisement encourages action. Cars, beer, quick foods, and soft drinks have all famously integrated with visual and audio content creation. There's a concept driven by text and visuals and promoted as a campaign. It's all a call. Do this, feel this, desire this, and buy this. Advertising has become synonymous with television commercials, billboards, radio ads, and now social media integration. 
+
+In Extended Reality, the same visual and audio principles are present, yet now the user exists inside the brand's content. As the user base widens, advertising, a concept that thrives on evoking action, will rush like a downstream river toward this action-based media. It is a brand new field for visual and auditory creativity. Be strategic with placement of your brand's shapes, colors, and sounds, because the user will reach out and catch on. 
+
+** Nova XR
+
+*** Who We Are
+Virtual Reality brings us to a place where the confines of the physical world can disappear. Time and gravity and our relationship with space have been as much a part of the human experience as our need for air. Now, in these virtual worlds, we’re breaking free from these physical measurements.
+
+We're reminded of our quest for this new idea of freedom every time we look out the window of our Nova Studios and see the Statue of Liberty.
+
+100 years after the United States formed its own union, the French designed and built the Statue of Liberty to honor this new version of freedom. It's emergence was followed by one of the greatest periods of human migration, as nearly 20 million people immigrated through the New York Harbor in search of freedom from religious persecution, economic disparity, and tyrannical leadership - elements of their human experience that had shackled them in their home nations.
+
+As these immigrants arrived to the New York Harbor fresh off a weeks-long journey across the Atlantic, they saw her, 151 feet tall, holding up a beacon of light and with a set of shackles laying broken at her feet.
+
+More than a century later, Nova XR's studios sit right here in union with her - Extending Reality along a quest to reach this next world of media.
+
+Two of our co founders trace their lineage back to folks who emigrated across the Atlantic toward the end of the 19th century, while two others come from Paris, the city in which La Liberté éclairant le monde was conceived.
+
+Together we're a small part of the 21st century movement into Extended Reality, and we're inviting others to come along.
+
+*** About Us 
+Nova XR is a team of artists and engineers programming new media. Our specialty is XR (Extended Reality). We develop from the 4th floor of the 19th century Beard Street Warehouses in Brooklyn, New York.
+
+Nova provides access to advanced technologies, producing XR media for businesses to reduce internal costs and increase sales.
+
+"Nova" is latin for new, contrasting the future with fundamentals. We chose the name because it's simple, versatile, and expressive of our work to innovate media technologies.
+
+Live and let
+
+Twitter @Mecs13
+Linkedin /in/jrmecca
+Steem /mecs13
+Github /mecs13
+Sketchfab /mecs13
+
+Email : AnnaIrene@novamedia.nyc
+Telegram : https://t.me/xrnewyork
+Instagram : @novaxrmedia
+Facebook : https://www.facebook.com/N0vamedia/
+Twitter : @N0vamedia
+GoogleVoice : (732) 903-5537
+slack : novamedianyc.slack.com
+steemit : @novaxr
+Sketchfab : /novamedianewyork
+Anna Irene 01101000 01101001
+
+*** Community 
+Our open door philosophy attracts a range of people from various communities. This makes the Nova Studios an idea hub to be crafted into market opportunities.
+
+**** XR Community in NYC
+
+**** XR Community in SF 
+
+*** Partnership 
+Aartnership is the exchange of skills and creativity for the benefit of a more diverse unit. 
+
+Business is conducted among people. We love building relationships with folks from all over the world. It's who we are. In the process we've discovered this mentality is the same one that builds strong partnerships. Nova is a place of business because we value the individual, understanding that the financial elements of business emerge from a genuine interest in thy neighbor.
+
+**** Productions
+
+***** Hard Rock 
+
+***** Hawaii 
+
+***** Kelly Vision 
+
+***** Northern Australia 
+
+*** Partners 
+Just like creating a Hollywood film or an advertising campaign, XR production requires the unification of investors, production studios, innovation labs, writers, and videographers.
+
+***** Investors 
+
+***** Studios 
+
+***** Producers 
+
+*** Careers 
+
+***** Freelancers
+Nova hires designers, developers and technicians to participate in global productions on a per-project basis. Check out our products and past productions. If you want to get involved, message Anna Irene and she'll hook you up. AnnaIrene@novamedia.nyc
+
+***** Volunteer 
+Looking to help out in the neighborhood? As part of our philanthropic mission we work with students in Red Hook, leading coding, literacy, business, and design initiatives. There’s always plenty to do around the warehouse. If you’re interested in swinging by to check out some VR and lend a hand, give us a shout.
+
+***** Apprenticeship 
+Interested in Joining Nova as an Apprentice?
+
+Part and full time positions available:
+
+Abstract
+Apprenticeship Positions:
+Game Engine Developers
+Coders & Hackers
+Graphic Designer, Videographer, Audio Engineer, Animator
+Office Assistant
+Operations Manager
+Characteristics
+Organized
+Prompt
+Accountable
+Thorough
+Innovative
+Determined
+Driven
+Self-starter
+Skills
+Video creation
+Animation
+Ad audio engineering
+Photogrammetry
+Networking
+Sketch
+Sales
+Digital marketing
+Python
+Java
+React
+Photoshop
+SQL
+JS
+C++
+Unity
+Unreal engine
+WebGL, WebXR / WebVR
+Blockchain, Ethereum
+Machine learning
+Neuro research
+
+***** Developer
+Skills
+WebGL
+React
+JS
+Python
+Systems
+Characteristics
+Clear communicator
+Prompt
+Precise
+Relaxed
+self-motivated
+
+***** Designer 
+Skills
+Blender
+Illustrator
+Photoshop
+Animation
+Sketching
+Drawing
+Characteristics
+observant
+quick communicator
+friendly
+open minded
+well traveled
+
+*** Find Us
+Fortunately, we feel at home on the fourth floor of the historic Beard Street Warehouse at the south end of Van Brunt Street in Red Hook, Brooklyn. We pride ourselves on welcoming the widest range of thinkers, entrepreneurs, and artists we can find. Please join us in expanding this mission. In the end, Nova Studios is a place of business with the furnishings of your best friend's living room. Come and visit us. We are always open.
+
+481 Van Brunt Street Brooklyn
+
+New York, United States. 11231
+
+
