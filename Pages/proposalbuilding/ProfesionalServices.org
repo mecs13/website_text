@@ -1,0 +1,224 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+
+#+Title: Doctor Kelly Business Proposal
+#+Author: Nova Media
+#+Date: November 2017
+
+#+Begin_Latex
+\pagebreak
+#+End_Latex
+
+* Intro
+This document is to propose a virtual reality marketing solution for Dr. James Kelly's Vision Correction practices in New York. This program has been developed by Nova Media LLC, led by Joe Mecca, and presented to Dr. James Kelly and Clarisa Estrada. All subject matter enclosed is confidential. The approval of Nova Media LLC must be obtained before this document is shared with any additional parties. Nova Media is an XR (extended reality) studio and innvoation lab in Red Hook, Brooklyn. We develop XR solutions for businesses by providing access to advanced technologies, sourcing development, and advising on related markets. For more about us, please visit https://novamedia.nyc
+
+* Executive Summary
+
+This program will deliver a VR-based marketing strategy that will earn Kelly Vision a return of $20,000 in profit by 2020. In the process, Dr. Kelly will gain working knowledge of this advanced technology and further his reputation as a pioneer in the field of optometry.
+
+This program will progress in four phases. First, we create customized content to appear in Dr. Kelly's office.  Next, we create and distribute customized (2D) content to educate viewers on how VR can reveal a patient's need for an optometrical procedure. Third, we formulate a program to qualify candidates for LASIK through VR. Finally, we license the intellectual property and market it to other doctors in the same field.
+
+#+Begin_Latex
+\pagebreak
+#+End_Latex
+
+* VR Market Analysis
+
+Greenlight Insights - among the top resources for Virtual Reality market maps, forecasts, and consumer insights - tells us that VR is a $7 billion industry in 2017. More than 60% of that revenue comes from hardware sales, as both industry-leading hardware companies (Facebook and HTC Vive) released new VR headmounts this year. As expected, the pricepoint of installing this young technology in the home is out of reach for most consumers. 
+
+As a result - similar to the way our grandparents visited the movie theatre to see films, sporting events, and news updates - millenials are discovering VR at location based entertainmet (LBE) centers across major ciites in the US. One LBE in Lower Manhattan told us they're showing VR to 1,000 unique visitors monthly. 
+
+Now that the hardware has established itself in the market, consumers are becoming more literate with VR and will be prepared to use it at home when the pricepoint comes down. As this process unfolds, Greenlight Inisghts forecasts that VR will become a $75 billion industry by 2021, exponentially expanding upon the 10 million homes that already own VR hardware. The future of Dr. Kelly's first-of-its kind content could extend beyond his office and into the hands of millions of Americans who will own the hardware necessary to access it.
+
+*** JB /Excellerated Rate of Adoption Chart/ kelly git
+
+*** JB /headset sales chart/ kelly git
+
+** How VR works  
+
+Consider the way light is refracted when passing through the cornea, pupil, and lens before being sent through the optic nerve. Well, VR headsets are created with thick glasses that have a more intricate progression of light refraction. The many layers manipulate the light before it reaches the cornea. Along the way, VR systems “hijack” the senses, leading us to believe we're in an artificial world.
+
+[[./brainonvr-1.png]]
+
+* Execution
+
+** Objective:
+Increase eye procedures and the average margin per procedure 
+
+** Strategy
+Design customized Virtual Reality content to display in both the waiting room in Dr. Kelly's office and on the two most common VR apps on the market. The content content will serve two related purposes: 
+		1. Educate the viewer on the anatomy of the eye 
+		2. Help the viewer understand whether one of Dr. Kelly's procedures will improve their opitcal health 
+		3.		
+		
+* Gantt Chart
+
+#+begin_src
+- Phase 1 ==> [week 0, week 16]
+  - Sign agreement (30k) ==> week 0
+  - Install VR hardware ==> day 7
+  - user experience spec ==> week 4
+  - First demo ==> week 8
+  - Second demo ==> week 12
+  - Final product in waiting room ==> week 16
+- Phase 2 ==> [week 16, week 32]
+  - Sign agreement (30k) ==> week 0
+  - user experience spec ==> week 20
+  - First demo ==> week 24
+  - Second demo ==> week 28
+  - Final product in app stores ==> week 32
+- Phase 3 ==> [week 32, week 48]
+  - Sign agreement (30k - 50k) ==> week 32
+- Training ==> [week 1, week 32]
+#+end_src
+
+
+** *Phase 1:* $30k - Late 2017: (Broadcast in Dr. Kelly's Office)
+
+- Install top-of-the-line VR equipment at Dr. Kelly's office.
+- Familiarize Dr. Kelly and partners/employees with the technology during periodic training sessions.
+- Design customized content to be experienced at Dr. Kelly's office. 
+- Offer experience to patients so they understand the eye's anatomy and the potential circumstances under which they'll benefit from an optical procedure
+- Track user's attention and tendencies within experience for revising and maximizing next version of content 
+
+This will build Kelly Vision Center's working knowledge of VR, further Dr. Kelly's reputation as a pioneer in the tech field, and build the foundation for a content series that educates a targeted and interested audience on the anatomy and functionality of the eye. This high-tech education process will help patients understand why they're epxeriencing vision complications and how Dr. Kelly's practice can help improve both their vision and the health of their eyes. 
+
+*** Tech Architecture
+
+The application required for the creation of this content will be built in Unity (the platform on which many of the best VR apps are built). After the construction of this 3D content, you will have the option to distribute it on one of the major VR app stores. Launching it in one of these app stores is all that's needed for the content to be available to VR users across the globe. 
+
+*** Financial Strategy
+Phase 1 concentrates on educating patients in the waiting room. Educating the customer is pivotal to creating loyalty [[https://www.researchgate.net/publication/280221807_The_Impact_of_Customer_Education_on_Customer_Loyalty_Through_Service_Quality][Shu, et al.]]. Phase 2 targets a broader audience by making use of the internet as a distribution channel. Finally, phase 3 allows Dr. Kelly to profit from the licensing and distribution of the content. 
+
+** Phase 1
+[[http://www.qscience.com/doi/pdf/10.5339/qproc.2015.elc2014.6][Dale's Cone of Learning]] shows us that patients trying the experience will retain 90% of the content. With this recollection of their experience, they are more likely to speak with friends and family members about the VR experience at Dr. Kelly's office. Since [[https://www.lasik.com/articles/lasik-eye-surgery-everything-you-need-to-know/][about 80% of US adults are eligible for LASIK surgery]], even if a patient that isn't eligible for LASIK experiencies the VR app, if he/she spreads the information to 2 friends, it is likely that one of those two adults will be a candidate for LASIK. Many of the people who experience VR in Dr. Kelly's waiting room will be experiencing VR for the first time in their lives. When experiencing innovative tech like VR for the first time, the natural reaction is to spread the word. 
+
+*** Break even analysis (Phase 1)
+- *Investment:* $30k
+- *LASIK surgery margin:* $1500 (both eyes)
+- *Number of patients to convert in order to break even:* 30K / 1500 = 20 patients
+- Barring any hardware malfunctions, there is no maintenance cost. 
+
+Since there are about 50 work weeks in a year, less than one patient every other week needs to be converted to LASIK surgery in order to break even within the first year. Let's say Dr. Kelly has 40 patients per week that experience the VR content while sitting in the waiting room. In this case, an average conversion rate of less than .01% is needed to break even within the year (1% of the time, someone trying the VR experience will result in a new LASIK surgery 
+
+Educating the customer is of paramount importance: 
+[[https://www.researchgate.net/publication/280221807_The_Impact_of_Customer_Education_on_Customer_Loyalty_Through_Service_Quality][Shu, et al.]]:
+
+Potential market reach to also consider: Given how impressive Virtual Reality content will be for the average visitor to Dr. Kelly's waiting room, these visitors are likely to tell several people about their experience, thus strengthening the spread of word of mouth.  
+
+With 1% conversion rate and 40 patients trying out the VR experience in the office we get the following revenue timeline:
+
+#+CAPTION: Model hypothesis
+#+TBLNAME: constants
+| constants                   | values |
+|-----------------------------+--------|
+| conversion rate             |   0.01 |
+| margin per client (usd)     |   1500 |
+| initial investment (usd)    |  30000 |
+| patients tyring vr per week |     40 |
+
+#+CAPTION: Phase 1 break even analysis
+#+PLOT: title:"break even analysis" ind:1 deps:(4 5 6) type:2d with:lines set:"yrange [0:]" file:"break-even-phase-1.png" set:"xlabel 'Financial quarters since phase 1 beginning'" set:"ylabel 'USD'"
+| quarter | vr users | new patients | revenue | cummulative investment |  profit |
+|---------+----------+--------------+---------+------------------------+---------|
+|       0 |        0 |           0. |      0. |                  30000 | -30000. |
+|       1 |      520 |          5.2 |   7800. |                  30000 | -22200. |
+|       2 |     1040 |         10.4 |  15600. |                  30000 | -14400. |
+|       3 |     1560 |         15.6 |  23400. |                  30000 |  -6600. |
+|       4 |     2080 |         20.8 |  31200. |                  30000 |   1200. |
+|       5 |     2600 |          26. |  39000. |                  30000 |   9000. |
+|       6 |     3120 |         31.2 |  46800. |                  30000 |  16800. |
+|       7 |     3640 |         36.4 |  54600. |                  30000 |  24600. |
+|       9 |     4680 |         46.8 |  70200. |                  30000 |  40200. |
+#+TBLFM: $5=remote(constants, @4$2)::@1$2..@10$2=(52 / 4) * remote(constants, @5$2) * $1::@1$3..@10$3=$2 * remote(constants, @2$2)::@2$4..@10$4=$3 * remote(constants, @3$2)::@2$6..@10$6=$4 - remote(constants, @4$2)
+
+#+CAPTION: Break even analysis for phase 1
+#+NAME:   fig:break-even-phase-1
+[[file:break-even-phase-1.png]]
+
+
+*** Deliverables
+
+#+CAPTION: Phase 1 deliverables
+| Week | Deliverable                             |
+|------+-----------------------------------------|
+|    0 | Confirmation of first payment           |
+|    4 | User experience spec                    |
+|    8 | First demo                              |
+|   12 | Second demo                             |
+|   16 | Final product installed in waiting room |
+
+
+** *Phase 2* $30k - early 2018 (Broadcast on VR apps worldwide)
+ - Configure content to be released on app store
+ - Upload Dr. Kelly's program to Steam and Oculus stores. 
+ - Build Social Media marketing strategy that will distribute to an audiene both interested in VR and a candidate for Dr. Kelly's services. 
+ - Track the patient's engagement, comments, and attitude towards the VR content
+ - Follow up with interested users and off them a consultation
+
+This content will brand Dr. Kelly as a leader in both optometry and advanced technology.
+
+"71 percent of [people] feel that VR makes brands seem "forward-thinking and modern." However, there's even better news for brands' bottom lines: 53 percent of respondents said they'd be more likely to purchase from a brand that uses VR than from one that doesn't."
+
+-AdWeek (http://www.adweek.com/digital/new-study-says-people-are-more-likely-buy-brands-use-virtual-reality-172557/)
+
+*** Production (P2)
+Technically speaking, phases 2 and 3 are concerned with the distribution of a Unity 3D VR executable. This can be achieved by making the application available on VR app stores or on a website using the *WebGL* browser APIs. A website being much more complex to setup, the scope of this proposal is limited to distributing this experience over traditional channels (VR play stores such as Steam or Occulus).
+
+** Production Pipeline
+
+2 weeks of pre-production:
+
+Develop: 3 weeks
+
+Refine: 2 weeks to user test and make fixes.
+
+Cost: 10K ($200/week to produce) for interactive Oculus VR Lasik
+
+
+*** Deliverables
+
+** Phases 2
+Technically, phase 2 is centered on the distribution of 3D content developed in Unity. This can be achieved by making the application available on VR app stores or on a website using the *WebGL* browser APIs. A website being much more complex to setup, the scope of this proposal is limited to distributing this experience over traditional channels (VR play stores such as Steam or Occulus).
+
+*** Fin Strat
+** Phase 2
+Show how much money is made by sharing the experience over the internet:
+- How many people first try it and how (word to mouth? social media? ...)
+- How many people tell their friends about the experience ? Solve the differential equation modeling shares of the experience with peers
+- What's the conversion rate from VR 'experiencer' to LASIK patient?
+===> calc benefits over time and infer break even point
+
+
+#+CAPTION: Phase 2 deliverables
+| Week | Deliverable                                                         |
+|------+---------------------------------------------------------------------|
+|    0 | Confirmation of first payment                                       |
+|    4 | User experience spec                                                |
+|    8 | First demo                                                          |
+|   12 | Second demo                                                         |
+|   16 | Final product available in VR stores and user manual
+
+** *Phase 3 $30-50k*  late 2018
+
+- Understand results of first two phases and convert learnings into a more advanced strategy.
+- design first draft of VR candidate qualification 
+- own IP and license and prepare to distribute to other doctor's offices 
+
+As virtual reality grows and creates a major shift in the media landscape, Dr. Kelly will establish himself as one of the early VR content creators in optometry, earning the right to license his content and distribute it to later adopters. 
+
+As Dr. Kelly's Vision Correction expands into VR content creation, it brings to mind the story of Amadeus Computer Reservation Systems (one of the first global distribution systems of the late 1980s). Originally founded by a group of airlines, Amadeus was dedicated to increasing airline reservations by connecting pasenger name recognition with travel agencies. After successfully serving that branch of the market, Amadeus expanded into information technologies (today known as "IT") to deliver serves beyond sales and reservations and their business evolved into a new market, allowing it to be on the forefront of the IT industry. Amadeus continues to thrive to this day, [[http://www.amadeus.com/web/amadeus/en_1A-corporate/Amadeus-Home/Newsroom/Archive/2017-02-24_Amadeus-Financial-Results-Q4-FY-2016/1319658626891-Page-AMAD_DetailPpal?assetid=1319703282553&assettype=PressRelease_C][profitting close to a billion US Dollars in 2016]].
+
+*** Deliverables
+
+As the first two phases unfold we will be monitoring their performance and then - together with Dr. Kelly's office - make improvments so the content is a boon to both his business and prepared to be an asset for other optometrists as well. Once the program is flawless, we will license and market it to other doctor's offices across the industry, returning a large portion of the profits to Dr. Kelly's practice. 
+
+
+*** Financial Strategy
+Increase the conversion rates from the VR experiences implemented in phases 1 and 2 (i.e. both the applications in the office and on the internet).
+
+* Summary and Net Invest
+
+This program will put Kelly Vision at the forefront of innovative media and yeild a _______________ Retun on Investment . XR is going to (market information and growth)_______ By developing simple XR content, Kelly will build a reputation for being the optomotrist who knows the most about this complex medium that is becoming all the craze, and increase both his number of surgeries and the amount he can charge per procedure.
+
