@@ -1,0 +1,112 @@
+* Web Text 
+
+Beginning 9:50 on May 10
+
+** Solutions 
+
+*** Products 
+
+**** Intro 
+
+Through consistent experimentation, research, and a desire to solve real problems we've created six original Virtual Reality products
+
+*** Consultation 
+
+**** Intro 
+
+Virtual Reality (VR) and Augmented Reality (AR), fitting under the parent term "Extended Reality", enhance communication, collaboration, and education. Unlike it's predecessors, XR Media is interactive, calling on the user to embody their consciousness.
+
+These technologies will increasingly be in the home, integrating with daily living in the way televisions, computers, and phones already have. As of today, you can engage with simulated environments through your phone (or XR glasses/goggles).
+
+Historical rates of technological adoption suggest 25% of the US population will have an AR/VR in their homes within the next five years. It's the next frontier of human connectivity.
+
+In business, XR Media cuts internal costs by providing immersive training programs and business travel alternatives. When used to drive revenue, XR is a natural marketing tool, the backdrop for new age content creation.
+
+XR Media can be the ultimate communication tool or the reason your business falls behind.
+
+**** Industry 
+
+People of every industry are finding solutions to their most stubborn challenges by producing immersive (XR) media content. Share, communicate, and learn faster than 
+
+***** XR Relocation 
+
+When an employee is relocated to a new city, there are a slew of tasks to be completed. The employee must find a new home, the right school for their children, obtain the proper national and state documentation, learn the geography of a new city, among other challenges. 
+
+In preparation such a major life uprooting, the employee may visit their new home city two or three times. Virtual Reality can make these trips for efficient. 
+
+It might take an entire day for a family to visit a complete list of potential homes, driving in traffic from one neighborhood to the next. In VR, the family is able to visit 10 or more potential homes, walking around a lens-captured replica of the home's interior. The next step is to select the three homes they preferred most and then travel to those properties in the physical world. 
+
+This allows the assignee to see the interior of more potential homes, have a better understanding of whether they property is right for them. From the perspective of the company responsible for touring the employee around their new city, they reduce cost by eliminating hours worked on the ground. 
+
+***** XR Auto Revolution 
+
+Through various holiday sales and new vehicle features, the automotive industry works to attract buyers to the showroom. Virtual Reality adds dynamism to this strategy, bringing a three-dimensional automotive experience to the buyer’s home. Inside their VR headset, the user is able to interact with the vehicle and even sit in the driver's seat. 
+
+First we capture dozens of photos from various angles of both the vehicle's interior and exterior, a process known as photogrammetry. Once the images are captured, they're arranged (or "meshed") together in a 3D software to be exported. 
+
+The end result: the user can sit inside the car and walk around the exterior of the vehicle as they would at the dealership. Once they sit behind the wheel, they’ll be able to adjust the seat and mirror before turning the key and taking the car for a simulated test-drive through the streets of any city or town in the world.
+
+***** Travel and Tourism 
+
+National ministries (tourism/trade divisions) are developing content that lets us soar through the sky like an Olympic ski jumper (Korea Tourism Office, ~$100k), hang out backstage with Sir Paul McCartney (Visit Britain, ~$1.5mm), and swim the crystal clear Caribbean alongside stingrays (Caribbean Island, ~$300,000). These organizations are finding that immersive media engages travelers and influences agencies more effectively than any media prior and has more robust analytics to prove return on investment.
+
+«Before, travelers just had a brochure or information on the website to inform their choices. Virtual reality allows them to get a true sense of the hotel and the excursion they can go on. It’s been a real game changer for us all.»
+  - Marco Ryan, Chief Digital Officer, Thomas Cook
+
+«…Virtual reality let’s our travel trade and media partners experience our destination in a new and unique way that has not been possible before.»
+   -Marsha Walden, CEO, Destination British Columbia.
+
+***** Medical 
+
+Stanford Medicine uses a software system that combines imaging from MRIs, CT scans, and angiograms to create three dimensional models that both patients and physicians can interact with and manipulate in Virtual Reality. 
+
+The program is a pre-op tool for surgeons, a training implement for residents, and an educational outlet for patients. 
+
+Once the patient's brain is replicated through 3D rendering, the surgeon puts on the headset and steps inside a model of the patient's brain. Three dimensional imagery eases the surgeon's planning and improves their accuracy. 
+
+“We can plan out how we can approach a tumor and avoid critical areas like the motor cortex or the sensory areas. Before, we didn’t have the ability to reconstruct it in three dimensions; we’d have to do it in our minds." 
+  
+   - Steinberg, professor and chair of neurosurgery.
+
+
+https://www.youtube.com/watch?v=TYBxhomLAcw
+
+https://med.stanford.edu/news/all-news/2017/07/virtual-reality-system-helps-surgeons-reassures-patients.html
+
+***** Education 
+Allow universities to serve as portals to the most advanced dimensions of media. New frontiers like space, sea, and internal awareness have gained steam in the 21st century. Developing along with them has been this digital world that’s been in the making for more than a half century.
+
+Those with the leading technological tools (vessels) will venture the furthest, the fastest. A new era of exploration will be lead by tech titans and educational institutions. Both are the leading educators in the world.
+
+***** Travel 
+XR is the ultimate travel-branding tool. You have full control over the travel experience - untapped potential in the industry. The fun is hardly the destination but how we arrive there, soaking in the glories and tribulations along the way.
+
+***** Immersive Art 
+
+There are two ways artists are interacting with the early days of Virtual Reality.
+
+1) Creating 3D models. In programs like Google’s TitleBrush artists Virtually draw and paint 3D environments.
+
+2) Display Visual Art. Photographers, sculptors, designers, and other visual artists are displaying their visual art inside VR as they would inside a physical world gallery. See Infinite Gallery 
+
+***** Design 
+Designers are at home in the new Virtual World. The art of Design is taking on two definitions in VR. 
+
+1) Preplanning: All major projects go through a preliminary design phase. Before architectural, construction, transportation or assembly projects are configured in the physical world, they’re first outlined on a computer screen. Virtual Reality has introduced an intermediary step between this pre planning process and it’s real-world incorporation. Developing and experiencing these projects in the Virtual World before breaking ground in the physical world is becoming a crucial portion of the process.
+
+2) With the Virtual World maturing, more companies are seeking three-dimensional artwork. Logos, animations, and 3D renders are moving to the forefront of brand mentality. As entertainment and commerce shift into 3D, you’re brand will do the same.
+
+***** Gaming 
+In its early days, gamers inhabit Virtual Reality. Classic video games like "Doom" have been remade for VR and new games like the "Price of Freedom" are expanding the concept of VR gaming. 
+
+The software that's most commonly used to build Virtual programs (called Unity) was first a platform for building video games. It's now evolving into a software for building all forms of Virtual interactivity. 
+
+VR is different from most media forms that have come before it. Unlike newspapers, books, radio, and television, VR encourages the user to be part of the content, using their body and mind to influencing the content and information surrounding them. This is a principle first mastered in the gaming industry. 
+
+We continue to source the expertise of video game programmers to realize VR's potential. 
+
+***** Entertainment 
+
+The transition from analog to digital was a shock to the media and live entertainment industries, altering them from all angles. While the Virtual shift remains digital, it’s impact is equally as sizeable as computer science again alters the way we interact with media. A decade ago, phone screens and HD televisions brought mobility and clarity to the way consumers ingest information. Virtual and Augmented reality are inviting the consumer inside the information - blending the physical and digital worlds.
+
+With the boom of new AR applications, XR has become the new platform for entertainment media. A connection and experience unlike anything possible through traditional media, XR allows the user to connect with and be part of the scene they’re viewing.
