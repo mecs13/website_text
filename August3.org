@@ -73,7 +73,8 @@ Benefits of C#
 - Raw performance 
 - object oriented language that's performent 
 
-** Web XR 
+** Web GL
+- Open GL is a used to show VR into a headset
 A way to display 3D inside the browser and allow to forward it into a VR headset. Allows you to make 3D applications distributable on the web. You can reach anyone who has the internet. You have 2D for free. 
 
 As a result of peformance hit is to put less detail (polygons). You might want to reduce the number of polygons 
@@ -81,6 +82,7 @@ As a result of peformance hit is to put less detail (polygons). You might want t
 *** Cons 
 not performent: 3D has to be less detailed (polygons). Opposite of C++. 
 - this is a good application for massive distribution 
+- viewable on a phone, headset...for free (this is massive) 
 - For high performance you go with Unity 
 - You still need to integrate your 3D models from game engines
 - No physics engine nor view engine 
@@ -109,6 +111,17 @@ not performent: 3D has to be less detailed (polygons). Opposite of C++.
 Historically targeting experienced develoopers. that said, they've recently released visual tools allowing designers to work in the game engine without using a single line of code. 
 
 ** Prototyping 
+- Ideate 
+- 1) Designing basic Assets 
+ + design sensitiviies 
+- 2) View assets in VR by importing through a game engine 
+- 3) Defining the physics (action) 
+- 4) interactivity of the objects 
+ + if you want to button click to have some functionality, it's not going to happen at the prototyping level becaus it's unecessary because the guys prorgramming it know how it's going to work on the backend. 
+- 5) Try to build everything that might be a constraint. What are the hardest things to do? these are the things that we'll test in the prototype (it may include reduced specifications). Prototyping is analyzing the surface area of the application and determine whether all the features are possible at the current time and budget. 
+- With the real program. We'll clearn code, unit test codde, make sure assets are proper, assets are aestheitc, it's to scale, small details. 
+
+Prototype is to prove the final project is possible. We should be able to know with the prototype whether we'll be able to run into performance issues. We'll develop an awareness of the final application. If it begins have performance issues at the prototyping level, we understand how and where to  modify the project. It doesn't necessarily follow common coding practice. 
 
 ** Java Script 
 language used for web xr 
@@ -131,3 +144,4 @@ language used for web xr
   - we use AI to orient people in 3D space with VR 
 
 ** TB Research Prices associated with AI features in VR 
+** TB Research Spatial OS functionalities 
