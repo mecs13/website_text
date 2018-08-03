@@ -96,7 +96,9 @@ Web GL is a way of displaying immersive content through a web browser. This dras
 
 There are downsides to Web GL. For instance, it will generate a lower quality imagine than one from a game engine (engines like Unity are capable of hosting high polygon counts). In order to program physical properties into a Virtual environment built with web gl, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance. 
 
-If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine. 
+If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine.
+
+... 
 
 - Open GL is a used to show VR into a headset
 A way to display 3D inside the browser and allow to forward it into a VR headset. Allows you to make 3D applications distributable on the web. You can reach anyone who has the internet. You have 2D for free. 
@@ -117,6 +119,10 @@ not performent: 3D has to be less detailed (polygons). Opposite of C++.
  + This saps a bit of perofrmance because it needs to go through a sandbox (still using C++ under the hood) 
 
 ** Game Engine 
+Game engines are a coders paradise. They provide the most dynamic combination of programming capabilities. On a foundational level, a game engine is a virtual space for working with 3D models. Think of it like the set of a movie production and consider the coders as the director of the scenes. They determine where to place the camera, the physical laws by which the room will abide, and afford full agency through the use of controllers.
+
+***
+
 - Game engine allows yo to set up a scene for your application (gives you virtual space where you can work with 3D models) 
 - Allows you to set u a camera (perspective from which you're going to see 3D models
 - Allows you to handle the controllers 
@@ -129,10 +135,7 @@ not performent: 3D has to be less detailed (polygons). Opposite of C++.
 - Allows you in a high level package to use low level specific packages in a dynamic VR experience 
 
 + unreal is performant and a bit harder to use than unity (generally used by bigger teams of developers 
-+ Unity: smaller teams of developers
-
-*** Unreal
-Historically targeting experienced develoopers. that said, they've recently released visual tools allowing designers to work in the game engine without using a single line of code. 
++ Unity: smaller teams of developer
 
 ** Prototyping 
 - Ideate 
