@@ -1,0 +1,33 @@
+- Python we can script blender 
+
+- physics engine: model some sort of physical interaction 
+ + can modify the physics so the world does not have to abide by laws of physics: light, rain, etc. 
+ + movement and logic added to their models. 
+
+- Difference between blender and game engine: model 3D volumes, give them skeleton. Port them into game enigne. This allows you to put physics on these volumes. 
+ + Football player volume: this volume has x weight and it is allowed to jump y height. 
+ + Blender does not have this sense of weight or colision 
+ + you should not be able to go through the walls 
+ + Camera should recognize where the wall is and you can't go through the wall 
+
+PHysics engine allows you to create parameters. 
+
+- Wall example defiens physicsl parameters of space
+- phsical parameters of a moving objects 
+ + gravity is taken into account 
+ + as a VR programmer you say this object weights X and has Y ability (classical physics 
+
+- physics engine to define gravity and mass, you can allow for collisions and gravitational pull 
+
+ + momentum is also defined 
+ + magnetism needs to be added to the objects 
+ + gravity 
+
+physical laws relative to electromagnetism: electricity o
+
+relativistic mechanics: gravity
+
+classical mechanics
+ + mechanics: related to newton's laws: 1) action/reaction, 
+
+...
