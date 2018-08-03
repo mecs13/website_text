@@ -103,6 +103,9 @@ not performent: 3D has to be less detailed (polygons). Opposite of C++.
 + unreal is performant and a bit harder to use than unity (generally used by bigger teams of developers 
 + Unity: smaller teams of developers
 
+*** Unreal
+Historically targeting experienced develoopers. that said, they've recently released visual tools allowing designers to work in the game engine without using a single line of code. 
+
 ** Prototyping 
 
 
