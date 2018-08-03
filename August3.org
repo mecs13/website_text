@@ -1,4 +1,13 @@
-** Physics Engine 
+** Physics Engine (refined) 
+A physics engine allows us to model physical interaction. We may chose to abide by or manipulate the terrestrial laws of gravity. Light, rain, and the relationship between objects are all programmable in a physics engine. 
+
+With a virtual environment that includes human movement, we must program their virtual characteristics. When building an environment of virtual football players, for example, we must assign certain properties to each player. X player weighs y pounds and has the ability to jump z height. 
+
+For many virtual creators, it's important that the constructed environment abides by basic real-world physical parameters. For example, when the user makes contact with a wall in a virtual space, the VR builder can work with a physics engine to cause the user's movement to be interrupted by this wall, rather than passing directly through it. 
+
+"Unity" supports the most dynamic physics engine.
+
+** Physics Engine (raw)  
 
 - Python we can script blender 
 
@@ -33,8 +42,14 @@ classical mechanics
  + mechanics: related to newton's laws: 1) action/reaction,  
 
 ...
+** Python (refined) 
+Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion. 
 
-** Python 
+Python is also used for networking the server that will handle the database for your VR experience.
+
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. Combining these languages for this combines the succinctness of python with the performance of C++ For this purpose, it functions as a librarian who retrieves a book for us from the stacks. 
+
+** Python (Raw) 
  - Python is a succinct language. 
 - Object oriented programming 
 - Not used in VR bcause it's not performant enough 
