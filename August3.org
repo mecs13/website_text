@@ -74,7 +74,9 @@ Benefits of C#
 - object oriented language that's performent 
 
 ** Web XR 
-A way to display 3D inside the browser and allow to forward it into a VR headset. Allows you to make 3D applications distributable on the web. You can reach anyone who has the internet. You have 2D for free 
+A way to display 3D inside the browser and allow to forward it into a VR headset. Allows you to make 3D applications distributable on the web. You can reach anyone who has the internet. You have 2D for free. 
+
+As a result of peformance hit is to put less detail (polygons). You might want to reduce the number of polygons 
 
 *** Cons 
 not performent: 3D has to be less detailed (polygons). Opposite of C++. 
@@ -108,5 +110,24 @@ Historically targeting experienced develoopers. that said, they've recently rele
 
 ** Prototyping 
 
+** Java Script 
+language used for web xr 
 
 
+** AI
+***  VR analytics 
+ + tourism: 
+- With Big Data: you could do a heat map to know where people looked when they were inside a particular VR world
+- "It's these 3D objects they looked at the most"
+
+*** Machine learning 
+- analytics requires this 
+
+*** vR assistants 
+- VR chatboxes 
+ + personalized chatbox for vocal instructions for leading ppl through the world 
+ + if you want to have a competition for creation of your next architecture: 
+  - instead of having a person who guides you through the space, we could have AI assistants. A chatbot cannot point to something. If it's in AI or AR, chatbot could 
+  - we use AI to orient people in 3D space with VR 
+
+** TB Research Prices associated with AI features in VR 
