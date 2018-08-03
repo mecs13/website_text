@@ -121,7 +121,7 @@ Historically targeting experienced develoopers. that said, they've recently rele
 - 5) Try to build everything that might be a constraint. What are the hardest things to do? these are the things that we'll test in the prototype (it may include reduced specifications). Prototyping is analyzing the surface area of the application and determine whether all the features are possible at the current time and budget. 
 - With the real program. We'll clearn code, unit test codde, make sure assets are proper, assets are aestheitc, it's to scale, small details. 
 
-Prototype is to prove the final project is possible. We should be able to know with the prototype whether we'll be able to run into performance issues. We'll develop an awareness of the final application. If it begins have performance issues at the prototyping level, we understand how and where to  modify the project. It doesn't necessarily follow common coding practice. 
+Prototype is to prove the final project is possible. We should be able to know with the prototype whether we'll be able to run into performance issues. We'll develop an awareness of the final application. If it begins have performance issues at the prototyping level, we understand how and where to  modify the project. It doesn't necessarily follow common coding practice. Obey the spec.  
 
 ** Java Script 
 language used for web xr 
