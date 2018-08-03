@@ -47,7 +47,9 @@ Python is a succinct, object oriented programming language. It's scripting capab
 
 Python is also used for networking the server that will handle the database for your VR experience.
 
-This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. Combining these languages for this combines the succinctness of python with the performance of C++ For this purpose, it functions as a librarian who retrieves a book for us from the stacks. 
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. Combining these languages for this combines the succinctness of python with the performance of C++ For this purpose, it functions as a librarian who retrieves a book for us from the stacks.
+
+Python is not so applicable to direct vr creation but it enables functionalities that VR wants in order to reach maximum performance  
 
 ** Python (Raw) 
  - Python is a succinct language. 
@@ -72,9 +74,10 @@ This is the default language of the machine learning world. While machine learni
  - In VR the calculations you do are GPU compatable (CPU is more polyvalent but doesn't allow for the specifics)
  - data mining from python, we're going to call the c++ tool box functions from the python code (this allows for performant code with the succintness of python and the perforance of C++). 
 
-This allows you do big data and data mining. You need to store these in data bases. An API for your VR app allows you to handle the database for you and do big data analytics at the same time. Python is not so applicable to direct vr creation but it enables functionalities that VR wants in order to reach maximum performance 
+This allows you do big data and data mining. You need to store these in data bases. An API for your VR app allows you to handle the database for you and do big data analytics at the same time. 
 
 ** C#
+This is a Microsoft language. Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that's compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work. 
 
 Benefits of C#
 - Microsoft language 
@@ -89,6 +92,12 @@ Benefits of C#
 - object oriented language that's performent 
 
 ** Web GL
+Web GL is a way of displaying immersive content through a web browser. This drastically expands the XR user base, as anywhere in the world - whether on their laptop, smartphone or tablet - users can access immersive media. It's available to anyone with an internet connection. As high-end VR headsets have only reached about 15 million homes today, deploying content through Web GL bridges a massive accessibility gap.
+
+There are downsides to Web GL. For instance, it will generate a lower quality imagine than one from a game engine (engines like Unity are capable of hosting high polygon counts). In order to program physical properties into a Virtual environment built with web gl, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance. 
+
+If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine. 
+
 - Open GL is a used to show VR into a headset
 A way to display 3D inside the browser and allow to forward it into a VR headset. Allows you to make 3D applications distributable on the web. You can reach anyone who has the internet. You have 2D for free. 
 
