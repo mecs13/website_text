@@ -118,7 +118,7 @@ not performent: 3D has to be less detailed (polygons). Opposite of C++.
  + because you're accessing them through JS, you have to go through a security (sandbox). 
  + This saps a bit of perofrmance because it needs to go through a sandbox (still using C++ under the hood) 
 
-** Game Engine 
+** Game Engine Intro (refined(  
 Game engines are a coders paradise. They provide the most dynamic combination of programming capabilities. On a foundational level, a game engine is a virtual space for working with 3D models. Think of it like the set of a movie production and consider the coders as the director of the scenes. They determine where to place the camera, the physical laws by which the room will abide, and afford full agency through the use of controllers.
 
 ***
