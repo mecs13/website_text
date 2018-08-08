@@ -1,5 +1,5 @@
 ** Physics Engine (refined) 
-A physics engine allows us to model physical interaction. We may chose to abide by or manipulate the terrestrial laws of gravity. Light, rain, and the relationship between objects are all programmable in a physics engine. 
+A physics engine allows us to incorporate the laws of physics (or create our own physical laws) and implement them into XR experiences. The behavior of light, rain, the laws of gravity, and the relationship between objects are all programmable in a physics engine. 
 
 With a virtual environment that includes human movement, we must program their virtual characteristics. When building an environment of virtual football players, for example, we must assign certain properties to each player. X player weighs y pounds and has the ability to jump z height. 
 
