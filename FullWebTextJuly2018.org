@@ -544,7 +544,13 @@ The site's text comes through a program called HTML. Alone, HTML text is bland, 
 Finally the JavaScript engine compiles the files downloaded from the web server and customizes them to fit your computer. The size of the screen, browser being used, and operating system on which the computer is running are all variables the JS engine must consider and manage so the image appears clearly in the browser.
 
 ***** Python 
-This is one of the high-level programming languages in common use today. One of the advantages to programming in python is the ability to express concepts in fewer lines than are typically required.
+# Machine Learning Language 
+
+Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion. 
+
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book for us from the stacks.Combining these languages blends the succinctness of python with the high performance of C++. 
+
+Python is not so applicable to direct VR creation but it enables functionalities that VR wants in order to reach maximum performance.
 
 ***** C-Sharp 
 # Object Orientation
