@@ -18,7 +18,7 @@
 
 - AR: The result of superimposing digital information on top of real-time human optical perception. AR is accessed through HMDs or handheld devices. 
 
-- HDM: Varying pieces of hardware resembling goggles or glasses providing technological assets needed for experiencing XR. 
+- HMD: Varying pieces of hardware resembling goggles or glasses providing technological assets needed for experiencing XR. 
 
 - SOP: Standard operating procedure implemented by groups of individuals working together. These are processes meant to regulate workflow for maximizing quality and efficiency.  
 ...
