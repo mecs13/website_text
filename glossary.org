@@ -2,23 +2,23 @@
 
 - *Campaign*: The breadth of a project. From the time the idea is conceived to the final post-production. 
 
-- XR (Extended Reality): An expansive term inclusive of all digitally enhanced realities. Virtual, Augmented, and Mixed Reality being the foremost subsets. 
+- *XR (Extended Reality)*: An expansive term inclusive of all digitally enhanced realities. Virtual, Augmented, and Mixed Reality being the foremost subsets. 
 
-- Deploy: The act of delivering a finished product to its most appropriate place in the market. Putting the right message in front of the right people at the right time. 
+- *Deploy*: The act of delivering a finished product to its most appropriate place in the market. Putting the right message in front of the right people at the right time. 
 
-- Distribute: Determining the channels through which the product or content will be deployed. A campaign may be distributed across a VR app store, on Web GL, via YouTube, etc. 
+- *Distribute*: Determining the channels through which the product or content will be deployed. A campaign may be distributed across a VR app store, on Web GL, via YouTube, etc. 
 
-- Game Engine: A 3D space in which interactive digital experiences are built. It's the equivalent to the factory space in which an automobile is created. 
+- *Game Engine*: A 3D space in which interactive digital experiences are built. It's the equivalent to the factory space in which an automobile is created. 
 
-- Booth Portal: A physical-world architecture meant as a segway, creating continuity between the area in which the user dons the VR headset and the Virtual World they enter into. This is a marketing concept and typically manifests as a replica of place or object that exists inside the accompanying Virtual experience. 
+- *Booth Portal*: A physical-world architecture meant as a segway, creating continuity between the area in which the user dons the VR headset and the Virtual World they enter into. This is a marketing concept and typically manifests as a replica of place or object that exists inside the accompanying Virtual experience. 
  
-- VR: Digitally immersive worlds created in a game engine and/or from 360 lens-captured content. In 2018 VR is accessible through head mounted displays. 
+- *VR*: Digitally immersive worlds created in a game engine and/or from 360 lens-captured content. In 2018 VR is accessible through head mounted displays. 
 
-- MR: The result of superimposing real world lens-captured content into a VR world. 
+- *MR*: The result of superimposing real world lens-captured content into a VR world. 
 
-- AR: The result of superimposing digital information on top of real-time human optical perception. AR is accessed through HMDs or handheld devices. 
+- *AR*: The result of superimposing digital information on top of real-time human optical perception. AR is accessed through HMDs or handheld devices. 
 
-- HMD: Varying pieces of hardware resembling goggles or glasses providing technological assets needed for experiencing XR. 
+- *HMD (Headed Mounted Displays)*:: Varying pieces of hardware resembling goggles or glasses providing access to various forms of Extended Reality. 
 
 - SOP: Standard operating procedure implemented by groups of individuals working together. These are processes meant to regulate workflow for maximizing quality and efficiency.  
 ...
