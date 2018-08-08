@@ -1,6 +1,6 @@
 * Website Glossary 
 
-- Campaign: The breadth of a project. From the time the idea is conceived to the final post-production. 
+- *Campaign*: The breadth of a project. From the time the idea is conceived to the final post-production. 
 
 - XR (Extended Reality): An expansive term inclusive of all digitally enhanced realities. Virtual, Augmented, and Mixed Reality being the foremost subsets. 
 
