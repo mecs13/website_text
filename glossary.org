@@ -18,7 +18,7 @@
 
 - *AR*: The result of superimposing digital information on top of real-time human optical perception. AR is accessed through HMDs or handheld devices. 
 
-- *HMD (Headed Mounted Displays)*:: Varying pieces of hardware resembling goggles or glasses providing access to various forms of Extended Reality. 
+- *HMD (Headed Mounted Displays)*: Varying pieces of hardware resembling goggles or glasses providing access to various forms of Extended Reality. 
 
 - SOP: Standard operating procedure implemented by groups of individuals working together. These are processes meant to regulate workflow for maximizing quality and efficiency.  
 ...
