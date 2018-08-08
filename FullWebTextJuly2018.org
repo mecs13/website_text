@@ -546,11 +546,11 @@ Finally the JavaScript engine compiles the files downloaded from the web server 
 ***** Python 
 # Machine Learning Language 
 
-Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion. 
+Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion.
 
-This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book for us from the stacks.Combining these languages blends the succinctness of python with the high performance of C++. 
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book from the stacks and delivers it to the reader. Combining these languages blends the succinctness of python with the high performance of C++.
 
-Python is not so applicable to direct VR creation but it enables functionalities that VR wants in order to reach maximum performance.
+In the VR world, python is a tool that provides access and adds efficiency to game engine development.
 
 ***** C-Sharp 
 # Object Orientation
@@ -905,6 +905,50 @@ Business is conducted among people. We love building relationships with folks fr
 Just like creating a Hollywood film or an advertising campaign, XR production requires the unification of investors, production studios, innovation labs, writers, and videographers.
 
 ***** Investors 
+# What We Do
+XR is an abbreviation for “Extended Reality”, a flexible and far reaching term for immersive 3D media. It includes Virtual, Augmented, and Mixed Reality. XR will increase revenue and decrease internal costs in most industries. This technology is shifting the way we interact with the digital world, calling on our visual, auditory, and kinesthetic senses. All forms of education, research, and science will grow inside this immersive environment.
+
+# Nova XR
+Nova is Latin for New, combining the future with fundamentals. We live our dream awake. Nova XR Media is built by four founders. We come from corporate sales, computer science, architectural design, and production. We bring diversity to a small group of early movers in New York City who are driving XR foreward. We design, develop, innovate, and build.
+
+# Business Process
+1) Listen and ideate to spawn a customized XR solution for your business
+
+2) Formalize the specification and present it as a physical and digital document
+
+3) Collaborate with you to implement specific feedback
+
+4) Share a customized prototype and analyze it with you to assure satisfaction
+
+5) Deliver final product
+
+# Solutions
+There are three ways we serve our clients
+
+# Consultation
+First we define how the technology will improve your business by generating an idea from scratch. If you have an existing idea, we'll help you build it. Our services expand to include on-site hardware installation and training, base lev- el software and hardware tutorials, and remote tech support.
+
+# Products
+Through constant experimentation we are creating original and innovative XR products. They are wide-ranging applications that can be customized for your needs.
+
+# Publications
+As a team of communicators, we blend visual design, engineering, and journalistic principles to create publications that help you understand Extended Reality. We address it's applications, history, current standing, cognitive influence, and financial viability. In building these doucments, we rely on internal research and development along with strong ties to academic programs across the world.
+
+# Products
+## Bloomaway
+Bloomaway smooths transitions in VR and eliminates diziness. This is an interface built to fascilate world travel. Reach out, select from a map, turn around, and you've arrived in a new place. It's seamless virtual transport. Bloomaway was designed to adapt to a wide range of business solutions.
+
+## New Year's XR
+By establishing 360 cameras in 10 of the most iconic locations, we’re live streaming from around the world for 36 consecutive hours. Travel from down under, to Dubai, through the old world, and all the way to North America, experiencing the sights and sounds of New Year’s Eve. An internet connection is all you need to participate. It's a globally unifying event.
+
+## Infinite Gallery
+As content creators transition to VR they’re met with the challenge of presentation. How to evolve off the 2D screen and into this immersive world.The Infinite Gallery, our original VR interface, is designed as a preliminary step into Virtual content display. It’s Step 1 in creating customized Virtual architecture.
+
+## XR Architecture
+In Virtual Space, architects inspect the relationship between the geometric dynamics of a structure and it's environment. Traffic flow, pedestrian movement, sunlight, rainfall are among the variables to be evaluated from inside a structural replica.
+
+# Conclusion
+A decade into the smartphone era, we're witnessing the next media platform emerge all around us. After decades in front of the 2D screen, we're stepping inside the content. It's the evolution of media, a form that will influence everyone.
 
 ***** Studios 
 
