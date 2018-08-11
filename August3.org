@@ -2,7 +2,7 @@
 # Laws of the Virtual World
 A physics engine allows us to construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
 
-With a virtual environment that includes human movement, we must program all the virtual capabilities and restrictions. When building an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
+Many virtual environments are centered on the movement of human avatars. We must build their virtual capabilities and restrictions. When constructing an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
 
 For many virtual creators, it's important that the constructed environment abides by basic real-world parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it. 
 

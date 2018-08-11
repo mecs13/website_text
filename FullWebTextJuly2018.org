@@ -525,11 +525,14 @@ Still in its infancy, Web XR makes it possible to access XR content by typing a 
 The benefit is accessibility. From the company's perspective, you don't need to build an XR app nor rely on the user downloading it. Instead, you build XR capability into the front end of your website and invite users to visit and view just as they would your current 2D site.
 
 ***** Physics Engine 
-# Virtual Laws of Gravity
+# Laws of the Virtual World
+A physics engine allows us to construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
 
-In simplest terms, a physics engine is a software that implements the laws of physics into a game engine. In the interactive world of Virtual Reality, this software enables objects to behave as they would in the physical world. When you pick up a baseball in VR and throw as though you're a pitcher, the ball moves forward with velocity before falling to the floor of the Virtual World. This behavior is made possible by a physics engine. 
+Many virtual environments are centered on the movement of human avatars. We must build their virtual capabilities and restrictions. When constructing an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
 
-Most of our Virtual Reality content is programmed in the game engine "Unity" - which has a built-in physics engine. By manually adjusting the parameter settings, we can customize the Virtual objects and the way they behave. By taking it a step further and controlling the physics from customized lines of code, we can give the objects the dynamics of a vehicle, a piece of material, or any other matter.
+For many virtual creators, it's important that the constructed environment abides by basic real-world parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it. 
+
+"Unity" supports the most dynamic physics engine.
 
 ***** Java Script
 # A Staple In the Game
