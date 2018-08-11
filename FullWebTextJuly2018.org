@@ -520,9 +520,11 @@ XR Programming is centralized in a "game engine", a software framework used to c
 # XR Through Your Browser
 Over the last few years, XR has been primarily accessed by downloading and then logging into digital distribution platforms such as Steam or Oculus (XR's version of the app store).
 
-Still in its infancy, Web XR makes it possible to access XR content by typing a web address into the URL box in your browser, arriving at an XR-compatible website, and viewing 3D content through a headset that's connected to your computer.
+Still in its infancy, Web XR makes it possible to access XR content by typing a web address into the URL box in your browser, arriving at an XR-compatible website, and viewing 3D content through a headset that's connected to your computer. 
 
-The benefit is accessibility. From the company's perspective, you don't need to build an XR app nor rely on the user downloading it. Instead, you build XR capability into the front end of your website and invite users to visit and view just as they would your current 2D site.
+Deploying content through Web XR bridges a massive accessibility gap.Affording accessibility comes with sacrifices. For instance, Web XR content generates lower quality imaging than content build in a game engine. 
+
+In order to program physical properties into a Web XR Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to certain C++ functions, adding complexity to the build. 
 
 ***** Physics Engine 
 # Laws of the Virtual World

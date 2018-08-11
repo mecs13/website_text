@@ -18,9 +18,9 @@ This is the default language of the machine learning world. While machine learni
 In the VR world, python is a tool that provides access and adds efficiency to game engine development.
 
 ** Web GL
-Web GL is a means of displaying immersive content through a web browser. This drastically expands the XR user base, as anywhere in the world. Whether on their laptop, smartphone or tablet, users can access immersive media through Web GL. With high-end VR headsets having reached about 15 million homes, deploying content through Web GL bridges a massive accessibility gap.
+Web GL is a means of displaying immersive content through a web browser. This drastically expands the XR user base, allowing anyone in the world with an internet connection to view XR content through a computer, smartphone, or tablet. With high-end VR headsets having reached about 15 million homes, deploying content through Web GL bridges a massive accessibility gap.
 
-Affording accessibility costs imaging quality. For instance, Web GL content will generate a lower quality imagine than content build in a game engine. In order to program physical properties into a Web GL Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance. 
+Affording accessibility costs imaging quality. For instance, Web GL content will generate a lower quality imagine than content build in a game engine. In order to program physical properties into a Web GL Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance.  
 
 If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine.
 
