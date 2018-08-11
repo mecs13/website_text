@@ -1,5 +1,6 @@
 ** Physics Engine (refined) 
-A physics engine allows us construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
+# Laws of the Virtual World
+A physics engine allows us to construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
 
 With a virtual environment that includes human movement, we must program all the virtual capabilities and restrictions. When building an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
 
@@ -10,20 +11,20 @@ For many virtual creators, it's important that the constructed environment abide
 ** Python (refined) 
 # Machine Learning Language 
 
-Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion. 
+Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion.
 
-This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book for us from the stacks.Combining these languages blends the succinctness of python with the high performance of C++. 
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book from the stacks and delivers it to the reader. Combining these languages blends the succinctness of python with the high performance of C++.
 
-Python is not so applicable to direct VR creation but it enables functionalities that VR wants in order to reach maximum performance.
+In the VR world, python is a tool that provides access and adds efficiency to game engine development.
 
 ** Web GL
-Web GL is a way of displaying immersive content through a web browser. This drastically expands the XR user base, as anywhere in the world - whether on their laptop, smartphone or tablet - users can access immersive media. It's available to anyone with an internet connection. As high-end VR headsets have only reached about 15 million homes today, deploying content through Web GL bridges a massive accessibility gap.
+Web GL is a means of displaying immersive content through a web browser. This drastically expands the XR user base, as anywhere in the world. Whether on their laptop, smartphone or tablet, users can access immersive media through Web GL. With high-end VR headsets having reached about 15 million homes, deploying content through Web GL bridges a massive accessibility gap.
 
-There are downsides to Web GL. For instance, it will generate a lower quality imagine than one from a game engine (engines like Unity are capable of hosting high polygon counts). In order to program physical properties into a Virtual environment built with web gl, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance. 
+Affording accessibility costs imaging quality. For instance, Web GL content will generate a lower quality imagine than content build in a game engine. In order to program physical properties into a Web GL Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance. 
 
 If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine.
 
-** C#
+** C# (refined)
 This is a Microsoft language. Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that's compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work. 
 
 ** Game Engine Intro (refined) 
