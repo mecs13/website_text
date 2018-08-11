@@ -1,9 +1,9 @@
 ** Physics Engine (refined) 
-A physics engine allows us to incorporate the laws of physics (or create our own physical laws) and implement them into XR experiences. The behavior of light, rain, the laws of gravity, and the relationship between objects are all programmable in a physics engine. 
+A physics engine allows us construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
 
 With a virtual environment that includes human movement, we must program all the virtual capabilities and restrictions. When building an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
 
-For many virtual creators, it's important that the constructed environment abides by basic real-world physical parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it. 
+For many virtual creators, it's important that the constructed environment abides by basic real-world parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it. 
 
 "Unity" supports the most dynamic physics engine.
 
