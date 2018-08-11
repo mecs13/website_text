@@ -1,5 +1,22 @@
 * Web Text 
 
+** Build XR 
+Build XR page intro text: Extended Reality may provide a variety of solutions across a range of industries. By answering these five questions, you provide us with tools for applying XR to your needs. Marketing, training, and internal productivity begin to outline the scope of XR applications.
+
+*** Why build XR? 
+*** Who is the audience? 
+*** What industry?  
+*** What problem needs to be solved? 
+*** What is the Budget
+- 4 figure 
+- 5 figures 
+- 6 figures
+
+followed by:
+
+*** Describe your idea
+*** Contact information
+
 ** Solutions 
 
 *** Products 
