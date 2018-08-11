@@ -559,11 +559,15 @@ In the VR world, python is a tool that provides access and adds efficiency to ga
 
 ***** C-Sharp 
 # Object Orientation
-Developed by Microsoft, C# (pronounced "C-Sharp") is one of two programming languages compatible with Unity (the most commonly used VR game engine). It's an object-oriented programming language, making it a valuable resource for building interactive VR experiences.
+This is one of the programming languages compatible with Unity (the most commonly used VR game engine).
 
-Historically, programming has been understood as a logical procedure for performing an action - taking input data, processing it, and producing an output. At its origin, the essence of programming has been writing the logic rather than defining the data. By contrast, object oriented programming is rooted in the belief that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. An "object" could be anything from a human being to a building to widgets of a web page.
+Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that's compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work.
 
-VR is based on the creation of such objects, and C# is the object-oriented programming language driving the backend of the VR world.
+It's an object-oriented programming language, making it a valuable resource for building interactive VR experiences. Historically, programming has been understood as a logical procedure for performing an action - taking input data, processing it, and producing an output.
+
+At its origin, the essence of programming has been writing the logic rather than defining the data. By contrast, object oriented programming is rooted in the belief that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. An "object" could be anything from a human being to a building to widgets of a web page.
+
+VR is based on the creation of such objects, and C# is the object-oriented programming language driving much of the VR world.
 
 ***** Spatial OS
 ## Virtual World Host
