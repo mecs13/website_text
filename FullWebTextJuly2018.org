@@ -644,17 +644,27 @@ This enables us to remove the many errors and barriers that stand between the us
 
 The seven primary emotions monitored in traditional commercial software are happiness, sadness, anger, contempt, fear, disgust, and surprise.
 
-***** Game Engine 
-A game engine is the software environment where computer developers build interactive 3D experiences. Game engines combine three elements: graphics, audio, and logic. Think of them akin to the factory in which a vehicle is constructed - where all the necessary space, tools, and engineering platforms exist. In the current Virtual Reality climate, most developers choose between the two most powerful game engines. 
+***** Game Engine
+A game engine is the software environment where computer developers build interactive 3D experiences. On a foundational level, a game engine is a virtual space for working with 3D models. Think of it like the set of a movie production and consider the coders as the director of the scenes. They determine where to place the camera, the physical laws by which the room will abide, and afford full agency through the use of controllers.
 
-## Unity 
-Unity supports the construction of both 2D and 3D experiences for computers, consoles, and mobile devices. It was first revealed at Apple's Worldwide Developer's conference in 2005. Since then, five major versions of it have been released and more than 100 of the most well-respected experiences in the gaming industry have been created in Unity.  
+Game engines combine three elements: graphics, audio, and logic. In the current Virtual Reality climate, most developers choose between the two most powerful game engines.
 
-Unity is now free for download, making it more accessible for anyone to gain access to VR development tools. This has been huge step in the growing ecosystem of VR coders worldwide. 
+## Unity
+Unity supports the construction of both 2D and 3D experiences for computers, consoles, and mobile devices. It was first revealed at Apple's Worldwide Developer's conference in 2005. Since then, five major versions of it have been released and more than 100 of the most well-respected experiences in the gaming industry have been created inside.
 
-While there are features available for non-coders, understanding how to read and write in one of Unity's supported programming languages is the ticket to maximizing its potential. Unity supports three programming languages, yet C# (Cee Sharp) is preferred by most professional developers. C# is an object-oriented language, making it compatible with the three-dimensional relationship among objects in VR. 
+Unity is now free for download, making it more accessible for anyone in the world to gain access to high-end VR development tools. This has been huge step in the growing ecosystem of VR coders across the globe.
+While there are features available for non-coders, understanding how to read and write in one of Unity's supported programming languages is the ticket to maximizing its potential. Unity supports three programming languages, yet C# (Cee Sharp) is preferred by most professional developers. C# is an object-oriented language, making it compatible with the three-dimensional relationship among objects in this Virtual Space.
 
-A new feature released in Unity this year is enhanced texturing, allowing developers to create more detailed replicas of complex physical world objects. The surface of a rock, with its infinite nuances, is difficult to texture in a game engine. This new feature allows developers to create more life-like replicas of complex textures. 
+A new feature released in Unity this year is enhanced texturing, allowing developers to create more detailed replicas of complex physical world objects. The surface of a rock, for instance, with its infinite nuances, is difficult to replicate. Unity's new texturing feature allows developers to create more life-like visuals of such complex surface.
+
+## Unreal
+The decision of which game engine to use coincides with the creator's existing skills. Are they a coder or a designer? As a coder, the creator will write in one of the languages supported by the game engine. Unreal supports a language called C++.
+
+While it's not always the case, coders may be more likely to work in Unity while designers may gravitate toward Unreal's "visual programming." Instead of writing scripts, the designer places modules in an open area within the software interface.
+
+Regardless of the game engine in use, creators work within many "frameworks" built into the engine. During the creation of the 3D experience, the creator may want to generate a similar (or even identical) outcome at various points throughout the experience. Perhaps the user's movement should lead to the same outcome regardless whether they're in Virtual New York city or Virtual San Francisco. Building frameworks is like building bridges. Once the bridge has been constructed and finalized, traversing that body of water in the future becomes standardized, saving time and energy.
+
+Access to these frameworks is one of the great appeals to industry-leading game engines like Unreal. However, there are cases when the developer may want the flexibility to work outside such parameters or even build their own frameworks. Understanding this, Unreal makes all of its source code (the lines of code written to build the game engine itself) available to subscribers. With this access, the community of Unreal developers has created documentation to help other coders work through the inevitable hurdles of programming in Unreal.
 
 ## Unreal 
 
