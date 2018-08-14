@@ -12,12 +12,14 @@ Build XR page intro text: Extended Reality may provide a variety of solutions ac
 - 5 figures 
 - 6 figures
 
-We'll apply your responses to the next step in our consultancy.
-
 followed by:
 
 *** Describe your idea
 *** Contact information
+
+** Submission Text
+
+Thanks for taking the first step toward building your XR solution! We'll apply your responses to the next step in our consultation. 
 
 ** Solutions 
 
