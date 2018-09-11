@@ -12,3 +12,28 @@ Haptic technology invites the sense of the touch into the Virtual World. By coor
 - Haptic: the ability to grasp
 
 The first two distinctions of touch are generally considered passive while “haptic” is initiated by an active movement by the human body. It’s the first form of touch to become present in the Virtual World. Haptic technology mimics the sensory experience that comes with grasping in an object in your hands. 
+
+** Training with Haptics
+
+It is a basic human desire to reach out and touch.  Gloves, sonic, objects, wind, heat and so, in virtual reality a sense of touch, to make training more realistic.  
+
+*** Medical
+- Take a pulse
+- Needle injection
+- Cycle through scenarios
+
+*** Sports
+- Play pre/re-view
+- Alternative perspectives
+- Pause, rewind, annotate
+
+*** Manufacturing
+- Product testing
+- Design process
+- Customer Services 
+
+*** Wellness
+- Nature's elements
+- Winds, water, earth
+- Connection with environment
+
