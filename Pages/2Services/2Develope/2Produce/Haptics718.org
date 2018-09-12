@@ -1,0 +1,44 @@
++TITLE Website text - 
++AUTHOR
++DATE
+
+
+* Haptics
+
+** Experience
+- Natures elements to be felt in felt kinesthetically
+- winds, water, earth
+- visuals, audio, and dexterety synchronized 
+
+*** Technically
+INPUTS: (heat, fluids)
+OUTPUTS: convincing pressure sensory 
+
+- grab a virtual object in VR,
+- force feedback exoskeleton
+- motion tracking 
+
+** Training
+*** Medically
+- take a pulse
+- inject a needle in the right spot
+- cycle through as many scenarios as you'd like
+
+*** Athletes
+- Play pre/re-view
+- alt-Perspective
+- pause, rewind, annotate
+
+*** New
+
+** Science
+
+Finger tips - texture perception
+
+When feeling fine textures, such as wood grain or fabric you've a snesor
+
+Haptic fidelity
+
+issue of Temporal resolution. fine textures, wood grain or fabrics different receptor in  (porr - can pick up pasimiun corsusal pasimium corzpesul.  more spacial esolution/ pickl up vibrations 1 kilohert.  feel sounds.  run finger and finger print interacts with ridges and microsdcopice surfaces/   brain picks that up and takes translates it into a texture. 
+ 
+-- sensative temporally
