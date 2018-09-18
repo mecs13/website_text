@@ -26,4 +26,28 @@ Source Arcane Reality, Gaddie, Michael Saunders, Bracey, Jon Clinken, Nermeen fo
 This will be a combination of our Nova digital strat and our marketing strategy embedded in the XR Mall business plan. Also to be included is payment systems and the way they will influence in-app purchasing in VR. 
 
 ** Public Relations 
-Re-write this text. Imagine how PR branches will use VR (Source knowledge from Yanks PR team and take   
+Re-write this text. Imagine how PR branches will use VR (Source knowledge from Yanks PR team and from Kristin Johnson)    
+https://www.linkedin.com/pulse/pass-pitch-defining-value-pr-kristin-johnson
+
+** A frame 
+Should be added to our programming site. Set up 1 hour with Thomas to create the 
+
+** Resource Center 
+
+** Basic Knowledge 
+Re-written 
+
+** Publications 
+1) Market intro for XR Medical
+2) Market Research part of XR Mall
+
+** Design 
+Meet with Jacques and take inspiration from XR Mall Design strat
+
+** Develop
+- Blockchain 
+- Cloud computing 
+- Live Stream 
+
+** Deploy
+Needs a lot of work 
