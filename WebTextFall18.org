@@ -1,1 +1,29 @@
 * Web Text 
+
+[Begin 12:56 AM on Sept 17]
+
+I am working 10 hours on website text this week. Here are the areas of the site that need the most work 
+
+** Community Page 
+The text for this page is ready to be posted (and will expand as we log studios on trigger). Need to schedule meet with JB to add company logos and arrange them. 
+
+** Medical 
+I will take some of the text from the XR Medical "Market Intro" doc and push it to our "Medical" section. 
+
+** Retail  
+Do the same with some of the text from the XR Mall business plan, push it to the retail section. 
+
+** Collaboration 
+Source Arcane Reality, Gaddie, Michael Saunders, Bracey, Jon Clinken, Nermeen for these concepts: 
+
+1) Producing a project for a client requires collaboration with partners 
+2) Creating the scope of the job 
+3) Reaching out to trusted studios, devs, designers, etc. 
+4) Collaborating on-site in Red Hook
+5) Working with them as we would a client
+
+** XR Marketing 
+This will be a combination of our Nova digital strat and our marketing strategy embedded in the XR Mall business plan. Also to be included is payment systems and the way they will influence in-app purchasing in VR. 
+
+** Public Relations 
+Re-write this text. Imagine how PR branches will use VR (Source knowledge from Yanks PR team and take   
