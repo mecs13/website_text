@@ -10,13 +10,17 @@
 The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we're are realizing the limitlessness of this platform. We're also coming up against challenges never-before-encountered. We start small and end big, begin with a viable concept that can scale. 
 
 *** Concepting 
-This is the first phase of VR design, the foundation of the project. During this phase we consider: 
+This is the first phase of VR design, the foundation of the project. Here we consider: 
 
-*1) The brand's identity:* What problem is the brand aiming to solve by expanding into VR?
+*1) The Brand's Identity:* What problem is the brand aiming to solve by expanding into VR?
 
 *2) The Audience:* Who is the brand aiming to reach? 
 
-*3
+*3) Reaching that Audience:* On which channels and platforms is that audience likely to exist?
+
+*4) The User Journey:* Based on answers to the above questions, we determine the details of the experience, the user journey. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them once it's over? 
+
+You may consider this the /sketch/ of the design phase. With these parameters in place 
 
 *** Designing Physics
 
