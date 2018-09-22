@@ -1,7 +1,39 @@
 * Web Text 
 
+** Design 
+
+[start 6:40
+
+Concept is really important 
+Design is different in VR. The possibilities are far more expansive than in any other media. Selecting the proper concept from the beginning is similar to 
+
+the design part of the website needs to explain to the client the process of what happens when we work for them. it must explain the possibilities of design in vr. Design is a broad term. some things are designed event though the final results are not a "design" 
+
+*** Interface 
+
+*** Architecture 
+
+*** Design 
+
+considering the user story is the first part of the design process. according to this user story, we design the world.
+
+1) concept
+2) user story 
+
+Then you start designing the concept according the user story. there are many different layers of design. 
+
+1) Architectural deign 
+- there are also designs within this architecture
+- There are similarities with the architectural design and the real world and there are differences as well.  
+
+2) Graphic design 
+
+1) what is design 
+2) what is design in vr
+3) what is the process
+
 ** Audience 
-The audience of people who use VR can be divided into four broad categories 
+The audience of people who use VR can be divided into four broad categories. 
 
 1) Innovator (bracey) 
 
