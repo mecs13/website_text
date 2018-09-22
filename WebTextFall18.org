@@ -2,12 +2,34 @@
 
 ** Design 
 
-[start 6:40
+
+[start 6:40 - 7:20]
+[start 7:40 - 
+
+*** Intro 
+The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we're are realizing the limitlessness of this platform. We're also coming up against challenges never-before-encountered. We start small and end big, begin with a viable concept that can scale. 
+
+*** Concepting 
+This is the first phase of VR design, the foundation of the project. During this phase we consider: 
+
+*1) The brand's identity:* What problem is the brand aiming to solve by expanding into VR?
+
+*2) The Audience:* Who is the brand aiming to reach? 
+
+*3
+
+*** Designing Physics
+
+*** New Design Components 
+
+*** Our Process
 
 Concept is really important 
-Design is different in VR. The possibilities are far more expansive than in any other media. Selecting the proper concept from the beginning is similar to 
+
 
 the design part of the website needs to explain to the client the process of what happens when we work for them. it must explain the possibilities of design in vr. Design is a broad term. some things are designed event though the final results are not a "design" 
+
+
 
 *** Interface 
 
@@ -39,7 +61,27 @@ Then you start designing the concept according the user story. there are many di
 
 **
 
+* Intro to vr design 
+
 Designing for vr is something different. the inifinite gallery for example with the glass above the ceiling of the gallery. in vr this is no necessary. but for immersive purposes, we needed the user to trust something so we must add these parameters. sunglight, rainfall, shadows. You need to be aware of all the possibilities and balance them out to create the right experience. the right experience answers the user story and the concept that was chosen before. you need to konw where to go and where to stop. You tell a story with your design. as an architecture can be a stroy, you tell the story through the shape and you lead the story with your architecture and designs. the architecture of the experience leads you from one platform to the next. Not only does this guide you through the expierence, you also feel the essence of the brand through the design. these sections through which you walk are purchased. this is the inventory or real estate purchase in vr. to tell a story with architecture you must focus on the concept, sensitivity, the shapes, light, texture possibilities. the important thing to understand is that it is limitless. you don't need to again be inside an architecture resembling brick/mortar or the real world. 
+
+** physics simulation 
+1) you're entering a world of object, design, and architecture 
+2) you have control over the physics.
+3) smoke, particles, rainwater, flow of traffic 
+
+** design elements added in vr 
+1) no gravity 
+2) light is controllable  
+3) freedom of movement needs to be understood 
+- this is a form of expression 
+- when partnering designers realize the possibilities it will spark their creativity 
+
+** our process
+1) we start with a concept
+2) design is related to the marketing strategy with social media, etc. 
+3) when we crate the design concept we think about how to reach people and hold their attention 
+4) how do they share it
 
 [lets pickup here with the parameters in jb's design strat]
 
@@ -50,6 +92,12 @@ you have to take all of these parameters into consideration to enhance your desi
 2) you inside the experience 
 
 3) what it causes the user to imagine
+
+You can create design and then these parameters will
+
+1) functionality 
+2) efficiency of the application itself 
+- you have to acknowledge it's limit. In the mall you have 3D models and you can step inside. You can't design something totally crazy or merge too many concepts together because there is performance to consider. You may have high poly or low poly 
 
 ** Audience 
 The audience of people who use VR can be divided into four broad categories. 
