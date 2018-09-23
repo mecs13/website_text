@@ -20,9 +20,10 @@ This is the first phase of VR design, the foundation of the project. Here we con
 
 *4) The User Journey:* Based on answers to the above questions, we determine the details of the experience, the user journey. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them once it's over? 
 
-You may consider this the /sketch/ of the design phase. With these parameters in place 
+In VR we can build innovative digital worlds with their own physical laws, or we can build simple 3D enhancements of the brand's existing strategies. This is the balance we must strike in VR design.
 
 *** Designing Physics
+
 
 *** New Design Components 
 
