@@ -23,7 +23,9 @@ This is the first phase of VR design, the foundation of the project. Here we con
 In VR we can build innovative digital worlds with their own physical laws, or we can build simple 3D enhancements of the brand's existing strategies. This is the balance we must strike in VR design.
 
 *** Designing Physics
+The finest VR programs are built in collaboration between 3D designers and 3D developers. The possibilities of VR allow the design team to dream and create, yet they must consider the more complex their designs the more resources needed during integration with the development team. 
 
+Designing a Virtual World is telling a story through an experience of shapes, colors, lighting, and movement. Throughout the experience the user will move through a progression of digitally designed spaces. Each of these can serve as their own marketable assets. Consider these spaces akin to the rooms of a home. The price of building the home will increase based on the increase in demand for resources.  
 
 *** New Design Components 
 
