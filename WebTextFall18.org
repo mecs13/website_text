@@ -30,7 +30,15 @@ Let's use the retail industry as a case study. Consider the general design of cu
 With this in mind, designers must consider the complexity of their designs with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
 
 *** New Design Components 
-Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of construction. 
+Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
+
+To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
+
+*** Our Process
+
+* Intro to vr design 
+
+Designing for vr is something different. the inifinite gallery for example with the glass above the ceiling of the gallery. in vr this is no necessary. but for immersive purposes, we needed the user to trust something so we must add these parameters. sunglight, rainfall, shadows. You need to be aware of all the possibilities and balance them out to create the right experience. the right experience answers the user story and the concept that was chosen before. you need to konw where to go and where to stop. You tell a story with your design. as an architecture can be a stroy, you tell the story through the shape and you lead the story with your architecture and designs. the architecture of the experience leads you from one platform to the next. Not only does this guide you through the expierence, you also feel the essence of the brand through the design. these sections through which you walk are purchased. this is the inventory or real estate purchase in vr. to tell a story with architecture you must focus on the concept, sensitivity, the shapes, light, texture possibilities. the important thing to understand is that it is limitless. you don't need to again be inside an architecture resembling brick/mortar or the real world. 
 
 *** Our Process
 
@@ -70,10 +78,6 @@ Then you start designing the concept according the user story. there are many di
 3) 
 
 **
-
-* Intro to vr design 
-
-Designing for vr is something different. the inifinite gallery for example with the glass above the ceiling of the gallery. in vr this is no necessary. but for immersive purposes, we needed the user to trust something so we must add these parameters. sunglight, rainfall, shadows. You need to be aware of all the possibilities and balance them out to create the right experience. the right experience answers the user story and the concept that was chosen before. you need to konw where to go and where to stop. You tell a story with your design. as an architecture can be a stroy, you tell the story through the shape and you lead the story with your architecture and designs. the architecture of the experience leads you from one platform to the next. Not only does this guide you through the expierence, you also feel the essence of the brand through the design. these sections through which you walk are purchased. this is the inventory or real estate purchase in vr. to tell a story with architecture you must focus on the concept, sensitivity, the shapes, light, texture possibilities. the important thing to understand is that it is limitless. you don't need to again be inside an architecture resembling brick/mortar or the real world. 
 
 ** physics simulation 
 1) you're entering a world of object, design, and architecture 
