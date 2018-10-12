@@ -18,16 +18,16 @@ This is the first phase of VR design, the foundation of the project. Here we con
 
 *3) Reaching that Audience:* On which channels and platforms is that audience likely to exist?
 
-*4) The User Journey:* Based on answers to the above questions, we determine the details of the experience. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them once it is over? 
+*4) The User Journey:* Based on answers to the above questions, we determine the details of the experience. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them when the experience ends?  
 
-In VR we can build innovative digital worlds with their own physical laws, or we can build simple 3D enhancements of the brand's existing strategies. This is the balance we must strike in VR design.
+In VR we can build innovative digital worlds that abide by their own physical laws, or we can bring the laws of the physical world into the virtual space. These are the challenges when designing a 3D environment. 
 
 *** Designing Physics
 The finest VR programs are built in collaboration between 3D designers and 3D developers. The possibilities of VR allow the design team to think in limitless terms.  
 
-Let's use the retail industry as a case study. Consider the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, object and human movement will behave and react however we decide. We can arrange gravitation laws and all of the corresponding terrestrial elements like sunglight, wind, and rainfall however we choose. The design possibilities are limitless. 
+Let's use the retail industry as a case study. Consider the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, object and human movement will behave and react however we decide. We can arrange gravitational laws and all of the corresponding terrestrial elements like sunglight, wind, and rainfall however we choose. The design possibilities are limitless. 
 
-With this in mind, designers must consider the complexity of their designs with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
+With this in mind, designers must consider the complexity with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
 
 *** New Design Components 
 Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
