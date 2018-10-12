@@ -7,7 +7,7 @@
 [start 7:40 - 9:20PM]
 
 *** Intro 
-The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we're are realizing the limitlessness of this platform. We're also coming up against challenges never-before-encountered. We start small and end big, begin with a viable concept that can scale. 
+The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we are realizing the limitlessness of this technology. Simultaneously, we are also facing challenges never-before-encountered. We start small and end big. We begin with a viable concept that can scale. 
 
 *** Concepting 
 This is the first phase of VR design, the foundation of the project. Here we consider: 
@@ -18,7 +18,7 @@ This is the first phase of VR design, the foundation of the project. Here we con
 
 *3) Reaching that Audience:* On which channels and platforms is that audience likely to exist?
 
-*4) The User Journey:* Based on answers to the above questions, we determine the details of the experience, the user journey. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them once it's over? 
+*4) The User Journey:* Based on answers to the above questions, we determine the details of the experience. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them once it is over? 
 
 In VR we can build innovative digital worlds with their own physical laws, or we can build simple 3D enhancements of the brand's existing strategies. This is the balance we must strike in VR design.
 
