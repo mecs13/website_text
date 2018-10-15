@@ -1,5 +1,21 @@
 * Web Text 
 
+Last Updated October 17, 2018
+
+** Bio 
+
+*** Joe Mecca
+
+Joe Mecca began his career in media and production at Purdue University, where we wrote for the Greek Newspaper.  He went on to be its sales director and publisher, expanding circulation from 6,000 to 17,000 weekly, and growing sales from $10,000 in annual revenue to $25,000.  
+
+After graduating Joe moved to New York to work for Clear Channel as an account executive, selling sponsorships direct to brands. With an average of 1 million in sales per year, Joe led execution of mutli-platform campaigns (events, radio, web, mobile, video) and was the point contact for clients. His role evolved into innovating tech integrations for programming and commercial content. After nearly four years, he departed for extended travel to Europe and the Middle East.
+
+Upon returning Joe began a Virtual Reality Studio, Nova Media, out of his apartment, and without capital. While assembling a team, Nova bootstrapped its business, producing and developing XR software for individuals and multinational brands. Today, Joe and Nova continue to produce bleeding edge content from Red Hook, Brooklyn.  
+
+*** Jacques Bertrand
+
+Jacques began his advanced education in southern France, logging one year of medical school at X University. During that time, he developed 
+
 ** Design 
 
 
