@@ -3,6 +3,25 @@ This is the website architecture and all the web text for novamedia.nyc to be la
 * Home 
 Nova XR Media is a team of artists and engineers. We design and build Virtual and Augmented Reality. 
 
+** Build XR 
+Build XR page intro text: Extended Reality may provide a variety of solutions across a range of industries. By answering these five questions, you provide us with tools for applying XR to your needs. Marketing, training, and internal productivity begin to outline the scope of XR applications.
+
+*** Why build XR? 
+*** Who is the audience? 
+*** What industry?  
+*** What problem needs to be solved? 
+*** What is the Budget
+- 4 figure 
+- 5 figures 
+- 6 figures
+
+*** Describe your idea
+*** Contact information
+
+*** Submission Text
+
+Thanks for taking the first step toward building your XR solution! We'll apply your responses to the next step in our consultation. 
+
 ** Solutions 
 
 *** Products 
