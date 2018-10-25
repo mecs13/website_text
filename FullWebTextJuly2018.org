@@ -30,6 +30,7 @@ Thanks for taking the first step toward building your XR solution! We'll apply y
 Through consistent experimentation, research, and a desire to solve real problems we've created six original Virtual Reality products.
 
 ***** New Year's Eve 
+/VR Live Stream From Around the World/
 
 # How It Works
 
@@ -134,7 +135,7 @@ The health benefits of XR Color span widely, elevating the computer programmer a
 ***** Bloomaway 
 
 # Abstract 
-With the first step into Virtual Reality comes uncertainty, so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
+When users first enter Virtual Reality they may not know how to navigate their surroundings so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
 
 ## Seamless 
 
