@@ -14,7 +14,7 @@ Through consistent experimentation, research, and a desire to solve real problem
 ***** New Year's Eve 
 /Live Stream VR From Around the World/
 
-# Abstract
+## Abstract
 
 By setting up 360 cameras in 10 of the most iconic locations, we’re live streaming from around the world for 36 consecutive hours. Travel from down under, to Dubai, through the old world, and all the way to North America, experiencing the sights and sounds of New Year's Eve in the most thrilling locations. Anyone with an internet connection can participate. 
 
