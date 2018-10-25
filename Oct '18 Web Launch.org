@@ -243,6 +243,66 @@ https://www.youtube.com/watch?v=cn00UKfYaaU
 
 *** Industry Insider 
 
+**** Apple In XR...The Missing Giant 
+
+In an interview last year, Vitalik Buterin (creator of Etherum) was asked, “How would you describe Etherium to the average person?” His answer: “There are two kinds of average people, the average person who has heard of Bitcoin and the average person who hasn’t.”
+
+When considering the evolution of Virtual Reality, the division feels more related to a moment in time. There was the Virtual Reality before Facebook bought Oculus in 2014 and there is Virtual Reality since that 3 billion dollar investment.
+
+“Before [the acquisition] there were a few companies that believed in VR. And when I say a few, I mean a few,” Palmer Luckey (founder of Oculus) told Re/code in 2016. “After that [acquisition] happened, I think it was a signal to the rest of the industry that VR was here. This is gonna be a huge thing and if you didn’t invest in VR now you were gonna get your ass kicked down the line. That’s how you wake the giants.”
+
+The Giants.
+
+Since 2014, Google, Microsoft, Sony, and HTC have all either upped their investment or joined the VR movement. Yet there’s one giant who has remained on the periphery, and with the Extended Reality industry still humming in the aftermath of the new Magic Leap headset and the 5th installment of the Oculus Connect conference in California, we’re asking…is there another giant ready to augment the XR world?
+
+This month Apple released the next iPhone: Iphone XR.
+
+For the past few years (since the Facebook/Oculus marriage) XR has been the all-encompassing term for referencing Virtual, Augmented and Mixed Reality. The collective definition for “XR”: technologies that add digital enhancement to our visual perception through the use of head-mounted displays.
+
+Before the September 12 Iphone XR announcement, an “XR” Google search yielded companies, websites, and publishings centered on “Extended Reality.”
+
+Since then, an “XR” search brings a stream of Apple content.
+
+Unlike the other giants, Apple is not publicly invested in the development of Virtual Reality. The infamous “MacRumors” website has maintained for months that “Apple is rumored to have a secret team of hundreds of employees working on virtual and augmented reality projects.”
+
+What we do know is they are heavy involvement in Augmented Reality (the use of goggles to digitally overlay information onto our visual perception of the physical world). Although the Cupertino giant hasn’t yet released their own AR hardware, they have become one of the leaders in consumer-level AR software with their easy-to-use AR Kit.
+
+Here’s a breakdown of Apple’s XR activity.
+
+## AR Kit
+
+The AR kit has been available on multiple devices since IOS 11 released last fall. The applications range from visualizing Ikea furniture in your own living room to a guided map of an American Airlines terminal at flight time to the anatomy of the human body. So, Apple is creating XR software, yet, unlike the other giants, they haven’t released a piece of hardware.
+
+## AR glasses
+
+…There are reports of a coming release. Check out this recent job listing where Apple is seeking to hire a 3D user interface engineer to “drive the next generation of interactive experiences for our platform. You will work with some of Apple’s most advanced technologies including the Augmented Reality (AR) and Virtual Reality (VR) support offered in ARKit and Metal 2.”
+
+## Reports
+
+An earlier report suggested Apple could release AR glasses by 2020. Apple’s headset could feature an 8K display for each eye, offering a more realistic experience. Apple may be waiting for display and chip technologies to mature before releasing its headset. A previously uncovered Apple patent revealed that the company is investigating AR lens technology. Apple’s research calls for a compact lens array to help focus light and eliminate chromatic aberration effects.
+
+Unlike some current AR and VR solutions on the market today, Apple’s implementation will reportedly not need trackers or cameras.
+
+“We have been and continue to invest a lot in this,” Apple CEO Tim Cook said in a 2016 interview when asked about the technology. “We are high on AR for the long run, we think there’s great things for customers and a great commercial opportunity.”
+
+Apple AR glasses may be part of this investment. According to a growing number of rumors leaked by three alleged Foxconn employees, the internal development is apparently known as Project Mirrorshades.
+
+## Apple XR Patent
+
+Apple also has a registered patent for the use multiple lenses to achieve the same effect as larger headsets, arranging them into what is known as the “catadioptric optical system.” More commonly seen in telescopes, this arrangement is a compact way to focus light, and helps to eliminate the colors that can sometimes be seen on the edges of your vision in VR or AR — or “chromatic aberration.”
+
+The XR movement has been on the rise for decades. It got louder in 2014 as Facebook single-handedly accelerated the industry. It feels a bit peculiar that Apple has not been a front man in the XR world, unless they are operating on the other side of the curtain.
+
+## Resources
+
+https://www.apple.com/ios/augmented-reality/
+
+https://www.digitaltrends.com/computing/apple-hiring-engineer-for-ar-glasses/
+
+https://www.digitaltrends.com/computing/apple-ar-vr-mixed-reality-headset-may-arrive-in-2020/
+
+http://pdfaiw.uspto.gov/.aiw?PageNum=0&docid=20180039052&IDKey=2B39F82750D2&HomeUrl=http%3A%2F%2Fappft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.html%2526r%3D27%2526p%3D1%2526f%3DG%2526l%3D50%2526d%3DPG01%2526S1%3D%2820180208.PD.%252BAND%252Bapple.AANM.%29%2526OS%3Dpd%2F20180208%252Band%252Baanm%2Fapple%2526RS%3D%28PD%2F20180208%252BAND%252BAANM%2Fapple%29
+
 **** The Next Spielberg In VR
 
 From the outside Virtual Reality must seem…so far in there. So far into this digital world that’s become part of us all. From the outside VR must fall somewhere among time travel and an embodied internet. In other words, somewhere in the future. In the big cities you’ve heard about VR or have a friend who does “something with VR.”
@@ -362,6 +422,28 @@ Well, as we approach 2018, VR has extended it’s reach all the way to Lowe’s,
 While reaching this level of audience is an advanced step for the technology, it’s an indication of Lowe’s reaching right to left across the chasm and becoming an early adopter.
 
 We see evidence of this with CNBC’s report that estimates Facebook sold fewer than 400,000 units of their Oculus Rift in 2016. Remember, the early majority represents one third of the market, so if the largest tech giant didn’t break ½ million sales in its first year, we understand that VR has yet to cross over.
+
+**** Crossing The Virtual Chasm 
+
+This is an introduction to Nova Media’s multi-part examination of Virtual Reality’s journey toward critical mass in the consumer market.
+
+VR has a long and fragmented history dating all the way back to Morton Heilig in the 1950s. Then there was a simulation of Aspen, Colorado that came out of MIT in the late 70’s. A-decade-and-a half-later Sega announced the release of their first VR headset for an arcade game.
+
+All of these…just a few of the breakthroughs that have led to predictions about how and when VR will make its significant impact on the consumer market.
+
+But as the years passed we heard just a faint noise from this new virtual world playing in the background, often drowned out by HD TVs, smartphones, and social media.
+
+The noise got louder, though, in 2014 when Facebook acquired Oculus and its new VR headset for over $2 billion. And then — at Oculus’ annual conference last month — a louder noise from Mark Zuckerberg, who said, “I am more committed than ever to the future of VR.”
+
+So now, three years into Facebook’s involvement with this emerging technology, we’re still asking the question: when will VR reach critical mass?
+
+In 1989 Geoffrey Moore wrote the first version of “Crossing The Chasm”, studying why, how, and at what rate new ideas and technologies spread through the market.
+
+His book, which emerged in its third version three years ago, studies the tendencies with which young technologies progress through the adoption life cycle. The writing focuses on how these products often wind up stuck in the divide between the early adopters and the early majority. This can be a deadly place for a new technology to try and survive, as the early majority makes up 1/3 of the market.
+
+[Tech Adoption Chart displaying Innovators, Early Adopters, Early Majority, Late Majority, Lagards]
+
+This series will examine where VR stands in relation to this curve, what’s prevented it from breaking through, and what will need to happen in order for it to cross the next divide.
 
 *** Analysis 
 
