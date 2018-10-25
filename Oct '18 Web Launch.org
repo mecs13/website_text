@@ -1,4 +1,7 @@
-* Web Text 
+This is the website architecture and all the web text for novamedia.nyc to be launched Sunday, October 28. 
+
+* Home 
+Nova XR Media is a team of artists and engineers. We design and build Virtual and Augmented Reality. 
 
 ** Solutions 
 
@@ -6,11 +9,12 @@
 
 **** Intro 
 
-Through consistent experimentation, research, and a desire to solve real problems we've created six original Virtual Reality products.
+Through consistent experimentation, research, and a desire to solve real problems we have created these original Virtual Reality products.
 
 ***** New Year's Eve 
+/Live Stream VR From Around the World/
 
-# How It Works
+# Abstract
 
 By setting up 360 cameras in 10 of the most iconic locations, we’re live streaming from around the world for 36 consecutive hours. Travel from down under, to Dubai, through the old world, and all the way to North America, experiencing the sights and sounds of New Year's Eve in the most thrilling locations. Anyone with an internet connection can participate. 
 
@@ -27,9 +31,10 @@ Begin in your branded lobby, the Virtual globe at center. Click it, move it, rot
 Destinations working to attract visitors may display their culture, infrastructure, and appearance - shedding light in a brand new way. Virtual Teleportation shows the glamour of your destination. Make global use of VR’s live potential.
 
 ***** XR Architecture 
+/Sketch, Measure, and Build/
 
 # Abstract 
-Before infrastructure reaches the physical world it's crafted on a 2D screen - an inexact tool. VR is an intermediate space between digital and physical. The architect steps inside his 3D structure to refine its precision.
+Before infrastructure reaches the physical world it is crafted on a 2D screen - an inexact tool. VR is an intermediate space between digital and physical. The architect steps inside his 3D structure to refine its precision.
 
 # Increase Certainty 
 
@@ -48,6 +53,7 @@ Receives multiple architectural proposals for major construction projects. When 
 Architecture is a spatial discipline that's at home in the Virtual World. Inviting architects into VR increases the precision of their calculations and the sensitivity of their design. It's a tool for maximizing efficiency of major construction projects before they break ground in our towns and cities.
 
 ***** Infinite Gallery 
+/Virtual Product Display/
 
 # Abstract 
 As content creators transition to VR they’re met with the challenge of presentation. The Infinite Gallery, our original VR interface, is built to display content linearly. It’s step one in creating customized Virtual architecture.
@@ -68,10 +74,11 @@ At the beginning of the 20th century, F.W. Woolworth altered retail marketing. B
 # Show Your Story
 The Infinite Gallery is a linear display interface in 3D. Upon reaching the end of your story, the user has connected with your brand.
 
-***** Torus 
+***** Torus
+/Virtual World Mobility/
 
 # Abstract
-The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is clumsy. Inspired by VR’s fully immersive nature, we developed the Torus to reflect real world energy flow.
+The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is difficult to navigate. Inspired by VR’s fully immersive nature, we developed the Torus to reflect real world energy flow.
 
 # Making Nature Virtual
 
@@ -90,6 +97,7 @@ Considering the omnipresence of toroidal flow in the physical world, it’s a ch
 The Torus is the foundational tool we’ll use to build your customized VR content.
 
 ***** XR Color 
+/Live In Color/
 
 # Abstract
 Currently, designers and developers create immersive worlds by working off a 2D screen. There lies a natural incoherence between tool and product. XR Color immerses human consciousness in a 3D color object and grants interaction with any color on the spectrum.
@@ -111,9 +119,10 @@ For close to a millennium, humans have practiced various forms of chromotherapy.
 The health benefits of XR Color span widely, elevating the computer programmer and graphic designer out of their chair - initiating movement, blood flow, and precise access to their paint.
 
 ***** Bloomaway 
+/Seamless Virtual Transport/
 
 # Abstract 
-With the first step into Virtual Reality comes uncertainty, so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
+When users first enter Virtual Reality they often need instructions on how to navigate their new digital surrounds, so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
 
 ## Seamless 
 
@@ -131,14 +140,14 @@ Bloomaway reduces business travel expenses (like those associated with employee 
 
 *** Consultation 
 
-**** Intro 
-
-Virtual Reality (VR) and Augmented Reality (AR), fitting under the parent term "Extended Reality", enhance communication, collaboration, and education. Unlike it's predecessors, XR Media is interactive, calling on the user to embody their consciousness.
+Virtual Reality (VR) and Augmented Reality (AR), fitting under the parent term "Extended Reality", enhance communication, collaboration, and education. Unlike its predecessors, XR Media is interactive, calling on the user to embody their consciousness.
 
 These technologies will increasingly be in the home, integrating with daily living in the way televisions, computers, and phones already have. As of today, you can engage with simulated environments through your phone (or XR glasses/goggles).
 
-Historical rates of technological adoption suggest 25% of the US population will have an AR/VR in their homes within the next five years. It's the next frontier of human connectivity.
+Historical rates of technological adoption suggest that 25% of the people livingin the US will have an AR/VR in their homes within the next five years. It is the next frontier of human connectivity.
 
 In business, XR Media cuts internal costs by providing immersive training programs and business travel alternatives. When used to drive revenue, XR is a natural marketing tool, the backdrop for new age content creation.
 
 XR Media can be the ultimate communication tool or the reason your business falls behind.
+
+
