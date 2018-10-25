@@ -210,6 +210,108 @@ Regardless of the game engine in use, creators work within many “frameworks”
 
 Access to these frameworks is one of the great appeals to industry-leading game engines like Unreal. However, there are cases when the developer may want the flexibility to work outside such parameters or even build their own frameworks. Understanding this, Unreal makes all of its source code (the lines of code written to build the game engine itself) available to subscribers. With this access, the community of Unreal developers has created documentation to help other coders work through the inevitable hurdles of programming in Unreal.
 
+**** Physics Engine
+
+## Laws of the Virtual World
+
+A physics engine allows us to construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine. 
+
+Many virtual environments are centered on the movement of human avatars. We must build their virtual capabilities and restrictions. When constructing an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height. 
+
+For many virtual creators, it's important that the constructed environment abides by basic real-world parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it. 
+
+"Unity" supports the most dynamic physics engine.
+
+**** Python
+
+# Machine Learning Language 
+
+Python is a succinct, object oriented programming language. It's scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion.
+
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book from the stacks and delivers it to the reader. Combining these languages blends the succinctness of python with the high performance of C++.
+
+In the VR world, python is a tool that provides access and adds efficiency to game engine development.
+
+***** C-Sharp 
+
+## Object Orientation
+
+This is one of the programming languages compatible with Unity (the most commonly used VR game engine).
+
+Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that's compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work.
+
+It's an object-oriented programming language, making it a valuable resource for building interactive VR experiences. Historically, programming has been understood as a logical procedure for performing an action - taking input data, processing it, and producing an output.
+
+At its origin, the essence of programming has been writing the logic rather than defining the data. By contrast, object oriented programming is rooted in the belief that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. An "object" could be anything from a human being to a building to widgets of a web page.
+
+VR is based on the creation of such objects, and C# is the object-oriented programming language driving much of the VR world.
+
+***** AI
+
+# Artificial Intelligence 
+
+It's a wide-ranging term for intelligence demonstrated by a machine. The branch of computer sciences that studies AI research studies and develops machines that are designed to mimic "cognitive" functions associated with human minds, like "comprehension", or "deductive reasoning".
+
+## Content
+
+Artificial Agents enhances VR through 
+- Personalization 
+- Generative design
+- Contextual awareness
+- Storefront Navigation 
+- Data indexing
+- Character engines
+
+## Personalization
+
+Personalization is when a computer remembers your preferences and automatically loads them PLUS some other new ideas it predicts you will like. This is done through probability models, also known as an /AI algorithm/ or some other hype name.
+
+In VR you are led to experiences you are likely to enjoy. Your space is tailored to your taste. Because of AI, the world works according to your preferences.  
+
+By delivering a highly personal experience, we increase game-play, engagement, and retention. AI accelerates the rate of learning.   
+
+## Generative design
+
+Generative design is creation by a computer, based on data. By feeding big data into an AI we can generate designs humans may not have conceived. With proper programming, you can enlist the requirements for a airplane, request certain fuel intake and other variables, and receive a menu of physically possible designs.  
+
+In Virtual Reality, we generate worlds based on game-play and experiences. Generative design is an upfront cost that pays dividends long after it's investment has been returned. There is no limit to how many world designs you generate, and the parameters are within you control. 
+
+## Contextual awareness
+
+*Contextual awareness* allows the machine to compare the query to known information.  For example, google maps knows your location. If you press the blue dot (ask where you are), it compares this request to its knowledge of the map. The computer has a small degree of contextual awareness.   
+
+In Virtual reality When a AI character knows it's surroundings it will play more thoughtfully, making for better competition/collaboration and game play. AI characters train through trial and error. They record the context of the successes and failures and adjust to optimize likelihood for success.   
+
+## Storefront navigation
+
+At the front of a store, or in a virtual world, you will ask an AI "butler" or "host" for information about the local area. These bots will grow more and more expert in communicating with patrons and visitors. Think about friendly chatbots on a website but personified as a character.
+
+## Data indexing
+
+Artificial intelligence algorithms to better index user data. If information is better categorized it will be better read and understood. We'll comprehend larger and large sums of data, especially very intimate information VR can facilitate, such as body movements and emotional states.  
+
+A semi-technical explanation of the process is to track, collate, distill and visualize.
+
+By visualizing the data of VR players through indexing, we gain a complete understanding the user's experience. The AI creates visuals of complete data in 3D, so you can move around and scale the data in real-size. This engagement significantly increases comprehension.  
+
+## Character engines
+
+In Virtual Reality (XR) develops "character engines" into the experience. These enhance the characters behavior and decision making. By programming learning algorithms your characters can remember information about you, your game play, and whatever else we teach it to...within reason. They can be your virtual friends.
+
+Intelligent characters make for better game play. The user's experience is familiar and personalized. When you allow visitors to customize their environment, they feel ownership. Intelligent characters increase experience affinity and replay-value.
+
+**** Web GL
+
+Web GL is a means of displaying immersive content through a web browser. This drastically expands the XR user base, allowing anyone in the world with an internet connection to view XR content through a computer, smartphone, or tablet. With high-end VR headsets having reached about 15 million homes, deploying content through Web GL bridges a massive accessibility gap.
+
+Affording accessibility costs imaging quality. For instance, Web GL content will generate a lower quality imagine than content build in a game engine. In order to program physical properties into a Web GL Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance.  
+
+If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine.
+
+**** C#
+
+This is a Microsoft language. Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that's compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work.  
+
 **** Explore The World In VR, Really 
 
 Virtual Reality as a home entertainment option is of the future. Yes VR is being used right now across various industries and solving problems for some business who are forward thinking enough to implement it, yet fewer than 10 million people have the most advanced VR hardware in their home. As a result, the content available on VR systems is thin and underfunded. That said, there is one VR experience that’s completely exhilarating. Actually, It’s the family member of a program that many of us now use and rely on every day (and in some cases every time we leave the house).
