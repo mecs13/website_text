@@ -780,3 +780,5 @@ With this in mind, designers must consider the complexity with respect to the de
 Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
 
 To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
+
+
