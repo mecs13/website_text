@@ -342,6 +342,11 @@ Check out this video featuring the CEO of the company who created it.
 
 https://www.youtube.com/watch?v=cn00UKfYaaU
 
+***** Internet of Things 
+
+The Internet of things (IoT) is the network of digitally connected devices, such as home appliances and vehicles, that are connected to the internet. These devices are equipped with sensors and operating software, enabling remote access and management. For example, adjusting your beach house thermostat from upstate, or receiving a text message notifying you the plants need watering (because your botany sensors noticed drought).
+
+Simulations of physical tasks allow for us to practice, minimize risks, and scale profit margins. Imagine remotely controlling construction machinery. By being in the simulation, apprentices can train without the risk of hurting themselves. Experts can control machines remotely and thus down on transportation costs. Through VR simulation one can navigate the controls to operate an actual piece of machinery just as effectively as if he were in the machine itself, but from the other side of the world. This is the “internet of things”, which will quickly evolving into the “Internet of Everything” (IoE) and then the “Internet of Humans” (IoH).
 
 *** Industry Insider 
 
