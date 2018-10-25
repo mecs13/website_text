@@ -56,6 +56,7 @@ Architecture is a spatial discipline that's at home in the Virtual World. Inviti
 /Virtual Product Display/
 
 ## Abstract 
+
 As content creators transition to VR they’re met with the challenge of presentation. The Infinite Gallery, our original VR interface, is built to display content linearly. It’s step one in creating customized Virtual architecture.
 
 ## Welcome Inside
@@ -63,21 +64,26 @@ As content creators transition to VR they’re met with the challenge of present
 The experience begins in a space custom-designed for content display. A finger against the VR touchpad initiates movement. Remove your finger to stop moving. Continue like this to navigate the entire architectural structure. Just as in the real world, users can move their head to access 360-degree viewing.
 
 ## What to Display
+
 Capable of hosting an unlimited content library, The Infinite Gallery is prepared for original display ideas. Hang products on the wall, show content behind glass window panes, create doorways to varying dimensions, or build the second floor of your company’s customized structure.
 
 ## In Business
+
 This interface is immediately applicable for basic 3D marketing. Regardless of file type, any visual content ports to The Infinite Gallery. Photographers displaying in 3D, galleries scaling beyond a physical location, and 3D artists creating VR-ready content from scratch are among early adopters.
 
 ## Provide Access
+
 At the beginning of the 20th century, F.W. Woolworth altered retail marketing. Before the advent of his “Five and Dime” drugstores, the customer requested a product, the clerk retrieved it, and the transaction took place. Woolworth was the first to display drugstore products on publicly accessible shelves, initiating a physical and emotional connection between goods and customers. 100 years later it remains a global display standard in retail.
 
 ## Show Your Story
+
 The Infinite Gallery is a linear display interface in 3D. Upon reaching the end of your story, the user has connected with your brand.
 
 ***** Torus
 /Virtual World Mobility/
 
 ## Abstract
+
 The early days of Virtual Reality revealed a flaw in user experience. Like a computer without a mouse, Virtual Reality without the Torus is difficult to navigate. Inspired by VR’s fully immersive nature, we developed the Torus to reflect real world energy flow.
 
 ## Making Nature Virtual
@@ -100,6 +106,7 @@ The Torus is the foundational tool we’ll use to build your customized VR conte
 /Live In Color/
 
 ## Abstract
+
 Currently, designers and developers create immersive worlds by working off a 2D screen. There lies a natural incoherence between tool and product. XR Color immerses human consciousness in a 3D color object and grants interaction with any color on the spectrum.
 
 ## Choosing color
@@ -122,6 +129,7 @@ The health benefits of XR Color span widely, elevating the computer programmer a
 /Seamless Virtual Transport/
 
 ## Abstract 
+
 When users first enter Virtual Reality they often need instructions on how to navigate their new digital surrounds, so we created Bloomaway. It’s seamless virtual navigation powered by user intuition.
 
 ## Seamless 
