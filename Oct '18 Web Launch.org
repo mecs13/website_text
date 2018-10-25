@@ -447,4 +447,81 @@ This series will examine where VR stands in relation to this curve, what’s pre
 
 *** Analysis 
 
+**** Relocation Financial Strategy
 
+One of the most powerful applications of VR is Virtual Teleportation. This capability inside the Virtual world introduces a number of travel-based business solutions, the most immediate of which we’ve found within the relocation industry.
+
+When a company relocates an employee from one city to another, the move may require multiple flights to the target city. The employee must find a new home, orient with the geography, and determine the right school for their children.
+
+Customizing this solution for various relocation-based businesses includes the following Financial Strategy.
+
+## Abstract
+
+This document investigates a financial strategy to scale VR in the relocation industry. When a company relocates an employee, this implies the cost of accommodating the employee to this new location. This translates into flights, meals, lack of sleep, lack of availability at work among other issues.
+
+The analysis covers the costs of the application itself, the hardware necessary to run it, and the content development costs. A strategy is suggested to obtain a return on investment as quickly as possible and break even during the second year following the project’s start.
+
+By replacing the employee’s first exploration trip to the new city with a virtual experience (simulating the location), Dwellworks could save between 33% to 50% of traveling related costs and could see a net return on investment of about $1 million by year 4.
+
+## Introduction
+
+Using virtual reality in the relocation industry in order to reduce operating costs is an obvious application of the technology. We will try to quantify the costs associated with such a project and the revenue it can generate. We will then define a method to scale the project to multiple cities until all the cities are accessible from the VR platform.
+
+/See our Contact page to inquire about more info/
+
+**** NYE Financial Strategy
+
+This document analyzes the New Year’s XR Virtual Reality experience from the perspective of the advertiser. Our subject is a tourism board seeking increased visibility abroad and short term foot traffic at home. The project’s return on investment is detailed before the paper’s conclusion.
+
+## Abstract
+
+Nova Media is producing New Year’s Eve in Virtual Reality, an opportunity to reach a target audience through immersive media. This project heavily targets VR headset owners, encouraging them to try New Year’s XR with friends to increase the program’s overall viewership.
+
+## Introduction 
+
+This paper investigates the advertising potential of New Year’s XR. The cost of sponsoring New Year’s XR is $100,000, 20% of which will be dedicated to the advertising budget. There will be 10 sponsors and thus a $200,000 ad budget. By pooling together 10 ad buyers, your $20,000 investment returns as a $200,000 product. Through specific social media channels and YouTube programming geared directly toward this campaign’s target market, we explain the probability of going viral and what that means for your final return on investment.
+
+/See our Contact page to inquire about more info/.
+
+**** Projection Mapping Market Analysis 
+
+One of the display options within Extended Reality is Projection Mapping. With a series of images projected onto the walls, users are taken into a digitally created 3D environment without holding a smartphone or wearing a VR headset.
+
+Industries have used projection mapping for decades as a means of enhancing both their product image and marketing strategies. While the term is relatively new, we see traces of this content display dating all the way back to 1969 at Disney’s haunted mansion ride, when the technology was more commonly referred to as “Spatial Augmented Reality.”
+
+Five decades later, “Projection Mapping” has stretched into many corners of entertainment, education, and visual art. For nine consecutive years in Australia, the Sydney Opera House has hosted “The Lighting of the Sails” - selecting a digital production company to display a dramatic and colorful array of images and motion pictures onto the grand sails of the famous 20th Opera House.
+
+Every fall, the city of Bucharest hosts the biggest projection mapping competition in the world, inviting visual artists to project a series of mapped structures onto the 60,000 square foot facade of the Palace of Parliament, the second largest administrative building in the world. The event is called Imap Bucharest.
+
+In 2017 the Canadian tech company SAGA released a project called “The Interactive Gym.” By projecting a series of shapes onto the wall of an elementary school gymnasium, the product enticed young students to participate in physical education class. With the objective of tossing a ball against the wall and pegging the projected shapes in motion, students earned points in accordance with the accuracy of their tosses. With a prototype created in less than a month, SAGA has begun investigating the deeper seeded influence of combining digital gaming with physical activity and team play.
+
+In her book titled “Alone Together,” Sherry Turke, a social scientist at MIT, summed up an alarming phenomenon we’ve all become familiar with since the advent of the smartphone. It’s the feeling you get when you’re in the same room with close friends, family members, or coworkers, yet everyone is silent - interacting only with the tiny screens between their fingers. It’s disconnectedness. The recent development of Extended Reality is influencing this concept, enticing users to interact with the technology as a group.
+
+**** NYE Market Analysis  
+
+Nova's New Year's XR is the first ever live New Year's celebration in Virtual Reality. We set up 360 cameras in 10 cities around the globe and live stream the scene from Times Square or a rooftop in Dubai on the most festive night of the year. We evaluated the market for this content and quantified how many potential viewers might be at home and interested in experiencing this content: 
+
+Live streaming from an array of global destinations has never happened in VR, yet the concept has already been validated in 2D. On December 31, 2017 Time Magazine streamed live from 12 countries across four continents.
+
+As we enhance this concept for VR technology, consider most VR users access their equipment at home, similar to the way television content is consumed. As New Year's Eve is famous for attracting people into the nightlife, we examine how many people in the United States were viewing each of the last three New Year's Eve Celebrations on the four major American television networks. {{{cite(NYE-2D-Stream)}}}
+
+#+CAPTION: NYE network ratings
+| Network | 2015    | 2016    | 2017     |
+|---------+---------+---------+----------|
+| ABC     | 18 mil  | 16 mil  | 21.1 mil |
+| CBS     | 3.1 mil | 3.4 mil | 3.1 mil  |
+| NBC     | 6 mil   | 6.6 mil | 3.6 mil  |
+| FOX     | 4 mil   | 6.6 mil | 3.6 mil  |
+
+
+Over the last three years the major American networks have combined to average 30 million viewers on New Year's Eve. On Average, 12.5 million of those viewers came from the 18-49 age demographic (the same demo that owns the majority of Virtual Reality headsets.
+
+There are three important conclusions to draw from the information in this section: 
+
+ 1) Major publications like Time Magazine and high profile tourism locations like Dubai, Hong Kong, Rio De Janeiro, and New York City have already adopted this live stream concept on New Year's Eve.
+ 2) The basic hardware and software challenges presented by this streaming concept have already been validated for the flat screen. 
+ 3) Despite New Year's Eve being famous for drawing people out of the home and into the nightlife, official network ratings reveal that millions of people are in fact in the home on this night of celebration. 
+
+Also to Note: a VR studio in Amsterdam released a 360º video series in 2017 centered on immersive VR tours of London, Amsterdam, Bangkok, and Rome (among others). In total, the series received more than one million views on YouTube. 360º is an immersive experience that is beginning to drive Virtual travel. 
+
+"...[Virtual Reality] let's our travel trade and media partners experience our destination in a new and unique way that has not been possible before." - Marsha Walden, CEO, Destination British Columbia.
