@@ -34,6 +34,7 @@ Destinations working to attract visitors may display their culture, infrastructu
 /Sketch, Measure, and Build/
 
 ## Abstract 
+
 Before infrastructure reaches the physical world it is crafted on a 2D screen - an inexact tool. VR is an intermediate space between digital and physical. The architect steps inside his 3D structure to refine its precision.
 
 ## *Increase Certainty* 
