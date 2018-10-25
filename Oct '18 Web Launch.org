@@ -175,13 +175,194 @@ These publications are to help you better understand the details of Extended Rea
 
 *** Technologies 
 
-**** 
+**** 3D Audio
+(Also referred to as binaural audio) is a technology that presents sound to the human ears in a manner resembling the auditory qualities interpreted from the natural world.
 
-*** Industry Inder 
+Stereoscopic playback systems (headphones and speakers) emit sound from a single point in space. When you move your head while wearing headphones, the sounds move with you. Yet when you move your head in relation to sounds of the natural world, the location of the sound source remains fixed. In the case of stationary speakers, the sound remains fixed but unidimensional.
+
+Without technology, human ears perceive sounds from an infinite number of sources and locations simultaneously. Because the ears are positioned on different sides of the head, sound waves reach one ear at a slightly different time and with slightly different properties than when they reach the other ear. Much like having two eyes enhances our ability to see in three dimensions, the same is true for the human auditory system. Amplitude, frequency, and timing differences reveal to our ears the specific location of a sound, which direction it’s coming from, and even the properties of the space in which it’s being heard. The most pivotal factors relating to this dynamic auditory perception are the physical properties of the human ear. It’s oval shape with varying coves, curves, and suppleness all contribute to the way it receives sound waves and the way the brain interprets sound.
+
+In order to recreate this sound interpretation with modern technology, VR studios are capturing sound with microphones that resemble the shape of the human ear. These mics record sound not through a flat or circular device but with respect to the natural contours of the ear. When the recorded sounds are played back, they’re more dynamic. They’ve been enriched by the same intricacies as the organ that receives and delivers them to the brain. When hearing 3D audio through a pair of headphones, the various sounds may seem to crawl from one ear to the other, come from 10 feet in front of you, or bleed in from a distance.
+
+This the technology is not a new realization. Through the 20th century (and most of the 21st thus far) there has not been a demand for 3D audio, as visual content has been almost exclusively 2D. The emergence of 3D imaging in Virtual Reality is now calling for sound technology equally as dynamic.
+
+**** 3D Game Engines 
+
+A game engine is the software environment where computer developers build interactive 3D experiences. Game engines combine three elements: graphics, audio, and logic. Think of them akin to the factory in which a vehicle is constructed — where all the necessary space, tools, and engineering platforms exist. In the current Virtual Reality climate, most developers choose between the two most powerful game engines.
+
+## Unity
+
+Unity supports the construction of both 2D and 3D experiences for computers, consoles, and mobile devices. It was first revealed at Apple’s Worldwide Developer’s conference in 2005. Since then, five major versions of it have been released and more than 100 of the most well-respected experiences in the gaming industry have been created inside.
+
+Unity is now free for download, making it more accessible for anyone in the world to gain access to high-end VR development tools. This has been huge step in the growing ecosystem of VR coders across the globe.
+
+While there are features available for non-coders, understanding how to read and write in one of Unity’s supported programming languages is the ticket to maximizing its potential. Unity supports three programming languages, yet C# (Cee Sharp) is preferred by most professional developers. C# is an object-oriented language, making it compatible with the three-dimensional relationship among objects in this Virtual Space.
+
+A new feature released in Unity this year is enhanced texturing, allowing developers to create more detailed replicas of complex physical world objects. The surface of a rock, for instance, with its infinite nuances, is difficult to replicate. Unity’s new texturing feature allows developers to create more life-like visuals of such complex surface.
+
+## Unreal
+
+The decision of which game engine to use coincides with the creator’s existing skills. Are they a coder or a designer? As a coder, the creator will write in one of the languages supported by the game engine. Unreal supports a language called C++.
+
+While it’s not always the case, coders may be more likely to work in Unity while designers may gravitate toward Unreal’s “visual programming.” Instead of writing scripts, the designer places modules in an open area within the software interface.
+
+Regardless of the game engine in use, creators work within many “frameworks” built into the engine. During the creation of the 3D experience, the creator may want to generate a similar (or even identical) outcome at various points throughout the experience. Perhaps the user’s movement should lead to the same outcome regardless whether they’re in Virtual New York city or Virtual San Francisco. Building frameworks is like building bridges. Once the bridge has been constructed and finalized, traversing that body of water in the future becomes standardized, saving time and energy.
+
+Access to these frameworks is one of the great appeals to industry-leading game engines like Unreal. However, there are cases when the developer may want the flexibility to work outside such parameters or even build their own frameworks. Understanding this, Unreal makes all of its source code (the lines of code written to build the game engine itself) available to subscribers. With this access, the community of Unreal developers has created documentation to help other coders work through the inevitable hurdles of programming in Unreal.
+
+**** Explore The World In VR, Really 
+
+Virtual Reality as a home entertainment option is of the future. Yes VR is being used right now across various industries and solving problems for some business who are forward thinking enough to implement it, yet fewer than 10 million people have the most advanced VR hardware in their home. As a result, the content available on VR systems is thin and underfunded. That said, there is one VR experience that’s completely exhilarating. Actually, It’s the family member of a program that many of us now use and rely on every day (and in some cases every time we leave the house).
+
+Google maps puts the entire world on a phone screen and helps us travel anywhere we want. Google Earth makes the world big again. It’s an immersive and more visually realistic version of Google maps available in a VR headset. In Google Earth you can fly above the world, descend on your destination, and move through city streets anywhere on our planet.
+
+The images are gathered by satellites and airplane cameras. With multiple lenses and varying angles, Google has captured all 196.9 million square miles of the globe, arranging the images together through a process called photogrammetry to create a digitally immersive replica of the earth. The number of photos that make up the program is “in the order of 10s of millions” and the globe is shown to us as an 800 billion pixel image (if this many pixels were printed on a physical object, it would fit across an entire city block).
+
+Graphicists working in a game engine photo edit the images to remove shadows, clouds, and in some cases objects that may impede our clear view of the earth. Once the photos are arranged properly (not out of order) objects like trees, buildings, and bridges are stitched together through a software called “mesh.” This transforms them from flat images into 3D models that sprout from the earth’s surface.
+
+It’s all created to scale and inside a digitally immersive world. By pressing the buttons of the VR controls you move like a drone. You can view the earth as though you’re standing on the moon, zoom all the way in to the mailbox in front of your house, or stop anywhere in between.
+
+By updating some of the images multiple times per year, Google is able to look back at the data — across the program’s 10-year lifespan — and notice changes in forestation, human foot and auto traffic, and use heat maps to evaluate variation in temperature patterns across the world.
+
+It may be the only VR experience we’ll never fully explore.
+
+**** Scale Beyond You OS
+
+Spatial OS is a cloud-based platform that hosts collaborative applications built by game developers. It was created to expand beyond the limits of a single server. It’s a distributed operating system with the power to host massive simulations thousands of times bigger and more powerful than what a single computer is capable of building or hosting.
+
+Developers log on and interact with it as an online platform, downloading tools that can be integrated with game engines like Unity and Unreal. Once the world has been built on the developer’s local operating system, the application is packaged and pushed to Spatial OS. With the code hosted and available to other developers on the cloud, it can be grown to massive scales.
+
+Think of the content that exists in Spatial OS to have similar properties and functionalities as the physical world. Users log on and travel to these simulated worlds. However, unlike games and worlds that exist on your home computer or gaming system, Virtual simulations hosted on Spatial OS exist and evolve even when you’re not logged in. As with the real world outside — let’s say on the street outside your house — if a tree falls or a new car parks along the curb while you’re asleep, that new information is available to you when you walk outside the next morning. The same principle applies when you return to a world hosted on Spatial OS.
+
+Massive projects like public transportation construction or renovation in major cities can be first simulated to scale in Spatial OS before being applied in the physical world.
+
+Check out this video featuring the CEO of the company who created it. 
+
+https://www.youtube.com/watch?v=cn00UKfYaaU
+
+
+*** Industry Insider 
+
+**** The Next Spielberg In VR
+
+From the outside Virtual Reality must seem…so far in there. So far into this digital world that’s become part of us all. From the outside VR must fall somewhere among time travel and an embodied internet. In other words, somewhere in the future. In the big cities you’ve heard about VR or have a friend who does “something with VR.”
+
+But the future has become a tough concept to pinpoint. The idealist hears autonomous vehicles on the road, Alexa speaking back to him, and conversations about human colonies on Mars, yet the pragmatist knows Uber got suspended from testing autonomous vehicles in Arizona after a fatal crash last month, speaking to Alexa is sometimes like speaking to a 3-year-old, and there are no plans to put a human being inside a spacecraft (let alone establish a society on a planet that would take several years to reach).
+
+Virtual Reality is right in the middle of this search for the ground between human imagination and human capability. Google’s two most ubiquitous VR programs: Tiltbrush (in which you draw and paint inside a three-dimensional space) and Google Earth (in which you walk the streets of any city in the world) provide a taste of how vast this technology will become. In these early programs you begin to understand how we’ll one day educate children with this tech, test architectural structures before building them in the physical world, and reunite with deceased family members. The ideas are real, yet realizing them still feels off in one of those years that doesn’t yet read like a year — somewhere like 2045.
+
+On the inside of this industry we’ve speculated about what needs to happen in order to move this tech to the forefront. We’ve worked to help it shed the stigma of being the next gaming home for 17-year-old techies who stay up all night firing first-person shooters. On the inside we’ve seen firsthand VR as a catalyst for human interaction, education, and global exploration. It has become our work to make all this imagining attainable.
+
+So what does need to happen? Well, some of the wheels are already in motion. Even before Facebook, Google, and Microsoft invested heavily in VR, there was a writer. Ernest Cline. He was 38 when Crown Publishing printed his first novel, “Ready Player One.” The next day Warner Bros. bought the rights to convert the script into a film, hiring Cline to co-write the screenplay. Nearly a decade later, the movie has arrived in theaters, directed by the most famous name in film — Spielberg.
+
+The story begins in the year 2045 when — resulting from global warming and the depletion of fossil fuels — the world is mired in an energy crisis. The OASIS is where many folks go to escape their decimated surroundings. It’s a Virtual World accessible with a visor and enhanced with haptic technology. In the opening pages of the novel, the richest man in the world — James Holiday — has passed away, leaving behind a video message. He announces to the public that he’s hidden a golden egg inside OASIS, and the first person to discover it will inherit his wealth. Teenager Wade Watts is the main character.
+
+It arrived in theaters on March 29 and grossed roughly $50 million on its opening weekend (only Black Panther and A Quiet Place grossed more on opening weekends this year). By the end of its third weekend Ready Player One earned a combined domestic/international gross of nearly half a billion dollars, making it one of the top 10 grossing Spielberg productions since we learned his name in the summer of 1975, with Jaws.
+
+Ready Player One (the film), an action/thriller, is not meant to update the public on the current state of VR. So…the industry isn’t wealthy enough to attract the most highly trained coders and push the cutting edge of computer science. Secondly, just like the futuristic industries mentioned at the top, we don’t yet understand how this will influence the human mind. Remember, this is a technology predicated on immersing people in a digital world. What happens when human eyes perceive a new reality, when movement of your arms and legs pushes you deeper into a manmade environment? What influence does it have on the brain, the psyche, and our perception of reality?
+
+It’s not the first time technology and storytelling have come together to influence the mind. While we’re on the topic, let’s take a look back at Spielberg, who — as a 29-year-old director in 1975 — created a new world and called it Amity Island, the setting of Jaws. He brought viewers to another place and with it ushered The New Hollywood Era. I remember waking up in the middle of the night screaming for my sister to get out of the water. The anticipation of the shark’s arrival, the terror among the people on Amity Island, the sound of the bloody ocean, and the feeling of raw danger circling me. It created an affect on the human brain. And we’re talking before computer graphics. When the shark was mechanical, the film schedule shot according to the Cape Cod tides, and the music there as a warning.
+
+Considering that, it seems fitting that Spielberg has now helped move the needle forward on the next version of immersive storytelling. We’re a long way from this Virtual space being a refuge from a fossil-fuel-depleted world, but we rarely turn to Spielberg for practicality. We often turn to him for imagination. The question is so tangible that it’s become tantalizing…what is possible in Virtual Reality? If not a new world to rescue us from global warming, then…?
+
+For hundreds of years we’ve asked the writers, the directors, the creators to show us their vision and help provide insight to these very questions. So consider for a moment that two of the most commercialized storytellers in action today — Ernest Cline and Steven Spielberg — are not storytelling in VR. They are storytelling about VR. Until that changes, Virtual Reality stays in 2045.
+
+**** Back From The Olympics
+
+A lot more people have asked about VR over the last couple of weeks, mentioning they “heard something about it” on the Olympic coverage but didn’t know exactly how it had been used.
+
+Because fewer than 10 million people have purchased VR headsets, awareness of the technology and its programming is limited. So I’m going to use a page or two here to help you understand what the Olympics did with VR headsets and, more importantly, what it didn’t do.
+
+The basics.
+
+Who was Involved:
+
+NBC Sports created its own Olympic VR app and worked with Intel and Olympic Broadcasting Services (which produces video of the Olympic games) to stream live event coverage to a range of VR headsets. It’s the second time NBC has included 360 video in its Olympic coverage but the first time they streamed live events.
+
+What hardware was Included:
+
+Samsung Gear VR, Google Daydream, and Windows Mixed Reality headsets.
+
+Coverage:
+
+NBC offered 50 hours of 360 video coverage during the 2-week event. And because stats mean nothing without relative stats against them, consider that NBC broadcasted 2,400 hours of 2D (television/computer) screen coverage of the games (the most ever). Among the events streamed in VR headsets were curling, snowboarding, bobsledding, and ski-jumping.
+
+Did you have to pay:
+
+Yes and no. Downloading the NBC Olympics VR app was free. Then you needed to enter your cable provider and password.
+
+What did it look like:
+
+Compared to high definition on a 2D screen, the 360 video in VR was grainy. Some events were offered in 180 (basically meaning you watched a 2D screen inside the Virtual space).
+
+What content was the best:
+
+The Opening Ceremony in VR was pretty cool (it’s such a dynamic event with a portion of the show emerging from the stands and a variety of lights and colors). Getting the chance to view the ceremony in VR did provide the feeling of being there. You got to look all around the stadium, hear the moving crowd, see the energized environment, and focus on whichever portions of the show interested you most.
+
+What needs to improve:
+
+The quality of 360 video. Compared to the HD quality of your 2D TV or computer screen, 360 video falls well short. Additionally, it’s crucial to realize that the Olympic content was marketed as “The Olympics in VR” but it was actually “The Olympics in 360 Video” — inside a VR headset.
+
+The Difference Between VR and 360 Video:
+
+What makes VR such an incredible technology is the interactivity it provides. For the first time, humans are able to interact with (actually reach out to touch, move, and have an influence on) the digitally immersive world surrounding them. This foundational element is what’s garnered massive investments from Facebook, Microsoft, Google, Samsung and others. “The Olympics in VR” included none of this impact — excluding interactivity among users inside the digital world and interactivity with the digital world itself.
+
+Bottom Line:
+
+The reason “The Olympics in VR” was actually “The Olympics in 360” is two fold.
+
+The type of headset that’s capable of supporting 360 video is more affordable than the full VR rigs (and, thus, far more prevalent in the US).
+Creating truly interactive and high quality VR content to cover an event like the Olympics would be far too costly and require far too many resources to generate an ROI (again, considering how few people own the hardware and thus how few people would have the capability to interact with the content).
+Wrapt it up:
+
+Credit to NBC (and the others who were part of it) for getting out there and experimenting with the new technology. But if you missed out on the 360 coverage this year…you’re probably just as well off checking back in with the coverage in the summer of 2020 in Tokyo.
+
+**** The Father of VR 
+
+There were a few middle-aged guys over the studio last month and I referred to VR as a “new technology.” One of them seemed ready to catch me on this and drop a mention of how VR has been around for decades and how our studio should know all about this — being that we produce it and all.
+
+“A new technology?” he asked with a suspicious tone.
+
+“Well,” I said. “If you really wanted to you could go all the way back to Morton Heilig in the 1950s and begin the story of VR back then.”
+
+Mentioning that name was, in itself, enough to prevent any further suspicion. But if the gentleman had asked me to speak any more about Heilig I wouldn’t have been able to.
+
+I remembered that an old guy on the back patio of the coffee shop in Red Hook had labeled him as “The Father of VR” back in the fall, but beyond that I didn’t know much more.
+
+So, I spent last night reading about him and what he brought to an industry that is, more than half a century later, still budding.
+
+Born in 1926, Heilig established himself as a cinematographer, using that background to eventually develop and patent two pieces of technology: “the telesphere mask” and the “Sensorama.” He and his partner began the development of these machines in 1957, patenting them in 1962.
+
+A bulky piece of technology shaped like an old-school arcade game, the sensorama allowed the user to sit on a chair and lean their head into the equipment — kinda like you would the vision machine at the optometrist. One of the first experiences available in the Sensorama was of a motorcycle ride through Brooklyn. Heilig attempted to incorporate all the senses and draw the viewer into a cinematic experience — a very similar description of what we understand VR to be more than 60 years later. He referred to it as “Experience Theatre.”
+
+He published a paper in 1955 called the “The cinema of the future” in which he detailed a multi-sensory theatre experience. The first text that appears inside the document reads, “Thus, individually and collectively, by thoroughly applying the methodology of art, the cinema of the future will become the first art form to reveal the new scientific world to man in the full sensual vividness and dynamic vitality of his consciousness.”
+
+After this writing he went on to create the sensorama and five short film displays. The machine still functions to this day.
+
+Eventually, Heilig said he wasn’t able to capture high enough quality images from 35 mm film cameras in order to create an immersive experience that was marketable enough to the general public.
+
+Here’s the link to his 1955 research paper. https://gametechdms.files.wordpress.com/2014/08/w6_thecinemaoffuture_morton.pdf
+
+**** Off The Ground 
+
+This Is The 2nd In a Nova XR Media Multi-Part Series
+
+As we study the way a new technology progresses through the Adoption Lifecycle, we realize the innovators have already captured Virtual Reality.
+
+Geoffrey Moore describes the innovators as a group of technology enthusiasts who appreciate the tech for its own sake. They don’t need to believe it will break through in the market nor that it holds the potential for greater achievement. The innovators savor in the technology for everything it is — whether it’s the smooth texture of the software or it’s painfully slow operating speed.
+
+With Facebook having committed a multi-billion-dollar investment and MIT using Facebook’s new VR headset to allow humans first person control of robots, the innovators have their hands on Virtual Reality.
+
+[Tech Adoption Chart displaying Innovators, Early Adopters, Early Majority, Late Majority, Lagards]
+
+The early adopters come in behind the innovators and bring their vision. Moore calls them, “That rare breed of people who have the insight to match up an emerging technology to a strategic opportunity, the temper to translate that insight into a high-visibility, high-risk project, and the charisma to get the rest of their organization to buy into that project…the core of their dream is a business goal, not a technology goal.”
+
+Well, as we approach 2018, VR has extended it’s reach all the way to Lowe’s, who’s incorporated a Holoroom to allow customers immersive experiences such as shifting the paint color on the walls of their new room. This means homeowners who may work in any range of industries have experienced VR inside a building operated by one of the strongest brands in the country.
+
+While reaching this level of audience is an advanced step for the technology, it’s an indication of Lowe’s reaching right to left across the chasm and becoming an early adopter.
+
+We see evidence of this with CNBC’s report that estimates Facebook sold fewer than 400,000 units of their Oculus Rift in 2016. Remember, the early majority represents one third of the market, so if the largest tech giant didn’t break ½ million sales in its first year, we understand that VR has yet to cross over.
 
 *** Analysis 
-
-
-
 
 
