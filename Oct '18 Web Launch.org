@@ -445,7 +445,102 @@ His book, which emerged in its third version three years ago, studies the tenden
 
 This series will examine where VR stands in relation to this curve, what’s prevented it from breaking through, and what will need to happen in order for it to cross the next divide.
 
-*** Analysis 
+**** World Peace
+Virtual Reality will democratize experience.
+
+Consider how the internet democratized information.
+
+The internet has globalized us. We communicate, share, and do business with people around the world - most we've never met in person. We may have never seen their face or heard their voice, but we /know/ them.
+
+XR empowers remote access to in-person experiences through shared virtual environments.
+
+If we really knew what it was like to walk in another's shoes, we'd be humbled. If we visited the places our governments declared as enemies, we'd ask more questions. If we knew first hand the horrors of war, the inhumanity of greed, and the glory of love, we'd live differently.
+
+Virtual Reality will democratize experience and facilitate peace.
+
+*** Use Cases
+
+**** Education 
+Like the media platforms before it, Extended Reality will continue merging with educational systems around the world and advance visual learning. 
+
+The industry is implementing bar code stickers for the interior of academic textbooks. Scanning the code with an AR kit brings information off the page. This visual learning also reduces the cognitive load required of school teachers.   
+
+In a test run for this program students learned basic anatomy of the heart. 
+
+**** Immersive Art 
+
+Artists are already creating and displaying in Virtual Reality. 
+
+Google's "Tilt Brush" is a Virtual painting program. Stepping inside, artists select various brush strokes, hues, and implements for designing 3D models. In Tilt Brush, and similar customized programs, graphic designers are learning how to design 3D models in a 3D space, enhancing the work they've already done in programs like Blender and Maya.
+
+In addition to the creation of 3D models, artists and businesses are displaying artwork in the Virtual World. The work of Photographers, sculptors, designers, and other visual artists are on display in Virtual art galleries. See Infinite Gallery.
+
+**** Medical 
+
+# Neuroscience
+Stanford Medicine is using a software system that combines imaging from MRIs, CT scans, and angiograms to create a three dimensional model of the patient's brain prior to surgery.
+
+Inside these 3D renderings, surgeons wear the headset and step inside a model of the patient's brain. It's a pre-op tool that allows for customized planning. Interaction with the three dimensional images enhances preparation and improves accuracy.
+
+“We can plan out how we can approach a tumor and avoid critical areas like the motor cortex or the sensory areas. Before, we didn’t have the ability to reconstruct it in three dimensions; we’d have to do it in our minds." -Gary Steinberg, MD, neurosurgeon, PhD.
+
+https://www.youtube.com/watch?v=TYBxhomLAcw
+
+https://med.stanford.edu/news/all-news/2017/07/virtual-reality-system-helps-surgeons-reassures-patients.html
+
+**** Collaboration 
+
+# Virtual Meetings
+
+Despite thousands of physical miles that may separate business associates, Virtual Chat Rooms allow folks to be together in the same Virtual space. Thin flexible fibers with glass core light signals (fiber optics) send data and information at a rate of 50Mps. Our movements and voices are read and replicated, so recipients can experience these behaviors through simulated software. We’re now calling this technology "Virtual Reality."
+
+As VR becomes more prevalent in business, it will replace video conferencing. Instead of seeing the image of a colleague's face on your 2D computer screen, you'll put on the headset and join them in a Virtual Conference room, hearing their voice in 3D audio and using Virtual controller commands to trigger interaction and demonstration.
+
+**** Travel and Tourism 
+
+National ministries (tourism/trade divisions) are developing content that lets us soar through the sky like an Olympic ski jumper (Korea Tourism Office, ~$100k), hang out backstage with Sir Paul McCartney (Visit Britain, ~$1.5mm), and swim the crystal clear Caribbean alongside stingrays (Caribbean Island, ~$300,000). These organizations are finding that immersive media engages travelers and influences agencies more effectively than any media prior, with more robust analytics to prove return on investment.
+
+«Before, travelers just had a brochure or information on the website to inform their choices. Virtual reality allows them to get a true sense of the hotel and the excursion they can go on. It’s been a real game changer for us all.»
+  - Marco Ryan, Chief Digital Officer, Thomas Cook
+
+«…Virtual reality let’s our travel trade and media partners experience our destination in a new and unique way that has not been possible before.»
+   -Marsha Walden, CEO, Destination British Columbia.
+
+**** XR Auto Revolution 
+
+Through various holiday sales and new vehicle features, the automotive industry works to attract buyers to the showroom. Virtual Reality brings a three-dimensional automotive experience to the buyer’s home. Inside their VR headset, the user is able to interact with the vehicle and even sit in the driver's seat. 
+
+First we capture dozens of photos from various angles of both the vehicle's interior and exterior, a process known as photogrammetry. Once the images are captured, they're arranged (or "meshed") together in a 3D software to be exported and made compatible with VR hardware. 
+
+The end result: the user can sit inside the car and walk around the exterior of the vehicle. Once they sit behind the wheel, they’ll be able to adjust the seat and mirror before turning the key and taking the car for a simulated test-drive through the streets of any city or town in the world.
+
+**** Gaming 
+
+# The Pioneering Industry 
+
+In its earliest days, Virtual Reality was predominantly a home for gamers. Classic video games like "Doom" have been remade for VR, while new games like "The Price of Freedom" are expanding the concept of VR gaming. 
+
+The software programs most commonly used to build Virtual programs (game engines like Unity and Unreal) were first a platforms for building video games. These game engines are now evolving to build all forms of Virtual interactivity. 
+
+VR is different from most media forms that have come before it. Unlike newspapers, books, radio, and television, VR encourages the user to be part of the content, using their body and mind to influencing the information surrounding them. This is a principle first mastered in the gaming industry. 
+
+We continue to source the expertise of video game programmers to realize VR's potential.
+
+**** Fundraising 
+Allow the immersion of Virtual Reality to draw a stronger connection between the donor and those who are in need of their assistance.
+
+At the root of fundraising is the empathetic connection that encourages funds to change hands. Take the example of the Wounded Warriors Project. With a mission of offering a variety of educational, health, and employment programs to veterans, the foundation relies heavily on donations from a variety of sources. Often these donations are solicited at events that attempt to communicate the journey, mentality, and some of the post-combat struggles that afflict soldiers across the country.
+
+For those who’ve never been to war, one of the most incomprehensible tasks is truly understanding the journey of a soldier. Advanced technology does not bridge this gap between civilians and soldiers. However, it can increase the likelihood of striking an empathetic connection.
+
+At a fundraising event geared toward raising money for Wounded Warriors, Virtual Reality can take the donor inside an immersive experience that reflects some of the perils and post-combat ills that plague soldiers. Virtual Reality can digitally put the donor in the place of a soldier as the say goodbye to their family, arrive oversees, and ride through foreign terrain toward combat. Inside the headset, the donor can also experience the elation of returning home from war and the devastation of rehabilitating some of the life-altering injuries sustained by these men and women.
+
+**** Hiring 
+Even some of the most successful companies struggle to hire the right employees. The applicant creates a resume from their most attractive accomplishments and prepares their best presentation to display during the interview process.
+
+Virtual Reality provides an opportunity to evaluate the psychology of the applicant more explicitly. By presenting a Virtual component to supplement your company’s interview process, you’ll ask the applicant to enter an interactive Virtual World in which they’ll go through a series of short prompts. Through advanced psychological studies, we’ll help you understand how the applicant’s interaction with the Virtual prompts reveals elements of their mentality, learning style, and competence as related to the particular job opening.
+
+Data collected from their spatial behavior, interaction with various objects, and reaction to varying colors will help companies better evaluate applicants and ultimately reduce costs in their HR department.
 
 **** Relocation Financial Strategy
 
