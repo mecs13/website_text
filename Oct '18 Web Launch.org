@@ -746,3 +746,35 @@ There are three important conclusions to draw from the information in this secti
 Also to Note: a VR studio in Amsterdam released a 360º video series in 2017 centered on immersive VR tours of London, Amsterdam, Bangkok, and Rome (among others). In total, the series received more than one million views on YouTube. 360º is an immersive experience that is beginning to drive Virtual travel. 
 
 "...[Virtual Reality] let's our travel trade and media partners experience our destination in a new and unique way that has not been possible before." - Marsha Walden, CEO, Destination British Columbia.
+
+** Services 
+
+*** Design 
+
+The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we are realizing the limitlessness of this technology. Simultaneously, we are also facing challenges never-before-encountered. We start small and end big. We begin with a viable concept that can scale. 
+
+## *Concepting*
+
+This is the first phase of VR design, the foundation of the project. Here we consider: 
+
+- 1) The Brand's Identity:* What problem is the brand aiming to solve by expanding into VR?
+
+- 2) The Audience:* Who is the brand aiming to reach? 
+
+- 3) Reaching that Audience:* On which channels and platforms is that audience likely to exist?
+
+- 4) The User Journey:* Based on answers to the above questions, we determine the details of the experience. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them when the experience ends?  
+
+In VR we can build innovative digital worlds that abide by their own physical laws, or we can bring the laws of the physical world into the virtual space. These are the challenges when designing a 3D environment. 
+
+## *Designing Physics*
+The finest VR programs are built in collaboration between 3D designers and 3D developers. The possibilities of VR allow the design team to think in limitless terms.  
+
+Let's use the retail industry as a case study. Consider the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, object and human movement will behave and react however we decide. We can arrange gravitational laws and all of the corresponding terrestrial elements like sunglight, wind, and rainfall however we choose. The design possibilities are limitless. 
+
+With this in mind, designers must consider the complexity with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
+
+## *New Design Components* 
+Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
+
+To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
