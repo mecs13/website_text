@@ -768,6 +768,7 @@ This is the first phase of VR design, the foundation of the project. Here we con
 In VR we can build innovative digital worlds that abide by their own physical laws, or we can bring the laws of the physical world into the virtual space. These are the challenges when designing a 3D environment. 
 
 ## *Designing Physics*
+
 The finest VR programs are built in collaboration between 3D designers and 3D developers. The possibilities of VR allow the design team to think in limitless terms.  
 
 Let's use the retail industry as a case study. Consider the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, object and human movement will behave and react however we decide. We can arrange gravitational laws and all of the corresponding terrestrial elements like sunglight, wind, and rainfall however we choose. The design possibilities are limitless. 
@@ -775,6 +776,7 @@ Let's use the retail industry as a case study. Consider the general design of cu
 With this in mind, designers must consider the complexity with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
 
 ## *New Design Components* 
+
 Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
 
 To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
