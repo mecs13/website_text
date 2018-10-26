@@ -781,4 +781,40 @@ Designing a Virtual World means telling a story through an experience of shapes,
 
 To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
 
+*** Develop
+
+The VR we develop is programmable. Virtual experiences can be manipulated through inputs such as code, player interfacing, or physiological behaviors. Content produced can range from photo-real capture to entirely fictitious dreamscapes.
+
+"Networking" the software allows multiple people to interact in VR together. Some of its immediate results are market creation, distributed file keeping, and remote access to devices.
+
+There are a variety of production techniques, tools, and frameworks used to make XR. They are all synchronized in a software framework called a "game engine". A game engine is used to create interactive 3D media (XR). These engines are powerful visualization tools for developing all the features of the internet (networked play, social sharing, secure payments, etc.) into a single application.
+
+Game engines empower developers to custom-design virtual environments. The core game engine frameworks include rendering 3D graphics, engineering physics engines (and response systems), managing memory, and handling graphics scenes.
+
+Nova economizes the Virtual Reality (VR) development process by adapting game engine builds (software executable) to create new VR experiences. By developing with foresight, producers save time and money.
+
+***
+
+Once the XR program has been designed, developed, and tested it may be deployed through a variety of methods. Broadly, XR content can be distributed on-site or across an XR app store.
+
+*On-Site:* 
+Depending on the style of content, it may be best to deploy XR at your place of business. Whether it is a training program, a customized user experience for your guests, or educational marketing material, offering XR content to people who flow through your office, practice, studio, or display room may be the best option. In this case, deploying the content is similar to displaying a video file on your computer. We will install the hardware for you, train your personnel on how to operate it, and provide remote support. 
+
+*XR App Store:*
+Consider to the way users download applications from the app store on their mobile phone. A similar means of distribution is available with XR content. By logging onto the Oculus (app store associated with Facebook's XR hardware) or Steam (app store associated with HTC Vive hardware), users access XR content from anywhere in the world. 
+
+Determining which means of distribution best fits a given program will take place during the design phase. 
+
+** Nova XR 
+
+*** Who We Are 
+/Includes "Find" Us/
+
+Nova XR Media is built by four founders. We come from corporate sales, computer science, architectural design, and production. We bring diversity to a small group of early movers in New York City who are driving XR forward. We design, develop, innovate, and build.
+
+We produce a range of products enabling users to transcend time and space through virtual worlds and simulated play. Our clients use 3D immersive media to market new products, train students and employees, gamify education, and entertain customers. Nova XR Media guides the development, advises on financial strategies and manages production. Our studio and laboratory is located at the edge of Red Hook, Brooklyn.
+
+*** Partnerships 
+
+*** Productions
 
