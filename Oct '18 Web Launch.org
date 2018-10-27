@@ -27,7 +27,7 @@ JB is working with TB to finalize relaunch
 * Home 
 Nova XR Media is a team of artists and engineers. We design and build Virtual and Augmented Reality. 
 
-** Build XR 
+* Build XR 
 Build XR page intro text: Extended Reality may provide a variety of solutions across a range of industries. By answering these five questions, you provide us with tools for applying XR to your needs. Marketing, training, and internal productivity begin to outline the scope of XR applications.
 
 *** Why build XR? 
@@ -46,15 +46,15 @@ Build XR page intro text: Extended Reality may provide a variety of solutions ac
 
 Thanks for taking the first step toward building your XR solution! We'll apply your responses to the next step in our consultation. 
 
-** Solutions 
+* Solutions 
 
-*** Products 
+** Products 
 
-**** Intro 
+*** Intro 
 
 Through consistent experimentation, research, and a desire to solve real problems we have created these original Virtual Reality products.
 
-***** New Year's Eve 
+*** New Year's Eve 
 /Live Stream VR From Around the World/
 
 ## Abstract
@@ -73,7 +73,7 @@ Begin in your branded lobby, the Virtual globe at center. Click it, move it, rot
 
 Destinations working to attract visitors may display their culture, infrastructure, and appearance - shedding light in a brand new way. Virtual Teleportation shows the glamour of your destination. Make global use of VR’s live potential.
 
-***** XR Architecture 
+*** XR Architecture 
 /Sketch, Measure, and Build/
 
 ## Abstract 
@@ -96,7 +96,7 @@ Receives multiple architectural proposals for major construction projects. When 
  
 Architecture is a spatial discipline that's at home in the Virtual World. Inviting architects into VR increases the precision of their calculations and the sensitivity of their design. It's a tool for maximizing efficiency of major construction projects before they break ground in our towns and cities.
 
-***** Infinite Gallery 
+*** Infinite Gallery 
 /Virtual Product Display/
 
 ## Abstract 
@@ -123,7 +123,7 @@ At the beginning of the 20th century, F.W. Woolworth altered retail marketing. B
 
 The Infinite Gallery is a linear display interface in 3D. Upon reaching the end of your story, the user has connected with your brand.
 
-***** Torus
+*** Torus
 /Virtual World Mobility/
 
 ## Abstract
@@ -146,7 +146,7 @@ Considering the omnipresence of toroidal flow in the physical world, it’s a ch
 
 The Torus is the foundational tool we’ll use to build your customized VR content.
 
-***** XR Color 
+*** XR Color 
 /Live In Color/
 
 ## Abstract
@@ -169,7 +169,7 @@ For close to a millennium, humans have practiced various forms of chromotherapy.
 
 The health benefits of XR Color span widely, elevating the computer programmer and graphic designer out of their chair - initiating movement, blood flow, and precise access to their paint.
 
-***** Bloomaway 
+*** Bloomaway 
 /Seamless Virtual Transport/
 
 ## Abstract 
@@ -190,7 +190,7 @@ Bloomaway reduces business travel expenses (like those associated with employee 
 
 ...
 
-*** Consultation 
+** Consultation 
 
 ## Rectangle Intro 
 
@@ -275,7 +275,7 @@ This is the default language of the machine learning world. While machine learni
 
 In the VR world, python is a tool that provides access and adds efficiency to game engine development.
 
-***** C-Sharp 
+**** C-Sharp 
 
 ## Object Orientation
 
@@ -289,7 +289,7 @@ At its origin, the essence of programming has been writing the logic rather than
 
 VR is based on the creation of such objects, and C# is the object-oriented programming language driving much of the VR world.
 
-***** AI
+**** AI
 
 # Artificial Intelligence 
 
@@ -385,7 +385,7 @@ Check out this video featuring the CEO of the company who created it.
 
 https://www.youtube.com/watch?v=cn00UKfYaaU
 
-***** Internet of Things 
+**** Internet of Things 
 
 The Internet of things (IoT) is the network of digitally connected devices, such as home appliances and vehicles, that are connected to the internet. These devices are equipped with sensors and operating software, enabling remote access and management. For example, adjusting your beach house thermostat from upstate, or receiving a text message notifying you the plants need watering (because your botany sensors noticed drought).
 
@@ -817,7 +817,7 @@ Game engines empower developers to custom-design virtual environments. The core 
 
 Nova economizes the Virtual Reality (VR) development process by adapting game engine builds (software executable) to create new VR experiences. By developing with foresight, producers save time and money.
 
-***
+*** Deploy
 
 Once the XR program has been designed, developed, and tested it may be deployed through a variety of methods. Broadly, XR content can be distributed on-site or across an XR app store.
 
@@ -832,7 +832,7 @@ Determining which means of distribution best fits a given program will take plac
 ** Nova XR 
 
 *** Who We Are 
-/Includes "Find" Us/
+/Includes "Find Us"/
 
 Nova XR Media is built by four founders. We come from corporate sales, computer science, architectural design, and production. We bring diversity to a small group of early movers in New York City who are driving XR forward. We design, develop, innovate, and build.
 
