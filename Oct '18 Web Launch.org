@@ -8,9 +8,9 @@ There exceptions to this modification
 
 1) The format of the products page will remain the same as before with rectangles appearing upon the right panel and the user with the option to click on each rectangle (product) to read further. 
 2) The publications page will remain divided by three tabs across the the top. These will read: 
-- Technologies 
-- Industry Insider
-- Use Cases
+- *Technologies*
+- *Industry Insider*
+- *Use Cases*
 
 We will source all of the most valued and well-written pages from the pre-hacked website (Game Engine, C#, Crossing the Chasm, Google Earth, Financial Strategies, etc.) and divide them among the three subheadings listed above. When clicking on one of the subheadings within “Publications” the user will arrive at a page with rectangles running along the right panel. A click will bring them to the full article. 
 
