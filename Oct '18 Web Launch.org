@@ -1,5 +1,29 @@
 This is the website architecture and all the web text for novamedia.nyc to be launched Sunday, October 28. 
 
+KK/JB met for one hour on Tuesday afternoon. After the hacking of the website, Nova needed to deal with tech debt on the backend. During this time the website has been offline. While working through the tech debt, about 80% of the webtext was lost. 
+
+Rather than repasting all the webtext into the admin page, JB/KK decided to trim the website down. To summarize this decision, we are leaving 3 left panel options, and the subsequent dropdown options beneath them. Now, when clicking on one of these subsequent dropdown options (example: “Consultation”), the user will no longer see three tabs available across the top of the right panel. Instead, the “Consultation” text entirety of the consultation text will appear right there on the right side of the screen.
+
+There exceptions to this modification 
+
+1) The format of the products page will remain the same as before with rectangles appearing upon the right panel and the user with the option to click on each rectangle (product) to read further. 
+2) The publications page will remain divided by three tabs across the the top. These will read: 
+- Technologies 
+- Industry News
+- Analysis 
+
+We will source all of the most valued and well-written pages from the pre-hacked website (Game Engine, C#, Crossing the Chasm, Google Earth, Financial Strategies, etc.) and divide them among the three subheadings listed above. When clicking on one of the subheadings within “Publications” the user will arrive at a page with rectangles running along the right panel. A click will bring them to the full article. 
+
+3) The subdivision of “Nova XR” will change slightly. Here are the new subcategories 
+- *Who We Are:* This will include “About Us” and “Find Us”
+- *Productions:* This will feature a right panel listing of all our clients 
+- *Partnership:* This will feature a full-body text describing Nova’s philosophy (highly centered on Partnerships). 
+
+JB/KK agree that “Contacts” (which is currently inside the “About Us” tab and lists various means of connecting with Nova) features too many means of connection and the table appears a bit unprofessional. This table should be designed by JB. 
+
+JB is working with TB to finalize relaunch
+
+================================ WEB TEXT BEGINS ON NEXT LINE
 * Home 
 Nova XR Media is a team of artists and engineers. We design and build Virtual and Augmented Reality. 
 
