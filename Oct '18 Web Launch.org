@@ -771,9 +771,9 @@ Also to Note: a VR studio in Amsterdam released a 360º video series in 2017 cen
 
 "...[Virtual Reality] let's our travel trade and media partners experience our destination in a new and unique way that has not been possible before." - Marsha Walden, CEO, Destination British Columbia.
 
-** Services 
+* Services 
 
-*** Design 
+** Design 
 
 The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we are realizing the limitlessness of this technology. Simultaneously, we are also facing challenges never-before-encountered. We start small and end big. We begin with a viable concept that can scale. 
 
@@ -805,7 +805,7 @@ Designing a Virtual World means telling a story through an experience of shapes,
 
 To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
 
-*** Develop
+** Develop
 
 The VR we develop is programmable. Virtual experiences can be manipulated through inputs such as code, player interfacing, or physiological behaviors. Content produced can range from photo-real capture to entirely fictitious dreamscapes.
 
@@ -817,7 +817,7 @@ Game engines empower developers to custom-design virtual environments. The core 
 
 Nova economizes the Virtual Reality (VR) development process by adapting game engine builds (software executable) to create new VR experiences. By developing with foresight, producers save time and money.
 
-*** Deploy
+** Deploy
 
 Once the XR program has been designed, developed, and tested it may be deployed through a variety of methods. Broadly, XR content can be distributed on-site or across an XR app store.
 
@@ -829,53 +829,52 @@ Consider to the way users download applications from the app store on their mobi
 
 Determining which means of distribution best fits a given program will take place during the design phase. 
 
-** Nova XR 
+* Nova XR 
 
-*** Who We Are 
+** Who We Are 
 /Includes "Find Us"/
 
 Nova XR Media is built by four founders. We come from corporate sales, computer science, architectural design, and production. We bring diversity to a small group of early movers in New York City who are driving XR forward. We design, develop, innovate, and build.
 
 We produce a range of products enabling users to transcend time and space through virtual worlds and simulated play. Our clients use 3D immersive media to market new products, train students and employees, gamify education, and entertain customers. Nova XR Media guides the development, advises on financial strategies and manages production. Our studio and laboratory is located at the edge of Red Hook, Brooklyn.
 
-*** Partnerships 
+** Partnerships 
 
 A shout to our friends and family.  Without ya'll Nova is nothing.  
 
 Our open door philosophy attracts a range of people from varying communities. This makes Nova Studios an idea hub for crafting market opportunities. 
 
-**** Redu Media
+*** Redu Media
 Redu is making obsolescence obsolete. A close member of Nova's family, Redu is dedicated to upcycling materials that would otherwise go to waste. Amber and Kaya lead /rescues/, traveling throughout the tri state area to collect materials and prevent them from going to landfill. Back inside Redu's design studio, the materials are tastefully crafted into furniture and applied art.
 
-**** Surf-Far
+*** Surf-Far
 
 Produces eco-friendly wetsuits for women, by women.   Made of Yulex or recycled neoprene, recycled water bottles, and water based glues Surf-Far designs comfortable and durable wetsuits that have a low impact on the environment.  As surfers, ocean lovers, and humans, is ensuring that future generations have the opportunity to enjoy this earth the way we all enjoy it today.  Brooklyn, New York. 
 
-
-**** Fulla Shirts
+*** Fulla Shirts
 
 Fulla designs and produces T-shirts to order.  As a Red Hook native, Ren and his team know what it means to be Brooklyn, and to deliver style.  Swing by the shop anytime to kick it with a true entrepreneur and a good friend.   
 
 
-**** Potential Synergy 
+*** Potential Synergy 
 At the forefront of XR technology development, Potential Synergy builds lucid dreams. They also build practical XR solutions. At the forefront of the studio's cornerstone products is Dreamscaping - a principle designed to eliminate the dizziness some users experienced inside the Oculus Rift. Their current project - Match Quest - tests short and long term memory. As users succeed within the game, they become closer and closer to obtaining real Ethereum. 
 
-**** Construct Studios   
+*** Construct Studios   
 With a basis in both San Fran and New York City, Construct studios has built one of the most trafficked VR worlds available to the public - /The Price of Freedom/. They're a team of game developers working to bring XR to varying fields: Medicine, Education, and Industry. https://construct.studio/
 
-**** Aptonomy 
+*** Aptonomy 
 Aptonomy is a premiere aerial protection service leading the movement into Drone-based security systems.
 
-**** Con Body 
+*** Con Body 
 Coss Marte was serving a seven year prison sentence when doctors told him he could die in the prison cell if he didn't take control of his health. While incarcerated, he designed a physical fitness program and began building toward peak physical condition. Once released, Coss built the current ConBody workout facility in the Lower East Side of Manhattan. Today, you can visit Coss and the former prisoners who work with him. They'll put you through your paces. In a 30 or 60 minute workout, you'll experience the sights, sounds, and workout regimen of the incarcerated. Be ready. 
 https://www.youtube.com/watch?v=3npsu-wnL6o
 
-**** Clinken Films  
+*** Clinken Films  
 Jon is a storyteller. He began as a writer and stage actor and has spread his storytelling skills with artificial intelligence and Virtual Reality. He's currently developing an interactive story, releasing an episode each week. VR, AI, and snail mail are all forms included.
 
-*** Productions
+** Productions
 
-**** Hard Rock Hotels
+*** Hard Rock Hotels
 
 *Situation*
 Hard Rock Riviera Maya had a PR objective to earn big media.   They had access to top music talent and a badass resort in Mexico.   
@@ -914,7 +913,7 @@ Media outlets across the country picked up the fun, earning more than 200 millio
 
 The vacation has now become a tradition.
 
-**** Hawaiian Airlines
+*** Hawaiian Airlines
 
 *Situation*
 
@@ -934,7 +933,7 @@ Starting in April we surveyed New York metro about airlines, trafficked customiz
 - Click-through rate four times the national average
 - 11% greater reach than predicted
 
-**** Kelly Vision
+*** Kelly Vision
 
 *Situation*
 
@@ -968,7 +967,7 @@ Adjusted content on the fly to improve ROI
 
 - 1,000 + text messages 
 
-**** Taiwan
+*** Taiwan
 
 *Situation*
 
