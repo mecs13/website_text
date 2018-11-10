@@ -202,7 +202,7 @@ Virtual Reality (VR) and Augmented Reality (AR), fitting under the parent term "
 
 These technologies will increasingly be in the home, integrating with daily living in the way televisions, computers, and phones already have. As of today, you can engage with simulated environments through your phone (or XR glasses/goggles).
 
-Historical rates of technological adoption suggest that 25% of the people livingin the US will have an AR/VR in their homes within the next five years. It is the next frontier of human connectivity.
+Historical rates of technological adoption suggest that 25% of the people living in the US will have AR/VR in their homes within the next five years. It is the next frontier of human connectivity.
 
 In business, XR Media cuts internal costs by providing immersive training programs and business travel alternatives. When used to drive revenue, XR is a natural marketing tool, the backdrop for new age content creation.
 
@@ -874,12 +874,16 @@ Jon is a storyteller. He began as a writer and stage actor and has spread his st
 
 ** Productions
 
+At the core we are an XR production studio. We help brands understand the technology, manage their investment, and build their campaign from start to finish.
+
 *** Hard Rock Hotels
 
-*Situation*
+# Hard Rock Hotels
+
+## Situation
 Hard Rock Riviera Maya had a PR objective to earn big media.   They had access to top music talent and a badass resort in Mexico.   
 
-*Solution*
+## Solution
 
 "Elvis Rocks Mexico -  Riviera Maya"
 
@@ -889,10 +893,10 @@ Match Top music Talent
 Strategically promoted
 Earn coverage
 
-*Execution*
+## Execution
 Live From Mexico we broadcasted a weekend of dysfunctional family fun to 63 million.   Live music performances from Nick Jonas and Brett Michaels, all the beach, spa and partying anyone person could handle... 
 
-*Results*
+## Results
 - 201,008,806 Gross Impressions
 - 280,000 contest entries
 - $2.59 million media/PR value (15cpm)
@@ -913,33 +917,33 @@ Media outlets across the country picked up the fun, earning more than 200 millio
 
 The vacation has now become a tradition.
 
-*** Hawaiian Airlines
+# Hawaiian Airlines
 
-*Situation*
+## Situation
 
 Hawaiian airlines was launching a new flight from JFK direct to Honolulu and needed people to know about it.
 
-*Solution*
+## Solution
 
 Multi-platform promotion through traditional media, digital targeting and on-site activation.
  
-*Execution*
+## Execution
 
 Starting in April we surveyed New York metro about airlines, trafficked customized commercial media, called participants to action and produced world-class content.   On-stage in front of thousands of professionals Hawaiian Airlines brought culture to life and associated it with the new route's details. The response was unforgettable. 
 
-*Results*
+## Results
 
 - Increased brand recognition by 12.1%
 - Click-through rate four times the national average
 - 11% greater reach than predicted
 
-*** Kelly Vision
+# Kelly Vision
 
-*Situation*
+## Situation
 
 Dr. Kelly was looking for a way to combine the mass reach of traditional media with modern technologies of digital tracking to quantifiably measure his return on investment
 
-*Objective*
+## Objective
 
 To get people in the door and start taking their considerations of vision enhancement seriously.
 
@@ -949,7 +953,7 @@ Evaluate the cost per eye.
 
 Investment $30,000 to return $35 surgeries.  
 
-*Campaign*
+## Campaign
 
 Brand ambassador on 5 top media outlets for full scope of media deliverables.
 
@@ -957,7 +961,7 @@ Promotion code to track business (interests, connections, bookings, payments.
 
 Adjusted content on the fly to improve ROI
 
-*Results*
+## Results
 
 - Delivered more than $20k in vision business in 21 days.
 
@@ -967,27 +971,43 @@ Adjusted content on the fly to improve ROI
 
 - 1,000 + text messages 
 
-*** Taiwan
+# Taiwan
 
-*Situation*
+## Situation
 
 Taiwan is of the lesser known Asia destinations but has an amazing culture to share. We needed to stand apart from the rest of Asia. Knowing we will not brand bigger than China or Japan in the short-term, we complimented them.
 
-*Strategy*
+## Strategy
 
 (1) Bring a credible message about culture, food, beauty and other features of the destination. 
 (2) Transfer the earned trust and credibility of a known personality to highlight “Why Taiwan”. 
 (3) Share from a first person perspective. 
 (4) Develop PR exposure through creative engagement
 
-*Execution*
+## Execution
  Travel expert, Pauline Frommer, brought the travel show to Taiwan. We created an array of content to share across multiple distribution channels. Integrate with entertainment darlings and showcase the culture through event partnerships in Bryant Park.
 
-*Results*
+## Results
 - 7% increase in US visits year over year. 
 - Renewed production program at a 45% increase in investment. 
 - 10 million media impressions through “earned media”. 
 - Evergreen content to re-purpose indefinitely.
+
+* Who We Are
+
+## Joe Mecca - CEO
+
+Joe started his career in media and production at Purdue University, where he wrote for the Greek Newspaper. He went on to be the sales director and publisher, expanding circulation from 6,000 to 17,000 weekly, growing sales from $10,000 in annual revenue to $25,000.  
+
+After graduating Joe moved to New York to work for Clear Channel as an account executive selling sponsorships direct to brands. With an average of $1 million in sales per year, Joe lead execution of mutli-platform campaigns (events, radio, web, mobile, video) and was the point of contact for clients. His role evolved into innovating tech integrations for programming and commercial content, before departing for extended travel to Europe and the Middle East.
+
+Upon returning Joe began a Virtual Reality Studio, Nova Media, out of his apartment, and without capital. While assembling a team, Nova bootstrapped its business, producing and developing XR software for individuals and multinational brands.  Today, Joe and Nova continue to produce bleeding edge content from their studio in Red Hook, Brooklyn.  
+
+## Jacques Lalo - 3D Designer
+
+Born and raised in Paris, Jacques left the city at age 19, enrolling as a pre-med student in the south of France. The study of the human body deepened his understanding of design. The functionality of the lungs, the power of the heart, the connectivity of the muscular system, and all the body's coherency led him back to his home city and to design school where he began to master the principles of architectural design, gradually becoming an expert in the 3D design software Blender, the gold standard and most complex 3D environment driving Virtual Reality creation. 
+
+In the summer of 2017, Jacques arrived in Brooklyn and became one of Nova's founding members. Thanks to Jacques' intricate understanding of brand creation, the story of Nova deepened, its 3D logo and graphic charter were born, and its image solidified. Novamedia.nyc features Jacques' hand-crafted visuals, each inspired by his understand of design, advanced technology, and Extended Reality as an emerging market. 
 
 * Legals
 
