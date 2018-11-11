@@ -775,35 +775,33 @@ Also to Note: a VR studio in Amsterdam released a 360º video series in 2017 cen
 
 ** Design 
 
-The Virtual World is introducing a new brand of design. For the first time we are integrating the principles of real-world architecture with the limitlessness of digital software. As we build customized Virtual Worlds spanning across industries, we are realizing the limitlessness of this technology. Simultaneously, we are also facing challenges never-before-encountered. We start small and end big. We begin with a viable concept that can scale. 
-
 ## *Concepting*
 
-This is the first phase of VR design, the foundation of the project. Here we consider: 
+This is the first phase of XR design, the foundation of the project build. Here we must consider: 
 
-- 1) The Brand's Identity:* What problem is the brand aiming to solve by expanding into VR?
+- ** 1.The Brand's Identity:** What problem is the brand aiming to solve by expanding into XR?
 
-- 2) The Audience:* Who is the brand aiming to reach? 
+- ** 2. The Audience:** Who is the brand aiming to reach? 
 
-- 3) Reaching that Audience:* On which channels and platforms is that audience likely to exist?
+- ** 3. Reaching the Audience:** On which channels and platforms is the audience likely to exist?
 
-- 4) The User Journey:* Based on answers to the above questions, we determine the details of the experience. How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the lasting memory that stays with them when the experience ends?  
+- ** 4. The User Journey:** How does the experience begin? What does the user see, hear, and feel? What actions are they prompted to take? What is the memory that stays with them after the experience ends?  
 
-In VR we can build innovative digital worlds that abide by their own physical laws, or we can bring the laws of the physical world into the virtual space. These are the challenges when designing a 3D environment. 
+In XR we can build innovative digital worlds that abide by their own physical laws, or we can bring the laws of the physical world into the virtual environment. Limitlessness is the both the challenge and the attraction. 
 
 ## *Designing Physics*
 
-The finest VR programs are built in collaboration between 3D designers and 3D developers. The possibilities of VR allow the design team to think in limitless terms.  
+The finest XR programs are built in collaboration between 3D designers and 3D developers and the confines of the imagination are the only limits. 
 
-Let's use the retail industry as a case study. Consider the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, object and human movement will behave and react however we decide. We can arrange gravitational laws and all of the corresponding terrestrial elements like sunglight, wind, and rainfall however we choose. The design possibilities are limitless. 
+We will use the retail industry as a case study. Consider that the general design of current brick and mortar retail space is bound by the laws of gravity. Objects must be supported by shelves and hangers. For similar terrestrial reasons, inventory is often retailed inside a piece of physical architecture restricted to a single plot of land. Inside Virtual architecture, though, object and human movement behave and react however we decide. We can arrange gravitational laws and all of the corresponding elements like sunlight, wind, and rainfall however we choose. Limitlessness design. 
 
-With this in mind, designers must consider the complexity with respect to the developmental resources needed to put them in motion and bring them to life. The new gravitational laws, polygon count used, and fluidity of user motion within the environment will all drive the scope of work when integrating these designs with the backend code that brings them to life.   
+With this in mind, details like the polygon count used and fluidity of user motion all drive the scope of work when integrating the design with the code that brings the environment to life.    
 
 ## *New Design Components* 
 
-Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the VR experience the user will move through a progression of digitally-created spaces. Each of these segments of the experience can serve as marketable assets. Consider these spaces akin to the rooms of a home. As the size of the home - and thus the resources required to build it - increases so does the cost of production.  
+Designing a Virtual World means telling a story through an experience of shapes, colors, lighting, and movement. Throughout the XR experience, users move through a progression of digitally-created spaces. Each of these segments serve as marketable assets. Consider these spaces akin to the rooms of a home. As the blueprint of a home expands so does the cost of production.  
 
-To maximize the immersive feeling inside the VR world, we must design it in a manner that evokes user trust. As they move through this digital world, the must believe what they are seeing. While the style of design may invite their senses into a othe-worldly realm, they must still believe in what their senses are communicating to their brain. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream. 
+To maximize the immersive feeling inside XR, we design in a manner evoking user trust. As users move through the world, the must believe what they are seeing. While the style of design may invite their senses into an other-worldly realm, users must believe the integrity of what they are experiencing. The size of objects must agree with their behavior, which must all tie together with fluidity of the user's motion through this digital world. They will walk away from this VR experience inspired to think, create, and dream.
 
 ** Develop
 
@@ -837,6 +835,30 @@ Determining which means of distribution best fits a given program will take plac
 Nova XR Media is built by four founders. We come from corporate sales, computer science, architectural design, and production. We bring diversity to a small group of early movers in New York City who are driving XR forward. We design, develop, innovate, and build.
 
 We produce a range of products enabling users to transcend time and space through virtual worlds and simulated play. Our clients use 3D immersive media to market new products, train students and employees, gamify education, and entertain customers. Nova XR Media guides the development, advises on financial strategies and manages production. Our studio and laboratory is located at the edge of Red Hook, Brooklyn.
+
+## Joe Mecca - CEO
+
+Joe started his career in media and production at Purdue University, where he wrote for the Greek Newspaper. He went on to be the sales director and publisher, expanding circulation from 6,000 to 17,000 weekly, growing sales from $10,000 in annual revenue to $25,000.  
+
+After graduating Joe moved to New York to work for Clear Channel as an account executive selling sponsorships direct to brands. With an average of $1 million in sales per year, Joe led execution of mutli-platform campaigns (events, radio, web, mobile, video) and was the point of contact for clients. His role evolved into innovating tech integrations for programming and commercial content, before departing for extended travel to Europe and the Middle East.
+
+Upon returning Joe began a Virtual Reality Studio, Nova Media, out of his apartment, and without capital. While assembling a team, Nova bootstrapped its business, producing and developing XR software for individuals and multinational brands.  Today, Joe and Nova continue to produce bleeding edge content from their studio in Red Hook, Brooklyn.  
+
+## Jacques Lalo - Art Director
+
+Born and raised in Paris, Jacques left the city at age 19, enrolling as a pre-med student in the south of France. The study of the human body deepened his understanding of design. The functionality of the lungs, the power of the heart, the connectivity of the muscular system, and all the body's coherency led him back to his home city and to the study of architectural design. At Ecole Bleue, he mastered the core principles of design and began seeing the world through his deep understanding of this discipline. Along the way he became an expert in Blender, the most complex 3D software environment driving Virtual Reality asset creation. 
+
+In the summer of 2017, Jacques arrived in Brooklyn and became one of Nova's founding members. Thanks to his intricate understanding of brand creation, the story of Nova deepened. Its 3D logo and graphic charter were born, and its image solidified. Novamedia.nyc features Jacques' hand-crafted visuals, each inspired by his understanding of design, advanced technology, and extended reality as an emerging market.
+
+He recently, under the Nova brand name, designed each of the characters for a Google-backed 360 experience called Armonia. Only as XR begins attracting more artists of his caliber will it blossom. 
+
+## Kyle Kesses - Marketing Director
+
+Six months after graduating from Fordham University, Kyle became a writer and on-camera broadcaster for the New York Yankees. As part of a their in-house production team, he wrote and voiced an Emmy-winning episodic series in 2016. 
+
+At the start of 2017, he met Joe and discovered VR. The experience resonated and sent him on an ensuing journey through the history of media and the evolution of mass human connectivity. He traveled through history from the printing press all the way to the smartphone, a journey that led him back to Nova. He became the team's writer and next co-founder, establishing its marketing philosophy and human-to-human connectivity.   
+
+With an affinity for language and voice, Kyle simplifies complex concepts into comprehensive writings, bridging many divides among artists, engineers, and businesses.
 
 ** Partnerships 
 
@@ -992,32 +1014,6 @@ Taiwan is of the lesser known Asia destinations but has an amazing culture to sh
 - Renewed production program at a 45% increase in investment. 
 - 10 million media impressions through “earned media”. 
 - Evergreen content to re-purpose indefinitely.
-
-* Who We Are
-
-## Joe Mecca - CEO
-
-Joe started his career in media and production at Purdue University, where he wrote for the Greek Newspaper. He went on to be the sales director and publisher, expanding circulation from 6,000 to 17,000 weekly, growing sales from $10,000 in annual revenue to $25,000.  
-
-After graduating Joe moved to New York to work for Clear Channel as an account executive selling sponsorships direct to brands. With an average of $1 million in sales per year, Joe lead execution of mutli-platform campaigns (events, radio, web, mobile, video) and was the point of contact for clients. His role evolved into innovating tech integrations for programming and commercial content, before departing for extended travel to Europe and the Middle East.
-
-Upon returning Joe began a Virtual Reality Studio, Nova Media, out of his apartment, and without capital. While assembling a team, Nova bootstrapped its business, producing and developing XR software for individuals and multinational brands.  Today, Joe and Nova continue to produce bleeding edge content from their studio in Red Hook, Brooklyn.  
-
-## Jacques Lalo - Art Director
-
-Born and raised in Paris, Jacques left the city at age 19, enrolling as a pre-med student in the south of France. The study of the human body deepened his understanding of design. The functionality of the lungs, the power of the heart, the connectivity of the muscular system, and all the body's coherency led him back to his home city and to architectural design school at Ecole Bleue global design school in. Back in Paris, he began mastering the principles of architectural design, gradually becoming an expert in Blender, the gold standard and most complex 3D software environment driving Virtual Reality asset creation. 
-
-In the summer of 2017, Jacques arrived in Brooklyn and became one of Nova's founding members. Thanks to his intricate understanding of brand creation, the story of Nova deepened. Its 3D logo and graphic charter were born, and its image solidified. Novamedia.nyc features Jacques' hand-crafted visuals, each inspired by his understanding of design, advanced technology, and Extended Reality as an emerging market.
-
-Under the Nova brand, he hand-crafted the characters for a Google-backed 360 experience called Armonia. Only as XR begins attracting more artists of his caliber, will the industry emerge. 
-
-## Kyle Kesses - Marketing Director
-
-Six months after graduating from Fordham University, Kyle became a writer and on-camera broadcaster for the New York Yankees. As part of a small in-house production team at Yankee Stadium, he wrote and voiced an Emmy-winning episodic series in 2016. 
-
-At the start of 2017, he met Joe and discovered VR. The experience resonated and sent him on an ensuing journey through the history of media and the evolution of mass human connectivity. He traveled through history from the printing press all the way to the smartphone, a journey that led him back to Nova. He became the team's writer and next co-founder, a role that has evolved into the director of marketing. 
-
-With an affinity for human-to-human connection and simplifying complex concepts into comprehensive writings, Kyle drives Nova's written communication and builds strong relationships with partner studios and 
 
 * Legals
 
