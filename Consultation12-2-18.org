@@ -1,12 +1,16 @@
 * Why they need it 
 
-** The technology is niche and nascent 
-The software and hardware used to create and deploy XR content is complex and professional grade. Your internal tech nor production teams do not know how to use it efficiently. In order to create premium XR content you must first unerstand the industry, technology, and state of the market. Strategically building scalable XR content abides by similar principles as digital marketing, internal operations, tech builds, or any other department within your company. It is crucial to begin with a solid foundation. If strategized properly, you can continue building atop the codebase and repurpose the lens-captured assets and 3D models, saving you time and production costs. 
+** Getting to know a new industry
+The software and hardware used to create and deploy XR content is complex and professional grade. Your internal tech nor production teams do not know how to use it efficiently. In order to create premium XR content you must first unerstand the industry, technology, and state of the market. Strategically building scalable XR content abides by similar principles as digital marketing, internal operations, tech builds, or any other department within your company. It is crucial to begin with a solid foundation. If strategized properly, you can continue building atop the codebase and repurpose the lens-captured assets and 3D models, saving you time and production costs in the coming years. 
 
-* What it is
-We may deliver consultation in the form of a document, a technical specification, or a series of design assets. Bigger and more forward thinking brands prefer to begin with a five or six-figure program build. Maybe this does not describe you or your project. 
-We will get started by listening to you. You know your company's mode operating, style of marketing, and demographic of clientele. We know XR. Why do you want to build XR? What pain point do you want to ease? Do you have an initial idea? We will begin with an objective, budget, and timeline. Once you 
+** Consultation deliverable
+Depending on the scope of the project, a full XR build can cost five or six figures. Before this level of investment, you may prefer to hire Nova to deliver a technical specifications, a finiancial viability report, and a series of design assets. This is what our consultation looks like. 
 
-* How we customize 
+** Customization process
+We will get started by listening to you. You know your company's mode operating, style of marketing, and demographic of clientele. We know XR. Why do you want to build XR? What pain points do you want to ease? Do you have an initial idea? If not we will create one together. We will then will establish an objective, budget, and timeline. Within five days we will deliver a complete and customized consultation document. It will explain and disply how your project is designed (visual appearance and user experience), developed (technologies needed), distributed (presented to the right audience at the right time). We will also supply a financial strategy so you can see the path to your ROI. 
 
-there aren't many people who know how to create good XR content, and the most prudent way to build xr is starting with a foundation
+** Cost
+
+Getting started right away? We will build the customized document into the first steps of production. 
+
+Still dipping your toes? We will build your customized consultation document in exchange for between $500 and $1000. Once you have the document, it is yours. If you choose to, you can hire a different studio to build the project. 
