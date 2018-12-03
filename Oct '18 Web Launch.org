@@ -345,11 +345,19 @@ Intelligent characters make for better game play. The user's experience is famil
 
 **** Web GL
 
-Web GL is a means of displaying immersive content through a web browser. This drastically expands the XR user base, allowing anyone in the world with an internet connection to view XR content through a computer, smartphone, or tablet. With high-end VR headsets having reached about 15 million homes, deploying content through Web GL bridges a massive accessibility gap.
+# Web GL
 
-Affording accessibility costs imaging quality. For instance, Web GL content will generate a lower quality imagine than content build in a game engine. In order to program physical properties into a Web GL Virtual environment, the development team must work with a Java Script framework (Called THREE.js), affording access to ertain C++ functions. Because it's the web browser that allows this access, the process must pass through a security "sandbox." These are all elements of the world build that are available within high powered game engines. Inclusion of the aforementioned extensions saps speed and performance.  
+Web GL is a means of displaying immersive content through a web browser. This drastically expands the pool of potential users. Instead of needing a high-powered super computer and access to a VR app store, the common user can now access XR content through a regular laptop, phone, or tablet. Web GL bridges a massive accessibility gap.
 
-If maximum accessibility is the most important aspect of your XR build, we'll advise Web GL. In most other cases, it's wises to build in a game engine.
+The tradeoff is image quality. Most computers do not have the processing power to display high quality VR content. This is the primary reason why the current VR user base is low (about 15 million people own the highest quality hardware). For now, Web GL is a way to work around this barrier. Like all XR technologies it is rapidly improving and becoming more dynamic as the industry grows. 
+
+## Getting more technical 
+
+Let's take a look under the hood to understand why Web GL yields lower image quality than a game engine. 
+
+In order to program physical properties into a Web GL virtual environment, the development team must work with a Java Script framework called THREE.js. This is a bridge to access certain C++ functions (the primary language used inside game engines). Crossing this bridge requires passing through a "sandbox", which saps speed and reduces performance. 
+
+If maximum accessibility is the most important aspect of your XR build, we will recommend building with Web GL. If image quality is most important, we advise building in a game engine.
 
 **** C#
 
