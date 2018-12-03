@@ -25,7 +25,9 @@ We have designed an interface that is applicable across industries and content t
 Eye tracking, voice control, AI guideance, and haptic controlers are some technologies we consider when when designing the XR UI & UX that best suits your project's objectives. Our goal is for the user to forget that they are interfacing with the XR world. The barrier between the user and the world should be so well-designed that it goes unnoticed. This is how we maximize user experience and keep them coming back. 
 
 ## 3D audio
-We use music, voice, ambient sound and resonance , in a 3D Format to guide the user. Like music in movie, it will also increase the emotions and the final immersion. Our partnership with musician and sound creator helps us ad another layer of magic over the experience.
 
-Worlds
-Objects , constructions and landscape will be either static, either moving, either interactive, that is why we will share with you the scope of the tech potential in therm of possibilities through past and curent XR production.
+We use music, voice, ambient sound, and resonance to maximize the sense of immersion and, like music in a movie, touch the user's emotions. Our partnership with musicians and sound designers help us enhance XR immersion.
+
+## Worlds
+
+When building your XR environment, objects and landscapes will be static, active, or interactive. Determine the nature of your XR world is dependent on your project objectives and scalability desires.
