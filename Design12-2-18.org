@@ -1,25 +1,31 @@
-Our designers have expertise in different fields, such as architecture, psychology, sound design, lighting design and physics, in order to be able to create fully controlled experiences, guiding users in VR by shaping the virtual environment in such way.
+## Design
 
-Budget
-XR technologies is an investment. Defining the budget, and thinking a road map will help designers and devellopers choosing the right way and do the best compromise, to maximize the investment.
+The expertise of our design team spans arhictecture, psychology, sound design, lighting design, and physics. We lean on these pillars to build and shape virtual environments for your users. 
 
-Scalability
-According to the budget and the ambition of the project, we advise to create experiences that can scale overtime. First because the market is in constant evolution, and because you want user feedbacks to expend the project in the right way.
+## Budget
 
-Athmosphere
-You can communicate us your ideas through pictures, 3D renders, art work and other media, or we can also work from scratch and reach your expectation through an iterative process, starting with sharing released and unrealease design with you.
+XR technologies require a significant investment. Similar to a dynamic website or high quality videography, creating premium XR content is a production. It requires a variety of team members with a range of skills. Crucial to maximizing your entry into XR is establishing your short and longterm objectives and how they work together with your budget.
 
-Comfort
-We keep a cloth eye on the user confort, working carfully the movement of the world around the user and the reverse, and the translation bitwinworlds to make sure it stays smooth from the moment you open your eye in XR to the end.
+## Scalability
 
-Interface
-We designed a internal interface, « Torus » . The interface that maximize at it highest point the VR capabilities. It is the most intuitive and founctional way to manage the world around you keeping a full immersion. This is as well the first XR Multi platform Interface scalable.
+Gaining clarity of your objectives and budget will enhance the scalability of your project. XR is an infant market experiencing rapid growth. We advise getting started with a prototype. This will help you gain user feedback and assist in scaling your project for maximum user satisfaction.
 
-Control
-Eye tracking, Voice contrôle, AI guide, haptic controlers are some technologies we highly consider while designing XR UI & UX. Basicly we want you to forget the way you control, for your focus to be exclusivly on the result of the action and improve you performance.
+## Athmosphere
 
-3D audio
-We use Music, voice, sounds and resonance , in a 3D Format to guide the user. Like music in movie, it will also increase the emotions and the final immersion. Our partnership with musician and sound creator helps us ad another layer of magic over the experience.
+When the user enters your XR experience what do they see, hear, and feel? What are they prompted to do and think? All of these crucial elements begin with the atmosphere. In order to build the atmosphere that best reflects your preferences, share with us. Pictures, 3D renders, color schemes, visual designs, or graphics from other companies. If you prefer to begin from scratch, we are happy to! This becomes an iterative process. You communicate with us, we deliver visuals, you provide feedback, together we arrive at a unique design. 
+
+## Comfort
+
+Stepping into an XR program is foreign to most people. For some, it is their first time. Their level of comfort is paramount to a positive experience. We consider this across two broad verticals. 1) How the user moves through the XR environment and 2) How the XR environment responds to their movement. Transitions must be smooth. The interface must be intuitive from start to finish. 
+
+## Interface
+We have designed an interface that is applicable across industries and content types. It is called « The Torus ». It is the most intuitive and functional way to interact with the digital world while maintaining full immersion. It is the first multi platofrm interface available across XR mediums. Behind the scenes, the design nuances are deep and vast. To the user, though, like all smooth interfaces, it is almost invisible. 
+
+## Control
+Eye tracking, voice control, AI guideance, and haptic controlers are some technologies we consider when when designing the XR UI & UX that best suits your project's objectives. Our goal is for the user to forget that they are interfacing with the XR world. The barrier between the user and the world should be so well-designed that it goes unnoticed. This is how we maximize user experience and keep them coming back. 
+
+## 3D audio
+We use music, voice, ambient sound and resonance , in a 3D Format to guide the user. Like music in movie, it will also increase the emotions and the final immersion. Our partnership with musician and sound creator helps us ad another layer of magic over the experience.
 
 Worlds
 Objects , constructions and landscape will be either static, either moving, either interactive, that is why we will share with you the scope of the tech potential in therm of possibilities through past and curent XR production.
