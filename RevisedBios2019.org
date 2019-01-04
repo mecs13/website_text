@@ -1,6 +1,6 @@
 * Jacques Bertrand 
 
-Born and raised in Paris, Jacques left the city at age 19 for the south of France where at med school he discovered the design of the human body.The functionality of the lungs, the power of the heart, the connectivity of the muscular system, and all the body's coherency inspires his work in VR. Back in Paris, he began studying at Ecole Bleue, mastering architectural design and experiencing the world through his deep understanding of the discipline. Along the way he became an expert in Blender, the most complex 3D software environment driving virtual reality asset creation.
+Born and raised in Paris, Jacques ventured to the south of France at age 19 where, at med school, he developed a fascination with the design of the human body. The functionality of the lungs, the power of the heart, the connectivity of the muscular system, and all the body's coherency inspires his work in VR. Back in Paris a few years later, he began studying at Ecole Bleue, mastering architectural design and experiencing the world through his deep understanding of the discipline. Along the way he became an expert in Blender, the most complex 3D software environment driving virtual reality asset creation.
 
 In the summer of 2017, Jacques arrived in Brooklyn and quickly became one of Nova's founding members. Thanks to his intricate understanding of brand creation, the story of Nova deepened. Its 3D logo and graphic charter were born, and its image solidified. Novamedia.nyc features Jacques' hand-crafted visuals, each inspired by his understanding of design, advanced technology, and extended reality as an emerging market.
 
@@ -28,3 +28,10 @@ Returning to New York, Kyle met Joe at the start of 2017 and discovered VR. The 
 With an affinity for language and voice, Kyle simplifies complex concepts into comprehensive writings, bridging many divides among artists, engineers, and businesses.
 
 * Thomas Binetruy 
+Thomas introduces an extraordinarily global perspective. Born in Egypt and raised among Paris, Houston, and Dubai, he is natively fluent in French and English. Inspired by 20th century giants like Richard Feynman and Albert Eisnstein, he landed at one of the finest engineering schools in the US, Purdue University.
+
+Purdue owns the second most trafficked airport in the state of Indiana, and this is where Thomas earned his degree in aeronautical engineering. He went on to design hydrogen fuel cell prototypes at Zodiac Aerospace before becoming a consultant at Ailancy in Paris.
+
+Always engrossed in the process and obsessed with how things work, he could not resist the hands-on opportunity when Joe, his former Purdue classmate, shared Nova's incubating business plan in 2017. Immediately, Thomas began sourcing his self-taught coding skills and within a year he had built novamedia.nyc on React, writing the codebase in JavaScript.
+
+As computer programming continues shifting into 3D, developers like Thomas, with a true engineering background, will lead the way.
