@@ -2,7 +2,7 @@
 
 People arrive to Virtual Reality from varying industries, fields of study, and levels of technological literacy. Often, an initial VR experience ignites this question, "How do you build something like this?" 
 
-The complete answer is complex. VR development is rooted in principles of both physics and computer science. However, for your creative or business-oriented project build, you will not have to delve into those disciplines (unless you are already a professional in a scientific sector). 
+The complete answer is complex. VR development is rooted in principles of both physics and computer science. However, for your creative or business-oriented project build, you will not have to delve into those disciplines (unless you are already a professional in the sciences). 
 
 After collaborating with you to understanding your vision, we design the project from start to finish. We then develop your virtual reality program inside a game engine. This is a powerful, three dimensional computer environments with an array of tools capable of hosting massive data sets like 3D models, motion animations, and spatial sound effects. When first uploaded into into the game engine, these sets are often static. Our team of coders turns them interactive. 
 
