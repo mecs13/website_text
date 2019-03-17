@@ -1,7 +1,4 @@
-* Nova Website Publications 
-/This section contains original writings by Nova XR Media/
-
-** Industry Insider 
+* Industry Insider 
 /This is an inside look at the extended reality industry - its market share, its history, and it's potential. We also explore the way XR is being cultivated as a technology and as a storytelling platform by the most powerful brands in the world/.
 
 *Industry Insider contains 7 publications*
@@ -13,7 +10,7 @@
 6) Crossing the Virtual Chasm 
 7) World Peace 
 
-*** Apple In XR…The Missing Giant
+** Apple In XR…The Missing Giant
 In an interview last year, Vitalik Buterin (creator of Etherum) was asked, “How would you describe Etherium to the average person?” His answer: “There are two kinds of average people, the average person who has heard of Bitcoin and the average person who hasn’t.”
 
 When considering the evolution of Virtual Reality, the division feels more related to a moment in time. There was the Virtual Reality before Facebook bought Oculus in 2014 and there is Virtual Reality since that 3 billion dollar investment.
@@ -57,7 +54,7 @@ Apple also has a registered patent for the use multiple lenses to achieve the sa
 
 The XR movement has been on the rise for decades. It got louder in 2014 as Facebook single-handedly accelerated the industry. It feels a bit peculiar that Apple has not been a front man in the XR world, unless they are operating on the other side of the curtain.
 
-*** The Next Spielberg
+** The Next Spielberg
 From the outside Virtual Reality must seem…so far in there. So far into this digital world that’s become part of us all. From the outside VR must fall somewhere among time travel and an embodied internet. In other words, somewhere in the future. In the big cities you’ve heard about VR or have a friend who does “something with VR.”
 
 But the future has become a tough concept to pinpoint. The idealist hears autonomous vehicles on the road, Alexa speaking back to him, and conversations about human colonies on Mars, yet the pragmatist knows Uber got suspended from testing autonomous vehicles in Arizona after a fatal crash last month, speaking to Alexa is sometimes like speaking to a 3-year-old, and there are no plans to put a human being inside a spacecraft (let alone establish a society on a planet that would take several years to reach).
@@ -80,7 +77,7 @@ Considering that, it seems fitting that Spielberg has now helped move the needle
 
 For hundreds of years we’ve asked the writers, the directors, the creators to show us their vision and help provide insight to these very questions. So consider for a moment that two of the most commercialized storytellers in action today — Ernest Cline and Steven Spielberg — are not storytelling in VR. They are storytelling about VR. Until that changes, Virtual Reality stays in 2045.
 
-*** Back From The Olympics
+** Back From The Olympics
 A lot more people have asked about VR over the last couple of weeks, mentioning they “heard something about it” on the Olympic coverage but didn’t know exactly how it had been used.
 
 Because fewer than 10 million people have purchased VR headsets, awareness of the technology and its programming is limited. So I’m going to use a page or two here to help you understand what the Olympics did with VR headsets and, more importantly, what it didn’t do.
@@ -116,7 +113,7 @@ The type of headset that’s capable of supporting 360 video is more affordable 
 
 Credit to NBC (and the others who were part of it) for getting out there and experimenting with the new technology. But if you missed out on the 360 coverage this year…you’re probably just as well off checking back in with the coverage in the summer of 2020 in Tokyo.
 
-*** The Father of VR
+** The Father of VR
 I remembered that an old guy on the back patio of the coffee shop in Red Hook mentioning Morton Heilig as “The Father of VR."
 
 So, I spent last night reading about him and what he brought to an industry that is, more than half a century later, still budding.
@@ -133,7 +130,7 @@ Eventually, Heilig said he wasn’t able to capture high enough quality images f
 
 Here’s the link to his 1955 research paper. https://gametechdms.files.wordpress.com/2014/08/w6_thecinemaoffuture_morton.pdf
 
-*** Off The Ground
+** Off The Ground
 This Is The 2nd In a Nova XR Media Multi-Part Series
 
 As we study the way a new technology progresses through the Adoption Lifecycle, we realize the innovators have already captured Virtual Reality.
@@ -152,7 +149,7 @@ While reaching this level of audience is an advanced step for the technology, it
 
 We see evidence of this with CNBC’s report that estimates Facebook sold fewer than 400,000 units of their Oculus Rift in 2016. Remember, the early majority represents one third of the market, so if the largest tech giant didn’t break ½ million sales in its first year, we understand that VR has yet to cross over.
 
-*** Crossing The Virtual Chasm
+** Crossing The Virtual Chasm
 This is an introduction to Nova Media’s multi-part examination of Virtual Reality’s journey toward critical mass in the consumer market.
 
 VR has a long and fragmented history dating all the way back to Morton Heilig in the 1950s. Then there was a simulation of Aspen, Colorado that came out of MIT in the late 70’s. A-decade-and-a half-later Sega announced the release of their first VR headset for an arcade game.
@@ -173,7 +170,7 @@ Tech Adoption Chart displaying Innovators, Early Adopters, Early Majority, Late 
 
 This series will examine where VR stands in relation to this curve, what’s prevented it from breaking through, and what will need to happen in order for it to cross the next divide.
 
-*** World Peace
+** World Peace
 Virtual Reality will democratize experience.
 
 Consider how the internet democratized information.
