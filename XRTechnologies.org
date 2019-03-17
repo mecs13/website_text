@@ -1,0 +1,95 @@
+* XR Technologies  
+/This section details the core technologies driving VR development in 2019/.
+
+*XR Technologies contains 5 writings*
+1) Web XR 
+2) Game Engine
+3) XR Coding Lanuages
+4) Spatial OS
+5) 3D Audio
+
+** Web XR 
+Web XR is a means of displaying immersive content through a web browser. This drastically expands the pool of potential users. Instead of needing a high-powered super computer and access to a VR app store, the common user can now access XR content through a regular laptop, phone, or tablet. Web XR bridges a massive accessibility gap. The tradeoff is image quality. Most computers do not have the processing power to display high quality VR content.
+
+*** Getting more technical
+Let's take a look under the hood to understand why Web XR yields lower image quality than a game engine.
+
+In order to program physical properties into a Web XR environment, the development team must work with a Java Script framework called THREE.js. This is a bridge to access certain C++ functions (the primary language used inside game engines). Crossing this bridge requires passing through a "sandbox", which saps speed and reduces performance.
+
+If maximum accessibility is the most important aspect of your XR build, we will recommend building with Web XR. If image quality is most important, we advise building in a game engine.
+
+** Game Engine 
+A game engine is the software environment where computer developers build interactive 3D experiences. Game engines combine three elements: graphics, audio, and logic. Think of them akin to the factory in which a vehicle is constructed — where all the necessary space, tools, and engineering platforms exist. In the current Virtual Reality climate, most developers choose between the two most powerful game engines.
+
+*** Unity
+Unity supports the construction of both 2D and 3D experiences for computers, consoles, and mobile devices. It was first revealed at Apple’s Worldwide Developer’s conference in 2005. Since then, five major versions of it have been released and more than 100 of the most well-respected experiences in the gaming industry have been created inside.
+
+Unity is now free for download, making it more accessible for anyone in the world to gain access to high-end VR development tools. This has been huge step in the growing ecosystem of VR coders across the globe.
+
+While there are features available for non-coders, understanding how to read and write in one of Unity’s supported programming languages is the ticket to maximizing its potential. Unity supports three programming languages, yet C# (Cee Sharp) is preferred by most professional developers. C# is an object-oriented language, making it compatible with the three-dimensional relationship among objects in this Virtual Space.
+
+A new feature released in Unity this year is enhanced texturing, allowing developers to create more detailed replicas of complex physical world objects. The surface of a rock, for instance, with its infinite nuances, is difficult to replicate. Unity’s new texturing feature allows developers to create more life-like visuals of such complex surface.
+
+*** Unreal
+The decision of which game engine to use coincides with the creator’s existing skills. Are they a coder or a designer? As a coder, the creator will write in one of the languages supported by the game engine. Unreal supports a language called C++.
+
+While it’s not always the case, coders may be more likely to work in Unity while designers may gravitate toward Unreal’s “visual programming.” Instead of writing scripts, the designer places modules in an open area within the software interface.
+
+Regardless of the game engine in use, creators work within many “frameworks” built into the engine. During the creation of the 3D experience, the creator may want to generate a similar (or even identical) outcome at various points throughout the experience. Perhaps the user’s movement should lead to the same outcome regardless whether they’re in Virtual New York city or Virtual San Francisco. Building frameworks is like building bridges. Once the bridge has been constructed and finalized, traversing that body of water in the future becomes standardized, saving time and energy.
+
+Access to these frameworks is one of the great appeals to industry-leading game engines like Unreal. However, there are cases when the developer may want the flexibility to work outside such parameters or even build their own frameworks. Understanding this, Unreal makes all of its source code (the lines of code written to build the game engine itself) available to subscribers. With this access, the community of Unreal developers has created documentation to help other coders work through the inevitable hurdles of programming in Unreal.
+
+*Physics Engine*
+A physics engine allows us to construct the physical laws of an XR experiences. The behavior of light, rain, the laws of gravity, and the relationship among objects are all programmable in a physics engine.
+
+Many virtual environments are centered on the movement of human avatars. We must build their virtual capabilities and restrictions. When constructing an environment of virtual football players, for example, we assign certain properties to each player. X player weighs Y pounds and has the ability to jump Z height.
+
+For many virtual creators, it’s important that the constructed environment abides by basic real-world parameters. For example, when the user approaches a wall in a virtual space, the physics engine is the tool used to determine whether the user collides with the wall or passes directly through it.
+
+“Unity” supports the most dynamic physics engine.
+
+** XR Coding Languages 
+*** Python
+Python is a succinct, object oriented programming language. It’s scripting capabilities allow programmers to design visual assets by writing lines of code into a game engine like Blender. Not only can we generate shapes with python but we can also manipulate, scale, and put them into motion.
+
+This is the default language of the machine learning world. While machine learning toolboxes are written in C++ (for performance benefits), we often use python as the intermediary tool to access these stores. In this way, it functions as a librarian who retrieves a book from the stacks and delivers it to the reader. Combining these languages blends the succinctness of python with the high performance of C++.
+
+In the VR world, python is a tool that provides access and adds efficiency to game engine development.
+
+*** C-Sharp
+This is a Microsoft language. Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that’s compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work.
+
+*Object Orientation*
+This is one of the programming languages compatible with Unity (the most commonly used VR game engine).
+
+Among its most beneficial characteristics is its portability. Regardless of whether the programmer is using Linux, Mac, or Windows, the C# syntax remains consistent. This is also an oriented programming language that’s compatible with a .net backend. If the goal of your XR build is to integrate with your existing internal software solutions hosted on a .net, C# may be the most appropriate language for this work.
+
+It’s an object-oriented programming language, making it a valuable resource for building interactive VR experiences. Historically, programming has been understood as a logical procedure for performing an action - taking input data, processing it, and producing an output.
+
+At its origin, the essence of programming has been writing the logic rather than defining the data. By contrast, object oriented programming is rooted in the belief that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. An “object” could be anything from a human being to a building to widgets of a web page.
+
+VR is based on the creation of such objects, and C# is the object-oriented programming language driving much of the VR world.
+
+** Spatial OS
+Spatial OS is a cloud-based platform that hosts collaborative applications built by game developers. It was created to expand beyond the limits of a single server. It’s a distributed operating system with the power to host massive simulations thousands of times bigger and more powerful than what a single computer is capable of building or hosting.
+
+Developers log on and interact with it as an online platform, downloading tools that can be integrated with game engines like Unity and Unreal. Once the world has been built on the developer’s local operating system, the application is packaged and pushed to Spatial OS. With the code hosted and available to other developers on the cloud, it can be grown to massive scales.
+
+Think of the content that exists in Spatial OS to have similar properties and functionalities as the physical world. Users log on and travel to these simulated worlds. However, unlike games and worlds that exist on your home computer or gaming system, Virtual simulations hosted on Spatial OS exist and evolve even when you’re not logged in. As with the real world outside — let’s say on the street outside your house — if a tree falls or a new car parks along the curb while you’re asleep, that new information is available to you when you walk outside the next morning. The same principle applies when you return to a world hosted on Spatial OS.
+
+Massive projects like public transportation construction or renovation in major cities can be first simulated to scale in Spatial OS before being applied in the physical world.
+
+Check out this video featuring the CEO of the company who created it.
+
+https://www.youtube.com/watch?v=cn00UKfYaaU
+
+** 3D Audio
+This a technology that presents sound to the human ears in a manner resembling the auditory qualities interpreted from the natural world.
+
+Stereoscopic playback systems (headphones and speakers) emit sound from a single point in space. When you move your head while wearing headphones, the sounds move with you. Yet when you move your head in relation to sounds of the natural world, the location of the sound source remains fixed. In the case of stationary speakers, the sound remains fixed but unidimensional.
+
+Without technology, human ears perceive sounds from an infinite number of sources and locations simultaneously. Because the ears are positioned on different sides of the head, sound waves reach one ear at a slightly different time and with slightly different properties than when they reach the other ear. Much like having two eyes enhances our ability to see in three dimensions, the same is true for the human auditory system. Amplitude, frequency, and timing differences reveal to our ears the specific location of a sound, which direction it’s coming from, and even the properties of the space in which it’s being heard. The most pivotal factors relating to this dynamic auditory perception are the physical properties of the human ear. It’s oval shape with varying coves, curves, and suppleness all contribute to the way it receives sound waves and the way the brain interprets sound.
+
+In order to recreate this sound interpretation with modern technology, VR studios are capturing sound with microphones that resemble the shape of the human ear. These mics record sound not through a flat or circular device but with respect to the natural contours of the ear. When the recorded sounds are played back, they’re more dynamic. They’ve been enriched by the same intricacies as the organ that receives and delivers them to the brain. When hearing 3D audio through a pair of headphones, the various sounds may seem to crawl from one ear to the other, come from 10 feet in front of you, or bleed in from a distance.
+
+This the technology is not a new realization. Through the 20th century (and most of the 21st thus far) there has not been a demand for 3D audio, as visual content has been almost exclusively 2D. The emergence of 3D imaging in Virtual Reality is now calling for sound technology equally as dynamic.
