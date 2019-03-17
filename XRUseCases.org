@@ -1,7 +1,7 @@
 ** XR Use Cases
 /This section highlights the industries in which XR is being applied, providing specific use cases for past programs and imagery of what's to come/.
 
-*XR Use Cases contains 9 sections*
+*XR Use Cases contains 9 writings*
 1) Education 
 2) Medical 
 3) Immersive Art
