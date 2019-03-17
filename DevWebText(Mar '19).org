@@ -1,13 +1,13 @@
 * Development 
 
-People arrive to Virtual Reality from varying industries, fields of study, and levels of technological literacy. Often, an initial VR experience ignites this question, "How do you build something like this?" 
+People arrive to virtual reality from varying industries, fields of study, and levels of technological literacy. Often, an initial VR experience ignites this question, "How do you build something like this?" 
 
-The complete answer is complex. VR development is rooted in principles of both physics and computer science. However, for your creative or business-oriented project build, you will not have to delve into those disciplines (unless you are already a professional in the sciences). 
+The complete answer is complex. VR development is rooted in principles of both physics and computer science. However, for your creative or business-oriented project, you will not have to delve into those disciplines (unless you are already a professional in the sciences). 
 
-After collaborating with you to understanding your vision, we design the project from start to finish. We then develop your virtual reality program inside a game engine. This is a powerful, three dimensional computer environments with an array of tools capable of hosting massive data sets like 3D models, motion animations, and spatial sound effects. When first uploaded into into the game engine, these sets are often static. Our team of coders turns them interactive. 
+After collaborating with you to understanding your vision, we design the project from start to finish. We then develop your virtual reality program inside a game engine. This is a powerful, three dimensional computer environment capable of hosting massive data sets like 3D models, motion animations, and spatial sound effects. When first uploaded into into the game engine, these sets are often static. Our team of coders turns them interactive. 
 
-Working in phases we call sprints and writing in object oriented programming languages, it may take a few weeks or months (depending on the scope of the project) to complete the first sprint. Think of this as a first draft. That team will then hand the drafted program to a group called play testers. 
+Working in phases we call sprints and writing in object oriented programming languages, it may take a few weeks or months (depending on the scope of your project) to complete the first sprint. Think of this as a first draft. The dev team will then hand the drafted program to a group called play testers. 
 
-These folks add to the project what an editor adds to a piece of writing. Play testers will "stress test" the program. Running it for long hours and following all conceivable user paths to uncover stubborn bugs or glitches in the code. This process is arduously documented and reported back to the coding team. During the next sprint, as the coders add the program's next layer, the play test documentation guides the way. 
+Play testers will "stress test" the program. Running it for long hours and following all conceivable user paths to uncover stubborn bugs or glitches in the code. This process is arduously documented and reported back to the coding team. During the next sprint, as the coders add the program's next layer, the play test documentation guides the way.
 
-Depending on the scope of the project, this process may cycle through several times before the project is finalized, exported, and ready for distribution. 
+Depending on the scope of the project, this process may cycle through several times before the program is finalized, exported, and ready for distribution. 
