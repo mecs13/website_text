@@ -1,0 +1,187 @@
+* Nova Website Publications 
+/This section contains original writings by Nova XR Media/
+
+** Industry Insider 
+/This is an inside look at the extended reality industry - its market share, its history, and it's potential. We also explore the way XR is being cultivated as a technology and as a storytelling platform by the most powerful brands in the world/.
+
+*Industry Insider contains 7 publications*
+1) Apple in XR
+2) The Next Spielberg
+3) Back From the Olympics 
+4) The Father of VR
+5) Off the Ground 
+6) Crossing the Virtual Chasm 
+7) World Peace 
+
+*** Apple In XR…The Missing Giant
+In an interview last year, Vitalik Buterin (creator of Etherum) was asked, “How would you describe Etherium to the average person?” His answer: “There are two kinds of average people, the average person who has heard of Bitcoin and the average person who hasn’t.”
+
+When considering the evolution of Virtual Reality, the division feels more related to a moment in time. There was the Virtual Reality before Facebook bought Oculus in 2014 and there is Virtual Reality since that 3 billion dollar investment.
+
+“Before the acquisition there were a few companies that believed in VR. And when I say a few, I mean a few,” Palmer Luckey (founder of Oculus) told Re/code in 2016. “After that acquisition happened, I think it was a signal to the rest of the industry that VR was here. This is gonna be a huge thing and if you didn’t invest in VR now you were gonna get your ass kicked down the line. That’s how you wake the giants.”
+
+*The Giants*
+Since 2014, Google, Microsoft, Sony, and HTC have all either upped their investment or joined the VR movement. Yet there’s one giant who has remained on the periphery, and with the Extended Reality industry still humming in the aftermath of the new Magic Leap headset and the 5th installment of the Oculus Connect conference in California, we’re asking…is there another giant ready to augment the XR world?
+
+This month Apple released the next iPhone: Iphone XR.
+
+For the past few years (since the Facebook/Oculus marriage) XR has been the all-encompassing term for referencing Virtual, Augmented and Mixed Reality. The collective definition for “XR”: technologies that add digital enhancement to our visual perception through the use of head-mounted displays.
+
+Before the September 12 Iphone XR announcement, an “XR” Google search yielded companies, websites, and publishings centered on “Extended Reality.”
+
+Since then, an “XR” search brings a stream of Apple content.
+
+Unlike the other giants, Apple is not publicly invested in the development of Virtual Reality. The infamous “MacRumors” website has maintained for months that “Apple is rumored to have a secret team of hundreds of employees working on virtual and augmented reality projects.”
+
+What we do know is they are heavy involvement in Augmented Reality (the use of goggles to digitally overlay information onto our visual perception of the physical world). Although the Cupertino giant hasn’t yet released their own AR hardware, they have become one of the leaders in consumer-level AR software with their easy-to-use AR Kit.
+
+Here’s a breakdown of Apple’s XR activity.
+
+*AR Kit*
+The AR kit has been available on multiple devices since IOS 11 released last fall. The applications range from visualizing Ikea furniture in your own living room to a guided map of an American Airlines terminal at flight time to the anatomy of the human body. So, Apple is creating XR software, yet, unlike the other giants, they haven’t released a piece of hardware.
+
+*AR glasses*
+…There are reports of a coming release. Check out this recent job listing where Apple is seeking to hire a 3D user interface engineer to “drive the next generation of interactive experiences for our platform. You will work with some of Apple’s most advanced technologies including the Augmented Reality (AR) and Virtual Reality (VR) support offered in ARKit and Metal 2.”
+
+*Reports*
+An earlier report suggested Apple could release AR glasses by 2020. Apple’s headset could feature an 8K display for each eye, offering a more realistic experience. Apple may be waiting for display and chip technologies to mature before releasing its headset. A previously uncovered Apple patent revealed that the company is investigating AR lens technology. Apple’s research calls for a compact lens array to help focus light and eliminate chromatic aberration effects.
+
+Unlike some current AR and VR solutions on the market today, Apple’s implementation will reportedly not need trackers or cameras.
+
+“We have been and continue to invest a lot in this,” Apple CEO Tim Cook said in a 2016 interview when asked about the technology. “We are high on AR for the long run, we think there’s great things for customers and a great commercial opportunity.”
+
+Apple AR glasses may be part of this investment. According to a growing number of rumors leaked by three alleged Foxconn employees, the internal development is apparently known as Project Mirrorshades.
+
+*Apple XR Patent*
+Apple also has a registered patent for the use multiple lenses to achieve the same effect as larger headsets, arranging them into what is known as the “catadioptric optical system.” More commonly seen in telescopes, this arrangement is a compact way to focus light, and helps to eliminate the colors that can sometimes be seen on the edges of your vision in VR or AR — or “chromatic aberration.”
+
+The XR movement has been on the rise for decades. It got louder in 2014 as Facebook single-handedly accelerated the industry. It feels a bit peculiar that Apple has not been a front man in the XR world, unless they are operating on the other side of the curtain.
+
+*** The Next Spielberg
+From the outside Virtual Reality must seem…so far in there. So far into this digital world that’s become part of us all. From the outside VR must fall somewhere among time travel and an embodied internet. In other words, somewhere in the future. In the big cities you’ve heard about VR or have a friend who does “something with VR.”
+
+But the future has become a tough concept to pinpoint. The idealist hears autonomous vehicles on the road, Alexa speaking back to him, and conversations about human colonies on Mars, yet the pragmatist knows Uber got suspended from testing autonomous vehicles in Arizona after a fatal crash last month, speaking to Alexa is sometimes like speaking to a 3-year-old, and there are no plans to put a human being inside a spacecraft (let alone establish a society on a planet that would take several years to reach).
+
+Virtual Reality is right in the middle of this search for the ground between human imagination and human capability. Google’s two most ubiquitous VR programs: Tiltbrush (in which you draw and paint inside a three-dimensional space) and Google Earth (in which you walk the streets of any city in the world) provide a taste of how vast this technology will become. In these early programs you begin to understand how we’ll one day educate children with this tech, test architectural structures before building them in the physical world, and reunite with deceased family members. The ideas are real, yet realizing them still feels off in one of those years that doesn’t yet read like a year — somewhere like 2045.
+
+On the inside of this industry we’ve speculated about what needs to happen in order to move this tech to the forefront. We’ve worked to help it shed the stigma of being the next gaming home for 17-year-old techies who stay up all night firing first-person shooters. On the inside we’ve seen firsthand VR as a catalyst for human interaction, education, and global exploration. It has become our work to make all this imagining attainable.
+
+So what does need to happen? Well, some of the wheels are already in motion. Even before Facebook, Google, and Microsoft invested heavily in VR, there was a writer. Ernest Cline. He was 38 when Crown Publishing printed his first novel, “Ready Player One.” The next day Warner Bros. bought the rights to convert the script into a film, hiring Cline to co-write the screenplay. Nearly a decade later, the movie has arrived in theaters, directed by the most famous name in film — Spielberg.
+
+The story begins in the year 2045 when — resulting from global warming and the depletion of fossil fuels — the world is mired in an energy crisis. The OASIS is where many folks go to escape their decimated surroundings. It’s a Virtual World accessible with a visor and enhanced with haptic technology. In the opening pages of the novel, the richest man in the world — James Holiday — has passed away, leaving behind a video message. He announces to the public that he’s hidden a golden egg inside OASIS, and the first person to discover it will inherit his wealth. Teenager Wade Watts is the main character.
+
+It arrived in theaters on March 29 and grossed roughly $50 million on its opening weekend (only Black Panther and A Quiet Place grossed more on opening weekends this year). By the end of its third weekend Ready Player One earned a combined domestic/international gross of nearly half a billion dollars, making it one of the top 10 grossing Spielberg productions since we learned his name in the summer of 1975, with Jaws.
+
+Ready Player One (the film), an action/thriller, is not meant to update the public on the current state of VR. So…the industry isn’t wealthy enough to attract the most highly trained coders and push the cutting edge of computer science. Secondly, just like the futuristic industries mentioned at the top, we don’t yet understand how this will influence the human mind. Remember, this is a technology predicated on immersing people in a digital world. What happens when human eyes perceive a new reality, when movement of your arms and legs pushes you deeper into a manmade environment? What influence does it have on the brain, the psyche, and our perception of reality?
+
+It’s not the first time technology and storytelling have come together to influence the mind. While we’re on the topic, let’s take a look back at Spielberg, who — as a 29-year-old director in 1975 — created a new world and called it Amity Island, the setting of Jaws. He brought viewers to another place and with it ushered The New Hollywood Era. I remember waking up in the middle of the night screaming for my sister to get out of the water. The anticipation of the shark’s arrival, the terror among the people on Amity Island, the sound of the bloody ocean, and the feeling of raw danger circling me. It created an affect on the human brain. And we’re talking before computer graphics. When the shark was mechanical, the film schedule shot according to the Cape Cod tides, and the music there as a warning.
+
+Considering that, it seems fitting that Spielberg has now helped move the needle forward on the next version of immersive storytelling. We’re a long way from this Virtual space being a refuge from a fossil-fuel-depleted world, but we rarely turn to Spielberg for practicality. We often turn to him for imagination. The question is so tangible that it’s become tantalizing…what is possible in Virtual Reality? If not a new world to rescue us from global warming, then…?
+
+For hundreds of years we’ve asked the writers, the directors, the creators to show us their vision and help provide insight to these very questions. So consider for a moment that two of the most commercialized storytellers in action today — Ernest Cline and Steven Spielberg — are not storytelling in VR. They are storytelling about VR. Until that changes, Virtual Reality stays in 2045.
+
+*** Back From The Olympics
+A lot more people have asked about VR over the last couple of weeks, mentioning they “heard something about it” on the Olympic coverage but didn’t know exactly how it had been used.
+
+Because fewer than 10 million people have purchased VR headsets, awareness of the technology and its programming is limited. So I’m going to use a page or two here to help you understand what the Olympics did with VR headsets and, more importantly, what it didn’t do.
+
+*Who was Involved*
+NBC Sports created its own Olympic VR app and worked with Intel and Olympic Broadcasting Services (which produces video of the Olympic games) to stream live event coverage to a range of VR headsets. It’s the second time NBC has included 360 video in its Olympic coverage but the first time they streamed live events.
+
+What hardware was Included:
+Samsung Gear VR, Google Daydream, and Windows Mixed Reality headsets.
+
+*Coverage*
+NBC offered 50 hours of 360 video coverage during the 2-week event. And because stats mean nothing without relative stats against them, consider that NBC broadcasted 2,400 hours of 2D (television/computer) screen coverage of the games (the most ever). Among the events streamed in VR headsets were curling, snowboarding, bobsledding, and ski-jumping.
+
+*Did you have to pay*
+Yes and no. Downloading the NBC Olympics VR app was free. Then you needed to enter your cable provider and password.
+
+*What did it look like*
+Compared to high definition on a 2D screen, the 360 video in VR was grainy. Some events were offered in 180 (basically meaning you watched a 2D screen inside the Virtual space).
+
+*What content was the best*
+The Opening Ceremony in VR was pretty cool (it’s such a dynamic event with a portion of the show emerging from the stands and a variety of lights and colors). Getting the chance to view the ceremony in VR did provide the feeling of being there. You got to look all around the stadium, hear the moving crowd, see the energized environment, and focus on whichever portions of the show interested you most.
+
+*What needs to improve*
+The quality of 360 video. Compared to the HD quality of your 2D TV or computer screen, 360 video falls well short. Additionally, it’s crucial to realize that the Olympic content was marketed as “The Olympics in VR” but it was actually “The Olympics in 360 Video” — inside a VR headset.
+
+*The Difference Between VR and 360 Video*
+What makes VR such an incredible technology is the interactivity it provides. For the first time, humans are able to interact with (actually reach out to touch, move, and have an influence on) the digitally immersive world surrounding them. This foundational element is what’s garnered massive investments from Facebook, Microsoft, Google, Samsung and others. “The Olympics in VR” included none of this impact — excluding interactivity among users inside the digital world and interactivity with the digital world itself.
+
+*Bottom Line*
+The reason “The Olympics in VR” was actually “The Olympics in 360” is two fold.
+
+The type of headset that’s capable of supporting 360 video is more affordable than the full VR rigs (and, thus, far more prevalent in the US). Creating truly interactive and high quality VR content to cover an event like the Olympics would be far too costly and require far too many resources to generate an ROI (again, considering how few people own the hardware and thus how few people would have the capability to interact with the content). Wrapt it up:
+
+Credit to NBC (and the others who were part of it) for getting out there and experimenting with the new technology. But if you missed out on the 360 coverage this year…you’re probably just as well off checking back in with the coverage in the summer of 2020 in Tokyo.
+
+*** The Father of VR
+I remembered that an old guy on the back patio of the coffee shop in Red Hook mentioning Morton Heilig as “The Father of VR."
+
+So, I spent last night reading about him and what he brought to an industry that is, more than half a century later, still budding.
+
+Born in 1926, Heilig established himself as a cinematographer, using that background to eventually develop and patent two pieces of technology: “the telesphere mask” and the “Sensorama.” He and his partner began the development of these machines in 1957, patenting them in 1962.
+
+A bulky piece of technology shaped like an old-school arcade game, the sensorama allowed the user to sit on a chair and lean their head into the equipment — kinda like you would the vision machine at the optometrist. One of the first experiences available in the Sensorama was of a motorcycle ride through Brooklyn. Heilig attempted to incorporate all the senses and draw the viewer into a cinematic experience — a very similar description of what we understand VR to be more than 60 years later. He referred to it as “Experience Theatre.”
+
+He published a paper in 1955 called the “The cinema of the future” in which he detailed a multi-sensory theatre experience. The first text that appears inside the document reads, “Thus, individually and collectively, by thoroughly applying the methodology of art, the cinema of the future will become the first art form to reveal the new scientific world to man in the full sensual vividness and dynamic vitality of his consciousness.”
+
+After this writing he went on to create the sensorama and five short film displays. The machine still functions to this day.
+
+Eventually, Heilig said he wasn’t able to capture high enough quality images from 35 mm film cameras in order to create an immersive experience that was marketable enough to the general public.
+
+Here’s the link to his 1955 research paper. https://gametechdms.files.wordpress.com/2014/08/w6_thecinemaoffuture_morton.pdf
+
+*** Off The Ground
+This Is The 2nd In a Nova XR Media Multi-Part Series
+
+As we study the way a new technology progresses through the Adoption Lifecycle, we realize the innovators have already captured Virtual Reality.
+
+Geoffrey Moore describes the innovators as a group of technology enthusiasts who appreciate the tech for its own sake. They don’t need to believe it will break through in the market nor that it holds the potential for greater achievement. The innovators savor in the technology for everything it is — whether it’s the smooth texture of the software or it’s painfully slow operating speed.
+
+With Facebook having committed a multi-billion-dollar investment and MIT using Facebook’s new VR headset to allow humans first person control of robots, the innovators have their hands on Virtual Reality.
+
+Tech Adoption Chart displaying Innovators, Early Adopters, Early Majority, Late Majority, Lagards
+
+The early adopters come in behind the innovators and bring their vision. Moore calls them, “That rare breed of people who have the insight to match up an emerging technology to a strategic opportunity, the temper to translate that insight into a high-visibility, high-risk project, and the charisma to get the rest of their organization to buy into that project…the core of their dream is a business goal, not a technology goal.”
+
+Well, as we approach 2018, VR has extended it’s reach all the way to Lowe’s, who’s incorporated a Holoroom to allow customers immersive experiences such as shifting the paint color on the walls of their new room. This means homeowners who may work in any range of industries have experienced VR inside a building operated by one of the strongest brands in the country.
+
+While reaching this level of audience is an advanced step for the technology, it’s an indication of Lowe’s reaching right to left across the chasm and becoming an early adopter.
+
+We see evidence of this with CNBC’s report that estimates Facebook sold fewer than 400,000 units of their Oculus Rift in 2016. Remember, the early majority represents one third of the market, so if the largest tech giant didn’t break ½ million sales in its first year, we understand that VR has yet to cross over.
+
+*** Crossing The Virtual Chasm
+This is an introduction to Nova Media’s multi-part examination of Virtual Reality’s journey toward critical mass in the consumer market.
+
+VR has a long and fragmented history dating all the way back to Morton Heilig in the 1950s. Then there was a simulation of Aspen, Colorado that came out of MIT in the late 70’s. A-decade-and-a half-later Sega announced the release of their first VR headset for an arcade game.
+
+All of these…just a few of the breakthroughs that have led to predictions about how and when VR will make its significant impact on the consumer market.
+
+But as the years passed we heard just a faint noise from this new virtual world playing in the background, often drowned out by HD TVs, smartphones, and social media.
+
+The noise got louder, though, in 2014 when Facebook acquired Oculus and its new VR headset for over $2 billion. And then — at Oculus’ annual conference last month — a louder noise from Mark Zuckerberg, who said, “I am more committed than ever to the future of VR.”
+
+So now, three years into Facebook’s involvement with this emerging technology, we’re still asking the question: when will VR reach critical mass?
+
+In 1989 Geoffrey Moore wrote the first version of “Crossing The Chasm”, studying why, how, and at what rate new ideas and technologies spread through the market.
+
+His book, which emerged in its third version three years ago, studies the tendencies with which young technologies progress through the adoption life cycle. The writing focuses on how these products often wind up stuck in the divide between the early adopters and the early majority. This can be a deadly place for a new technology to try and survive, as the early majority makes up 1/3 of the market.
+
+Tech Adoption Chart displaying Innovators, Early Adopters, Early Majority, Late Majority, Lagards
+
+This series will examine where VR stands in relation to this curve, what’s prevented it from breaking through, and what will need to happen in order for it to cross the next divide.
+
+*** World Peace
+Virtual Reality will democratize experience.
+
+Consider how the internet democratized information.
+
+The internet has globalized us. We communicate, share, and do business with people around the world - most we’ve never met in person. We may have never seen their face or heard their voice, but we know them.
+
+XR empowers remote access to in-person experiences through shared virtual environments.
+
+If we really knew what it was like to walk in another’s shoes, we’d be humbled. If we visited the places our governments declared as enemies, we’d ask more questions. If we knew first hand the horrors of war, the inhumanity of greed, and the glory of love, we’d live differently.
+
+Virtual Reality will democratize experience and facilitate peace.
